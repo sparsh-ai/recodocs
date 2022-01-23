@@ -1,0 +1,6 @@
+format: jb-book
+root: Index
+parts:
+- caption: Fundamentals
+  chapters:
+  - file: fundamentals/recommendation_system

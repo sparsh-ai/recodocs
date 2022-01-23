@@ -1,0 +1,15 @@
+title: RecoHut
+author: The Recohut Team
+execute:
+  execute_notebooks: "off"
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
+repository:
+  url: https://github.com/RecoHut-Projects/recohut-docs
+  path_to_book: docs
+  branch: main
+launch_buttons:
+  notebook_interface: "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
+  colab_url: "https://colab.research.google.com"
+sphinx:
+    config:
+        html_theme: quantecon_book_theme
