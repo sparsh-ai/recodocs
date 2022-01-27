@@ -1,5 +1,12 @@
 ---
 sidebar_position: 3
+title: Create Blog Post
+authors:
+  - name: Sparsh Agarwal
+    title: Principal Developer
+    url: https://github.com/sparsh-ai
+    image_url: https://avatars.githubusercontent.com/u/62965911?v=4
+tags: [blog]
 ---
 
 # Create a Blog Post

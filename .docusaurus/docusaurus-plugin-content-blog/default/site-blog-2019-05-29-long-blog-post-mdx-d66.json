@@ -1,0 +1,38 @@
+{
+  "permalink": "/blog/long-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.mdx",
+  "source": "@site/blog/2019-05-29-long-blog-post.mdx",
+  "title": "Long Blog Post",
+  "description": "This is the summary of a very long blog post,",
+  "date": "2019-05-29T00:00:00.000Z",
+  "formattedDate": "May 29, 2019",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 2.05,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
+  "prevItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  },
+  "nextItem": {
+    "title": "First Blog Post",
+    "permalink": "/blog/first-blog-post"
+  }
+}
