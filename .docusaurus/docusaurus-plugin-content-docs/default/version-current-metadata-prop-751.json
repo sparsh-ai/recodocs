@@ -16,45 +16,45 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Models",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
+            "label": "Field-aware Factorization Machines (FFM)",
+            "href": "/docs/models/ffm",
+            "docId": "models/ffm"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
+            "href": "/docs/models/create-a-document",
+            "docId": "models/create-a-document"
           },
           {
             "type": "link",
             "label": "Create Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
+            "href": "/docs/models/create-a-blog-post",
+            "docId": "models/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
+            "href": "/docs/models/markdown-features",
+            "docId": "models/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
+            "href": "/docs/models/deploy-your-site",
+            "docId": "models/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "href": "/docs/models/congratulations",
+            "docId": "models/congratulations"
           }
         ]
       },
@@ -87,38 +87,38 @@
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
+    "models/congratulations": {
+      "id": "models/congratulations",
       "title": "Congratulations!",
       "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
+    "models/create-a-blog-post": {
+      "id": "models/create-a-blog-post",
       "title": "Create Blog Post",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
+    "models/create-a-document": {
+      "id": "models/create-a-document",
       "title": "Create a Document",
       "description": "Documents are groups of pages connected through:",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
+    "models/deploy-your-site": {
+      "id": "models/deploy-your-site",
       "title": "Deploy your site",
       "description": "Docusaurus is a static-site-generator (also called Jamstack).",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
+    "models/ffm": {
+      "id": "models/ffm",
+      "title": "Field-aware Factorization Machines (FFM)",
+      "description": "In the official FFM paper, it is empirically proven that for large, sparse datasets with many categorical features, FFM performs better. Conversely, for small and dense datasets or numerical datasets, FFM may not be as effective as FM. FFM is also prone to overfitting on the training dataset, hence one should use a standalone validation set and use early stopping when the loss increases.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/markdown-features": {
+      "id": "models/markdown-features",
       "title": "Markdown Features",
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"

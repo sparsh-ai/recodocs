@@ -1,0 +1,43 @@
+{
+  "unversionedId": "models/create-a-blog-post",
+  "id": "models/create-a-blog-post",
+  "title": "Create Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/models/create-a-blog-post.md",
+  "sourceDirName": "models",
+  "slug": "/models/create-a-blog-post",
+  "permalink": "/docs/models/create-a-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/create-a-blog-post.md",
+  "tags": [
+    {
+      "label": "blog",
+      "permalink": "/docs/tags/blog"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Create Blog Post",
+    "authors": [
+      {
+        "name": "Sparsh Agarwal",
+        "title": "Principal Developer",
+        "url": "https://github.com/sparsh-ai",
+        "image_url": "https://avatars.githubusercontent.com/u/62965911?v=4"
+      }
+    ],
+    "tags": [
+      "blog"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/models/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/models/markdown-features"
+  }
+}

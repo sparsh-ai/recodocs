@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "Field-aware Factorization Machines (FFM)",
+    "permalink": "/docs/models/ffm"
   }
 }

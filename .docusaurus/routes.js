@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','87d'),
+    component: ComponentCreator('/docs','3a1'),
     routes: [
       {
         path: '/docs/intro',
@@ -119,38 +119,38 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
+        path: '/docs/models/congratulations',
+        component: ComponentCreator('/docs/models/congratulations','b62'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
+        path: '/docs/models/create-a-blog-post',
+        component: ComponentCreator('/docs/models/create-a-blog-post','9a9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
+        path: '/docs/models/create-a-document',
+        component: ComponentCreator('/docs/models/create-a-document','f7d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
+        path: '/docs/models/deploy-your-site',
+        component: ComponentCreator('/docs/models/deploy-your-site','6a0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
+        path: '/docs/models/ffm',
+        component: ComponentCreator('/docs/models/ffm','5b3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
+        path: '/docs/models/markdown-features',
+        component: ComponentCreator('/docs/models/markdown-features','96c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

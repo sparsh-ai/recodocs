@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Create Blog Post",
