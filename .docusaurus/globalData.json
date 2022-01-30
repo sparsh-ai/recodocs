@@ -16,43 +16,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "models/congratulations",
-              "path": "/docs/models/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "models/create-a-blog-post",
-              "path": "/docs/models/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "models/create-a-document",
-              "path": "/docs/models/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "models/deploy-your-site",
-              "path": "/docs/models/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "models/ffm",
               "path": "/docs/models/ffm",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "models/markdown-features",
-              "path": "/docs/models/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             }
           ]

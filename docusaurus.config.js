@@ -10,7 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Recohut Docs',
   tagline: 'Documentation for Recommendation',
-  url: 'https://recohut.com',
+  url: 'https://docs.recohut.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,6 +29,13 @@ const config = {
               editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
               remarkPlugins: [math],
               rehypePlugins: [katex],
+            //   lastVersion: 'current',
+            //   versions: {
+            //       current: {
+            //       label: '1.0.0',
+            //       path: '1.0.0',
+            //       },
+            //   },
         },
         blog: {
           showReadingTime: true,
@@ -68,6 +75,12 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+        //   {
+        //     type: 'docsVersionDropdown',
+        //     position: 'right',
+        //     dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+        //     dropdownActiveClassDisabled: true,
+        //   },
           {
             href: 'https://github.com/recohut/docs',
             label: 'GitHub',

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create Blog Post",
-    "permalink": "/docs/models/create-a-blog-post"
+    "title": "Field-aware Factorization Machines (FFM)",
+    "permalink": "/docs/models/ffm"
   },
   "next": {
     "title": "Deploy your site",

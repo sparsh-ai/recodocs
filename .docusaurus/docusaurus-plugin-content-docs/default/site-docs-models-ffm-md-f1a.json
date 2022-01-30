@@ -16,11 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorial Intro",
+    "title": "Recohut Intro",
     "permalink": "/docs/intro"
-  },
-  "next": {
-    "title": "Create a Document",
-    "permalink": "/docs/models/create-a-document"
   }
 }

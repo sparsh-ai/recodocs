@@ -1,7 +1,7 @@
 export default {
   "title": "Recohut Docs",
   "tagline": "Documentation for Recommendation",
-  "url": "https://recohut.com",
+  "url": "https://docs.recohut.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

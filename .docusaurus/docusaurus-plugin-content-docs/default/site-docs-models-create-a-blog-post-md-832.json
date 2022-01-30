@@ -33,8 +33,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Document",
-    "permalink": "/docs/models/create-a-document"
+    "title": "Field-aware Factorization Machines (FFM)",
+    "permalink": "/docs/models/ffm"
   },
   "next": {
     "title": "Markdown Features",
