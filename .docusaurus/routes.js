@@ -100,8 +100,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','4d9'),
+    component: ComponentCreator('/docs','de4'),
     routes: [
+      {
+        path: '/docs/concepts/incremental-learning',
+        component: ComponentCreator('/docs/concepts/incremental-learning','5da'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/datasets',
         component: ComponentCreator('/docs/datasets','9a1'),

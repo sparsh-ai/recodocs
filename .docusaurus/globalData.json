@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "concepts/incremental-learning",
+              "path": "/docs/concepts/incremental-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "datasets",
               "path": "/docs/datasets",
               "sidebar": "tutorialSidebar"

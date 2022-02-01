@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/incremental-learning-in-recommender-systems",
+  "id": "tutorials/incremental-learning-in-recommender-systems",
+  "title": "Incremental Learning",
+  "description": "---",
+  "source": "@site/docs/tutorials/incremental-learning-in-recommender-systems.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/incremental-learning-in-recommender-systems",
+  "permalink": "/docs/tutorials/incremental-learning-in-recommender-systems",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/incremental-learning-in-recommender-systems.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Science Bookcamp",
+    "permalink": "/docs/tutorials/data-science-bookcamp"
+  },
+  "next": {
+    "title": "Matching and Ranking models in Tensorflow",
+    "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
+  }
+}

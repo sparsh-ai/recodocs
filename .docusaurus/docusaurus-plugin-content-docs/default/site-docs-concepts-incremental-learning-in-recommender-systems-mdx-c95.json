@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/incremental-learning-in-recommender-systems",
+  "id": "concepts/incremental-learning-in-recommender-systems",
+  "title": "Incremental Learning",
+  "description": "---",
+  "source": "@site/docs/concepts/incremental-learning-in-recommender-systems.mdx",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/incremental-learning-in-recommender-systems",
+  "permalink": "/docs/concepts/incremental-learning-in-recommender-systems",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concepts/incremental-learning-in-recommender-systems.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recohut Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "A3C",
+    "permalink": "/docs/models/a3c"
+  }
+}

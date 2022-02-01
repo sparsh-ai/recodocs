@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Recohut Intro",
-    "permalink": "/docs/intro"
+    "title": "Incremental Learning",
+    "permalink": "/docs/concepts/incremental-learning"
   },
   "next": {
     "title": "AFM",

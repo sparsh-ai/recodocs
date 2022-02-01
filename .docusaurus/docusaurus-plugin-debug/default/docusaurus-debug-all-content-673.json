@@ -19,6 +19,29 @@
           "contentPathLocalized": "/content/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "concepts/incremental-learning",
+              "id": "concepts/incremental-learning",
+              "title": "Incremental Learning",
+              "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
+              "source": "@site/docs/concepts/incremental-learning.mdx",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/incremental-learning",
+              "permalink": "/docs/concepts/incremental-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concepts/incremental-learning.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Recohut Intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "A3C",
+                "permalink": "/docs/models/a3c"
+              }
+            },
+            {
               "unversionedId": "datasets",
               "id": "datasets",
               "title": "Datasets",
@@ -59,8 +82,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "A3C",
-                "permalink": "/docs/models/a3c"
+                "title": "Incremental Learning",
+                "permalink": "/docs/concepts/incremental-learning"
               }
             },
             {
@@ -78,8 +101,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Recohut Intro",
-                "permalink": "/docs/intro"
+                "title": "Incremental Learning",
+                "permalink": "/docs/concepts/incremental-learning"
               },
               "next": {
                 "title": "AFM",
@@ -1675,6 +1698,18 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Concepts",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "concepts/incremental-learning"
+                  }
+                ]
               },
               {
                 "type": "category",

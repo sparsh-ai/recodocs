@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "A3C",
-    "permalink": "/docs/models/a3c"
+    "title": "Incremental Learning",
+    "permalink": "/docs/concepts/incremental-learning"
   }
 }
