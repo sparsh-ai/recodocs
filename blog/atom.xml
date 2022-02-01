@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.recohut.com/blog</id>
-    <title>Recohut Docs Blog</title>
+    <title>Recohut Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.recohut.com/blog"/>
-    <subtitle>Recohut Docs Blog</subtitle>
+    <subtitle>Recohut Blog</subtitle>
     <icon>https://docs.recohut.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
