@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/graph-embeddings",
+  "id": "concept-extras/graph-embeddings",
+  "title": "Graph Embeddings",
+  "description": "Due to their nature, graphs can be analyzed at different levels of granularity: at the node, edge, and graph level (the whole graph), as depicted in the following figure. For each of those levels, different problems could be faced and, as a consequence, specific algorithms should be used.",
+  "source": "@site/docs/concept-extras/graph-embeddings.mdx",
+  "sourceDirName": "concept-extras",
+  "slug": "/concept-extras/graph-embeddings",
+  "permalink": "/docs/concept-extras/graph-embeddings",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/graph-embeddings.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Types of Recommender Systems",
+    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+  },
+  "next": {
+    "title": "Incremental Learning",
+    "permalink": "/docs/concept-extras/incremental-learning"
+  }
+}

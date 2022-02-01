@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','ead'),
+    component: ComponentCreator('/docs','128'),
     routes: [
       {
         path: '/docs/concept-basics/types-of-recommender-systems',
@@ -213,6 +213,12 @@ export default [
       {
         path: '/docs/concept-extras/case-studies/walmart-model-selection',
         component: ComponentCreator('/docs/concept-extras/case-studies/walmart-model-selection','b7a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/graph-embeddings',
+        component: ComponentCreator('/docs/concept-extras/graph-embeddings','91f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

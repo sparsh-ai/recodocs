@@ -17,7 +17,7 @@
     "permalink": "/docs/intro"
   },
   "next": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concept-extras/incremental-learning"
+    "title": "Graph Embeddings",
+    "permalink": "/docs/concept-extras/graph-embeddings"
   }
 }
