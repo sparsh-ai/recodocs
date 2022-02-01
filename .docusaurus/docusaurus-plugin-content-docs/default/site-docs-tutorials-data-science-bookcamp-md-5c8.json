@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Addressing the Cold-Start Problem",
-    "permalink": "/docs/tutorials/addressing-the-cold-start-problem"
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
   },
   "next": {
     "title": "Matching and Ranking models in Tensorflow",

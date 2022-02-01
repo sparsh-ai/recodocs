@@ -16,8 +16,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-basics/session-based-recommenders",
+              "path": "/docs/concept-basics/session-based-recommenders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-basics/types-of-recommender-systems",
               "path": "/docs/concept-basics/types-of-recommender-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/bias-&-fairness",
+              "path": "/docs/concept-extras/bias-&-fairness",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -108,6 +118,11 @@
             {
               "id": "concept-extras/case-studies/walmart-model-selection",
               "path": "/docs/concept-extras/case-studies/walmart-model-selection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/cold-start",
+              "path": "/docs/concept-extras/cold-start",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -463,11 +478,6 @@
             {
               "id": "projects",
               "path": "/docs/projects",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/addressing-the-cold-start-problem",
-              "path": "/docs/tutorials/addressing-the-cold-start-problem",
               "sidebar": "tutorialSidebar"
             },
             {

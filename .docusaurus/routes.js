@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','298'),
+    component: ComponentCreator('/docs','d76'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -109,8 +109,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/concept-basics/session-based-recommenders',
+        component: ComponentCreator('/docs/concept-basics/session-based-recommenders','3e6'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/concept-basics/types-of-recommender-systems',
         component: ComponentCreator('/docs/concept-basics/types-of-recommender-systems','5b7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/bias-&-fairness',
+        component: ComponentCreator('/docs/concept-extras/bias-&-fairness','8c0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -219,6 +231,12 @@ export default [
       {
         path: '/docs/concept-extras/case-studies/walmart-model-selection',
         component: ComponentCreator('/docs/concept-extras/case-studies/walmart-model-selection','b7a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/cold-start',
+        component: ComponentCreator('/docs/concept-extras/cold-start','c66'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -645,12 +663,6 @@ export default [
       {
         path: '/docs/projects',
         component: ComponentCreator('/docs/projects','c4a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorials/addressing-the-cold-start-problem',
-        component: ComponentCreator('/docs/tutorials/addressing-the-cold-start-problem','675'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

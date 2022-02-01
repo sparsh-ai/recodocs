@@ -37,6 +37,29 @@
                 "permalink": "/docs/intro"
               },
               "next": {
+                "title": "Session-based Recommenders",
+                "permalink": "/docs/concept-basics/session-based-recommenders"
+              }
+            },
+            {
+              "unversionedId": "concept-basics/session-based-recommenders",
+              "id": "concept-basics/session-based-recommenders",
+              "title": "Session-based Recommenders",
+              "description": "Recommender systems help users find relevant items of interest, for example on e-commerce or media streaming sites. Most academic research is concerned with approaches that personalize the recommendations according to long-term user profiles. In many real-world applications, however, such long-term profiles often do not exist and recommendations, therefore, have to be made solely based on the observed behavior of a user during an ongoing session.",
+              "source": "@site/docs/concept-basics/session-based-recommenders.md",
+              "sourceDirName": "concept-basics",
+              "slug": "/concept-basics/session-based-recommenders",
+              "permalink": "/docs/concept-basics/session-based-recommenders",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/session-based-recommenders.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Challenges",
+                "permalink": "/docs/concept-basics/challenges"
+              },
+              "next": {
                 "title": "Types of Recommender Systems",
                 "permalink": "/docs/concept-basics/types-of-recommender-systems"
               }
@@ -56,12 +79,35 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Challenges",
-                "permalink": "/docs/concept-basics/challenges"
+                "title": "Session-based Recommenders",
+                "permalink": "/docs/concept-basics/session-based-recommenders"
               },
               "next": {
-                "title": "Data Science",
-                "permalink": "/docs/concept-extras/data-science"
+                "title": "Bias & Fairness",
+                "permalink": "/docs/concept-extras/bias-&-fairness"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/bias-&-fairness",
+              "id": "concept-extras/bias-&-fairness",
+              "title": "Bias & Fairness",
+              "description": "It can’t be denied that there is bias all around us. A bias is a prejudice against a person or group of people, including, but not limited to their gender, race, and beliefs. Many of these biases arise from emergent behavior in social interactions, events in history, and cultural and political views around the world. These biases affect the data that we collect. Because AI algorithms work with this data, it is an inherent problem that the machine will “learn” these biases. From a technical perspective, we can engineer the system perfectly, but at the end of the day, humans interact with these systems, and it’s our responsibility to minimize bias and prejudice as much as possible. The algorithms we use are only as good as the data provided to them. Understanding the data and the context in which it is being used is the first step in battling bias, and this understanding will help you build better solutions—because you will be well versed in the problem space. Providing balanced data with as little bias as possible should result in better solutions.",
+              "source": "@site/docs/concept-extras/bias-&-fairness.md",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/bias-&-fairness",
+              "permalink": "/docs/concept-extras/bias-&-fairness",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/bias-&-fairness.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+              },
+              "next": {
+                "title": "Cold Start",
+                "permalink": "/docs/concept-extras/cold-start"
               }
             },
             {
@@ -479,6 +525,29 @@
               }
             },
             {
+              "unversionedId": "concept-extras/cold-start",
+              "id": "concept-extras/cold-start",
+              "title": "Cold Start",
+              "description": "One long-standing challenge for Collaborative Filtering (CF) based recommendation methods is the cold start problem, i.e., to provide recommendations for new users or items who have no historical interaction record. The cold start problem is common in real world applications. For example, 500 hours of new videos are uploaded to YouTube every minute, 500,000 new users register in Facebook every day, and web/mobile apps face the daily challenge of onboarding new users and subscribers. To provide recommendations for these new users and items, many content-based methods and heuristic methods have been deployed, e.g., recommending popular items or geographically near items. However, recent research efforts that tackle the cold start problem from the perspective of machine learning have made promising strides.",
+              "source": "@site/docs/concept-extras/cold-start.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/cold-start",
+              "permalink": "/docs/concept-extras/cold-start",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/cold-start.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bias & Fairness",
+                "permalink": "/docs/concept-extras/bias-&-fairness"
+              },
+              "next": {
+                "title": "Data Science",
+                "permalink": "/docs/concept-extras/data-science"
+              }
+            },
+            {
               "unversionedId": "concept-extras/data-science",
               "id": "concept-extras/data-science",
               "title": "Data Science",
@@ -493,8 +562,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Types of Recommender Systems",
-                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+                "title": "Cold Start",
+                "permalink": "/docs/concept-extras/cold-start"
               },
               "next": {
                 "title": "Diversity",
@@ -2083,8 +2152,8 @@
                 "permalink": "/docs/models/word2vec"
               },
               "next": {
-                "title": "Addressing the Cold-Start Problem",
-                "permalink": "/docs/tutorials/addressing-the-cold-start-problem"
+                "title": "Data Science Bookcamp",
+                "permalink": "/docs/tutorials/data-science-bookcamp"
               }
             },
             {
@@ -2107,29 +2176,6 @@
               }
             },
             {
-              "unversionedId": "tutorials/addressing-the-cold-start-problem",
-              "id": "tutorials/addressing-the-cold-start-problem",
-              "title": "Addressing the Cold-Start Problem",
-              "description": "/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled.png",
-              "source": "@site/docs/tutorials/addressing-the-cold-start-problem.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/addressing-the-cold-start-problem",
-              "permalink": "/docs/tutorials/addressing-the-cold-start-problem",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/addressing-the-cold-start-problem.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "xDeepFM",
-                "permalink": "/docs/models/xdeepfm"
-              },
-              "next": {
-                "title": "Data Science Bookcamp",
-                "permalink": "/docs/tutorials/data-science-bookcamp"
-              }
-            },
-            {
               "unversionedId": "tutorials/data-science-bookcamp",
               "id": "tutorials/data-science-bookcamp",
               "title": "Data Science Bookcamp",
@@ -2144,8 +2190,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Addressing the Cold-Start Problem",
-                "permalink": "/docs/tutorials/addressing-the-cold-start-problem"
+                "title": "xDeepFM",
+                "permalink": "/docs/models/xdeepfm"
               },
               "next": {
                 "title": "Matching and Ranking models in Tensorflow",
@@ -2263,6 +2309,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "concept-basics/session-based-recommenders"
+                  },
+                  {
+                    "type": "doc",
                     "id": "concept-basics/types-of-recommender-systems"
                   }
                 ]
@@ -2273,6 +2323,14 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/bias-&-fairness"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/cold-start"
+                  },
                   {
                     "type": "doc",
                     "id": "concept-extras/data-science"
@@ -2641,10 +2699,6 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorials/addressing-the-cold-start-problem"
-                  },
                   {
                     "type": "doc",
                     "id": "tutorials/data-science-bookcamp"

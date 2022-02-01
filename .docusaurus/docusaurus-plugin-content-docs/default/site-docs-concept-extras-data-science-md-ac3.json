@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Types of Recommender Systems",
-    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+    "title": "Cold Start",
+    "permalink": "/docs/concept-extras/cold-start"
   },
   "next": {
     "title": "Diversity",

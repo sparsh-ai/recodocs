@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Challenges",
-    "permalink": "/docs/concept-basics/challenges"
+    "title": "Session-based Recommenders",
+    "permalink": "/docs/concept-basics/session-based-recommenders"
   },
   "next": {
-    "title": "Data Science",
-    "permalink": "/docs/concept-extras/data-science"
+    "title": "Bias & Fairness",
+    "permalink": "/docs/concept-extras/bias-&-fairness"
   }
 }

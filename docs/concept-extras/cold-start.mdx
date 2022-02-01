@@ -1,8 +1,4 @@
-# Addressing the Cold-Start Problem
-
-![/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled.png](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled.png)
-
-## Introduction
+# Cold Start
 
 One long-standing challenge for Collaborative Filtering (CF) based recommendation methods is the cold start problem, i.e., to provide recommendations for new users or items who have no historical interaction record. The cold start problem is common in real world applications. For example, 500 hours of new videos are uploaded to YouTube every minute, 500,000 new users register in Facebook every day, and web/mobile apps face the daily challenge of onboarding new users and subscribers. To provide recommendations for these new users and items, many content-based methods and heuristic methods have been deployed, e.g., recommending popular items or geographically near items. However, recent research efforts that tackle the cold start problem from the perspective of machine learning have made promising strides.
 
@@ -10,7 +6,23 @@ Cold start happens when new users or new items arrive in e-commerce platforms. C
 
 Recommender systems can be generally classified as collaborative filter-based, content-based, or hybrid systems. Collaborative filter-based systems estimate user responses by collecting preference information from numerous users. The predictions are built upon the existing ratings of other users who have similar ratings as the target user. However, such systems cannot handle new users (user cold-start) and new items (item cold-start) because of the lack of user-item interactions. Content-based systems are introduced to solve the cold-start problem. Such systems use user profile information (e.g., gender, nationality, religion, and political stance) and the contents of the items to make recommendations. The systems might have a limitation suggesting the same items to the users who have similar contents regardless of items that user already rated. Hybrid systems, which are based on a collaborative filter and utilize content information, are widely used in various applications. However, these systems are unfit for a recommendation when the user-item interaction data are sparse. Moreover, due to privacy issues, collecting personal information is challenging, which might result in the user cold-start problem. To avoid the user cold-start problem due to privacy issues, many web-based systems, such as Netflix, recommend items based on only minimal user information. Netflix initially presents popular movies and television programs to new users: we call these videos the evidence candidates. Then, the user chooses the videos that he/she likes among the candidates. Afterward, the system recommends some programs based on the videos selected by the user. Recently, to improve performance, the recommendations have been made using deep learning methods; however, the cold-start problem remains for new users who rate only a few items.
 
+:::note
+
+Recommending items to cold-start users who have very sparse interactions, also known as user cold-start recommendation, is one of the major challenges. 
+
+:::
+
 Matrix completion is a classic problem underlying recommender systems. It is traditionally tackled with matrix factorization. Recently, deep learning based methods, especially graph neural networks, have made impressive progress on this problem. Despite their effectiveness, existing methods focus on modeling the user-item interaction graph. The inherent drawback of such methods is that their performance is bound to the density of the interactions, which is however usually of high sparsity. More importantly, for a cold start user/item that does not have any interactions, such methods are unable to learn the preference embedding of the user/item since there is no link to this user/item in the graph.
+
+Recent ML-based approaches have made promising strides versus traditional methods. These ML approaches typically combine both user-item interaction data of existing warm start users and items (as in CF-based methods) with auxiliary information of users and items such as user profiles and item content information (as in content-based methods).
+
+## Challenges
+
+- Error superimposition issue - auxiliary-to-CF transformation error increases the final recommendation error.
+- Ineffective learning issue - long distance from transformation functions to model output layer leads to ineffective model learning.
+- Unified transformation issue - applying the same transformation function for different users and items results in poor transformation.
+
+## Concepts
 
 ### Item cold-start
 
@@ -24,7 +36,33 @@ Matrix completion is a classic problem underlying recommender systems. It is tra
 - Another approach is to ask about interests using surveys. It works pretty well.
 - One more approach is to recommend popular items until enough interaction data is available for that user and then gradually switch to personalized recommendations.
 
+### Item lifecycle
+
+![Untitled](/img/content-concepts-raw-cold-start-untitled.png)
+
+Above figure shows the life cycle of an item: the item first appears in the system at 𝑡0; in the absence of historical feedback, a cold start recommendation algorithm recommends this item to users and receives the first collection of feedback at 𝑡2; then, a warm start recommender can be trained at 𝑡3 by this first collection of feedback, further recommending the item to users and collecting new feedback at 𝑡4; the system continues this loop of collecting new feedback and training a new warm start model until the item leaves the system.
+
+### Mapping framework
+
+To provide cold start recommendations, typical machine learning based methods need to utilize user-item interactions of existing warm start users and items, and content features of both warm and cold start items. These content features – such as item descriptions, reviews, or from other sources – are often readily available even for new items. The main idea of these cold start recommendation algorithms is to learn a transformation from item content features of warm start items to user-item interactions between warm start users and items during training, and then apply this learned transformation process to the content features of new items to predict possible interactions between users and new items as recommendations during testing. Note that item content features of warm start items and new items share the same feature space.
+
+![Untitled](/img/content-concepts-raw-cold-start-untitled-1.png)
+
+![Untitled](/img/content-concepts-raw-cold-start-untitled-2.png)
+
 ## Approaches
+
+Over the years, many approaches have been proposed including heuristic non-parametric algorithms like KNN, though now there is an emphasis on optimization based machine learning algorithms. These methods can be categorized into two types: separate-training methods and joint-training methods.
+
+- Separate-training methods separately learn two models: a collaborative filtering (CF) model learns CF embeddings of warm start items; and a content model learns how to transform the item content features to the learned collaborative embeddings using warm start items. During inference, the content model is first applied on content features of new items to generate CF embeddings and then recommendations for these new items are provided by these embeddings. A typical example is DeepMusic, which utilizes a multi-layer perceptron (MLP) to transform item content features to CF embeddings learned by a pretrained matrix factorization model.
+- Joint-training methods combine the CF model and content model together and train both of them through a single backpropagation process. A typical example is DropoutNet, which has an MLP based content component to first transform item content features, followed by a dot-product based neural CF component to provide recommendations. Moreover, Heater mixes separate-training and joint-training methods, which delivers greater performance.
+- Representative based: use subset of items and users that represents the population.
+- Content based: use side information such as text, social networks, etc.
+- Bandit: consider the exploration vs exploitation tradeoffs in new items.
+- Auxiliary information - Incorporate auxiliary data as user or item features.
+- Heterogeneous Information Networks - enrich user-item interactions with complementary heterogeneous information via higher-order graph structures.
+- Meta learning
+- Interactive Dialogue
 
 ### Representative approaches for cold-start recommendations
 
@@ -68,7 +106,7 @@ ML-based models combine user-item interactions from existing warm start users an
 
 There are various kinds of auxiliary information could be exploited to improve cold-start recommendation performance, e.g., user attributes, item attributes, knowledge graphs, samples in an auxiliary domain, etc.
 
-![(a) setup of cold start recommendation problem, where both warm and cold users and items have auxiliary representations (such as user profiles and item content); and (b) the main idea of existing cold start recommendation algorithms: learn transformation functions to transform auxiliary representations to CF representations.](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-1.png)
+![(a) setup of cold start recommendation problem, where both warm and cold users and items have auxiliary representations (such as user profiles and item content); and (b) the main idea of existing cold start recommendation algorithms: learn transformation functions to transform auxiliary representations to CF representations.](/img/content-concepts-raw-cold-start-untitled-3.png)
 
 (a) setup of cold start recommendation problem, where both warm and cold users and items have auxiliary representations (such as user profiles and item content); and (b) the main idea of existing cold start recommendation algorithms: learn transformation functions to transform auxiliary representations to CF representations.
 
@@ -78,7 +116,7 @@ Recent ML-based approaches have made promising strides versus traditional method
 
 Recommender systems have been widely deployed in various online services, such as E-commerce platforms and news portals, to address the issue of information overload for users. At their core, they typically adopt collaborative filtering, aiming to estimate the likelihood of a user adopting an item based on the interaction history like past purchases and clicks. However, the interaction data of new users or new items are often very sparse, leading to the so-called cold-start scenarios in which it becomes challenging to learn effective user or item representations.
 
-![Untitled](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-2.png)
+![Untitled](/img/content-concepts-raw-cold-start-untitled-4.png)
 
 ### Bandits
 
@@ -104,19 +142,19 @@ Cold-start problems are enormous challenges in practical recommender systems. On
 
 With the help of the auxiliary (source) domain, cross-domain recommendation (CDR) is a promising solution to alleviate data sparsity and the cold-start problem in the target domain. The core task of  CDR is preference transfer. For instance, If I like *Song A* and *Song B* (music domain), how much I like *Movie X* (movie domain)? 
 
-![Existing workflow in cross-domain recommendation for cold-start users.](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-3.png)
+![Existing workflow in cross-domain recommendation for cold-start users.](/img/content-concepts-raw-cold-start-untitled-5.png)
 
 Existing workflow in cross-domain recommendation for cold-start users.
 
 **Domain overlapping**
 
-![[source](https://arxiv.org/pdf/2108.03357.pdf)](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-4.png)
+![[source](https://arxiv.org/pdf/2108.03357.pdf)](/img/content-concepts-raw-cold-start-untitled-6.png)
 
 [source](https://arxiv.org/pdf/2108.03357.pdf)
 
 **Recommendation scenarios**
 
-![[source](https://arxiv.org/pdf/2108.03357.pdf)](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-5.png)
+![[source](https://arxiv.org/pdf/2108.03357.pdf)](/img/content-concepts-raw-cold-start-untitled-7.png)
 
 [source](https://arxiv.org/pdf/2108.03357.pdf)
 
@@ -130,7 +168,7 @@ Another group of CDR methods focus on bridging user preferences in different dom
 
 **CDLFM** modifies matrix factorization by fusing three kinds of user similarities as a regularization term based on their rating behaviors. A neighborhood-based mapping approach is used to replace the previous multi-layer perceptrons, by considering similar users and the gradient boosting trees (GBT) based ensemble learning method.
 
-![The workflow diagram for our proposed model CDLFM.](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-6.png)
+![The workflow diagram for our proposed model CDLFM.](/img/content-concepts-raw-cold-start-untitled-8.png)
 
 The workflow diagram for our proposed model CDLFM.
 
@@ -155,7 +193,7 @@ In the training phase, they try to derive the global knowledge across different 
 
 Most meta-learning recommenders are built upon the well-known framework of model-agnostic meta learning (MAML), aiming to learn a parameter initialization where a few steps of gradient updates will lead to good performances on the new tasks. A typical assumption here is the recommendations of different users are highly relevant. However, this assumption does not necessarily hold in actual scenarios. When the users exhibit different purchase intentions, the task relevance among them is actually very weak, which makes it problematic to find a shared parameter initialization optimal for all users. As shown in the image below:
 
-![An illustration of the relevance of different tasks. The purchase intentions of user 𝑎, 𝑏 and 𝑐 are manifested by the corresponding user-item interactions. It shows that tasks 𝑎, 𝑐 are closely relevant but task 𝑏 is largely different from them. Each task owns the user-specific support set and query set.](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-7.png)
+![An illustration of the relevance of different tasks. The purchase intentions of user 𝑎, 𝑏 and 𝑐 are manifested by the corresponding user-item interactions. It shows that tasks 𝑎, 𝑐 are closely relevant but task 𝑏 is largely different from them. Each task owns the user-specific support set and query set.](/img/content-concepts-raw-cold-start-untitled-9.png)
 
 An illustration of the relevance of different tasks. The purchase intentions of user 𝑎, 𝑏 and 𝑐 are manifested by the corresponding user-item interactions. It shows that tasks 𝑎, 𝑐 are closely relevant but task 𝑏 is largely different from them. Each task owns the user-specific support set and query set.
 
@@ -175,67 +213,71 @@ It is indeed the most common approach because of the flexibility and performance
 
 ## Models
 
-### MetaTL
+### KNN
 
-A fundamental challenge for sequential recommenders is to capture the sequential patterns of users toward modeling how users transit among items. In many practical scenarios, however, there are a great number of cold-start users with only minimal logged interactions. As a result, existing sequential recommendation models will lose their predictive power due to the difficulties in learning sequential patterns over users with only limited interactions. In this work, we aim to improve sequential recommendation for cold-start users with a novel framework named MetaTL, which learns to model the transition patterns of users through meta-learning.
+It generates recommendations by conventional nearest neighbor algorithm. The user-user or item-item similarity is computed by the given auxiliary representations. This method works for Task 1 and 2 but not Task 3.
 
-Specifically, the proposed MetaTL:
+### [ITFM](https://www.notion.so/Attribute-to-Feature-Mappings-for-Cold-Start-Recommendation-5f18a2477913442e83d0213fcf215a39)
 
-1. formulates sequential recommendation for cold-start users as a few-shot learning problem;
-2. extracts the dynamic transition patterns among users with a translation-based architecture; and
-3. adopts meta transitional learning to enable fast learning for cold-start users with only limited interactions, leading to accurate inference of sequential interactions.
+*Bayesian Personalized Ranking Model with Attribute-to-Feature Mappings for Cold-Start Recommendation*
 
-**Background**
+### CMF
 
-One of the first approaches for sequential recommendation is the use of Markov Chains to model the transitions of users among items. More recently, TransRec embeds items in a “transition space” and learns a translation vector for each user. With the advance in neural networks, many different neural structures including Recurrent Neural Networks, Convolutional Neural Networks, Transformers and Graph Neural Networks, have been adopted to model the dynamic preferences of users over their behavior sequences. While these methods aim to improve the overall performance via representation learning for sequences, they suffer from weak prediction power for cold-start users with short behavior sequences.
+It combines matrix factorization and auxiliary representations to CF representations transformation together into one objective function and trains these two parts simultaneously. CMF works for Task 1 and Task 2 but not Task 3.
 
-This line of research aims to learn a model which can adapt and generalize to new tasks and new environments with a few training samples. To achieve the goal of “learning-to-learn”, there are three types of different approaches. Metric-based methods are based on a similar idea to the nearest neighbors algorithm with a well-designed metric or distance function, prototypical networks or Siamese Neural Network. Model-based methods usually perform a rapid parameter update with an internal architecture or are controlled by another meta-learner model. As for the optimization-based approaches, by adjusting the optimization algorithm, the models can be efficiently updated with a few examples.
+### LinMap
 
-MetaRec proposes a meta-learning strategy to learn user-specific logistic regression. There are also methods including MetaCF, Warm-up and MeLU, adopting Model-Agnostic Meta-Learning (MAML) methods to learn a model to achieve fast adaptation for cold-start users.
+It takes pretrained CF representations and learns a matrix to transform auxiliary representations to pretrained CF representations. LinMap can work for all three tasks. 
 
-cold-start sequential recommendation targets a setting where no additional auxiliary knowledge can be accessed due to privacy issues, and more importantly, the user-item interactions are sequentially dependent. A user’s preferences and tastes may change over time and such dynamics are of great significance in sequential recommendation. Hence, it is necessary to develop a new sequential recommendation framework that can distill short-range item transitional dynamics, and make fast adaptation to those cold-start users with limited user-item interactions.
+### LoCo
 
-**Model**
+It is a linear low-rank regression method, which learns a low-rank transformation matrix to directly transform auxiliary representations to final predicted preference scores. It can only work for Task 1 and 2 but not Task 3.
 
-Let $I = \{𝑖_1,𝑖_2, \dots,𝑖_𝑃\}$ and $U = \{u_1,u_2, \dots,u_G\}$ represent the item set and user set in the platform respectively. Each item is mapped to a trainable embedding associated with its ID. There is no auxiliary information for users or items. In sequential recommendation, given the sequence of items ${𝑆𝑒𝑞}_𝑢 = (𝑖_{𝑢,1},𝑖_{𝑢,2}, \dots,𝑖_{𝑢,𝑛})$ that user 𝑢 has interacted with in chronological order, the model aims to infer the next interesting item $𝑖_{𝑢,𝑛+1}$. That is to say, we need to predict the preference score for each candidate item based on ${𝑆𝑒𝑞}_𝑢$ and thus recommend the top-N items with the highest scores.
+### LWA
 
-In our task, we train the model on $U_{𝑡𝑟𝑎𝑖𝑛}$, which contains users with various numbers of logged interactions. Then given 𝑢 in a separate test set $U_{𝑡𝑒𝑠𝑡},\ U_{𝑡𝑟𝑎𝑖𝑛} ∩ U_{𝑡𝑒𝑠𝑡} = \phi$, the model can quickly learn user transition patterns according to the 𝐾 initial interactions and thus infer the sequential interactions. Note that the size of a user’s initial interactions (i.e., 𝐾) is assumed to be a small number (e.g., 2, 3 or 4) considering the cold-start scenario.
+It is a meta-learning based algorithm which constructs different logistic regression classifiers for different users based on their historical records. The user-specific logistic regression takes the auxiliary representation of one cold start item as input and predicts whether the user will like input item or not. LWA can only work for Task 2.
 
-![Untitled](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-8.png)
+### [DropoutNet](https://www.notion.so/DropoutNet-Addressing-Cold-Start-in-Recommender-Systems-95c6e969da4042b396d6188857847df0)
 
-Meta-learning aims to learn a model which can adapt to new tasks (i.e., new users) with a few training samples. To enable meta-learning in sequential recommendation for cold-start users, we formulate training a sequential recommender as solving a new few-shot learning problem (i.e., meta-testing task) by training on many sampled similar tasks (i.e., the meta-training tasks). Each task includes a 𝑠𝑢𝑝𝑝𝑜𝑟𝑡 set S and a 𝑞𝑢𝑒𝑟𝑦 set Q, which can be regarded as the “training” set and “testing” set of the task. For example, while constructing a task $T_𝑛$, given user $𝑢_𝑗$ with initial interactions in sequence (e.g., $𝑖_𝐴 \rightarrow_{u_j} i_B \rightarrow_{u_j} i_C$), we will have the a set of transition pairs $\{ 𝑖_𝐴 \rightarrow_{u_j} i_B, i_B \rightarrow_{u_j} i_C \}$ as support and predict for the query $i_C \rightarrow_{u_j} ?$.
+It inputs both pretrained CF representations and auxiliary representations into a MLP and randomly dropouts pretrained CF representations during training. It works for all tasks. The basic idea is simple yet powerful. Their approach is that, in training deep learning based recommendation systems (e.g. collaborative filtering with many layers), we can make it robust against the cold items by randomly dropping ratings of items and users. The key here is that, as opposed to standard dropout in neural net training, they drop the features, not the nodes. By doing so, they can make the neural net depend less on certain ratings, and be more generalizable to items/users with less ratings. The strength of their approach is that it can be used with any neural net based recommender systems, and also that the approach works for cold start in both users and items.
 
-When testing on a new user $𝑢_{𝑡𝑒𝑠𝑡}$, we will firstly construct the support set $S_{𝑡𝑒𝑠𝑡}$ based on the user’s initial interactions. The model $𝑓_\theta$ is fine-tuned with all the transition pairs in $S_{𝑡𝑒𝑠𝑡}$ and updated to $𝑓_{\theta_{𝑡𝑒𝑠𝑡}'}$ , which can be used to generate the updated $tr_{𝑡𝑒𝑠𝑡}$. Given the test query $𝑖_𝑜 \rightarrow_{u_{test}}?$, the preference score for item $𝑖_𝑝$ (as the next interaction) is calculated as −$∥i_𝑜 + tr_{𝑡𝑒𝑠𝑡} − i_𝑝 ∥^2$.
+### LLAE
 
-### TaNP
+It applies the idea of zero-shot learning to solve cold start recommendation problems. Similar to LoCo, LLAE also learns a transformation matrix to directly transform auxiliary representation to predicted preference scores.
 
-Recent studies seek to address this challenge from the perspective of meta learning, and most of them follow a manner of parameter initialization, where the model parameters can be learned by a few steps of gradient updates. While these gradient-based meta-learning models achieve promising performances to some extent, a fundamental problem of them is how to adapt the global knowledge learned from previous tasks for the recommendations of cold-start users more effectively.
+### Heater
 
-TaNP directly maps the observed interactions of each user to a predictive distribution, sidestepping some training issues in gradient-based meta-learning models. More importantly, to balance the trade-off between model capacity and adaptation reliability, TaNP uses a novel task-adaptive mechanism. It enables this model to learn the relevance of different tasks and customize the global knowledge to the task-related decoder parameters for estimating user preferences.
+![Untitled](/img/content-concepts-raw-cold-start-untitled-10.png)
 
-**Background**
+### MetaHIN
 
-Inspired by the huge progress on few-shot learning and meta learning, there emerge some promising works on solving cold-start problems from the perspective of meta learning, where making recommendations for one user is regarded as a single task.
+![Illustration of the meta-training procedure of a task in MetaHIN. (a) Semantic-enhanced task constructor, where the support and query sets are augmented with meta-path based heterogeneous semantic contexts. (b) Co-adaptation meta learner, with semantic- and task-wise adaptations on the support set, while the global prior θ is optimized on the query set. During meta-testing, each task follows the same procedure except updating the global prior.](/img/content-concepts-raw-cold-start-untitled-11.png)
 
-In the training phase, they try to derive the global knowledge across different tasks as a strong generalization prior. When a cold-start user comes in the test phase, the personalized recommendation for her/him can be predicted with only a few interacted items are available, but does so by using the global knowledge already learned.
+Illustration of the meta-training procedure of a task in MetaHIN. (a) Semantic-enhanced task constructor, where the support and query sets are augmented with meta-path based heterogeneous semantic contexts. (b) Co-adaptation meta learner, with semantic- and task-wise adaptations on the support set, while the global prior θ is optimized on the query set. During meta-testing, each task follows the same procedure except updating the global prior.
 
-**Model**
+### MeLU
 
-As shown in the above figure, tasks 𝑎 and 𝑐 share the transferable knowledge of recommendations, since user 𝑎 and user 𝑐 express similar purchase intentions, while task 𝑏 is largely different from them. Therefore, learning the relevance of different tasks is an important step in adapting the global knowledge for the recommendations of cold-start users more effectively.
+It get rating predictions by feeding the concatenation of user and item embeddings into fully connected layers. The local parameter of the fully connected layers will be locally updated for personalized recommendation. The global parameter of the recommender and the parameters of embedding layers will be globally updated for all the users.
 
-TaNP includes the encoder $ℎ_\theta$, the customization module (task identity network $𝑚_\phi$ and global pool 𝑨) and the adaptive decoder $𝑔_{\omega𝑖}$. Both of $𝑆_𝑖$ and $\tau_𝑖$ are encoded by $ℎ_\theta$ to generate the variational prior and posterior, respectively. The final task embedding $𝒐_𝑖$ learned from the customized module is used to modulate the model parameters of $𝑔_{\omega𝑖} \cdot 𝒛_𝑖$ sampled from $𝑞(𝒛_𝑖|\tau_𝑖)$ is concatenated with $𝒙_{𝑖,𝑗}$ to predict $\hat{𝑦}_{𝑖,𝑗}$ via $𝑔_{\omega𝑖}$.
+### MAMO
 
-![The framework of TaNP in the training phase.](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-9.png)
+Memory-Augmented Meta-Optimization (MAMO) is an adaptive meta learning recommendation model, to improve the stability, generalization and computational cost of model by learning a multi-level personalized model parameters.
 
-The framework of TaNP in the training phase.
+![Untitled](/img/content-concepts-raw-cold-start-untitled-12.png)
 
-A meta-learning recommender is first learned on each support set (learning procedure) and is then updated according to the prediction loss over multiple query sets (learning-to-learn procedure). Through the guide of the second procedure in many iterations, this meta-learning model can derive the global knowledge across different tasks and adapts such knowledge well for a new task $\tau_𝑖$ with only $𝑆_𝑖$ available.
+### [STAR-GCN](https://www.notion.so/STAR-GCN-Stacked-and-Reconstructed-Graph-Convolutional-Networks-for-Recommender-Systems-30f007576ca64f6ba1ce89cb72331cc9)
 
-![Untitled](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-10.png)
+*STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.*
 
-### AGNN
+We propose a new STAcked and Reconstructed Graph Convolutional Networks (STAR-GCN) architecture to learn node representations for boosting the performance in recommender systems, especially in the cold start scenario. STAR-GCN employs a stack of GCN encoder-decoders combined with intermediate supervision to improve the final prediction performance. Unlike the graph convolutional matrix completion model with one-hot encoding node inputs, our STAR-GCN learns low-dimensional user and item latent factors as the input to restrain the model space complexity. Moreover, our STAR-GCN can produce node embeddings for new nodes by reconstructing masked input node embeddings, which essentially tackles the cold start problem. Furthermore, we discover a label leakage issue when training GCN-based models for link prediction tasks and propose a training strategy to avoid the issue. Empirical results on multiple rating prediction benchmarks demonstrate our model achieves state-of-the-art performance in four out of five real-world datasets and significant improvements in predicting ratings in the cold start scenario.
 
-![Untitled](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-11.png)
+### [HERS](https://www.notion.so/HERS-Modeling-Influential-Contexts-with-Heterogeneous-Relations-for-Sparse-and-Cold-Start-Recommend-d5003db234f8470a88b04221a55edbf5)
+
+*HERS: Modeling Influential Contexts with Heterogeneous Relations for Sparse and Cold-Start Recommendation.* Classic recommender systems face challenges in addressing the data sparsity and cold-start problems with only modeling the user-item relation. An essential direction is to incorporate and understand the additional heterogeneous relations, e.g., user-user and item-item relations, since each user-item interaction is often influenced by other users and items, which form the user’s/item’s influential contexts. This induces important yet challenging issues, including modeling heterogeneous relations, interactions, and the strength of the influence from users/items in the influential contexts. To this end, we design Influential-Context Aggregation Units (ICAU) to aggregate the user-user/item-item relations within a given context as the influential context embeddings. Accordingly, we propose a Heterogeneous relations-Embedded Recommender System (HERS) based on ICAUs to model and interpret the underlying motivation of user-item interactions by considering user-user and item-item influences. The experiments on two real-world datasets show the highly improved recommendation quality made by HERS and its superiority in handling the cold-start problem. In addition, we demonstrate the interpretability of modeling influential contexts in explaining the recommendation results.
+
+### [AGNN](https://www.notion.so/Solving-Cold-Start-Problem-in-Recommendation-with-Attribute-Graph-Neural-Networks-baa3b1b48e0748e1ace3ce2446401a7c)
+
+![Untitled](/img/content-concepts-raw-cold-start-untitled-13.png)
 
 We first design an input layer to build the user (item) attribute graph $\mathcal{A}_u$ ($\mathcal{A}_i$). We calculate two kinds of proximity scores between the nodes - preference proximity and attribute proximity (can be calculated with cosine similarity).
 
@@ -258,7 +300,7 @@ where the MLP function is the multilayer perceptron implemented with one hidden 
 
 The cold start problem is caused by the lack of historical interactions for cold start nodes. We view this as a missing preference problem, and solve it by employing the variational autoencoder structure to reconstruct the preference from the attribute distribution.
 
-![The eVAE structure to generate preference embedding from attribute distribution.](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-12.png)
+![The eVAE structure to generate preference embedding from attribute distribution.](/img/content-concepts-raw-cold-start-untitled-14.png)
 
 The eVAE structure to generate preference embedding from attribute distribution.
 
@@ -286,19 +328,95 @@ $$
 
 where $L_{pred}$ is the task-specific rating prediction loss, and $L_{recon}$ is the reconstruction loss.
 
+### [TaNP](https://www.notion.so/Task-adaptive-Neural-Process-for-User-Cold-Start-Recommendation-dfbacbc2960e4e49a46007e768f069c3)
+
+User cold-start recommendation is a long-standing challenge for recommender systems due to the fact that only a few interactions of cold-start users can be exploited. Recent studies seek to address this challenge from the perspective of meta learning, and most of them follow a manner of parameter initialization, where the model parameters can be learned by a few steps of gradient updates. While these gradient-based meta-learning models achieve promising performances to some extent, a fundamental problem of them is how to adapt the global knowledge learned from previous tasks for the recommendations of cold-start users more effectively.
+
+In this paper, we develop a novel meta-learning recommender called task-adaptive neural process (TaNP). TaNP is a new member of the neural process family, where making recommendations for each user is associated with a corresponding stochastic process. TaNP directly maps the observed interactions of each user to a predictive distribution, sidestepping some training issues in gradient-based meta-learning models. More importantly, to balance the trade-off between model capacity and adaptation reliability, we introduce a novel task-adaptive mechanism. It enables our model to learn the relevance of different tasks and customize the global knowledge to the task-related decoder parameters for estimating user preferences. We validate TaNP on multiple benchmark datasets in different experimental settings. Empirical results demonstrate that TaNP yields consistent improvements over several state-of-the-art meta-learning recommenders.
+
+Recent studies seek to address this challenge from the perspective of meta learning, and most of them follow a manner of parameter initialization, where the model parameters can be learned by a few steps of gradient updates. While these gradient-based meta-learning models achieve promising performances to some extent, a fundamental problem of them is how to adapt the global knowledge learned from previous tasks for the recommendations of cold-start users more effectively.
+
+TaNP directly maps the observed interactions of each user to a predictive distribution, sidestepping some training issues in gradient-based meta-learning models. More importantly, to balance the trade-off between model capacity and adaptation reliability, TaNP uses a novel task-adaptive mechanism. It enables this model to learn the relevance of different tasks and customize the global knowledge to the task-related decoder parameters for estimating user preferences.
+
+**Background**
+
+Inspired by the huge progress on few-shot learning and meta learning, there emerge some promising works on solving cold-start problems from the perspective of meta learning, where making recommendations for one user is regarded as a single task.
+
+In the training phase, they try to derive the global knowledge across different tasks as a strong generalization prior. When a cold-start user comes in the test phase, the personalized recommendation for her/him can be predicted with only a few interacted items are available, but does so by using the global knowledge already learned.
+
+**Model**
+
+As shown in the above figure, tasks 𝑎 and 𝑐 share the transferable knowledge of recommendations, since user 𝑎 and user 𝑐 express similar purchase intentions, while task 𝑏 is largely different from them. Therefore, learning the relevance of different tasks is an important step in adapting the global knowledge for the recommendations of cold-start users more effectively.
+
+TaNP includes the encoder $ℎ_\theta$, the customization module (task identity network $𝑚_\phi$ and global pool 𝑨) and the adaptive decoder $𝑔_{\omega𝑖}$. Both of $𝑆_𝑖$ and $\tau_𝑖$ are encoded by $ℎ_\theta$ to generate the variational prior and posterior, respectively. The final task embedding $𝒐_𝑖$ learned from the customized module is used to modulate the model parameters of $𝑔_{\omega𝑖} \cdot 𝒛_𝑖$ sampled from $𝑞(𝒛_𝑖|\tau_𝑖)$ is concatenated with $𝒙_{𝑖,𝑗}$ to predict $\hat{𝑦}_{𝑖,𝑗}$ via $𝑔_{\omega𝑖}$.
+
+![The framework of TaNP in the training phase.](/img/content-concepts-raw-cold-start-untitled-15.png)
+
+The framework of TaNP in the training phase.
+
+A meta-learning recommender is first learned on each support set (learning procedure) and is then updated according to the prediction loss over multiple query sets (learning-to-learn procedure). Through the guide of the second procedure in many iterations, this meta-learning model can derive the global knowledge across different tasks and adapts such knowledge well for a new task $\tau_𝑖$ with only $𝑆_𝑖$ available.
+
+![Untitled](/img/content-concepts-raw-cold-start-untitled-16.png)
+
+### [CATN](https://www.notion.so/CATN-Cross-Domain-Recommendation-for-Cold-Start-Users-via-Aspect-Transfer-Network-0c624a2e19904d5a9561faf77f272796)
+
+In a large recommender system, the products (or items) could be in many different categories or domains. Given two relevant domains (e.g., Book and Movie), users may have interactions with items in one domain but not in the other domain. To the latter, these users are considered as cold-start users. How to effectively transfer users' preferences based on their interactions from one domain to the other relevant domain, is the key issue in cross-domain recommendation. Inspired by the advances made in review-based recommendation, we propose to model user preference transfer at aspect-level derived from reviews. To this end, we propose a cross-domain recommendation framework via aspect transfer network for cold-start users (named CATN).
+
+![Untitled](/img/content-concepts-raw-cold-start-untitled-17.png)
+
+CATN is devised to extract multiple aspects for each user and each item from their review documents, and learn aspect correlations across domains with an attention mechanism. In addition, we further exploit auxiliary reviews from like-minded users to enhance a user's aspect representations. Then, an end-to-end optimization framework is utilized to strengthen the robustness of our model. On real-world datasets, the proposed CATN outperforms SOTA models significantly in terms of rating prediction accuracy. Further analysis shows that our model is able to reveal user aspect connections across domains at a fine level of granularity, making the recommendation explainable.
+
+### [Two-Level Bandit](https://www.notion.so/Improved-Cold-Start-Recommendation-via-Two-Level-Bandit-Algorithms-4d5d0dfdaed2416ab36ac81c9420850c)
+
+### [KGPL](https://www.notion.so/Alleviating-Cold-Start-Problems-in-Recommendation-through-Pseudo-Labelling-over-Knowledge-Graph-8947eb4058564c269748254e8dbbfe1d)
+
+Solving cold-start problems is indispensable to provide meaningful recommendation results for new users and items. Under sparsely observed data, unobserved user-item pairs are also a vital source for distilling latent users’ information needs. Most present works leverage unobserved samples for extracting negative signals. However, such an optimisation strategy can lead to biased results toward already popular items by frequently handling new items as negative instances. In this study, we tackle the cold-start problems for new users/items by appropriately leveraging unobserved samples. We propose a knowledge graph (KG)-aware recommender based on graph neural networks, which augments labelled samples through pseudo-labelling. Our approach aggressively employs unobserved samples as positive instances and brings new items into the spotlight. To avoid exhaustive label assignments to all possible pairs of users and items, we exploit a KG for selecting probably positive items for each user. We also utilise an improved negative sampling strategy and thereby suppress the exacerbation of popularity biases. Through experiments, we demonstrate that our approach achieves improvements over the state-of-the-art KG-aware recommenders in a variety of scenarios; in particular, our methodology successfully improves recommendation performance for cold-start users/items.
+
+### MetaTL
+
+A fundamental challenge for sequential recommenders is to capture the sequential patterns of users toward modeling how users transit among items. In many practical scenarios, however, there are a great number of cold-start users with only minimal logged interactions. As a result, existing sequential recommendation models will lose their predictive power due to the difficulties in learning sequential patterns over users with only limited interactions. In this work, we aim to improve sequential recommendation for cold-start users with a novel framework named MetaTL, which learns to model the transition patterns of users through meta-learning.
+
+Specifically, the proposed MetaTL:
+
+1. formulates sequential recommendation for cold-start users as a few-shot learning problem;
+2. extracts the dynamic transition patterns among users with a translation-based architecture; and
+3. adopts meta transitional learning to enable fast learning for cold-start users with only limited interactions, leading to accurate inference of sequential interactions.
+
+**Background**
+
+One of the first approaches for sequential recommendation is the use of Markov Chains to model the transitions of users among items. More recently, TransRec embeds items in a “transition space” and learns a translation vector for each user. With the advance in neural networks, many different neural structures including Recurrent Neural Networks, Convolutional Neural Networks, Transformers and Graph Neural Networks, have been adopted to model the dynamic preferences of users over their behavior sequences. While these methods aim to improve the overall performance via representation learning for sequences, they suffer from weak prediction power for cold-start users with short behavior sequences.
+
+This line of research aims to learn a model which can adapt and generalize to new tasks and new environments with a few training samples. To achieve the goal of “learning-to-learn”, there are three types of different approaches. Metric-based methods are based on a similar idea to the nearest neighbors algorithm with a well-designed metric or distance function, prototypical networks or Siamese Neural Network. Model-based methods usually perform a rapid parameter update with an internal architecture or are controlled by another meta-learner model. As for the optimization-based approaches, by adjusting the optimization algorithm, the models can be efficiently updated with a few examples.
+
+MetaRec proposes a meta-learning strategy to learn user-specific logistic regression. There are also methods including MetaCF, Warm-up and MeLU, adopting Model-Agnostic Meta-Learning (MAML) methods to learn a model to achieve fast adaptation for cold-start users.
+
+cold-start sequential recommendation targets a setting where no additional auxiliary knowledge can be accessed due to privacy issues, and more importantly, the user-item interactions are sequentially dependent. A user’s preferences and tastes may change over time and such dynamics are of great significance in sequential recommendation. Hence, it is necessary to develop a new sequential recommendation framework that can distill short-range item transitional dynamics, and make fast adaptation to those cold-start users with limited user-item interactions.
+
+**Model**
+
+Let $I = \{𝑖_1,𝑖_2, \dots,𝑖_𝑃\}$ and $U = \{u_1,u_2, \dots,u_G\}$ represent the item set and user set in the platform respectively. Each item is mapped to a trainable embedding associated with its ID. There is no auxiliary information for users or items. In sequential recommendation, given the sequence of items ${𝑆𝑒𝑞}_𝑢 = (𝑖_{𝑢,1},𝑖_{𝑢,2}, \dots,𝑖_{𝑢,𝑛})$ that user 𝑢 has interacted with in chronological order, the model aims to infer the next interesting item $𝑖_{𝑢,𝑛+1}$. That is to say, we need to predict the preference score for each candidate item based on ${𝑆𝑒𝑞}_𝑢$ and thus recommend the top-N items with the highest scores.
+
+In our task, we train the model on $U_{𝑡𝑟𝑎𝑖𝑛}$, which contains users with various numbers of logged interactions. Then given 𝑢 in a separate test set $U_{𝑡𝑒𝑠𝑡},\ U_{𝑡𝑟𝑎𝑖𝑛} ∩ U_{𝑡𝑒𝑠𝑡} = \phi$, the model can quickly learn user transition patterns according to the 𝐾 initial interactions and thus infer the sequential interactions. Note that the size of a user’s initial interactions (i.e., 𝐾) is assumed to be a small number (e.g., 2, 3 or 4) considering the cold-start scenario.
+
+![Untitled](/img/content-concepts-raw-cold-start-untitled-18.png)
+
+Meta-learning aims to learn a model which can adapt to new tasks (i.e., new users) with a few training samples. To enable meta-learning in sequential recommendation for cold-start users, we formulate training a sequential recommender as solving a new few-shot learning problem (i.e., meta-testing task) by training on many sampled similar tasks (i.e., the meta-training tasks). Each task includes a 𝑠𝑢𝑝𝑝𝑜𝑟𝑡 set S and a 𝑞𝑢𝑒𝑟𝑦 set Q, which can be regarded as the “training” set and “testing” set of the task. For example, while constructing a task $T_𝑛$, given user $𝑢_𝑗$ with initial interactions in sequence (e.g., $𝑖_𝐴 \rightarrow_{u_j} i_B \rightarrow_{u_j} i_C$), we will have the a set of transition pairs $\{ 𝑖_𝐴 \rightarrow_{u_j} i_B, i_B \rightarrow_{u_j} i_C \}$ as support and predict for the query $i_C \rightarrow_{u_j} ?$.
+
+When testing on a new user $𝑢_{𝑡𝑒𝑠𝑡}$, we will firstly construct the support set $S_{𝑡𝑒𝑠𝑡}$ based on the user’s initial interactions. The model $𝑓_\theta$ is fine-tuned with all the transition pairs in $S_{𝑡𝑒𝑠𝑡}$ and updated to $𝑓_{\theta_{𝑡𝑒𝑠𝑡}'}$ , which can be used to generate the updated $tr_{𝑡𝑒𝑠𝑡}$. Given the test query $𝑖_𝑜 \rightarrow_{u_{test}}?$, the preference score for item $𝑖_𝑝$ (as the next interaction) is calculated as −$∥i_𝑜 + tr_{𝑡𝑒𝑠𝑡} − i_𝑝 ∥^2$.
+
 ### DaRE
 
 Assume two datasets, $𝐷^𝑠$ and $𝐷^𝑡$, be the information from the source and target domains, respectively. Each dataset consists of tuples, $(𝑢,𝑖,𝑦_{𝑢,𝑖}, 𝑟_{𝑢,𝑖})$ which represents an individual review $𝑟_{𝑢,𝑖}$ written by a user 𝑢 for item 𝑖 with a rating $𝑦_{𝑢,𝑖}$. The two datasets take the form of $D^s = (𝑢^s,𝑖^s,𝑦^s_{𝑢,𝑖}, 𝑟^s_{𝑢,𝑖})$ and $D^t = (𝑢^t,𝑖^t,𝑦^t_{𝑢,𝑖}, 𝑟^t_{𝑢,𝑖})$, respectively. The goal of our task is to predict an accurate rating score $y^t_{u,i}$ using $𝐷^𝑠$ and a partial set of $𝐷^t$.
 
-![Untitled](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-13.png)
+![Untitled](/img/content-concepts-raw-cold-start-untitled-19.png)
 
 The training phase starts with review embedding layers followed by three types of feature extractors, ${𝐹𝐸}^𝑠$, ${𝐹𝐸}^c$, and ${𝐹𝐸}^t$, named source, common, and target, for the separation of domain-specific, domain-common knowledge. Integrated with domain discriminator, three FEs are trained independently for the parallel extraction of domain-specific $𝑂^𝑠$, $𝑂^𝑡$ and domain-common knowledge $𝑂^{𝑐,𝑠}$, $𝑂^{𝑐,𝑡}$.
 
-![The architecture of a single review feature extractor. DaRE has three parallel review feature extractors of the same architecture with different inputs and parameters.](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-14.png)
+![The architecture of a single review feature extractor. DaRE has three parallel review feature extractors of the same architecture with different inputs and parameters.](/img/content-concepts-raw-cold-start-untitled-20.png)
 
 The architecture of a single review feature extractor. DaRE has three parallel review feature extractors of the same architecture with different inputs and parameters.
 
-![Untitled](/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled-15.png)
+![Untitled](/img/content-concepts-raw-cold-start-untitled-21.png)
 
 Then, for each domain, the review encoder generates a single vector $𝐸^𝑠$, $𝐸^𝑡$ with extracted features 𝑂 by aligning them with individual review $𝐼^𝑠$, $𝐼^𝑡$. Finally, the regressor predicts an accurate rating that the user will give on an item. Here, shared parameters across two domains are common FE and a domain discriminator.
 

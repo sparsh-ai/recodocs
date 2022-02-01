@@ -125,7 +125,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-298": {
+  "/docs-d76": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -133,9 +133,17 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-basics-challenges-20-f-5b1"
   },
+  "/docs/concept-basics/session-based-recommenders-3e6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-session-based-recommenders-44-a-d96"
+  },
   "/docs/concept-basics/types-of-recommender-systems-5b7": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-basics-types-of-recommender-systemscd-7-f87"
+  },
+  "/docs/concept-extras/bias-&-fairness-8c0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-bias-fairness-08-d-cc2"
   },
   "/docs/concept-extras/case-studies/1mg-prod2vec-9e2": {
     "component": "component---theme-doc-item-178-a40",
@@ -208,6 +216,10 @@
   "/docs/concept-extras/case-studies/walmart-model-selection-b7a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-case-studies-walmart-model-selectionb-98-007"
+  },
+  "/docs/concept-extras/cold-start-c66": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-cold-startfd-6-f08"
   },
   "/docs/concept-extras/data-science-cad": {
     "component": "component---theme-doc-item-178-a40",
@@ -492,10 +504,6 @@
   "/docs/projects-c4a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-projects-1-dc-4e1"
-  },
-  "/docs/tutorials/addressing-the-cold-start-problem-675": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-addressing-the-cold-start-problem-7-cd-cf8"
   },
   "/docs/tutorials/data-science-bookcamp-f86": {
     "component": "component---theme-doc-item-178-a40",

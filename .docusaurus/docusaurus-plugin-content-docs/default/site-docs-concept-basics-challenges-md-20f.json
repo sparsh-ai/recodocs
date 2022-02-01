@@ -17,7 +17,7 @@
     "permalink": "/docs/intro"
   },
   "next": {
-    "title": "Types of Recommender Systems",
-    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+    "title": "Session-based Recommenders",
+    "permalink": "/docs/concept-basics/session-based-recommenders"
   }
 }
