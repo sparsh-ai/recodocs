@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+  "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+  "title": "Real-time event capturing with Kafka and MongoDB",
+  "description": "| | |",
+  "source": "@site/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+  "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
+  },
+  "next": {
+    "title": "Session-based Recommendation with Graph Neural Networks",
+    "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
+  }
+}

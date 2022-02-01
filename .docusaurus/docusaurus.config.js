@@ -14,10 +14,9 @@ export default {
       {
         "docs": {
           "sidebarPath": "/content/docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          "editUrl": "https://github.com/recohut/docs/docs",
           "remarkPlugins": [
-            null,
-            {}
+            null
           ],
           "rehypePlugins": [
             null
@@ -25,7 +24,7 @@ export default {
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/recohut/docs/blog/"
         },
         "theme": {
           "customCss": "/content/docs/src/css/custom.css"
@@ -43,7 +42,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Recohut Docs",
+      "title": "Recohut",
       "logo": {
         "alt": "Recohut Logo",
         "src": "img/logo.svg"

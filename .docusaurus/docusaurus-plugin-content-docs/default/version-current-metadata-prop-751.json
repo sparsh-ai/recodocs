@@ -399,10 +399,54 @@
             "docId": "models/xdeepfm"
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "Tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Real-time event capturing with Kafka and MongoDB",
+            "href": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+            "docId": "tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+          },
+          {
+            "type": "link",
+            "label": "Session-based Recommendation with Graph Neural Networks",
+            "href": "/docs/tutorials/session-based-recommendation-with-graph-neural-net",
+            "docId": "tutorials/session-based-recommendation-with-graph-neural-net"
+          },
+          {
+            "type": "link",
+            "label": "TensorFlow 2 Reinforcement Learning Cookbook",
+            "href": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
+            "docId": "tutorials/tensorflow-2-reinforcement-learning-cookbook"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Datasets",
+        "href": "/docs/datasets",
+        "docId": "datasets"
+      },
+      {
+        "type": "link",
+        "label": "Projects",
+        "href": "/docs/projects",
+        "docId": "projects"
       }
     ]
   },
   "docs": {
+    "datasets": {
+      "id": "datasets",
+      "title": "Datasets",
+      "description": "| Title | Link | Description |",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Recohut Intro",
@@ -785,6 +829,30 @@
       "id": "models/xdeepfm",
       "title": "xDeepFM",
       "description": "xDeepFM stands for Extreme Deep Factorization Machines.",
+      "sidebar": "tutorialSidebar"
+    },
+    "projects": {
+      "id": "projects",
+      "title": "Projects",
+      "description": "| Project Id | Title | Links |",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/real-time-event-capturing-with-kafka-and-mongodb": {
+      "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+      "title": "Real-time event capturing with Kafka and MongoDB",
+      "description": "| | |",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/session-based-recommendation-with-graph-neural-net": {
+      "id": "tutorials/session-based-recommendation-with-graph-neural-net",
+      "title": "Session-based Recommendation with Graph Neural Networks",
+      "description": "Session-based recommendation tasks are performed based on the user's anonymous historical behavior sequence and implicit feedback data, such as clicks, browsing, purchasing, etc., rather than rating or comment data. The primary aim is to predict the next behavior based on a sequence of the historical sequence of the session. Session-based recommendation aims to predict which item a user will click next, solely based on the user’s current sequential session data without access to the long-term preference profile.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/tensorflow-2-reinforcement-learning-cookbook": {
+      "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
+      "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+      "description": "Process flow",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
+  "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
+  "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+  "description": "Process flow",
+  "source": "@site/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tensorflow-2-reinforcement-learning-cookbook",
+  "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Session-based Recommendation with Graph Neural Networks",
+    "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
+  },
+  "next": {
+    "title": "Datasets",
+    "permalink": "/docs/datasets"
+  }
+}

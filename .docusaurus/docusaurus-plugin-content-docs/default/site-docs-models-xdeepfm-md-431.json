@@ -7,7 +7,7 @@
   "sourceDirName": "models",
   "slug": "/models/xdeepfm",
   "permalink": "/docs/models/xdeepfm",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/xdeepfm.md",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/xdeepfm.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
@@ -15,5 +15,9 @@
   "previous": {
     "title": "Word2vec",
     "permalink": "/docs/models/word2vec"
+  },
+  "next": {
+    "title": "Real-time event capturing with Kafka and MongoDB",
+    "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
   }
 }

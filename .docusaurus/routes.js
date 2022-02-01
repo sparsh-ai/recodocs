@@ -100,8 +100,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','129'),
+    component: ComponentCreator('/docs','2b0'),
     routes: [
+      {
+        path: '/docs/datasets',
+        component: ComponentCreator('/docs/datasets','9a1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','99a'),
@@ -483,6 +489,30 @@ export default [
       {
         path: '/docs/models/xdeepfm',
         component: ComponentCreator('/docs/models/xdeepfm','8bf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/projects',
+        component: ComponentCreator('/docs/projects','c4a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb',
+        component: ComponentCreator('/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb','852'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/session-based-recommendation-with-graph-neural-net',
+        component: ComponentCreator('/docs/tutorials/session-based-recommendation-with-graph-neural-net','fda'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook',
+        component: ComponentCreator('/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook','646'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

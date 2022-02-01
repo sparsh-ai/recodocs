@@ -1,0 +1,23 @@
+{
+  "unversionedId": "datasets",
+  "id": "datasets",
+  "title": "Datasets",
+  "description": "| Title | Link | Description |",
+  "source": "@site/docs/datasets.mdx",
+  "sourceDirName": ".",
+  "slug": "/datasets",
+  "permalink": "/docs/datasets",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/datasets.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+    "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+  },
+  "next": {
+    "title": "Projects",
+    "permalink": "/docs/projects"
+  }
+}

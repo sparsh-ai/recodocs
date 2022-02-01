@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/session-based-recommendation-with-graph-neural-net",
+  "id": "tutorials/session-based-recommendation-with-graph-neural-net",
+  "title": "Session-based Recommendation with Graph Neural Networks",
+  "description": "Session-based recommendation tasks are performed based on the user's anonymous historical behavior sequence and implicit feedback data, such as clicks, browsing, purchasing, etc., rather than rating or comment data. The primary aim is to predict the next behavior based on a sequence of the historical sequence of the session. Session-based recommendation aims to predict which item a user will click next, solely based on the user’s current sequential session data without access to the long-term preference profile.",
+  "source": "@site/docs/tutorials/session-based-recommendation-with-graph-neural-net.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/session-based-recommendation-with-graph-neural-net",
+  "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/session-based-recommendation-with-graph-neural-net.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Real-time event capturing with Kafka and MongoDB",
+    "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+  },
+  "next": {
+    "title": "Datasets",
+    "permalink": "/docs/datasets"
+  }
+}

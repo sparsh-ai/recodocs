@@ -4,7 +4,7 @@
 
 const math = require('remark-math');
 const katex = require('rehype-katex');
-const oembed = require('@agentofuser/remark-oembed')
+// const oembed = require('@agentofuser/remark-oembed')
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -27,9 +27,8 @@ const config = {
       ({
           docs: {
               sidebarPath: require.resolve('./sidebars.js'),
-              // Please change this to your repo.
-              editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-              remarkPlugins: [math,oembed],
+              editUrl: 'https://github.com/recohut/docs/docs',
+              remarkPlugins: [math],
               rehypePlugins: [katex],
             //   lastVersion: 'current',
             //   versions: {
@@ -43,7 +42,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/recohut/docs/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -64,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Recohut Docs',
+        title: 'Recohut',
         logo: {
           alt: 'Recohut Logo',
           src: 'img/logo.svg',

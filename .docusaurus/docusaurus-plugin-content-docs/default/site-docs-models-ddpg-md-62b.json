@@ -7,7 +7,7 @@
   "sourceDirName": "models",
   "slug": "/models/ddpg",
   "permalink": "/docs/models/ddpg",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/ddpg.md",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/ddpg.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},

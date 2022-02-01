@@ -1,0 +1,19 @@
+{
+  "unversionedId": "projects",
+  "id": "projects",
+  "title": "Projects",
+  "description": "| Project Id | Title | Links |",
+  "source": "@site/docs/projects.mdx",
+  "sourceDirName": ".",
+  "slug": "/projects",
+  "permalink": "/docs/projects",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/projects.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Datasets",
+    "permalink": "/docs/datasets"
+  }
+}

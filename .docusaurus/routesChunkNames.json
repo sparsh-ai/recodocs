@@ -125,9 +125,13 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-129": {
+  "/docs-2b0": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/datasets-9a1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-datasets-46-d-b64"
   },
   "/docs/intro-99a": {
     "component": "component---theme-doc-item-178-a40",
@@ -384,6 +388,22 @@
   "/docs/models/xdeepfm-8bf": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-xdeepfm-431-6cb"
+  },
+  "/docs/projects-c4a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-projects-1-dc-4e1"
+  },
+  "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb-852": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-real-time-event-capturing-with-kafka-and-mongodb-644-cdb"
+  },
+  "/docs/tutorials/session-based-recommendation-with-graph-neural-net-fda": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-session-based-recommendation-with-graph-neural-net-206-6b6"
+  },
+  "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook-646": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-tensorflow-2-reinforcement-learning-cookbook-4-e-2-138"
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",

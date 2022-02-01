@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "datasets",
+              "path": "/docs/datasets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -328,6 +333,26 @@
             {
               "id": "models/xdeepfm",
               "path": "/docs/models/xdeepfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects",
+              "path": "/docs/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+              "path": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/session-based-recommendation-with-graph-neural-net",
+              "path": "/docs/tutorials/session-based-recommendation-with-graph-neural-net",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
+              "path": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
               "sidebar": "tutorialSidebar"
             }
           ]
