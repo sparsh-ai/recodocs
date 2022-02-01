@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/spotify-contextual-bandits",
+  "id": "concept-extras/case-studies/spotify-contextual-bandits",
+  "title": "Spotify Contextual Bandits",
+  "description": "Read more in this paper",
+  "source": "@site/docs/concept-extras/case-studies/spotify-contextual-bandits.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/spotify-contextual-bandits",
+  "permalink": "/docs/concept-extras/case-studies/spotify-contextual-bandits",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/spotify-contextual-bandits.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scribd Real-time",
+    "permalink": "/docs/concept-extras/case-studies/scribd-real-time"
+  },
+  "next": {
+    "title": "Spotify RL",
+    "permalink": "/docs/concept-extras/case-studies/spotify-rl"
+  }
+}

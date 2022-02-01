@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/walmart-model-selection",
+  "id": "concept-extras/case-studies/walmart-model-selection",
+  "title": "Walmart Model Selection",
+  "description": "In this paper, Walmart researchers briefly discussed their approach and experiment details.",
+  "source": "@site/docs/concept-extras/case-studies/walmart-model-selection.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/walmart-model-selection",
+  "permalink": "/docs/concept-extras/case-studies/walmart-model-selection",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/walmart-model-selection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UberEats Personalization",
+    "permalink": "/docs/concept-extras/case-studies/ubereats-personalization"
+  },
+  "next": {
+    "title": "Models",
+    "permalink": "/docs/models/"
+  }
+}

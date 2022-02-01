@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concept-extras/incremental-learning"
+    "title": "Walmart Model Selection",
+    "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
   },
   "next": {
     "title": "A3C",

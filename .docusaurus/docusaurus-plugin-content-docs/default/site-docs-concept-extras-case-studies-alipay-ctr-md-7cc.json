@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/alipay-ctr",
+  "id": "concept-extras/case-studies/alipay-ctr",
+  "title": "Alipay CTR",
+  "description": "An online A/B testing was conducted in the production environment of Alipay for 10 days. The candidate items recommended to users include cash reward, coupons, prizes and member credits. The goal is to increase the CTR of the candidate items while constraining the total cost due to limited budget. The recommendation system serves at the scale of tens of millions of users in real traffic, hence the traffic is very expensive in the business view.",
+  "source": "@site/docs/concept-extras/case-studies/alipay-ctr.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/alipay-ctr",
+  "permalink": "/docs/concept-extras/case-studies/alipay-ctr",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/alipay-ctr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Airbnb Experiences",
+    "permalink": "/docs/concept-extras/case-studies/airbnb-experiences"
+  },
+  "next": {
+    "title": "Doordash Contextual Bandit",
+    "permalink": "/docs/concept-extras/case-studies/doordash-contextual-bandit"
+  }
+}

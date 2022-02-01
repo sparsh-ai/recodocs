@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/stitchfix-multi-armed-bandit",
+  "id": "concept-extras/case-studies/stitchfix-multi-armed-bandit",
+  "title": "StitchFix Multi-armed Bandit",
+  "description": "Read more on official blog",
+  "source": "@site/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/stitchfix-multi-armed-bandit",
+  "permalink": "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spotify RL",
+    "permalink": "/docs/concept-extras/case-studies/spotify-rl"
+  },
+  "next": {
+    "title": "Taobao BST",
+    "permalink": "/docs/concept-extras/case-studies/taobao-bst"
+  }
+}

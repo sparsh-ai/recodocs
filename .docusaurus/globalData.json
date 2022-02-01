@@ -16,6 +16,96 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/case-studies/1mg-prod2vec",
+              "path": "/docs/concept-extras/case-studies/1mg-prod2vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/airbnb-experiences",
+              "path": "/docs/concept-extras/case-studies/airbnb-experiences",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/alipay-ctr",
+              "path": "/docs/concept-extras/case-studies/alipay-ctr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/doordash-contextual-bandit",
+              "path": "/docs/concept-extras/case-studies/doordash-contextual-bandit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/etsy-personalization",
+              "path": "/docs/concept-extras/case-studies/etsy-personalization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/huawei-appgallery",
+              "path": "/docs/concept-extras/case-studies/huawei-appgallery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/linkedin-glmix",
+              "path": "/docs/concept-extras/case-studies/linkedin-glmix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/marketcloud-real-time",
+              "path": "/docs/concept-extras/case-studies/marketcloud-real-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/netflix-personalize-images",
+              "path": "/docs/concept-extras/case-studies/netflix-personalize-images",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/pinterest-multi-task-learning",
+              "path": "/docs/concept-extras/case-studies/pinterest-multi-task-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/santander-banking-products",
+              "path": "/docs/concept-extras/case-studies/santander-banking-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/scribd-real-time",
+              "path": "/docs/concept-extras/case-studies/scribd-real-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/spotify-contextual-bandits",
+              "path": "/docs/concept-extras/case-studies/spotify-contextual-bandits",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/spotify-rl",
+              "path": "/docs/concept-extras/case-studies/spotify-rl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/stitchfix-multi-armed-bandit",
+              "path": "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/taobao-bst",
+              "path": "/docs/concept-extras/case-studies/taobao-bst",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/ubereats-personalization",
+              "path": "/docs/concept-extras/case-studies/ubereats-personalization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/case-studies/walmart-model-selection",
+              "path": "/docs/concept-extras/case-studies/walmart-model-selection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-extras/incremental-learning",
               "path": "/docs/concept-extras/incremental-learning",
               "sidebar": "tutorialSidebar"

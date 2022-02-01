@@ -100,11 +100,119 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','e66'),
+    component: ComponentCreator('/docs','ead'),
     routes: [
       {
         path: '/docs/concept-basics/types-of-recommender-systems',
         component: ComponentCreator('/docs/concept-basics/types-of-recommender-systems','5b7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/1mg-prod2vec',
+        component: ComponentCreator('/docs/concept-extras/case-studies/1mg-prod2vec','9e2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/airbnb-experiences',
+        component: ComponentCreator('/docs/concept-extras/case-studies/airbnb-experiences','4cd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/alipay-ctr',
+        component: ComponentCreator('/docs/concept-extras/case-studies/alipay-ctr','850'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/doordash-contextual-bandit',
+        component: ComponentCreator('/docs/concept-extras/case-studies/doordash-contextual-bandit','32a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/etsy-personalization',
+        component: ComponentCreator('/docs/concept-extras/case-studies/etsy-personalization','d90'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/huawei-appgallery',
+        component: ComponentCreator('/docs/concept-extras/case-studies/huawei-appgallery','9bd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/linkedin-glmix',
+        component: ComponentCreator('/docs/concept-extras/case-studies/linkedin-glmix','5ae'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/marketcloud-real-time',
+        component: ComponentCreator('/docs/concept-extras/case-studies/marketcloud-real-time','d26'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/netflix-personalize-images',
+        component: ComponentCreator('/docs/concept-extras/case-studies/netflix-personalize-images','62a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/pinterest-multi-task-learning',
+        component: ComponentCreator('/docs/concept-extras/case-studies/pinterest-multi-task-learning','9f7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/santander-banking-products',
+        component: ComponentCreator('/docs/concept-extras/case-studies/santander-banking-products','05a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/scribd-real-time',
+        component: ComponentCreator('/docs/concept-extras/case-studies/scribd-real-time','8e4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/spotify-contextual-bandits',
+        component: ComponentCreator('/docs/concept-extras/case-studies/spotify-contextual-bandits','54c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/spotify-rl',
+        component: ComponentCreator('/docs/concept-extras/case-studies/spotify-rl','2f5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit',
+        component: ComponentCreator('/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit','24c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/taobao-bst',
+        component: ComponentCreator('/docs/concept-extras/case-studies/taobao-bst','3dd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/ubereats-personalization',
+        component: ComponentCreator('/docs/concept-extras/case-studies/ubereats-personalization','d7a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/case-studies/walmart-model-selection',
+        component: ComponentCreator('/docs/concept-extras/case-studies/walmart-model-selection','b7a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

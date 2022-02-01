@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/marketcloud-real-time",
+  "id": "concept-extras/case-studies/marketcloud-real-time",
+  "title": "MarketCloud Real-time",
+  "description": "Model Training and Deployment",
+  "source": "@site/docs/concept-extras/case-studies/marketcloud-real-time.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/marketcloud-real-time",
+  "permalink": "/docs/concept-extras/case-studies/marketcloud-real-time",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/marketcloud-real-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LinkedIn GLMix",
+    "permalink": "/docs/concept-extras/case-studies/linkedin-glmix"
+  },
+  "next": {
+    "title": "Netflix Personalize Images",
+    "permalink": "/docs/concept-extras/case-studies/netflix-personalize-images"
+  }
+}

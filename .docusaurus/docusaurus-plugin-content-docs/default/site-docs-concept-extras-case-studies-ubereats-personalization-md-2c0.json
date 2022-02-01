@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/ubereats-personalization",
+  "id": "concept-extras/case-studies/ubereats-personalization",
+  "title": "UberEats Personalization",
+  "description": "Food Discovery with Uber Eats: Recommending for the Marketplace",
+  "source": "@site/docs/concept-extras/case-studies/ubereats-personalization.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/ubereats-personalization",
+  "permalink": "/docs/concept-extras/case-studies/ubereats-personalization",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/ubereats-personalization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Taobao BST",
+    "permalink": "/docs/concept-extras/case-studies/taobao-bst"
+  },
+  "next": {
+    "title": "Walmart Model Selection",
+    "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
+  }
+}

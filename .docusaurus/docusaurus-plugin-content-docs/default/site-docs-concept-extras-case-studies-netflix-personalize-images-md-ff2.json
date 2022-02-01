@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/netflix-personalize-images",
+  "id": "concept-extras/case-studies/netflix-personalize-images",
+  "title": "Netflix Personalize Images",
+  "description": "Read here on Netflix's blog",
+  "source": "@site/docs/concept-extras/case-studies/netflix-personalize-images.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/netflix-personalize-images",
+  "permalink": "/docs/concept-extras/case-studies/netflix-personalize-images",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/netflix-personalize-images.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MarketCloud Real-time",
+    "permalink": "/docs/concept-extras/case-studies/marketcloud-real-time"
+  },
+  "next": {
+    "title": "Pinterest Multi-task Learning",
+    "permalink": "/docs/concept-extras/case-studies/pinterest-multi-task-learning"
+  }
+}

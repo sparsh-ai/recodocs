@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/pinterest-multi-task-learning",
+  "id": "concept-extras/case-studies/pinterest-multi-task-learning",
+  "title": "Pinterest Multi-task Learning",
+  "description": "Multi-task Learning for Related Products Recommendations at Pinterest",
+  "source": "@site/docs/concept-extras/case-studies/pinterest-multi-task-learning.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/pinterest-multi-task-learning",
+  "permalink": "/docs/concept-extras/case-studies/pinterest-multi-task-learning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/pinterest-multi-task-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Netflix Personalize Images",
+    "permalink": "/docs/concept-extras/case-studies/netflix-personalize-images"
+  },
+  "next": {
+    "title": "Santander Banking Products",
+    "permalink": "/docs/concept-extras/case-studies/santander-banking-products"
+  }
+}

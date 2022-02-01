@@ -125,13 +125,85 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-e66": {
+  "/docs-ead": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/concept-basics/types-of-recommender-systems-5b7": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-basics-types-of-recommender-systemscd-7-f87"
+  },
+  "/docs/concept-extras/case-studies/1mg-prod2vec-9e2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-1-mg-prod-2-vec-256-437"
+  },
+  "/docs/concept-extras/case-studies/airbnb-experiences-4cd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-airbnb-experiencese-42-b44"
+  },
+  "/docs/concept-extras/case-studies/alipay-ctr-850": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-alipay-ctr-7-cc-32d"
+  },
+  "/docs/concept-extras/case-studies/doordash-contextual-bandit-32a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-doordash-contextual-bandit-1-e-7-143"
+  },
+  "/docs/concept-extras/case-studies/etsy-personalization-d90": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-etsy-personalizationd-97-d1b"
+  },
+  "/docs/concept-extras/case-studies/huawei-appgallery-9bd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-huawei-appgalleryd-3-d-89d"
+  },
+  "/docs/concept-extras/case-studies/linkedin-glmix-5ae": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-linkedin-glmixdab-92a"
+  },
+  "/docs/concept-extras/case-studies/marketcloud-real-time-d26": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-marketcloud-real-time-4-c-6-a81"
+  },
+  "/docs/concept-extras/case-studies/netflix-personalize-images-62a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-netflix-personalize-imagesff-2-b34"
+  },
+  "/docs/concept-extras/case-studies/pinterest-multi-task-learning-9f7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-pinterest-multi-task-learningf-6-f-393"
+  },
+  "/docs/concept-extras/case-studies/santander-banking-products-05a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-santander-banking-productse-87-2e3"
+  },
+  "/docs/concept-extras/case-studies/scribd-real-time-8e4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-scribd-real-time-253-528"
+  },
+  "/docs/concept-extras/case-studies/spotify-contextual-bandits-54c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-spotify-contextual-banditsf-0-a-94b"
+  },
+  "/docs/concept-extras/case-studies/spotify-rl-2f5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-spotify-rl-29-e-512"
+  },
+  "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit-24c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-stitchfix-multi-armed-banditdec-f75"
+  },
+  "/docs/concept-extras/case-studies/taobao-bst-3dd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-taobao-bstb-30-44a"
+  },
+  "/docs/concept-extras/case-studies/ubereats-personalization-d7a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-ubereats-personalization-2-c-0-b81"
+  },
+  "/docs/concept-extras/case-studies/walmart-model-selection-b7a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-case-studies-walmart-model-selectionb-98-007"
   },
   "/docs/concept-extras/incremental-learning-a40": {
     "component": "component---theme-doc-item-178-a40",

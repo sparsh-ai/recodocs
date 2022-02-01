@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/huawei-appgallery",
+  "id": "concept-extras/case-studies/huawei-appgallery",
+  "title": "Huawei AppGallery",
+  "description": "Untitled",
+  "source": "@site/docs/concept-extras/case-studies/huawei-appgallery.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/huawei-appgallery",
+  "permalink": "/docs/concept-extras/case-studies/huawei-appgallery",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/huawei-appgallery.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etsy Personalization",
+    "permalink": "/docs/concept-extras/case-studies/etsy-personalization"
+  },
+  "next": {
+    "title": "LinkedIn GLMix",
+    "permalink": "/docs/concept-extras/case-studies/linkedin-glmix"
+  }
+}

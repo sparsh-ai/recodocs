@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/doordash-contextual-bandit",
+  "id": "concept-extras/case-studies/doordash-contextual-bandit",
+  "title": "Doordash Contextual Bandit",
+  "description": "Read here on Doordash's blog",
+  "source": "@site/docs/concept-extras/case-studies/doordash-contextual-bandit.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/doordash-contextual-bandit",
+  "permalink": "/docs/concept-extras/case-studies/doordash-contextual-bandit",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/doordash-contextual-bandit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alipay CTR",
+    "permalink": "/docs/concept-extras/case-studies/alipay-ctr"
+  },
+  "next": {
+    "title": "Etsy Personalization",
+    "permalink": "/docs/concept-extras/case-studies/etsy-personalization"
+  }
+}

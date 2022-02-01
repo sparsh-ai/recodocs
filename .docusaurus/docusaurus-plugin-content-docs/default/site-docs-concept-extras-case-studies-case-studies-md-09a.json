@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/case-studies",
+  "id": "concept-extras/case-studies/case-studies",
+  "title": "Case Studies",
+  "description": "Alipay CTR",
+  "source": "@site/docs/concept-extras/case-studies/case-studies.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/",
+  "permalink": "/docs/concept-extras/case-studies/",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/case-studies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Incremental Learning",
+    "permalink": "/docs/concept-extras/incremental-learning"
+  },
+  "next": {
+    "title": "1mg Prod2vec",
+    "permalink": "/docs/concept-extras/case-studies/1mg-prod2vec"
+  }
+}

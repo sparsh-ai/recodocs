@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/linkedin-glmix",
+  "id": "concept-extras/case-studies/linkedin-glmix",
+  "title": "LinkedIn GLMix",
+  "description": "A snapshot of the LinkedIn jobs homepage.",
+  "source": "@site/docs/concept-extras/case-studies/linkedin-glmix.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/linkedin-glmix",
+  "permalink": "/docs/concept-extras/case-studies/linkedin-glmix",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/linkedin-glmix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Huawei AppGallery",
+    "permalink": "/docs/concept-extras/case-studies/huawei-appgallery"
+  },
+  "next": {
+    "title": "MarketCloud Real-time",
+    "permalink": "/docs/concept-extras/case-studies/marketcloud-real-time"
+  }
+}

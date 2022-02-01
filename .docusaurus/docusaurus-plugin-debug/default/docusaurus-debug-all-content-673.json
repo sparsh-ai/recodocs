@@ -42,6 +42,420 @@
               }
             },
             {
+              "unversionedId": "concept-extras/case-studies/1mg-prod2vec",
+              "id": "concept-extras/case-studies/1mg-prod2vec",
+              "title": "1mg Prod2vec",
+              "description": "Gurgaon (India) based 1mg is an online pharmacy and healthcare platform that offers medicines, lab tests, and doctor consultations. Launched in 2013 as Healthkartplus, 1mg initially focussed on the alternative medicine space with AYUSH products. Over the years, it rebranded itself as 1mg which is an online pharmacy and healthcare platform that offers medicines, lab tests, and doctor consultations. Today, 1mg provides a wide range of healthcare services. 1mg also provides information on medicines. It facilitates lab tests at home. At present, the platform has about 2,000 tests and 120 verified labs listed and users can consult a doctor across 20 specialties. The company earns from its services like diagnostics, sale of medicines, preventive healthcare, and online consultations, as well as through native ads on its platform.",
+              "source": "@site/docs/concept-extras/case-studies/1mg-prod2vec.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/1mg-prod2vec",
+              "permalink": "/docs/concept-extras/case-studies/1mg-prod2vec",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/1mg-prod2vec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Incremental Learning",
+                "permalink": "/docs/concept-extras/incremental-learning"
+              },
+              "next": {
+                "title": "Airbnb Experiences",
+                "permalink": "/docs/concept-extras/case-studies/airbnb-experiences"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/airbnb-experiences",
+              "id": "concept-extras/case-studies/airbnb-experiences",
+              "title": "Airbnb Experiences",
+              "description": "Machine Learning-Powered Search Ranking of Airbnb Experiences",
+              "source": "@site/docs/concept-extras/case-studies/airbnb-experiences.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/airbnb-experiences",
+              "permalink": "/docs/concept-extras/case-studies/airbnb-experiences",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/airbnb-experiences.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1mg Prod2vec",
+                "permalink": "/docs/concept-extras/case-studies/1mg-prod2vec"
+              },
+              "next": {
+                "title": "Alipay CTR",
+                "permalink": "/docs/concept-extras/case-studies/alipay-ctr"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/alipay-ctr",
+              "id": "concept-extras/case-studies/alipay-ctr",
+              "title": "Alipay CTR",
+              "description": "An online A/B testing was conducted in the production environment of Alipay for 10 days. The candidate items recommended to users include cash reward, coupons, prizes and member credits. The goal is to increase the CTR of the candidate items while constraining the total cost due to limited budget. The recommendation system serves at the scale of tens of millions of users in real traffic, hence the traffic is very expensive in the business view.",
+              "source": "@site/docs/concept-extras/case-studies/alipay-ctr.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/alipay-ctr",
+              "permalink": "/docs/concept-extras/case-studies/alipay-ctr",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/alipay-ctr.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Airbnb Experiences",
+                "permalink": "/docs/concept-extras/case-studies/airbnb-experiences"
+              },
+              "next": {
+                "title": "Doordash Contextual Bandit",
+                "permalink": "/docs/concept-extras/case-studies/doordash-contextual-bandit"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/doordash-contextual-bandit",
+              "id": "concept-extras/case-studies/doordash-contextual-bandit",
+              "title": "Doordash Contextual Bandit",
+              "description": "Read here on Doordash's blog",
+              "source": "@site/docs/concept-extras/case-studies/doordash-contextual-bandit.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/doordash-contextual-bandit",
+              "permalink": "/docs/concept-extras/case-studies/doordash-contextual-bandit",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/doordash-contextual-bandit.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Alipay CTR",
+                "permalink": "/docs/concept-extras/case-studies/alipay-ctr"
+              },
+              "next": {
+                "title": "Etsy Personalization",
+                "permalink": "/docs/concept-extras/case-studies/etsy-personalization"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/etsy-personalization",
+              "id": "concept-extras/case-studies/etsy-personalization",
+              "title": "Etsy Personalization",
+              "description": "Two-sided marketplaces such as eBay, Etsy and Taobao have two distinct groups of customers: buyers who use the platform to seek the most relevant and interesting item to purchase and sellers who view the same platform as a tool to reach out to their audience and grow their business. Additionally, platforms have their own objectives ranging from growing both buyer and seller user bases to revenue maximization. It is not difficult to see that it would be challenging to obtain a globally favorable outcome for all parties. Taking the search experience as an example, any interventions are likely to impact either buyers or sellers unfairly to course correct for a greater perceived need.",
+              "source": "@site/docs/concept-extras/case-studies/etsy-personalization.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/etsy-personalization",
+              "permalink": "/docs/concept-extras/case-studies/etsy-personalization",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/etsy-personalization.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Doordash Contextual Bandit",
+                "permalink": "/docs/concept-extras/case-studies/doordash-contextual-bandit"
+              },
+              "next": {
+                "title": "Huawei AppGallery",
+                "permalink": "/docs/concept-extras/case-studies/huawei-appgallery"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/huawei-appgallery",
+              "id": "concept-extras/case-studies/huawei-appgallery",
+              "title": "Huawei AppGallery",
+              "description": "Untitled",
+              "source": "@site/docs/concept-extras/case-studies/huawei-appgallery.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/huawei-appgallery",
+              "permalink": "/docs/concept-extras/case-studies/huawei-appgallery",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/huawei-appgallery.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Etsy Personalization",
+                "permalink": "/docs/concept-extras/case-studies/etsy-personalization"
+              },
+              "next": {
+                "title": "LinkedIn GLMix",
+                "permalink": "/docs/concept-extras/case-studies/linkedin-glmix"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/linkedin-glmix",
+              "id": "concept-extras/case-studies/linkedin-glmix",
+              "title": "LinkedIn GLMix",
+              "description": "A snapshot of the LinkedIn jobs homepage.",
+              "source": "@site/docs/concept-extras/case-studies/linkedin-glmix.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/linkedin-glmix",
+              "permalink": "/docs/concept-extras/case-studies/linkedin-glmix",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/linkedin-glmix.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Huawei AppGallery",
+                "permalink": "/docs/concept-extras/case-studies/huawei-appgallery"
+              },
+              "next": {
+                "title": "MarketCloud Real-time",
+                "permalink": "/docs/concept-extras/case-studies/marketcloud-real-time"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/marketcloud-real-time",
+              "id": "concept-extras/case-studies/marketcloud-real-time",
+              "title": "MarketCloud Real-time",
+              "description": "Model Training and Deployment",
+              "source": "@site/docs/concept-extras/case-studies/marketcloud-real-time.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/marketcloud-real-time",
+              "permalink": "/docs/concept-extras/case-studies/marketcloud-real-time",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/marketcloud-real-time.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LinkedIn GLMix",
+                "permalink": "/docs/concept-extras/case-studies/linkedin-glmix"
+              },
+              "next": {
+                "title": "Netflix Personalize Images",
+                "permalink": "/docs/concept-extras/case-studies/netflix-personalize-images"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/netflix-personalize-images",
+              "id": "concept-extras/case-studies/netflix-personalize-images",
+              "title": "Netflix Personalize Images",
+              "description": "Read here on Netflix's blog",
+              "source": "@site/docs/concept-extras/case-studies/netflix-personalize-images.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/netflix-personalize-images",
+              "permalink": "/docs/concept-extras/case-studies/netflix-personalize-images",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/netflix-personalize-images.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MarketCloud Real-time",
+                "permalink": "/docs/concept-extras/case-studies/marketcloud-real-time"
+              },
+              "next": {
+                "title": "Pinterest Multi-task Learning",
+                "permalink": "/docs/concept-extras/case-studies/pinterest-multi-task-learning"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/pinterest-multi-task-learning",
+              "id": "concept-extras/case-studies/pinterest-multi-task-learning",
+              "title": "Pinterest Multi-task Learning",
+              "description": "Multi-task Learning for Related Products Recommendations at Pinterest",
+              "source": "@site/docs/concept-extras/case-studies/pinterest-multi-task-learning.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/pinterest-multi-task-learning",
+              "permalink": "/docs/concept-extras/case-studies/pinterest-multi-task-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/pinterest-multi-task-learning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Netflix Personalize Images",
+                "permalink": "/docs/concept-extras/case-studies/netflix-personalize-images"
+              },
+              "next": {
+                "title": "Santander Banking Products",
+                "permalink": "/docs/concept-extras/case-studies/santander-banking-products"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/santander-banking-products",
+              "id": "concept-extras/case-studies/santander-banking-products",
+              "title": "Santander Banking Products",
+              "description": "The goal of the bank is to predict which new products customers will purchase. The data starts on 2015–01–28, and has monthly records of the products each customer has, such as a credit card, savings account, etc. In addition, the dataset also records user personal data such as average income, age, gender, and so on. The monthly statistics are provided until 2015–05–28. Finally, the model predicts which additional products a customer will start using from the following month, 2016–06–28. Thus, the dataset spans 17 months from 2015–01–28 to 2016–05–28, and the output set contains only the timestamp corresponding to 2016–06–28. Models are therefore trained on sequences of 16 months to predict products acquired on their respective last month.",
+              "source": "@site/docs/concept-extras/case-studies/santander-banking-products.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/santander-banking-products",
+              "permalink": "/docs/concept-extras/case-studies/santander-banking-products",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/santander-banking-products.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pinterest Multi-task Learning",
+                "permalink": "/docs/concept-extras/case-studies/pinterest-multi-task-learning"
+              },
+              "next": {
+                "title": "Scribd Real-time",
+                "permalink": "/docs/concept-extras/case-studies/scribd-real-time"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/scribd-real-time",
+              "id": "concept-extras/case-studies/scribd-real-time",
+              "title": "Scribd Real-time",
+              "description": "Transformer based model architecture can be applied to recommendation applications as well but recommendation problems are a bit more complex than NLP domain so it needs to be adapted according to the business needs. Therefore, instead of predicting next word based on the past sequence of words, at Scribd, we are interested in predicting what user would like to read next based on rich user interaction history with multiple types of documents and multiple types of interactions, where position in sequence & relative time are both important factors.",
+              "source": "@site/docs/concept-extras/case-studies/scribd-real-time.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/scribd-real-time",
+              "permalink": "/docs/concept-extras/case-studies/scribd-real-time",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/scribd-real-time.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Santander Banking Products",
+                "permalink": "/docs/concept-extras/case-studies/santander-banking-products"
+              },
+              "next": {
+                "title": "Spotify Contextual Bandits",
+                "permalink": "/docs/concept-extras/case-studies/spotify-contextual-bandits"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/spotify-contextual-bandits",
+              "id": "concept-extras/case-studies/spotify-contextual-bandits",
+              "title": "Spotify Contextual Bandits",
+              "description": "Read more in this paper",
+              "source": "@site/docs/concept-extras/case-studies/spotify-contextual-bandits.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/spotify-contextual-bandits",
+              "permalink": "/docs/concept-extras/case-studies/spotify-contextual-bandits",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/spotify-contextual-bandits.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Scribd Real-time",
+                "permalink": "/docs/concept-extras/case-studies/scribd-real-time"
+              },
+              "next": {
+                "title": "Spotify RL",
+                "permalink": "/docs/concept-extras/case-studies/spotify-rl"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/spotify-rl",
+              "id": "concept-extras/case-studies/spotify-rl",
+              "title": "Spotify RL",
+              "description": "https://towardsdatascience.com/recommendation-system-with-reinforcement-learning-3362cb4422c8",
+              "source": "@site/docs/concept-extras/case-studies/spotify-rl.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/spotify-rl",
+              "permalink": "/docs/concept-extras/case-studies/spotify-rl",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/spotify-rl.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spotify Contextual Bandits",
+                "permalink": "/docs/concept-extras/case-studies/spotify-contextual-bandits"
+              },
+              "next": {
+                "title": "StitchFix Multi-armed Bandit",
+                "permalink": "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/stitchfix-multi-armed-bandit",
+              "id": "concept-extras/case-studies/stitchfix-multi-armed-bandit",
+              "title": "StitchFix Multi-armed Bandit",
+              "description": "Read more on official blog",
+              "source": "@site/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/stitchfix-multi-armed-bandit",
+              "permalink": "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spotify RL",
+                "permalink": "/docs/concept-extras/case-studies/spotify-rl"
+              },
+              "next": {
+                "title": "Taobao BST",
+                "permalink": "/docs/concept-extras/case-studies/taobao-bst"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/taobao-bst",
+              "id": "concept-extras/case-studies/taobao-bst",
+              "title": "Taobao BST",
+              "description": "The BST has been deployed in rank stage for Taobao recommendation, which provides recommending service for hundreds of millions of consumers everyday. In this paper, Alibaba described its usage and technical details in Taobao platform.",
+              "source": "@site/docs/concept-extras/case-studies/taobao-bst.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/taobao-bst",
+              "permalink": "/docs/concept-extras/case-studies/taobao-bst",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/taobao-bst.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "StitchFix Multi-armed Bandit",
+                "permalink": "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit"
+              },
+              "next": {
+                "title": "UberEats Personalization",
+                "permalink": "/docs/concept-extras/case-studies/ubereats-personalization"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/ubereats-personalization",
+              "id": "concept-extras/case-studies/ubereats-personalization",
+              "title": "UberEats Personalization",
+              "description": "Food Discovery with Uber Eats: Recommending for the Marketplace",
+              "source": "@site/docs/concept-extras/case-studies/ubereats-personalization.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/ubereats-personalization",
+              "permalink": "/docs/concept-extras/case-studies/ubereats-personalization",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/ubereats-personalization.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Taobao BST",
+                "permalink": "/docs/concept-extras/case-studies/taobao-bst"
+              },
+              "next": {
+                "title": "Walmart Model Selection",
+                "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/case-studies/walmart-model-selection",
+              "id": "concept-extras/case-studies/walmart-model-selection",
+              "title": "Walmart Model Selection",
+              "description": "In this paper, Walmart researchers briefly discussed their approach and experiment details.",
+              "source": "@site/docs/concept-extras/case-studies/walmart-model-selection.md",
+              "sourceDirName": "concept-extras/case-studies",
+              "slug": "/concept-extras/case-studies/walmart-model-selection",
+              "permalink": "/docs/concept-extras/case-studies/walmart-model-selection",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/walmart-model-selection.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "UberEats Personalization",
+                "permalink": "/docs/concept-extras/case-studies/ubereats-personalization"
+              },
+              "next": {
+                "title": "Models",
+                "permalink": "/docs/models/"
+              }
+            },
+            {
               "unversionedId": "concept-extras/incremental-learning",
               "id": "concept-extras/incremental-learning",
               "title": "Incremental Learning",
@@ -60,8 +474,8 @@
                 "permalink": "/docs/concept-basics/types-of-recommender-systems"
               },
               "next": {
-                "title": "Models",
-                "permalink": "/docs/models/"
+                "title": "1mg Prod2vec",
+                "permalink": "/docs/concept-extras/case-studies/1mg-prod2vec"
               }
             },
             {
@@ -998,8 +1412,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Incremental Learning",
-                "permalink": "/docs/concept-extras/incremental-learning"
+                "title": "Walmart Model Selection",
+                "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
               },
               "next": {
                 "title": "A3C",
@@ -1766,6 +2180,86 @@
                   {
                     "type": "doc",
                     "id": "concept-extras/incremental-learning"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Case Studies",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/1mg-prod2vec"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/airbnb-experiences"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/alipay-ctr"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/doordash-contextual-bandit"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/etsy-personalization"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/huawei-appgallery"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/linkedin-glmix"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/marketcloud-real-time"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/netflix-personalize-images"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/pinterest-multi-task-learning"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/santander-banking-products"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/scribd-real-time"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/spotify-contextual-bandits"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/spotify-rl"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/stitchfix-multi-armed-bandit"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/taobao-bst"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/ubereats-personalization"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/case-studies/walmart-model-selection"
+                      }
+                    ]
                   }
                 ]
               },

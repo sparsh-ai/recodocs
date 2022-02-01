@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/case-studies/taobao-bst",
+  "id": "concept-extras/case-studies/taobao-bst",
+  "title": "Taobao BST",
+  "description": "The BST has been deployed in rank stage for Taobao recommendation, which provides recommending service for hundreds of millions of consumers everyday. In this paper, Alibaba described its usage and technical details in Taobao platform.",
+  "source": "@site/docs/concept-extras/case-studies/taobao-bst.md",
+  "sourceDirName": "concept-extras/case-studies",
+  "slug": "/concept-extras/case-studies/taobao-bst",
+  "permalink": "/docs/concept-extras/case-studies/taobao-bst",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/case-studies/taobao-bst.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "StitchFix Multi-armed Bandit",
+    "permalink": "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit"
+  },
+  "next": {
+    "title": "UberEats Personalization",
+    "permalink": "/docs/concept-extras/case-studies/ubereats-personalization"
+  }
+}
