@@ -206,11 +206,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "models/mp2",
-              "path": "/docs/models/mp2",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "models/neumf",
               "path": "/docs/models/neumf",
               "sidebar": "tutorialSidebar"

@@ -250,12 +250,6 @@
           },
           {
             "type": "link",
-            "label": "MP2",
-            "href": "/docs/models/mp2",
-            "docId": "models/mp2"
-          },
-          {
-            "type": "link",
             "label": "NeuMF",
             "href": "/docs/models/neumf",
             "docId": "models/neumf"
@@ -641,12 +635,6 @@
       "id": "models/mian",
       "title": "MIAN",
       "description": "MIAN stands for Multi-Interactive Attention Network. It aggregate multiple information, and gain latent representations through interactions between candidate items and other fine-grained features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "models/mp2": {
-      "id": "models/mp2",
-      "title": "MP2",
-      "description": "MF",
       "sidebar": "tutorialSidebar"
     },
     "models/neumf": {

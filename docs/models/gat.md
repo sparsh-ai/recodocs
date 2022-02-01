@@ -39,11 +39,9 @@ $$
 
 If we perform multi-head attention on the final (prediction) layer of the network, concatenation is no longer sensible—instead, we employ averaging, and delay applying the final nonlinearity (usually a softmax or logistic sigmoid for classification problems) until then.
 
-![A t-SNE plot of the computed feature representations of a pre-trained GAT model’s
-first hidden layer on the Cora dataset. Node colors denote classes. Edge thickness indicates aggregated normalized attention coefficients between nodes i and j, across all eight attention heads ($\sum_{k=1}^K \alpha_{ij}^k + \alpha{ji}^k$).](/img/content-models-raw-mp2-gat-untitled-2.png)
+![A t-SNE plot of the computed feature representations of a pre-trained GAT model's first hidden layer on the Cora dataset. Node colors denote classes. Edge thickness indicates aggregated normalized attention coefficients between nodes i and j, across all eight attention heads ($\sum_{k=1}^K \alpha_{ij}^k + \alpha{ji}^k$).](/img/content-models-raw-mp2-gat-untitled-2.png)
 
-A t-SNE plot of the computed feature representations of a pre-trained GAT model’s
-first hidden layer on the Cora dataset. Node colors denote classes. Edge thickness indicates aggregated normalized attention coefficients between nodes i and j, across all eight attention heads ($\sum_{k=1}^K \alpha_{ij}^k + \alpha{ji}^k$).
+A t-SNE plot of the computed feature representations of a pre-trained GAT model’s first hidden layer on the Cora dataset. Node colors denote classes. Edge thickness indicates aggregated normalized attention coefficients between nodes i and j, across all eight attention heads ($\sum_{k=1}^K \alpha_{ij}^k + \alpha{ji}^k$).
 
 ## Links
 

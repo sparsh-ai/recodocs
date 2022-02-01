@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','5df'),
+    component: ComponentCreator('/docs','129'),
     routes: [
       {
         path: '/docs/intro',
@@ -333,12 +333,6 @@ export default [
       {
         path: '/docs/models/mian',
         component: ComponentCreator('/docs/models/mian','77e'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/models/mp2',
-        component: ComponentCreator('/docs/models/mp2','e88'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
