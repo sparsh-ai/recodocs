@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concepts/incremental-learning"
+    "title": "Models",
+    "permalink": "/docs/models/"
   },
   "next": {
     "title": "AFM",

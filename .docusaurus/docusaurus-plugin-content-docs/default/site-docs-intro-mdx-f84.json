@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Recohut Intro",
-  "description": "",
+  "title": "Introduction",
+  "description": "A typical recommender system takes the training sample in the form",
   "source": "@site/docs/intro.mdx",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concepts/incremental-learning"
+    "title": "Types of Recommender Systems",
+    "permalink": "/docs/concept-basics/types-of-recommender-systems"
   }
 }

@@ -125,13 +125,17 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-de4": {
+  "/docs-e66": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/concepts/incremental-learning-5da": {
+  "/docs/concept-basics/types-of-recommender-systems-5b7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concepts-incremental-learninge-66-3b7"
+    "content": "content---docs-concept-basics-types-of-recommender-systemscd-7-f87"
+  },
+  "/docs/concept-extras/incremental-learning-a40": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-incremental-learningfd-4-e36"
   },
   "/docs/datasets-9a1": {
     "component": "component---theme-doc-item-178-a40",
@@ -140,6 +144,10 @@
   "/docs/intro-99a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-introf-84-2b4"
+  },
+  "/docs/models/-0c1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-e-89-6ae"
   },
   "/docs/models/a3c-031": {
     "component": "component---theme-doc-item-178-a40",

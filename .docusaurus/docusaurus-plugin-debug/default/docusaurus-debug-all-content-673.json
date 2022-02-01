@@ -19,26 +19,49 @@
           "contentPathLocalized": "/content/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "concepts/incremental-learning",
-              "id": "concepts/incremental-learning",
-              "title": "Incremental Learning",
-              "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
-              "source": "@site/docs/concepts/incremental-learning.mdx",
-              "sourceDirName": "concepts",
-              "slug": "/concepts/incremental-learning",
-              "permalink": "/docs/concepts/incremental-learning",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/concepts/incremental-learning.mdx",
+              "unversionedId": "concept-basics/types-of-recommender-systems",
+              "id": "concept-basics/types-of-recommender-systems",
+              "title": "Types of Recommender Systems",
+              "description": "Group Recommender System",
+              "source": "@site/docs/concept-basics/types-of-recommender-systems.md",
+              "sourceDirName": "concept-basics",
+              "slug": "/concept-basics/types-of-recommender-systems",
+              "permalink": "/docs/concept-basics/types-of-recommender-systems",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/types-of-recommender-systems.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Recohut Intro",
+                "title": "Introduction",
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "A3C",
-                "permalink": "/docs/models/a3c"
+                "title": "Incremental Learning",
+                "permalink": "/docs/concept-extras/incremental-learning"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/incremental-learning",
+              "id": "concept-extras/incremental-learning",
+              "title": "Incremental Learning",
+              "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
+              "source": "@site/docs/concept-extras/incremental-learning.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/incremental-learning",
+              "permalink": "/docs/concept-extras/incremental-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/incremental-learning.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+              },
+              "next": {
+                "title": "Models",
+                "permalink": "/docs/models/"
               }
             },
             {
@@ -67,8 +90,8 @@
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Recohut Intro",
-              "description": "",
+              "title": "Introduction",
+              "description": "A typical recommender system takes the training sample in the form",
               "source": "@site/docs/intro.mdx",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -82,8 +105,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Incremental Learning",
-                "permalink": "/docs/concepts/incremental-learning"
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
               }
             },
             {
@@ -101,8 +124,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Incremental Learning",
-                "permalink": "/docs/concepts/incremental-learning"
+                "title": "Models",
+                "permalink": "/docs/models/"
               },
               "next": {
                 "title": "AFM",
@@ -961,6 +984,29 @@
               }
             },
             {
+              "unversionedId": "models/models",
+              "id": "models/models",
+              "title": "Models",
+              "description": "CTR Prediction Models",
+              "source": "@site/docs/models/models.md",
+              "sourceDirName": "models",
+              "slug": "/models/",
+              "permalink": "/docs/models/",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/models.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Incremental Learning",
+                "permalink": "/docs/concept-extras/incremental-learning"
+              },
+              "next": {
+                "title": "A3C",
+                "permalink": "/docs/models/a3c"
+              }
+            },
+            {
               "unversionedId": "models/neumf",
               "id": "models/neumf",
               "title": "NeuMF",
@@ -1701,13 +1747,25 @@
               },
               {
                 "type": "category",
-                "label": "Concepts",
+                "label": "Concept - Basics",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "concepts/incremental-learning"
+                    "id": "concept-basics/types-of-recommender-systems"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Concept - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/incremental-learning"
                   }
                 ]
               },
@@ -1969,7 +2027,11 @@
                     "type": "doc",
                     "id": "models/xdeepfm"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "models/models"
+                }
               },
               {
                 "type": "category",

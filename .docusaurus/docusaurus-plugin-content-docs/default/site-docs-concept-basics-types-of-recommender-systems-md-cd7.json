@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-basics/types-of-recommender-systems",
+  "id": "concept-basics/types-of-recommender-systems",
+  "title": "Types of Recommender Systems",
+  "description": "Group Recommender System",
+  "source": "@site/docs/concept-basics/types-of-recommender-systems.md",
+  "sourceDirName": "concept-basics",
+  "slug": "/concept-basics/types-of-recommender-systems",
+  "permalink": "/docs/concept-basics/types-of-recommender-systems",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/types-of-recommender-systems.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Incremental Learning",
+    "permalink": "/docs/concept-extras/incremental-learning"
+  }
+}

@@ -2,4 +2,54 @@
 sidebar_position: 1
 ---
 
-# Recohut Intro
+# Introduction
+
+A typical recommender system takes the training sample in the form: $[\mathrm{x}_\xi^{ID},\mathrm{x}_\xi^{NID},\mathrm{y}_\xi]$, where $\xi$ denotes the index of the sample in the whole dataset. The ID type feature is the sparse encoding of large-scale categorical information. For example, one may use a group of unique integers to record the microvideos (e.g., noted as ⟨VideoIDs⟩) that have been viewed by a user; similar ID type features may include location (⟨LocIDs⟩), relevant topics (⟨TopicIDs⟩), followed video bloggers (⟨BloggerIDs⟩), etc. In our formalization, x ID is the collection of all ID type features—for the above example, it can be considered as:
+
+$$
+\mathrm{x}^{\mathrm{ID}} := [⟨\mathrm{VideoIDs}⟩, ⟨\mathrm{LocIDs}⟩, ⟨\mathrm{TopicIDs}⟩, ⟨\mathrm{BloggerIDs}⟩, \dots]
+$$
+
+The Non-ID type feature $\mathrm{x}^\mathrm{NID}$ can include various visual or audio features. And the label $\mathrm{y}$ may include one or multiple value(s) corresponding to one or multiple recommendation task(s). The parameter $\mathrm{w}$ of the recommender system usually has two components:
+
+$$
+\mathrm{w} := [\mathrm{w}^{emb},\mathrm{w}^{nn}] \in \mathbb{R}^{N^{emb}+N^{nn}}
+$$
+
+We use $\mathrm{lookup}_{\mathrm{w}^\mathrm{emb}}(\mathrm{x^{ID}})$ to denote the concatenation of all embedding vectors that has correspondence in $\mathrm{x^{ID}}$; $\mathrm{NN_{w^{nn}}(·)}$ to denote a function parameterized by $\mathrm{w^{nn}}$ implemented by a deep neural network that takes the looked up embeddings and Non-ID features as input and generates the prediction.
+
+The recommender system predicts one or multiple values $\mathrm{\hat{y}}$ by :
+
+$$
+\mathrm{\hat{y}_\xi = NN_{w^{emb}}(lookup_{w^{emb}}(x_\xi^{ID}),x_\xi^{NID}})
+$$
+
+The training system essentially solves the following optimization:
+
+$$
+\mathrm{\min_w f(w):=\mathbb{E}_\xi[F(w;\xi)]}
+$$
+
+If we use $\mathcal{L}$ to denote some loss functions over the prediction and true label(s) $\mathrm{y}$, $F$ can be materialized as:
+
+$$
+\mathrm{F(w;\xi) = \mathcal{L}(NN_{w^{nn}}(lookup_{w^{emb}}(x_\xi^{ID}),x_\xi^{NID}),y_\xi)}
+$$
+
+The gradients will be:
+
+$$
+\begin{alignedat}{2}
+   \mathrm{F_\xi^{emb'}:= \nabla_{w^{emb}}F(w^{emb},w^{nn};\xi)} \\
+   \mathrm{F_\xi^{nn'}:= \nabla_{w^{nn}}F(w^{emb},w^{nn};\xi)}
+\end{alignedat}
+$$
+
+Lastly, we use the following updating rule:
+
+$$
+\begin{alignedat}{2}
+   \mathrm{w_{t+1}^{emb} = w_{t}^{emb} - \gamma F_t^{emb'}} \\
+   \mathrm{w_{t+1}^{nn} = w_{t}^{nn} - \gamma F_t^{nn'}}
+\end{alignedat}
+$$

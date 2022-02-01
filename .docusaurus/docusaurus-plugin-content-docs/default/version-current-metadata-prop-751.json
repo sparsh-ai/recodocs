@@ -10,21 +10,35 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Recohut Intro",
+        "label": "Introduction",
         "href": "/docs/intro",
         "docId": "intro"
       },
       {
         "type": "category",
-        "label": "Concepts",
+        "label": "Concept - Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Types of Recommender Systems",
+            "href": "/docs/concept-basics/types-of-recommender-systems",
+            "docId": "concept-basics/types-of-recommender-systems"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Concept - Extras",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Incremental Learning",
-            "href": "/docs/concepts/incremental-learning",
-            "docId": "concepts/incremental-learning"
+            "href": "/docs/concept-extras/incremental-learning",
+            "docId": "concept-extras/incremental-learning"
           }
         ]
       },
@@ -412,7 +426,8 @@
             "href": "/docs/models/xdeepfm",
             "docId": "models/xdeepfm"
           }
-        ]
+        ],
+        "href": "/docs/models/"
       },
       {
         "type": "category",
@@ -473,8 +488,14 @@
     ]
   },
   "docs": {
-    "concepts/incremental-learning": {
-      "id": "concepts/incremental-learning",
+    "concept-basics/types-of-recommender-systems": {
+      "id": "concept-basics/types-of-recommender-systems",
+      "title": "Types of Recommender Systems",
+      "description": "Group Recommender System",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/incremental-learning": {
+      "id": "concept-extras/incremental-learning",
       "title": "Incremental Learning",
       "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
       "sidebar": "tutorialSidebar"
@@ -487,8 +508,8 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Recohut Intro",
-      "description": "",
+      "title": "Introduction",
+      "description": "A typical recommender system takes the training sample in the form",
       "sidebar": "tutorialSidebar"
     },
     "models/a3c": {
@@ -717,6 +738,12 @@
       "id": "models/mian",
       "title": "MIAN",
       "description": "MIAN stands for Multi-Interactive Attention Network. It aggregate multiple information, and gain latent representations through interactions between candidate items and other fine-grained features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/models": {
+      "id": "models/models",
+      "title": "Models",
+      "description": "CTR Prediction Models",
       "sidebar": "tutorialSidebar"
     },
     "models/neumf": {

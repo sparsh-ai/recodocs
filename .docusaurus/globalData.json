@@ -11,8 +11,13 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "concepts/incremental-learning",
-              "path": "/docs/concepts/incremental-learning",
+              "id": "concept-basics/types-of-recommender-systems",
+              "path": "/docs/concept-basics/types-of-recommender-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/incremental-learning",
+              "path": "/docs/concept-extras/incremental-learning",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -213,6 +218,11 @@
             {
               "id": "models/mian",
               "path": "/docs/models/mian",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/models",
+              "path": "/docs/models/",
               "sidebar": "tutorialSidebar"
             },
             {

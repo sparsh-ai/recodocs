@@ -100,11 +100,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','de4'),
+    component: ComponentCreator('/docs','e66'),
     routes: [
       {
-        path: '/docs/concepts/incremental-learning',
-        component: ComponentCreator('/docs/concepts/incremental-learning','5da'),
+        path: '/docs/concept-basics/types-of-recommender-systems',
+        component: ComponentCreator('/docs/concept-basics/types-of-recommender-systems','5b7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/incremental-learning',
+        component: ComponentCreator('/docs/concept-extras/incremental-learning','a40'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -117,6 +123,12 @@ export default [
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','99a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/',
+        component: ComponentCreator('/docs/models/','0c1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -2,22 +2,22 @@
   "unversionedId": "models/models",
   "id": "models/models",
   "title": "Models",
-  "description": "NFM",
+  "description": "CTR Prediction Models",
   "source": "@site/docs/models/models.md",
   "sourceDirName": "models",
   "slug": "/models/",
   "permalink": "/docs/models/",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/models.md",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/models.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Recohut Intro",
-    "permalink": "/docs/intro"
+    "title": "Incremental Learning",
+    "permalink": "/docs/concept-extras/incremental-learning"
   },
   "next": {
-    "title": "Field-aware Factorization Machines (FFM)",
-    "permalink": "/docs/models/ffm"
+    "title": "A3C",
+    "permalink": "/docs/models/a3c"
   }
 }
