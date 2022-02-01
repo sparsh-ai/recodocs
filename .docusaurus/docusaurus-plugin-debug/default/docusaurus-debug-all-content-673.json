@@ -19,6 +19,29 @@
           "contentPathLocalized": "/content/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "concept-basics/challenges",
+              "id": "concept-basics/challenges",
+              "title": "Challenges",
+              "description": "The construction of effective Recommender Systems (RS) is a complex process, mainly due to the nature of RSs which involves large scale software-systems and human interactions. Iterative development processes require deep understanding of a current baseline as well as the ability to estimate the impact of changes in multiple variables of interest. Simulations are well suited to address both challenges and potentially leading to a high velocity construction process, a fundamental requirement in commercial contexts. Recently, there has been significant interest in RS Simulation Platforms, which allow RS developers to easily craft simulated environments where their systems can be analyzed.",
+              "source": "@site/docs/concept-basics/challenges.md",
+              "sourceDirName": "concept-basics",
+              "slug": "/concept-basics/challenges",
+              "permalink": "/docs/concept-basics/challenges",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/challenges.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+              }
+            },
+            {
               "unversionedId": "concept-basics/types-of-recommender-systems",
               "id": "concept-basics/types-of-recommender-systems",
               "title": "Types of Recommender Systems",
@@ -33,12 +56,12 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/intro"
+                "title": "Challenges",
+                "permalink": "/docs/concept-basics/challenges"
               },
               "next": {
-                "title": "Graph Embeddings",
-                "permalink": "/docs/concept-extras/graph-embeddings"
+                "title": "Diversity",
+                "permalink": "/docs/concept-extras/diversity"
               }
             },
             {
@@ -456,6 +479,29 @@
               }
             },
             {
+              "unversionedId": "concept-extras/diversity",
+              "id": "concept-extras/diversity",
+              "title": "Diversity",
+              "description": "Individual-level diversity and System-level diversity",
+              "source": "@site/docs/concept-extras/diversity.md",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/diversity",
+              "permalink": "/docs/concept-extras/diversity",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/diversity.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+              },
+              "next": {
+                "title": "Graph Embeddings",
+                "permalink": "/docs/concept-extras/graph-embeddings"
+              }
+            },
+            {
               "unversionedId": "concept-extras/graph-embeddings",
               "id": "concept-extras/graph-embeddings",
               "title": "Graph Embeddings",
@@ -470,8 +516,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Types of Recommender Systems",
-                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+                "title": "Diversity",
+                "permalink": "/docs/concept-extras/diversity"
               },
               "next": {
                 "title": "Incremental Learning",
@@ -542,8 +588,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Types of Recommender Systems",
-                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+                "title": "Challenges",
+                "permalink": "/docs/concept-basics/challenges"
               }
             },
             {
@@ -1195,11 +1241,11 @@
               "id": "models/hmlet",
               "title": "HMLET",
               "description": "HMLET stands for Hybrid Method of Linear and nonlinEar collaborative filTering (HMLET, pronounced as Hamlet). It is a GCN-based CF method.",
-              "source": "@site/docs/models/hmlet.md",
+              "source": "@site/docs/models/hmlet.mdx",
               "sourceDirName": "models",
               "slug": "/models/hmlet",
               "permalink": "/docs/models/hmlet",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/models/hmlet.md",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/hmlet.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -2190,6 +2236,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "concept-basics/challenges"
+                  },
+                  {
+                    "type": "doc",
                     "id": "concept-basics/types-of-recommender-systems"
                   }
                 ]
@@ -2200,6 +2250,10 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/diversity"
+                  },
                   {
                     "type": "doc",
                     "id": "concept-extras/graph-embeddings"

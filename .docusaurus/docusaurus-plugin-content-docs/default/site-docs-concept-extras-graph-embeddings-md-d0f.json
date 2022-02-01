@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Types of Recommender Systems",
-    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+    "title": "Diversity",
+    "permalink": "/docs/concept-extras/diversity"
   },
   "next": {
     "title": "Incremental Learning",

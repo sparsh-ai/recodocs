@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/diversity",
+  "id": "concept-extras/diversity",
+  "title": "Diversity",
+  "description": "Individual-level diversity and System-level diversity",
+  "source": "@site/docs/concept-extras/diversity.md",
+  "sourceDirName": "concept-extras",
+  "slug": "/concept-extras/diversity",
+  "permalink": "/docs/concept-extras/diversity",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/diversity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Types of Recommender Systems",
+    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+  },
+  "next": {
+    "title": "Graph Embeddings",
+    "permalink": "/docs/concept-extras/graph-embeddings"
+  }
+}

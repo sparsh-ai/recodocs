@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "concept-basics/challenges",
+              "path": "/docs/concept-basics/challenges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-basics/types-of-recommender-systems",
               "path": "/docs/concept-basics/types-of-recommender-systems",
               "sidebar": "tutorialSidebar"
@@ -103,6 +108,11 @@
             {
               "id": "concept-extras/case-studies/walmart-model-selection",
               "path": "/docs/concept-extras/case-studies/walmart-model-selection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/diversity",
+              "path": "/docs/concept-extras/diversity",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -125,9 +125,13 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-128": {
+  "/docs-075": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/concept-basics/challenges-ea1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-challenges-20-f-5b1"
   },
   "/docs/concept-basics/types-of-recommender-systems-5b7": {
     "component": "component---theme-doc-item-178-a40",
@@ -204,6 +208,10 @@
   "/docs/concept-extras/case-studies/walmart-model-selection-b7a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-case-studies-walmart-model-selectionb-98-007"
+  },
+  "/docs/concept-extras/diversity-932": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-diversity-997-e68"
   },
   "/docs/concept-extras/graph-embeddings-91f": {
     "component": "component---theme-doc-item-178-a40",
@@ -337,9 +345,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-gru-4-recef-6-d98"
   },
-  "/docs/models/hmlet-35c": {
+  "/docs/models/hmlet-6b4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-hmlet-2-f-7-953"
+    "content": "content---docs-models-hmletb-0-a-bf5"
   },
   "/docs/models/itempop-e0a": {
     "component": "component---theme-doc-item-178-a40",

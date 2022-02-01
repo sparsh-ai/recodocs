@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/docs/intro"
+    "title": "Challenges",
+    "permalink": "/docs/concept-basics/challenges"
   },
   "next": {
-    "title": "Graph Embeddings",
-    "permalink": "/docs/concept-extras/graph-embeddings"
+    "title": "Diversity",
+    "permalink": "/docs/concept-extras/diversity"
   }
 }

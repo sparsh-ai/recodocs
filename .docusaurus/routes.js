@@ -100,8 +100,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','128'),
+    component: ComponentCreator('/docs','075'),
     routes: [
+      {
+        path: '/docs/concept-basics/challenges',
+        component: ComponentCreator('/docs/concept-basics/challenges','ea1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/concept-basics/types-of-recommender-systems',
         component: ComponentCreator('/docs/concept-basics/types-of-recommender-systems','5b7'),
@@ -213,6 +219,12 @@ export default [
       {
         path: '/docs/concept-extras/case-studies/walmart-model-selection',
         component: ComponentCreator('/docs/concept-extras/case-studies/walmart-model-selection','b7a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/diversity',
+        component: ComponentCreator('/docs/concept-extras/diversity','932'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -416,7 +428,7 @@ export default [
       },
       {
         path: '/docs/models/hmlet',
-        component: ComponentCreator('/docs/models/hmlet','35c'),
+        component: ComponentCreator('/docs/models/hmlet','6b4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
