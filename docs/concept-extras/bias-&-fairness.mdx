@@ -6,17 +6,17 @@ Recommender systems are important for connecting users to the right items. But a
 
 In practice, the data is observational rather than experimental, and is often affected by many factors, including but not limited to self-selection of the user (selection bias), exposure mechanism of the system (exposure bias), public opinions (conformity bias) and the display position (position bias). De-biasing the data is an important and critical pre-processing step. Biases cause training data distribution deviate from the ideal unbiased one.
 
-![Untitled](Bias%20&%20Fairness%20a5af4f04cd944772b8b92f126c50ff4f/Untitled.png)
+![Untitled](/img/content-concepts-raw-bias-&-fairness-untitled.png)
 
 ## Types of biases
 
-![Untitled](Bias%20&%20Fairness%20a5af4f04cd944772b8b92f126c50ff4f/Untitled%201.png)
+![Untitled](/img/content-concepts-raw-bias-&-fairness-untitled-1.png)
 
 ### Selection bias
 
 Selection bias originates from users’ numerical ratings on items (i.e., explicit feedback), which is defined as - *"Selection Bias happens as users are free to choose which items to rate, so that the observed ratings are not a representative sample of all ratings. In other words, the rating data is often missing not at random (MNAR)."*
 
-![Distribution of rating values for randomly selected items and user-selected items, as demonstrated in [this](https://www.notion.so/04c70cf18dbe401980fe9b00bb1a2077) paper.](Bias%20&%20Fairness%20a5af4f04cd944772b8b92f126c50ff4f/Untitled%202.png)
+![Distribution of rating values for randomly selected items and user-selected items, as demonstrated in [this](https://www.notion.so/04c70cf18dbe401980fe9b00bb1a2077) paper.](/img/content-concepts-raw-bias-&-fairness-untitled-2.png)
 
 Distribution of rating values for randomly selected items and user-selected items, as demonstrated in [this](https://www.notion.so/04c70cf18dbe401980fe9b00bb1a2077) paper.
 
@@ -50,7 +50,7 @@ This method requires a large biased dataset and a small unbiased dataset. Each u
 
 ## Random
 
-![Aim for ethical and legal applications of technology](Bias%20&%20Fairness%20a5af4f04cd944772b8b92f126c50ff4f/Untitled%203.png)
+![Aim for ethical and legal applications of technology](/img/content-concepts-raw-bias-&-fairness-untitled-3.png)
 
 Aim for ethical and legal applications of technology
 
@@ -68,6 +68,6 @@ Rawlsian Max-Min fairness requires a model to maximize the minimum utility of in
 
 AutoDebias is an automatic debiasing method for recommendation system based on meta learning, exploiting a small amount of uniform data to learn de-biasing parameters and using these parameters to guide the learning of the recommendation model.
 
-![The working flow of AutoDebias, consists of three steps: (1) tentatively updating 𝜃 to 𝜃 ′ on the training data 𝐷𝑇 with current 𝜙 (black arrows); (2) updating 𝜙 based on 𝜃 ′ on the uniform data (blue arrows); (3) actually updating 𝜃 with the updated 𝜙 (black arrows).](Bias%20&%20Fairness%20a5af4f04cd944772b8b92f126c50ff4f/Untitled%204.png)
+![The working flow of AutoDebias, consists of three steps: (1) tentatively updating 𝜃 to 𝜃 ′ on the training data 𝐷𝑇 with current 𝜙 (black arrows); (2) updating 𝜙 based on 𝜃 ′ on the uniform data (blue arrows); (3) actually updating 𝜃 with the updated 𝜙 (black arrows).](/img/content-concepts-raw-bias-&-fairness-untitled-4.png)
 
 The working flow of AutoDebias, consists of three steps: (1) tentatively updating 𝜃 to 𝜃 ′ on the training data 𝐷𝑇 with current 𝜙 (black arrows); (2) updating 𝜙 based on 𝜃 ′ on the uniform data (blue arrows); (3) actually updating 𝜃 with the updated 𝜙 (black arrows).
