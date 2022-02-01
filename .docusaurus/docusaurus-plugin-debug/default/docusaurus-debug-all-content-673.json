@@ -60,8 +60,8 @@
                 "permalink": "/docs/concept-basics/challenges"
               },
               "next": {
-                "title": "Diversity",
-                "permalink": "/docs/concept-extras/diversity"
+                "title": "Data Science",
+                "permalink": "/docs/concept-extras/data-science"
               }
             },
             {
@@ -479,6 +479,29 @@
               }
             },
             {
+              "unversionedId": "concept-extras/data-science",
+              "id": "concept-extras/data-science",
+              "title": "Data Science",
+              "description": "Data science is used in a variety of ways. Some data scientists focus on the analytics side of things, pulling out hidden patterns and insights from data, then communicating these results with visualizations and statistics. Others work on creating predictive models in order to predict future events, such as predicting whether someone will put solar panels on their house. Yet others work on models for classification; for example, classifying the make and model of a car in an image. One thing ties all applications of data science together: the data. Anywhere you have enough data, you can use data science to accomplish things that seem like magic to the casual observer.",
+              "source": "@site/docs/concept-extras/data-science.md",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/data-science",
+              "permalink": "/docs/concept-extras/data-science",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/data-science.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+              },
+              "next": {
+                "title": "Diversity",
+                "permalink": "/docs/concept-extras/diversity"
+              }
+            },
+            {
               "unversionedId": "concept-extras/diversity",
               "id": "concept-extras/diversity",
               "title": "Diversity",
@@ -493,8 +516,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Types of Recommender Systems",
-                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+                "title": "Data Science",
+                "permalink": "/docs/concept-extras/data-science"
               },
               "next": {
                 "title": "Graph Embeddings",
@@ -2250,6 +2273,10 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/data-science"
+                  },
                   {
                     "type": "doc",
                     "id": "concept-extras/diversity"

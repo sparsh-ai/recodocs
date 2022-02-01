@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','075'),
+    component: ComponentCreator('/docs','298'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -219,6 +219,12 @@ export default [
       {
         path: '/docs/concept-extras/case-studies/walmart-model-selection',
         component: ComponentCreator('/docs/concept-extras/case-studies/walmart-model-selection','b7a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/data-science',
+        component: ComponentCreator('/docs/concept-extras/data-science','cad'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

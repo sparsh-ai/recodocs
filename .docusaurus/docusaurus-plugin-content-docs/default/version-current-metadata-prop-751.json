@@ -42,6 +42,12 @@
         "items": [
           {
             "type": "link",
+            "label": "Data Science",
+            "href": "/docs/concept-extras/data-science",
+            "docId": "concept-extras/data-science"
+          },
+          {
+            "type": "link",
             "label": "Diversity",
             "href": "/docs/concept-extras/diversity",
             "docId": "concept-extras/diversity"
@@ -740,6 +746,12 @@
       "id": "concept-extras/case-studies/walmart-model-selection",
       "title": "Walmart Model Selection",
       "description": "In this paper, Walmart researchers briefly discussed their approach and experiment details.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/data-science": {
+      "id": "concept-extras/data-science",
+      "title": "Data Science",
+      "description": "Data science is used in a variety of ways. Some data scientists focus on the analytics side of things, pulling out hidden patterns and insights from data, then communicating these results with visualizations and statistics. Others work on creating predictive models in order to predict future events, such as predicting whether someone will put solar panels on their house. Yet others work on models for classification; for example, classifying the make and model of a car in an image. One thing ties all applications of data science together: the data. Anywhere you have enough data, you can use data science to accomplish things that seem like magic to the casual observer.",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/diversity": {

@@ -111,6 +111,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/data-science",
+              "path": "/docs/concept-extras/data-science",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-extras/diversity",
               "path": "/docs/concept-extras/diversity",
               "sidebar": "tutorialSidebar"
