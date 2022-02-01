@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/lightgcn",
+  "id": "models/lightgcn",
+  "title": "LightGCN",
+  "description": "GCN is a representative model of graph neural networks that applies message passing to aggregate neighborhood information. The message passing layer with self-loops is defined as follows:",
+  "source": "@site/docs/models/lightgcn.md",
+  "sourceDirName": "models",
+  "slug": "/models/lightgcn",
+  "permalink": "/docs/models/lightgcn",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/lightgcn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LightFM WARP",
+    "permalink": "/docs/models/lightfm-warp"
+  },
+  "next": {
+    "title": "LIRD",
+    "permalink": "/docs/models/lird"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/tagnn",
+  "id": "models/tagnn",
+  "title": "TAGNN",
+  "description": "TAGNN stands for Target Attentive Graph Neural Network. Session-based recommendations are challenging due to limited user-item interactions. Typical sequential models are not able to capture complex patterns from all previous interactions. SessionGraph (a graph representation of sessions) can capture the complex patterns from all previous interactions.",
+  "source": "@site/docs/models/tagnn.md",
+  "sourceDirName": "models",
+  "slug": "/models/tagnn",
+  "permalink": "/docs/models/tagnn",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/tagnn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TAGNN-PP",
+    "permalink": "/docs/models/tagnn-pp"
+  },
+  "next": {
+    "title": "VNCF",
+    "permalink": "/docs/models/vncf"
+  }
+}

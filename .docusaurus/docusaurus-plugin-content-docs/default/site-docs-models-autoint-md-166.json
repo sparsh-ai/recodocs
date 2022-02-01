@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/autoint",
+  "id": "models/autoint",
+  "title": "AutoInt",
+  "description": "Song et. al., “Automatic Feature Interaction Learning via Self-Attentive Neural Networks”. CIKM, 2018.",
+  "source": "@site/docs/models/autoint.md",
+  "sourceDirName": "models",
+  "slug": "/models/autoint",
+  "permalink": "/docs/models/autoint",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/autoint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AttRec",
+    "permalink": "/docs/models/attrec"
+  },
+  "next": {
+    "title": "BCQ",
+    "permalink": "/docs/models/bcq"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "models/pnn",
+  "id": "models/pnn",
+  "title": "PNN",
+  "description": "PNN stands for Product-based Neural Network.",
+  "source": "@site/docs/models/pnn.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/pnn",
+  "permalink": "/docs/models/pnn",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/pnn.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DeepCross",
+    "permalink": "/docs/models/deepcross"
+  }
+}

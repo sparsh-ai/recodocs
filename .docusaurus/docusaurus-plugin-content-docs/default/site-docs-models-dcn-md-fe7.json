@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/dcn",
+  "id": "models/dcn",
+  "title": "DCN",
+  "description": "DCN stands for Deep and Cross Network. Manual explicit feature crossing process is very laborious and inefficient. On the other hand, automatic implicit feature crossing methods like MLPs cannot efficiently approximate even 2nd or 3rd-order feature crosses. Deep-cross networks provides a solution to this problem. DCN was designed to learn explicit and bounded-degree cross features more effectively. It starts with an input layer (typically an embedding layer), followed by a cross network containing multiple cross layers that models explicit feature interactions, and then combines with a deep network that models implicit feature interactions.",
+  "source": "@site/docs/models/dcn.md",
+  "sourceDirName": "models",
+  "slug": "/models/dcn",
+  "permalink": "/docs/models/dcn",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/dcn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CASER",
+    "permalink": "/docs/models/caser"
+  },
+  "next": {
+    "title": "DDPG",
+    "permalink": "/docs/models/ddpg"
+  }
+}

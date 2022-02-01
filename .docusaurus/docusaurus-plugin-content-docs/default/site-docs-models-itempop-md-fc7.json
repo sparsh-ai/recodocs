@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/itempop",
+  "id": "models/itempop",
+  "title": "ItemPop",
+  "description": "Itempop is a naïve baseline that simply ranks items according to overall train-set popularity. Note that this method is unaffected by the user for which items are being recommended, and has the same global ranking of all items",
+  "source": "@site/docs/models/itempop.md",
+  "sourceDirName": "models",
+  "slug": "/models/itempop",
+  "permalink": "/docs/models/itempop",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/itempop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HMLET",
+    "permalink": "/docs/models/hmlet"
+  },
+  "next": {
+    "title": "LESSR",
+    "permalink": "/docs/models/lessr"
+  }
+}

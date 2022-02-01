@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/mf",
+  "id": "models/mf",
+  "title": "MF",
+  "description": "Matrix Factorization is an iterative approach of SVD called Regularized SVD. It uses the gradient-descent method to estimate the resulting matrices. The obtained model will not be a true SVD of the rating-matrix, as the component matrices are no longer orthogonal, but tends to be more accurate at predicting unseen preferences than the standard SVD [Ekstrand et al. 2011].",
+  "source": "@site/docs/models/mf.md",
+  "sourceDirName": "models",
+  "slug": "/models/mf",
+  "permalink": "/docs/models/mf",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/mf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB-GMN",
+    "permalink": "/docs/models/mb-gmn"
+  },
+  "next": {
+    "title": "MIAN",
+    "permalink": "/docs/models/mian"
+  }
+}

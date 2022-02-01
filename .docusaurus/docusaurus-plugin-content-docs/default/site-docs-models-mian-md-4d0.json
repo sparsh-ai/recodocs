@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/mian",
+  "id": "models/mian",
+  "title": "MIAN",
+  "description": "MIAN stands for Multi-Interactive Attention Network. It aggregate multiple information, and gain latent representations through interactions between candidate items and other fine-grained features.",
+  "source": "@site/docs/models/mian.md",
+  "sourceDirName": "models",
+  "slug": "/models/mian",
+  "permalink": "/docs/models/mian",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/mian.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MF",
+    "permalink": "/docs/models/mf"
+  },
+  "next": {
+    "title": "MP2",
+    "permalink": "/docs/models/mp2"
+  }
+}

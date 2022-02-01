@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/drr",
+  "id": "models/drr",
+  "title": "DRR",
+  "description": "DRR Framework",
+  "source": "@site/docs/models/drr.md",
+  "sourceDirName": "models",
+  "slug": "/models/drr",
+  "permalink": "/docs/models/drr",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/drr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DRQN",
+    "permalink": "/docs/models/drqn"
+  },
+  "next": {
+    "title": "Dueling DQN",
+    "permalink": "/docs/models/dueling-dqn"
+  }
+}

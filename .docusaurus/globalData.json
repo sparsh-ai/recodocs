@@ -16,8 +16,323 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/a3c",
+              "path": "/docs/models/a3c",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/afm",
+              "path": "/docs/models/afm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/afn",
+              "path": "/docs/models/afn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/ar",
+              "path": "/docs/models/ar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/asmg",
+              "path": "/docs/models/asmg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/attrec",
+              "path": "/docs/models/attrec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/autoint",
+              "path": "/docs/models/autoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/bcq",
+              "path": "/docs/models/bcq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/biasonly",
+              "path": "/docs/models/biasonly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/bpr",
+              "path": "/docs/models/bpr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/caser",
+              "path": "/docs/models/caser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/dcn",
+              "path": "/docs/models/dcn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/ddpg",
+              "path": "/docs/models/ddpg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/deepcross",
+              "path": "/docs/models/deepcross",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/deepfm",
+              "path": "/docs/models/deepfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/deepwalk",
+              "path": "/docs/models/deepwalk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/dgtn",
+              "path": "/docs/models/dgtn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/dqn",
+              "path": "/docs/models/dqn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/drqn",
+              "path": "/docs/models/drqn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/drr",
+              "path": "/docs/models/drr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/dueling-dqn",
+              "path": "/docs/models/dueling-dqn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/ffm",
               "path": "/docs/models/ffm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/fgnn",
+              "path": "/docs/models/fgnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/fm",
+              "path": "/docs/models/fm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/gat",
+              "path": "/docs/models/gat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/gc-san",
+              "path": "/docs/models/gc-san",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/gce-gnn",
+              "path": "/docs/models/gce-gnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/gru4rec",
+              "path": "/docs/models/gru4rec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/hmlet",
+              "path": "/docs/models/hmlet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/itempop",
+              "path": "/docs/models/itempop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/lessr",
+              "path": "/docs/models/lessr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/lightfm-warp",
+              "path": "/docs/models/lightfm-warp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/lightgcn",
+              "path": "/docs/models/lightgcn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/lird",
+              "path": "/docs/models/lird",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/markov-chains",
+              "path": "/docs/models/markov-chains",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/mb-gmn",
+              "path": "/docs/models/mb-gmn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/mf",
+              "path": "/docs/models/mf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/mian",
+              "path": "/docs/models/mian",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/mp2",
+              "path": "/docs/models/mp2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/neumf",
+              "path": "/docs/models/neumf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/nfm",
+              "path": "/docs/models/nfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/ngcf",
+              "path": "/docs/models/ngcf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/pnn",
+              "path": "/docs/models/pnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/ppo",
+              "path": "/docs/models/ppo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/q-learning",
+              "path": "/docs/models/q-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sac",
+              "path": "/docs/models/sac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sarsa",
+              "path": "/docs/models/sarsa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sasrec",
+              "path": "/docs/models/sasrec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sgl",
+              "path": "/docs/models/sgl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/siren",
+              "path": "/docs/models/siren",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/slist",
+              "path": "/docs/models/slist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/spop",
+              "path": "/docs/models/spop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sr",
+              "path": "/docs/models/sr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sr-gnn",
+              "path": "/docs/models/sr-gnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sr-san",
+              "path": "/docs/models/sr-san",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/stamp",
+              "path": "/docs/models/stamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/svae",
+              "path": "/docs/models/svae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/tagnn",
+              "path": "/docs/models/tagnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/tagnn-pp",
+              "path": "/docs/models/tagnn-pp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/vncf",
+              "path": "/docs/models/vncf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/vsknn",
+              "path": "/docs/models/vsknn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/wide-and-deep",
+              "path": "/docs/models/wide-and-deep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/word2vec",
+              "path": "/docs/models/word2vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/xdeepfm",
+              "path": "/docs/models/xdeepfm",
               "sidebar": "tutorialSidebar"
             }
           ]

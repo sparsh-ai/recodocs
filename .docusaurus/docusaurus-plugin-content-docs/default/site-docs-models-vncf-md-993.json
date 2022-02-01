@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/vncf",
+  "id": "models/vncf",
+  "title": "VNCF",
+  "description": "VNCF stands for Variational Neural Collaborative Filtering.",
+  "source": "@site/docs/models/vncf.md",
+  "sourceDirName": "models",
+  "slug": "/models/vncf",
+  "permalink": "/docs/models/vncf",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/vncf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TAGNN",
+    "permalink": "/docs/models/tagnn"
+  },
+  "next": {
+    "title": "VSKNN",
+    "permalink": "/docs/models/vsknn"
+  }
+}

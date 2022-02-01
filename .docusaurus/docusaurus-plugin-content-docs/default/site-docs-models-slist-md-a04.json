@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/slist",
+  "id": "models/slist",
+  "title": "SLIST",
+  "description": "SLIST stands for Session-aware Linear Similarity/Transition. It is built by unifying two linear models - SLIS and SLIT.",
+  "source": "@site/docs/models/slist.md",
+  "sourceDirName": "models",
+  "slug": "/models/slist",
+  "permalink": "/docs/models/slist",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/slist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SiReN",
+    "permalink": "/docs/models/siren"
+  },
+  "next": {
+    "title": "SPop",
+    "permalink": "/docs/models/spop"
+  }
+}

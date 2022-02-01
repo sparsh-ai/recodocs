@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/content/docs-docusaurus/sidebars.js",
-          "contentPath": "/content/docs-docusaurus/docs",
-          "contentPathLocalized": "/content/docs-docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/content/docs/sidebars.js",
+          "contentPath": "/content/docs/docs",
+          "contentPathLocalized": "/content/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
@@ -36,15 +36,498 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Field-aware Factorization Machines (FFM)",
+                "title": "A3C",
+                "permalink": "/docs/models/a3c"
+              }
+            },
+            {
+              "unversionedId": "models/a3c",
+              "id": "models/a3c",
+              "title": "A3C",
+              "description": "A3C stands for Asynchronous Advantage Actor-Critic. The A3C algorithm builds upon the Actor-Critic class of algorithms by using a neural network to approximate the actor (and critic). The actor learns the policy function using a deep neural network, while the critic estimates the value function. The asynchronous nature of the algorithm allows the agent to learn from different parts of the state space, allowing parallel learning and faster convergence. Unlike DQN agents, which use an experience replay memory, the A3C agent uses multiple workers to gather more samples for learning.",
+              "source": "@site/docs/models/a3c.md",
+              "sourceDirName": "models",
+              "slug": "/models/a3c",
+              "permalink": "/docs/models/a3c",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/a3c.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Recohut Intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "AFM",
+                "permalink": "/docs/models/afm"
+              }
+            },
+            {
+              "unversionedId": "models/afm",
+              "id": "models/afm",
+              "title": "AFM",
+              "description": "AFM stands for Attentional Factorization Machines. It Improves FM by discriminating the importance of different feature interactions, and learns the importance of each feature interaction from data via a neural attention network. Empirically, it is shown on regression task that AFM performs betters than FM with a 8.6% relative improvement, and consistently outperforms the state-of-the-art deep learning methods Wide&Deep and DeepCross with a much simpler structure and fewer model parameters.",
+              "source": "@site/docs/models/afm.md",
+              "sourceDirName": "models",
+              "slug": "/models/afm",
+              "permalink": "/docs/models/afm",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/afm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "A3C",
+                "permalink": "/docs/models/a3c"
+              },
+              "next": {
+                "title": "AFN",
+                "permalink": "/docs/models/afn"
+              }
+            },
+            {
+              "unversionedId": "models/afn",
+              "id": "models/afn",
+              "title": "AFN",
+              "description": "AFN stands for Adaptive Factorization Network.",
+              "source": "@site/docs/models/afn.md",
+              "sourceDirName": "models",
+              "slug": "/models/afn",
+              "permalink": "/docs/models/afn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/afn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AFM",
+                "permalink": "/docs/models/afm"
+              },
+              "next": {
+                "title": "AR",
+                "permalink": "/docs/models/ar"
+              }
+            },
+            {
+              "unversionedId": "models/ar",
+              "id": "models/ar",
+              "title": "AR",
+              "description": "Simple Association Rules (AR) are a simplified version of the association rule mining technique [Agrawal et al. 1993] with a maximum rule size of two. The method is designed to capture the frequency of two co-occurring events, e.g., “Customers who bought . . . also bought”.",
+              "source": "@site/docs/models/ar.md",
+              "sourceDirName": "models",
+              "slug": "/models/ar",
+              "permalink": "/docs/models/ar",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/ar.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AFN",
+                "permalink": "/docs/models/afn"
+              },
+              "next": {
+                "title": "ASMG",
+                "permalink": "/docs/models/asmg"
+              }
+            },
+            {
+              "unversionedId": "models/asmg",
+              "id": "models/asmg",
+              "title": "ASMG",
+              "description": "ASMG stands for Adaptive Sequential Model Generation.",
+              "source": "@site/docs/models/asmg.md",
+              "sourceDirName": "models",
+              "slug": "/models/asmg",
+              "permalink": "/docs/models/asmg",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/asmg.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AR",
+                "permalink": "/docs/models/ar"
+              },
+              "next": {
+                "title": "AttRec",
+                "permalink": "/docs/models/attrec"
+              }
+            },
+            {
+              "unversionedId": "models/attrec",
+              "id": "models/attrec",
+              "title": "AttRec",
+              "description": "AttRec stands for Self-Attentive Sequential Recommendation.",
+              "source": "@site/docs/models/attrec.md",
+              "sourceDirName": "models",
+              "slug": "/models/attrec",
+              "permalink": "/docs/models/attrec",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/attrec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ASMG",
+                "permalink": "/docs/models/asmg"
+              },
+              "next": {
+                "title": "AutoInt",
+                "permalink": "/docs/models/autoint"
+              }
+            },
+            {
+              "unversionedId": "models/autoint",
+              "id": "models/autoint",
+              "title": "AutoInt",
+              "description": "Song et. al., “Automatic Feature Interaction Learning via Self-Attentive Neural Networks”. CIKM, 2018.",
+              "source": "@site/docs/models/autoint.md",
+              "sourceDirName": "models",
+              "slug": "/models/autoint",
+              "permalink": "/docs/models/autoint",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/autoint.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AttRec",
+                "permalink": "/docs/models/attrec"
+              },
+              "next": {
+                "title": "BCQ",
+                "permalink": "/docs/models/bcq"
+              }
+            },
+            {
+              "unversionedId": "models/bcq",
+              "id": "models/bcq",
+              "title": "BCQ",
+              "description": "Current off-policy deep reinforcement learning algorithms fail to address extrapolation error by selecting actions with respect to a learned value estimate, without consideration of the accuracy of the estimate. As a result, certain outof-distribution actions can be erroneously extrapolated to higher values. However, the value of an off-policy agent can be accurately evaluated in regions where data is available.",
+              "source": "@site/docs/models/bcq.md",
+              "sourceDirName": "models",
+              "slug": "/models/bcq",
+              "permalink": "/docs/models/bcq",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/bcq.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AutoInt",
+                "permalink": "/docs/models/autoint"
+              },
+              "next": {
+                "title": "BiasOnly",
+                "permalink": "/docs/models/biasonly"
+              }
+            },
+            {
+              "unversionedId": "models/biasonly",
+              "id": "models/biasonly",
+              "title": "BiasOnly",
+              "description": "BiasOnly is a simple baseline that assumes no interactions between users and items. Formally, it learns: (1) a global bias 𝛼; (2) scalar biases $\\betau$ for each user 𝑢 ∈ U; and (3) scalar biases $\\betai$ for each item 𝑖 ∈ I. Ultimately, the rating/relevance for user 𝑢 and item 𝑖 is modeled as $\\hati^u = \\alpha + \\betau + \\beta_i$.",
+              "source": "@site/docs/models/biasonly.md",
+              "sourceDirName": "models",
+              "slug": "/models/biasonly",
+              "permalink": "/docs/models/biasonly",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/biasonly.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BCQ",
+                "permalink": "/docs/models/bcq"
+              },
+              "next": {
+                "title": "BPR",
+                "permalink": "/docs/models/bpr"
+              }
+            },
+            {
+              "unversionedId": "models/bpr",
+              "id": "models/bpr",
+              "title": "BPR",
+              "description": "BPR stands for Bayesian Personalized Ranking. In matrix factorization (MF), to compute the prediction we have to multiply the user factors to the item factors:",
+              "source": "@site/docs/models/bpr.md",
+              "sourceDirName": "models",
+              "slug": "/models/bpr",
+              "permalink": "/docs/models/bpr",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/bpr.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BiasOnly",
+                "permalink": "/docs/models/biasonly"
+              },
+              "next": {
+                "title": "CASER",
+                "permalink": "/docs/models/caser"
+              }
+            },
+            {
+              "unversionedId": "models/caser",
+              "id": "models/caser",
+              "title": "CASER",
+              "description": "CASER stands for Convolutional Sequence Embedding Recommendation. Top-N sequential recommendation models each user as a sequence of items interacted in the past and aims to predict top-N ranked items that a user will likely interact in a 'near future'. The order of interaction implies that sequential patterns play an important role where more recent items in a sequence have a larger impact on the next item. Convolutional Sequence Embedding Recommendation Model (Caser) address this requirement by embedding a sequence of recent items into an image' in the time and latent spaces and learn sequential patterns as local features of the image using convolutional filters. This approach provides a unified and flexible network structure for capturing both general preferences and sequential patterns. In other words, Caser adopts convolutional neural networks capture the dynamic pattern influences of users’ recent activities.",
+              "source": "@site/docs/models/caser.md",
+              "sourceDirName": "models",
+              "slug": "/models/caser",
+              "permalink": "/docs/models/caser",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/caser.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BPR",
+                "permalink": "/docs/models/bpr"
+              },
+              "next": {
+                "title": "DCN",
+                "permalink": "/docs/models/dcn"
+              }
+            },
+            {
+              "unversionedId": "models/dcn",
+              "id": "models/dcn",
+              "title": "DCN",
+              "description": "DCN stands for Deep and Cross Network. Manual explicit feature crossing process is very laborious and inefficient. On the other hand, automatic implicit feature crossing methods like MLPs cannot efficiently approximate even 2nd or 3rd-order feature crosses. Deep-cross networks provides a solution to this problem. DCN was designed to learn explicit and bounded-degree cross features more effectively. It starts with an input layer (typically an embedding layer), followed by a cross network containing multiple cross layers that models explicit feature interactions, and then combines with a deep network that models implicit feature interactions.",
+              "source": "@site/docs/models/dcn.md",
+              "sourceDirName": "models",
+              "slug": "/models/dcn",
+              "permalink": "/docs/models/dcn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/dcn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CASER",
+                "permalink": "/docs/models/caser"
+              },
+              "next": {
+                "title": "DDPG",
+                "permalink": "/docs/models/ddpg"
+              }
+            },
+            {
+              "unversionedId": "models/ddpg",
+              "id": "models/ddpg",
+              "title": "DDPG",
+              "description": "Deterministic Policy Gradient (DPG) is a type of Actor-Critic RL algorithm that uses two neural networks: one for estimating the action value function, and the other for estimating the optimal target policy. The Deep Deterministic Policy Gradient (DDPG) agent builds upon the idea of DPG and is quite efficient compared to vanilla Actor-Critic agents due to the use of deterministic action policies.",
+              "source": "@site/docs/models/ddpg.md",
+              "sourceDirName": "models",
+              "slug": "/models/ddpg",
+              "permalink": "/docs/models/ddpg",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/ddpg.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DCN",
+                "permalink": "/docs/models/dcn"
+              },
+              "next": {
+                "title": "DeepCross",
+                "permalink": "/docs/models/deepcross"
+              }
+            },
+            {
+              "unversionedId": "models/deepcross",
+              "id": "models/deepcross",
+              "title": "DeepCross",
+              "description": "Shan, Y., Hoens, T., Jiao, J., Wang, H., Yu, D. and Mao, J., 2016. Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features. [online] Kdd.org.",
+              "source": "@site/docs/models/deepcross.md",
+              "sourceDirName": "models",
+              "slug": "/models/deepcross",
+              "permalink": "/docs/models/deepcross",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/deepcross.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DDPG",
+                "permalink": "/docs/models/ddpg"
+              },
+              "next": {
+                "title": "DeepFM",
+                "permalink": "/docs/models/deepfm"
+              }
+            },
+            {
+              "unversionedId": "models/deepfm",
+              "id": "models/deepfm",
+              "title": "DeepFM",
+              "description": "DeepFM stands for Deep Factorization Machines. It consists of an FM component and a deep component which are integrated in a parallel structure. The FM component is the same as the 2-way factorization machines which is used to model the low-order feature interactions. The deep component is a multi-layered perceptron that is used to capture high-order feature interactions and nonlinearities. These two components share the same inputs/embeddings and their outputs are summed up as the final prediction.",
+              "source": "@site/docs/models/deepfm.md",
+              "sourceDirName": "models",
+              "slug": "/models/deepfm",
+              "permalink": "/docs/models/deepfm",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/deepfm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DeepCross",
+                "permalink": "/docs/models/deepcross"
+              },
+              "next": {
+                "title": "DeepWalk",
+                "permalink": "/docs/models/deepwalk"
+              }
+            },
+            {
+              "unversionedId": "models/deepwalk",
+              "id": "models/deepwalk",
+              "title": "DeepWalk",
+              "description": "DeepWalk learns representations of online social networks graphs. By performing random walks to generate sequences, the paper demonstrated that it was able to learn vector representations of nodes (e.g., profiles, content) in the graph.",
+              "source": "@site/docs/models/deepwalk.md",
+              "sourceDirName": "models",
+              "slug": "/models/deepwalk",
+              "permalink": "/docs/models/deepwalk",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/deepwalk.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DeepFM",
+                "permalink": "/docs/models/deepfm"
+              },
+              "next": {
+                "title": "DGTN",
+                "permalink": "/docs/models/dgtn"
+              }
+            },
+            {
+              "unversionedId": "models/dgtn",
+              "id": "models/dgtn",
+              "title": "DGTN",
+              "description": "DGTN stands for Dual-channel Graph Transition Network.",
+              "source": "@site/docs/models/dgtn.md",
+              "sourceDirName": "models",
+              "slug": "/models/dgtn",
+              "permalink": "/docs/models/dgtn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/dgtn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DeepWalk",
+                "permalink": "/docs/models/deepwalk"
+              },
+              "next": {
+                "title": "DQN",
+                "permalink": "/docs/models/dqn"
+              }
+            },
+            {
+              "unversionedId": "models/dqn",
+              "id": "models/dqn",
+              "title": "DQN",
+              "description": "The Q-learning component of DQN was invented in 1989 by Christopher Watkins in his PhD thesis titled “Learning from Delayed Rewards”. Experience replay quickly followed, invented by Long-Ji Lin in 1992. This played a major role in improving the efficiency of Q-learning. In the years that followed, however, there were no major success stories involving deep Q-learning. This is perhaps not surprising given the combination of limited computational power in the 1990s and early 2000s, data-hungry deep learning architectures, and the sparse, noisy, and delayed feedback signals experienced in RL. Progress had to wait for the emergence of general-purpose GPU programming, for example with the launch of CUDA in 2006, and the reignition of interest in deep learning within the machine learning community that began in the mid-2000s and rapidly accelerated after 2012.",
+              "source": "@site/docs/models/dqn.md",
+              "sourceDirName": "models",
+              "slug": "/models/dqn",
+              "permalink": "/docs/models/dqn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/dqn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DGTN",
+                "permalink": "/docs/models/dgtn"
+              },
+              "next": {
+                "title": "DRQN",
+                "permalink": "/docs/models/drqn"
+              }
+            },
+            {
+              "unversionedId": "models/drqn",
+              "id": "models/drqn",
+              "title": "DRQN",
+              "description": "DRQN stands for Deep Recurrent Q-Learning. It is a combination of a recurrent neural network (RNN) and a deep Q-network (DQN). The idea being that the RNN will be able to retain information from states further back in time and incorporate that into predicting better Q values and thus performing better on games that require long term planning.",
+              "source": "@site/docs/models/drqn.md",
+              "sourceDirName": "models",
+              "slug": "/models/drqn",
+              "permalink": "/docs/models/drqn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/drqn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DQN",
+                "permalink": "/docs/models/dqn"
+              },
+              "next": {
+                "title": "DRR",
+                "permalink": "/docs/models/drr"
+              }
+            },
+            {
+              "unversionedId": "models/drr",
+              "id": "models/drr",
+              "title": "DRR",
+              "description": "DRR Framework",
+              "source": "@site/docs/models/drr.md",
+              "sourceDirName": "models",
+              "slug": "/models/drr",
+              "permalink": "/docs/models/drr",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/drr.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DRQN",
+                "permalink": "/docs/models/drqn"
+              },
+              "next": {
+                "title": "Dueling DQN",
+                "permalink": "/docs/models/dueling-dqn"
+              }
+            },
+            {
+              "unversionedId": "models/dueling-dqn",
+              "id": "models/dueling-dqn",
+              "title": "Dueling DQN",
+              "description": "A Dueling DQN agent explicitly estimates two quantities through a modified network architecture:",
+              "source": "@site/docs/models/dueling-dqn.md",
+              "sourceDirName": "models",
+              "slug": "/models/dueling-dqn",
+              "permalink": "/docs/models/dueling-dqn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/dueling-dqn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DRR",
+                "permalink": "/docs/models/drr"
+              },
+              "next": {
+                "title": "FFM",
                 "permalink": "/docs/models/ffm"
               }
             },
             {
               "unversionedId": "models/ffm",
               "id": "models/ffm",
-              "title": "Field-aware Factorization Machines (FFM)",
-              "description": "In the official FFM paper, it is empirically proven that for large, sparse datasets with many categorical features, FFM performs better. Conversely, for small and dense datasets or numerical datasets, FFM may not be as effective as FM. FFM is also prone to overfitting on the training dataset, hence one should use a standalone validation set and use early stopping when the loss increases.",
+              "title": "FFM",
+              "description": "FFM stands for Field-aware Factorization Machines. In the official FFM paper, it is empirically proven that for large, sparse datasets with many categorical features, FFM performs better. Conversely, for small and dense datasets or numerical datasets, FFM may not be as effective as FM. FFM is also prone to overfitting on the training dataset, hence one should use a standalone validation set and use early stopping when the loss increases.",
               "source": "@site/docs/models/ffm.md",
               "sourceDirName": "models",
               "slug": "/models/ffm",
@@ -52,14 +535,977 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/ffm.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Recohut Intro",
-                "permalink": "/docs/intro"
+                "title": "Dueling DQN",
+                "permalink": "/docs/models/dueling-dqn"
+              },
+              "next": {
+                "title": "FGNN",
+                "permalink": "/docs/models/fgnn"
+              }
+            },
+            {
+              "unversionedId": "models/fgnn",
+              "id": "models/fgnn",
+              "title": "FGNN",
+              "description": "Ruihong Qiu, Jingjing Li, Zi Huang and Hongzhi Yin, “Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks”. CIKM, 2019.",
+              "source": "@site/docs/models/fgnn.md",
+              "sourceDirName": "models",
+              "slug": "/models/fgnn",
+              "permalink": "/docs/models/fgnn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/fgnn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FFM",
+                "permalink": "/docs/models/ffm"
+              },
+              "next": {
+                "title": "FM",
+                "permalink": "/docs/models/fm"
+              }
+            },
+            {
+              "unversionedId": "models/fm",
+              "id": "models/fm",
+              "title": "FM",
+              "description": "Factorization Machines (FMs) are a supervised learning approach that enhances the linear regression model by incorporating the second-order feature interactions. Factorization Machine type algorithms are a combination of linear regression and matrix factorization, the cool idea behind this type of algorithm is it aims model interactions between features (a.k.a attributes, explanatory variables) using factorized parameters. By doing so it has the ability to estimate all interactions between features even with extremely sparse data.",
+              "source": "@site/docs/models/fm.md",
+              "sourceDirName": "models",
+              "slug": "/models/fm",
+              "permalink": "/docs/models/fm",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/fm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FGNN",
+                "permalink": "/docs/models/fgnn"
+              },
+              "next": {
+                "title": "GAT",
+                "permalink": "/docs/models/gat"
+              }
+            },
+            {
+              "unversionedId": "models/gat",
+              "id": "models/gat",
+              "title": "GAT",
+              "description": "GAT stands for Graph Attention Networks. This is a special GNN model that addresses several key challenges of spectral models, such as poor ability of generalization from a specific graph structure to another and sophisticated computation of matrix inverse. GAT utilizes attention mechanisms to aggregate neighborhood features (embeddings) by specifying different weights to different nodes.",
+              "source": "@site/docs/models/gat.md",
+              "sourceDirName": "models",
+              "slug": "/models/gat",
+              "permalink": "/docs/models/gat",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/gat.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FM",
+                "permalink": "/docs/models/fm"
+              },
+              "next": {
+                "title": "GC-SAN",
+                "permalink": "/docs/models/gc-san"
+              }
+            },
+            {
+              "unversionedId": "models/gc-san",
+              "id": "models/gc-san",
+              "title": "GC-SAN",
+              "description": "GC-SAN stands for Graph contextualized self-attention.",
+              "source": "@site/docs/models/gc-san.md",
+              "sourceDirName": "models",
+              "slug": "/models/gc-san",
+              "permalink": "/docs/models/gc-san",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/gc-san.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GAT",
+                "permalink": "/docs/models/gat"
+              },
+              "next": {
+                "title": "GCE-GNN",
+                "permalink": "/docs/models/gce-gnn"
+              }
+            },
+            {
+              "unversionedId": "models/gce-gnn",
+              "id": "models/gce-gnn",
+              "title": "GCE-GNN",
+              "description": "GCE-GNN stands for Global Context Enhanced Graph Neural Networks. It exploit item transitions over all sessions in a more subtle manner for better inferring the user preference of the current session.",
+              "source": "@site/docs/models/gce-gnn.md",
+              "sourceDirName": "models",
+              "slug": "/models/gce-gnn",
+              "permalink": "/docs/models/gce-gnn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/gce-gnn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GC-SAN",
+                "permalink": "/docs/models/gc-san"
+              },
+              "next": {
+                "title": "GRU4Rec",
+                "permalink": "/docs/models/gru4rec"
+              }
+            },
+            {
+              "unversionedId": "models/gru4rec",
+              "id": "models/gru4rec",
+              "title": "GRU4Rec",
+              "description": "It uses session-parallel mini-batch approach where we first create an order for the sessions and then, we use the first event of the first X sessions to form the input of the first mini-batch (the desired output is the second events of our active sessions). The second mini-batch is formed from the second events and so on. If any of the sessions end, the next available session is put in its place. Sessions are assumed to be independent, thus we reset the appropriate hidden state when this switch occurs.",
+              "source": "@site/docs/models/gru4rec.md",
+              "sourceDirName": "models",
+              "slug": "/models/gru4rec",
+              "permalink": "/docs/models/gru4rec",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/gru4rec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GCE-GNN",
+                "permalink": "/docs/models/gce-gnn"
+              },
+              "next": {
+                "title": "HMLET",
+                "permalink": "/docs/models/hmlet"
+              }
+            },
+            {
+              "unversionedId": "models/hmlet",
+              "id": "models/hmlet",
+              "title": "HMLET",
+              "description": "HMLET stands for Hybrid Method of Linear and nonlinEar collaborative filTering (HMLET, pronounced as Hamlet). It is a GCN-based CF method.",
+              "source": "@site/docs/models/hmlet.md",
+              "sourceDirName": "models",
+              "slug": "/models/hmlet",
+              "permalink": "/docs/models/hmlet",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/hmlet.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GRU4Rec",
+                "permalink": "/docs/models/gru4rec"
+              },
+              "next": {
+                "title": "ItemPop",
+                "permalink": "/docs/models/itempop"
+              }
+            },
+            {
+              "unversionedId": "models/itempop",
+              "id": "models/itempop",
+              "title": "ItemPop",
+              "description": "Itempop is a naïve baseline that simply ranks items according to overall train-set popularity. Note that this method is unaffected by the user for which items are being recommended, and has the same global ranking of all items",
+              "source": "@site/docs/models/itempop.md",
+              "sourceDirName": "models",
+              "slug": "/models/itempop",
+              "permalink": "/docs/models/itempop",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/itempop.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HMLET",
+                "permalink": "/docs/models/hmlet"
+              },
+              "next": {
+                "title": "LESSR",
+                "permalink": "/docs/models/lessr"
+              }
+            },
+            {
+              "unversionedId": "models/lessr",
+              "id": "models/lessr",
+              "title": "LESSR",
+              "description": "Tianwen Chen and Raymond Chi-Wing Wong, “LESSR: Handling Information Loss of Graph Neural Networks for Session-based Recommendation”. KDD, 2020.",
+              "source": "@site/docs/models/lessr.md",
+              "sourceDirName": "models",
+              "slug": "/models/lessr",
+              "permalink": "/docs/models/lessr",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/lessr.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ItemPop",
+                "permalink": "/docs/models/itempop"
+              },
+              "next": {
+                "title": "LightFM WARP",
+                "permalink": "/docs/models/lightfm-warp"
+              }
+            },
+            {
+              "unversionedId": "models/lightfm-warp",
+              "id": "models/lightfm-warp",
+              "title": "LightFM WARP",
+              "description": "LightFM is probably the only recommender package implementing the WARP (Weighted Approximate-Rank Pairwise) loss for implicit feedback learning-to-rank. Generally, it performs better than the more popular BPR (Bayesian Personalised Ranking) loss --- often by a large margin.",
+              "source": "@site/docs/models/lightfm-warp.md",
+              "sourceDirName": "models",
+              "slug": "/models/lightfm-warp",
+              "permalink": "/docs/models/lightfm-warp",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/lightfm-warp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LESSR",
+                "permalink": "/docs/models/lessr"
+              },
+              "next": {
+                "title": "LightGCN",
+                "permalink": "/docs/models/lightgcn"
+              }
+            },
+            {
+              "unversionedId": "models/lightgcn",
+              "id": "models/lightgcn",
+              "title": "LightGCN",
+              "description": "GCN is a representative model of graph neural networks that applies message passing to aggregate neighborhood information. The message passing layer with self-loops is defined as follows:",
+              "source": "@site/docs/models/lightgcn.md",
+              "sourceDirName": "models",
+              "slug": "/models/lightgcn",
+              "permalink": "/docs/models/lightgcn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/lightgcn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LightFM WARP",
+                "permalink": "/docs/models/lightfm-warp"
+              },
+              "next": {
+                "title": "LIRD",
+                "permalink": "/docs/models/lird"
+              }
+            },
+            {
+              "unversionedId": "models/lird",
+              "id": "models/lird",
+              "title": "LIRD",
+              "description": "Existing reinforcement learning recommender methods also could recommend a list of items. E.g. DQN can calculate Q-values of all recalled items separately, and recommend a list of items with highest Q-values. But these recommendations are similar in Euclidean space and we want to find similarity in associative space. For instance, for a bread 🍞, I want egg 🥚, milk 🥛 in my recommendation list instead of white bread 🍞, brown bread 🥪, bun 🫓 etc.",
+              "source": "@site/docs/models/lird.md",
+              "sourceDirName": "models",
+              "slug": "/models/lird",
+              "permalink": "/docs/models/lird",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/lird.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LightGCN",
+                "permalink": "/docs/models/lightgcn"
+              },
+              "next": {
+                "title": "Markov Chains",
+                "permalink": "/docs/models/markov-chains"
+              }
+            },
+            {
+              "unversionedId": "models/markov-chains",
+              "id": "models/markov-chains",
+              "title": "Markov Chains",
+              "description": "Markov chains, named after Andrey Markov, are mathematical systems that hop from one \"state\" (a situation or set of values) to another. For example, if you made a Markov chain model of a baby's behavior, you might include \"playing,\" \"eating\", \"sleeping,\" and \"crying\" as states, which together with other behaviors could form a 'state space': a list of all possible states. In addition, on top of the state space, a Markov chain tells you the probability of hopping, or \"transitioning,\" from one state to any other state---e.g., the chance that a baby currently playing will fall asleep in the next five minutes without crying first.",
+              "source": "@site/docs/models/markov-chains.md",
+              "sourceDirName": "models",
+              "slug": "/models/markov-chains",
+              "permalink": "/docs/models/markov-chains",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/markov-chains.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LIRD",
+                "permalink": "/docs/models/lird"
+              },
+              "next": {
+                "title": "MB-GMN",
+                "permalink": "/docs/models/mb-gmn"
+              }
+            },
+            {
+              "unversionedId": "models/mb-gmn",
+              "id": "models/mb-gmn",
+              "title": "MB-GMN",
+              "description": "MB-GMN stands for Multi-behavior pattern modeling with meta-knowledge learner.",
+              "source": "@site/docs/models/mb-gmn.md",
+              "sourceDirName": "models",
+              "slug": "/models/mb-gmn",
+              "permalink": "/docs/models/mb-gmn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/mb-gmn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markov Chains",
+                "permalink": "/docs/models/markov-chains"
+              },
+              "next": {
+                "title": "MF",
+                "permalink": "/docs/models/mf"
+              }
+            },
+            {
+              "unversionedId": "models/mf",
+              "id": "models/mf",
+              "title": "MF",
+              "description": "Matrix Factorization is an iterative approach of SVD called Regularized SVD. It uses the gradient-descent method to estimate the resulting matrices. The obtained model will not be a true SVD of the rating-matrix, as the component matrices are no longer orthogonal, but tends to be more accurate at predicting unseen preferences than the standard SVD [Ekstrand et al. 2011].",
+              "source": "@site/docs/models/mf.md",
+              "sourceDirName": "models",
+              "slug": "/models/mf",
+              "permalink": "/docs/models/mf",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/mf.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MB-GMN",
+                "permalink": "/docs/models/mb-gmn"
+              },
+              "next": {
+                "title": "MIAN",
+                "permalink": "/docs/models/mian"
+              }
+            },
+            {
+              "unversionedId": "models/mian",
+              "id": "models/mian",
+              "title": "MIAN",
+              "description": "MIAN stands for Multi-Interactive Attention Network. It aggregate multiple information, and gain latent representations through interactions between candidate items and other fine-grained features.",
+              "source": "@site/docs/models/mian.md",
+              "sourceDirName": "models",
+              "slug": "/models/mian",
+              "permalink": "/docs/models/mian",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/mian.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MF",
+                "permalink": "/docs/models/mf"
+              },
+              "next": {
+                "title": "MP2",
+                "permalink": "/docs/models/mp2"
+              }
+            },
+            {
+              "unversionedId": "models/mp2",
+              "id": "models/mp2",
+              "title": "MP2",
+              "description": "MF",
+              "source": "@site/docs/models/mp2.md",
+              "sourceDirName": "models",
+              "slug": "/models/mp2",
+              "permalink": "/docs/models/mp2",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/mp2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MIAN",
+                "permalink": "/docs/models/mian"
+              },
+              "next": {
+                "title": "NeuMF",
+                "permalink": "/docs/models/neumf"
+              }
+            },
+            {
+              "unversionedId": "models/neumf",
+              "id": "models/neumf",
+              "title": "NeuMF",
+              "description": "NMF Leverages the representation power of deep neural-networks to capture nonlinear correlations between user and item embeddings. Formally, the rating/relevance for user 𝑢 and item 𝑖 is modeled as $\\hati^u = \\alpha + \\betau + \\betai + f(\\gammau || \\gammai || \\gammau \\cdot \\gammai)$ where $\\gammau , \\gamma_i \\in \\mathbb{R}^d$, ‘||’ represents the concatenation operation, and $f: \\mathbb{R}^{3d} \\rightarrow \\mathbb{R}$ represents an arbitrarily complex neural network.",
+              "source": "@site/docs/models/neumf.md",
+              "sourceDirName": "models",
+              "slug": "/models/neumf",
+              "permalink": "/docs/models/neumf",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/neumf.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MP2",
+                "permalink": "/docs/models/mp2"
+              },
+              "next": {
+                "title": "NFM",
+                "permalink": "/docs/models/nfm"
+              }
+            },
+            {
+              "unversionedId": "models/nfm",
+              "id": "models/nfm",
+              "title": "NFM",
+              "description": "NFM stands for Neural Factorization Machine.",
+              "source": "@site/docs/models/nfm.md",
+              "sourceDirName": "models",
+              "slug": "/models/nfm",
+              "permalink": "/docs/models/nfm",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/nfm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NeuMF",
+                "permalink": "/docs/models/neumf"
+              },
+              "next": {
+                "title": "NGCF",
+                "permalink": "/docs/models/ngcf"
+              }
+            },
+            {
+              "unversionedId": "models/ngcf",
+              "id": "models/ngcf",
+              "title": "NGCF",
+              "description": "NGCF stands for Neural Graph Collaborative Filtering. This GNN-based approach follows basic operations inherited from the standard GCN to explore the high-order connectivity information. More specifically, NGCF stacks embedding layers and concatenates embeddings obtained in all layers to constitute the final embeddings.",
+              "source": "@site/docs/models/ngcf.md",
+              "sourceDirName": "models",
+              "slug": "/models/ngcf",
+              "permalink": "/docs/models/ngcf",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/ngcf.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NFM",
+                "permalink": "/docs/models/nfm"
+              },
+              "next": {
+                "title": "PNN",
+                "permalink": "/docs/models/pnn"
+              }
+            },
+            {
+              "unversionedId": "models/pnn",
+              "id": "models/pnn",
+              "title": "PNN",
+              "description": "PNN stands for Product-based Neural Network.",
+              "source": "@site/docs/models/pnn.md",
+              "sourceDirName": "models",
+              "slug": "/models/pnn",
+              "permalink": "/docs/models/pnn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/pnn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NGCF",
+                "permalink": "/docs/models/ngcf"
+              },
+              "next": {
+                "title": "PPO",
+                "permalink": "/docs/models/ppo"
+              }
+            },
+            {
+              "unversionedId": "models/ppo",
+              "id": "models/ppo",
+              "title": "PPO",
+              "description": "The PPO (Proximal Policy Optimization) algorithm was introduced by the OpenAI team in 2017 and quickly became one of the most popular Reinforcement Learning method that pushed all other RL methods at that moment aside. PPO involves collecting a small batch of experiences interacting with the environment and using that batch to update its decision-making policy. Once the policy is updated with that batch, the experiences are thrown away and a newer batch is collected with the newly updated policy. This is the reason why it is an “on-policy learning” approach where the experience samples collected are only useful for updating the current policy.",
+              "source": "@site/docs/models/ppo.md",
+              "sourceDirName": "models",
+              "slug": "/models/ppo",
+              "permalink": "/docs/models/ppo",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/ppo.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PNN",
+                "permalink": "/docs/models/pnn"
+              },
+              "next": {
+                "title": "Q-learning",
+                "permalink": "/docs/models/q-learning"
+              }
+            },
+            {
+              "unversionedId": "models/q-learning",
+              "id": "models/q-learning",
+              "title": "Q-learning",
+              "description": "Q-learning can be applied to model-free RL problems. It supports off-policy learning and therefore provides a practical solution to problems where available experiences were/are collected using some other policy or by some other agent (even humans).",
+              "source": "@site/docs/models/q-learning.md",
+              "sourceDirName": "models",
+              "slug": "/models/q-learning",
+              "permalink": "/docs/models/q-learning",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/q-learning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PPO",
+                "permalink": "/docs/models/ppo"
+              },
+              "next": {
+                "title": "SAC",
+                "permalink": "/docs/models/sac"
+              }
+            },
+            {
+              "unversionedId": "models/sac",
+              "id": "models/sac",
+              "title": "SAC",
+              "description": "SAS stands for Soft Actor-Critic. It not only boasts of being more sample efficient than traditional RL algorithms but also promises to be robust to brittleness in convergence.",
+              "source": "@site/docs/models/sac.md",
+              "sourceDirName": "models",
+              "slug": "/models/sac",
+              "permalink": "/docs/models/sac",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/sac.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Q-learning",
+                "permalink": "/docs/models/q-learning"
+              },
+              "next": {
+                "title": "SARSA",
+                "permalink": "/docs/models/sarsa"
+              }
+            },
+            {
+              "unversionedId": "models/sarsa",
+              "id": "models/sarsa",
+              "title": "SARSA",
+              "description": "The SARSA algorithm can be applied to model-free control problems and allows us to optimize the value function of an unknown MDP. SARSA is an on-policy temporal difference learning-based control algorithm. The SARSA algorithm can be summarized as follows:",
+              "source": "@site/docs/models/sarsa.md",
+              "sourceDirName": "models",
+              "slug": "/models/sarsa",
+              "permalink": "/docs/models/sarsa",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/sarsa.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SAC",
+                "permalink": "/docs/models/sac"
+              },
+              "next": {
+                "title": "SASRec",
+                "permalink": "/docs/models/sasrec"
+              }
+            },
+            {
+              "unversionedId": "models/sasrec",
+              "id": "models/sasrec",
+              "title": "SASRec",
+              "description": "SASRec stands for Self-Attentive Sequential Recommendation. It relies on the sequence modeling capabilities of self-attentive neural networks to predict the occurence of the next item in a user’s consumption sequence. To be precise, given a user 𝑢 and their time-ordered consumption history $S^𝑢 = (S1^u, S2^u, \\dots, S_{|S^u|}^𝑢),$ SASRec first applies self-attention on $S^𝑢$ followed by a series of non-linear feed-forward layers to finally obtain the next item likelihood.",
+              "source": "@site/docs/models/sasrec.md",
+              "sourceDirName": "models",
+              "slug": "/models/sasrec",
+              "permalink": "/docs/models/sasrec",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/sasrec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SARSA",
+                "permalink": "/docs/models/sarsa"
+              },
+              "next": {
+                "title": "SGL",
+                "permalink": "/docs/models/sgl"
+              }
+            },
+            {
+              "unversionedId": "models/sgl",
+              "id": "models/sgl",
+              "title": "SGL",
+              "description": "SGL is the latest baseline for top-k recommendations. It introduces self-supervised learning into the recommendation system based on the contrastive learning framework. It is implemented on LightGCN and uses a multitask approach that unites the contrastive loss and the BPR loss function. SGL mainly benefits from graph contrastive learning to reinforce user and item representations.",
+              "source": "@site/docs/models/sgl.md",
+              "sourceDirName": "models",
+              "slug": "/models/sgl",
+              "permalink": "/docs/models/sgl",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/sgl.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SASRec",
+                "permalink": "/docs/models/sasrec"
+              },
+              "next": {
+                "title": "SiReN",
+                "permalink": "/docs/models/siren"
+              }
+            },
+            {
+              "unversionedId": "models/siren",
+              "id": "models/siren",
+              "title": "SiReN",
+              "description": "Existing literature often ignores the negative feedback e.g. dislikes on YouTube videos, and only capture the homophily (or assortativity) patterns by positive feedback. This is a missed opportunity situation. Performance of GNN-based Recommender Systems can be improved by including negative feedbacks. Disassortivity patterns can be learned by negative feedback. LightGCN can capture the assortativity patterns. and the MLP network can capture the disassortivity patterns.",
+              "source": "@site/docs/models/siren.md",
+              "sourceDirName": "models",
+              "slug": "/models/siren",
+              "permalink": "/docs/models/siren",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/siren.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SGL",
+                "permalink": "/docs/models/sgl"
+              },
+              "next": {
+                "title": "SLIST",
+                "permalink": "/docs/models/slist"
+              }
+            },
+            {
+              "unversionedId": "models/slist",
+              "id": "models/slist",
+              "title": "SLIST",
+              "description": "SLIST stands for Session-aware Linear Similarity/Transition. It is built by unifying two linear models - SLIS and SLIT.",
+              "source": "@site/docs/models/slist.md",
+              "sourceDirName": "models",
+              "slug": "/models/slist",
+              "permalink": "/docs/models/slist",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/slist.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SiReN",
+                "permalink": "/docs/models/siren"
+              },
+              "next": {
+                "title": "SPop",
+                "permalink": "/docs/models/spop"
+              }
+            },
+            {
+              "unversionedId": "models/spop",
+              "id": "models/spop",
+              "title": "SPop",
+              "description": "SPop stands for Session-based Popularity. It is a session popularity predictor that gives higher scores to items with higher number of occurrences in the session. Ties are broken up by adding the popularity score of the item.",
+              "source": "@site/docs/models/spop.md",
+              "sourceDirName": "models",
+              "slug": "/models/spop",
+              "permalink": "/docs/models/spop",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/spop.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SLIST",
+                "permalink": "/docs/models/slist"
+              },
+              "next": {
+                "title": "SR-GNN",
+                "permalink": "/docs/models/sr-gnn"
+              }
+            },
+            {
+              "unversionedId": "models/sr",
+              "id": "models/sr",
+              "title": "SR",
+              "description": "SR stands for Sequential Rules. The SR method is a variation of MC and AR. It also takes the order of actions into account, but in a less restrictive manner. In contrast to the MC method, we create a rule when an item q appeared after an item p in a session even when other events happened between p and q. When assigning weights to the rules, we consider the number of elements appearing between p and q in the session.",
+              "source": "@site/docs/models/sr.md",
+              "sourceDirName": "models",
+              "slug": "/models/sr",
+              "permalink": "/docs/models/sr",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/sr.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SR-SAN",
+                "permalink": "/docs/models/sr-san"
+              },
+              "next": {
+                "title": "STAMP",
+                "permalink": "/docs/models/stamp"
+              }
+            },
+            {
+              "unversionedId": "models/sr-gnn",
+              "id": "models/sr-gnn",
+              "title": "SR-GNN",
+              "description": "SR-GNN stands for Session-based Recommendation with Graph Neural Networks.",
+              "source": "@site/docs/models/sr-gnn.md",
+              "sourceDirName": "models",
+              "slug": "/models/sr-gnn",
+              "permalink": "/docs/models/sr-gnn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/sr-gnn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SPop",
+                "permalink": "/docs/models/spop"
+              },
+              "next": {
+                "title": "SR-SAN",
+                "permalink": "/docs/models/sr-san"
+              }
+            },
+            {
+              "unversionedId": "models/sr-san",
+              "id": "models/sr-san",
+              "title": "SR-SAN",
+              "description": "SR-SAN stands for Session-based Recommendation with Self-Attention Networks.",
+              "source": "@site/docs/models/sr-san.md",
+              "sourceDirName": "models",
+              "slug": "/models/sr-san",
+              "permalink": "/docs/models/sr-san",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/sr-san.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SR-GNN",
+                "permalink": "/docs/models/sr-gnn"
+              },
+              "next": {
+                "title": "SR",
+                "permalink": "/docs/models/sr"
+              }
+            },
+            {
+              "unversionedId": "models/stamp",
+              "id": "models/stamp",
+              "title": "STAMP",
+              "description": "/img/content-models-raw-mp2-stamp-untitled.png",
+              "source": "@site/docs/models/stamp.md",
+              "sourceDirName": "models",
+              "slug": "/models/stamp",
+              "permalink": "/docs/models/stamp",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/stamp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SR",
+                "permalink": "/docs/models/sr"
+              },
+              "next": {
+                "title": "SVAE",
+                "permalink": "/docs/models/svae"
+              }
+            },
+            {
+              "unversionedId": "models/svae",
+              "id": "models/svae",
+              "title": "SVAE",
+              "description": "SVAE stands for Sequential Variational Autoencoder.",
+              "source": "@site/docs/models/svae.md",
+              "sourceDirName": "models",
+              "slug": "/models/svae",
+              "permalink": "/docs/models/svae",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/svae.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "STAMP",
+                "permalink": "/docs/models/stamp"
+              },
+              "next": {
+                "title": "TAGNN-PP",
+                "permalink": "/docs/models/tagnn-pp"
+              }
+            },
+            {
+              "unversionedId": "models/tagnn",
+              "id": "models/tagnn",
+              "title": "TAGNN",
+              "description": "TAGNN stands for Target Attentive Graph Neural Network. Session-based recommendations are challenging due to limited user-item interactions. Typical sequential models are not able to capture complex patterns from all previous interactions. SessionGraph (a graph representation of sessions) can capture the complex patterns from all previous interactions.",
+              "source": "@site/docs/models/tagnn.md",
+              "sourceDirName": "models",
+              "slug": "/models/tagnn",
+              "permalink": "/docs/models/tagnn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/tagnn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TAGNN-PP",
+                "permalink": "/docs/models/tagnn-pp"
+              },
+              "next": {
+                "title": "VNCF",
+                "permalink": "/docs/models/vncf"
+              }
+            },
+            {
+              "unversionedId": "models/tagnn-pp",
+              "id": "models/tagnn-pp",
+              "title": "TAGNN-PP",
+              "description": "TAGNN-PP models item interactions with GNN, and both local and global user interactions with  a Transformer.",
+              "source": "@site/docs/models/tagnn-pp.md",
+              "sourceDirName": "models",
+              "slug": "/models/tagnn-pp",
+              "permalink": "/docs/models/tagnn-pp",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/tagnn-pp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SVAE",
+                "permalink": "/docs/models/svae"
+              },
+              "next": {
+                "title": "TAGNN",
+                "permalink": "/docs/models/tagnn"
+              }
+            },
+            {
+              "unversionedId": "models/vncf",
+              "id": "models/vncf",
+              "title": "VNCF",
+              "description": "VNCF stands for Variational Neural Collaborative Filtering.",
+              "source": "@site/docs/models/vncf.md",
+              "sourceDirName": "models",
+              "slug": "/models/vncf",
+              "permalink": "/docs/models/vncf",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/vncf.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TAGNN",
+                "permalink": "/docs/models/tagnn"
+              },
+              "next": {
+                "title": "VSKNN",
+                "permalink": "/docs/models/vsknn"
+              }
+            },
+            {
+              "unversionedId": "models/vsknn",
+              "id": "models/vsknn",
+              "title": "VSKNN",
+              "description": "VSKNN stands for Vector Multiplication Session-Based kNN. The idea of this variant is to put more emphasis on the more recent events of a session when computing the similarities. Instead of encoding a session as a binary vector, we use real-valued vectors to encode the current session. Only the very last element of the session obtains a value of “1”; the weights of the other elements are determined using a linear decay function that depends on the position of the element within the session, where elements appearing earlier in the session obtain a lower weight. As a result, when using the dot product as a similarity function between the current weight-encoded session and a binary-encoded past session, more emphasis is given to elements that appear later in the sessions.",
+              "source": "@site/docs/models/vsknn.md",
+              "sourceDirName": "models",
+              "slug": "/models/vsknn",
+              "permalink": "/docs/models/vsknn",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/vsknn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VNCF",
+                "permalink": "/docs/models/vncf"
+              },
+              "next": {
+                "title": "Wide and Deep",
+                "permalink": "/docs/models/wide-and-deep"
+              }
+            },
+            {
+              "unversionedId": "models/wide-and-deep",
+              "id": "models/wide-and-deep",
+              "title": "Wide and Deep",
+              "description": "Wide and Deep Learning Model, proposed by Google, 2016, is a DNN-Linear mixed model, which combines the strength of memorization and generalization. It's useful for generic large-scale regression and classification problems with sparse input features (e.g., categorical features with a large number of possible feature values). It has been used for Google App Store for their app recommendation.",
+              "source": "@site/docs/models/wide-and-deep.md",
+              "sourceDirName": "models",
+              "slug": "/models/wide-and-deep",
+              "permalink": "/docs/models/wide-and-deep",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/wide-and-deep.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VSKNN",
+                "permalink": "/docs/models/vsknn"
+              },
+              "next": {
+                "title": "Word2vec",
+                "permalink": "/docs/models/word2vec"
+              }
+            },
+            {
+              "unversionedId": "models/word2vec",
+              "id": "models/word2vec",
+              "title": "Word2vec",
+              "description": "/img/content-models-raw-mp2-word2vec-untitled.png",
+              "source": "@site/docs/models/word2vec.md",
+              "sourceDirName": "models",
+              "slug": "/models/word2vec",
+              "permalink": "/docs/models/word2vec",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/word2vec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wide and Deep",
+                "permalink": "/docs/models/wide-and-deep"
+              },
+              "next": {
+                "title": "xDeepFM",
+                "permalink": "/docs/models/xdeepfm"
+              }
+            },
+            {
+              "unversionedId": "models/xdeepfm",
+              "id": "models/xdeepfm",
+              "title": "xDeepFM",
+              "description": "xDeepFM stands for Extreme Deep Factorization Machines.",
+              "source": "@site/docs/models/xdeepfm.md",
+              "sourceDirName": "models",
+              "slug": "/models/xdeepfm",
+              "permalink": "/docs/models/xdeepfm",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/xdeepfm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Word2vec",
+                "permalink": "/docs/models/word2vec"
               }
             }
           ],
@@ -77,7 +1523,259 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "models/a3c"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/afm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/afn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/ar"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/asmg"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/attrec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/autoint"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/bcq"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/biasonly"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/bpr"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/caser"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/dcn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/ddpg"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/deepcross"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/deepfm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/deepwalk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/dgtn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/dqn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/drqn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/drr"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/dueling-dqn"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/ffm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/fgnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/fm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/gat"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/gc-san"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/gce-gnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/gru4rec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/hmlet"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/itempop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/lessr"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/lightfm-warp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/lightgcn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/lird"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/markov-chains"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/mb-gmn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/mf"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/mian"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/mp2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/neumf"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/nfm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/ngcf"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/pnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/ppo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/q-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sac"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sarsa"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sasrec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sgl"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/siren"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/slist"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/spop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sr-gnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sr-san"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sr"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/stamp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/svae"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/tagnn-pp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/tagnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/vncf"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/vsknn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/wide-and-deep"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/word2vec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/xdeepfm"
                   }
                 ]
               }

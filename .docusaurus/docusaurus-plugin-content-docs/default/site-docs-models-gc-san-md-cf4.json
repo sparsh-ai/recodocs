@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/gc-san",
+  "id": "models/gc-san",
+  "title": "GC-SAN",
+  "description": "GC-SAN stands for Graph contextualized self-attention.",
+  "source": "@site/docs/models/gc-san.md",
+  "sourceDirName": "models",
+  "slug": "/models/gc-san",
+  "permalink": "/docs/models/gc-san",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/gc-san.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GAT",
+    "permalink": "/docs/models/gat"
+  },
+  "next": {
+    "title": "GCE-GNN",
+    "permalink": "/docs/models/gce-gnn"
+  }
+}

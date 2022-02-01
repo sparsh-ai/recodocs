@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/tagnn-pp",
+  "id": "models/tagnn-pp",
+  "title": "TAGNN-PP",
+  "description": "TAGNN-PP models item interactions with GNN, and both local and global user interactions with  a Transformer.",
+  "source": "@site/docs/models/tagnn-pp.md",
+  "sourceDirName": "models",
+  "slug": "/models/tagnn-pp",
+  "permalink": "/docs/models/tagnn-pp",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/tagnn-pp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SVAE",
+    "permalink": "/docs/models/svae"
+  },
+  "next": {
+    "title": "TAGNN",
+    "permalink": "/docs/models/tagnn"
+  }
+}

@@ -1,5 +1,5 @@
 export default {
-  "title": "Recohut Docs",
+  "title": "Recohut",
   "tagline": "Documentation for Recommendation",
   "url": "https://docs.recohut.com",
   "baseUrl": "/",
@@ -13,10 +13,11 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/content/docs-docusaurus/sidebars.js",
+          "sidebarPath": "/content/docs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "remarkPlugins": [
-            null
+            null,
+            {}
           ],
           "rehypePlugins": [
             null
@@ -27,7 +28,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/content/docs-docusaurus/src/css/custom.css"
+          "customCss": "/content/docs/src/css/custom.css"
         }
       }
     ]

@@ -1,14 +1,16 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+// Ref: https://github.com/infinum/eightshift-docs/blob/develop/website/docusaurus.config.js
 
 const math = require('remark-math');
 const katex = require('rehype-katex');
+const oembed = require('@agentofuser/remark-oembed')
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Recohut Docs',
+  title: 'Recohut',
   tagline: 'Documentation for Recommendation',
   url: 'https://docs.recohut.com',
   baseUrl: '/',
@@ -27,7 +29,7 @@ const config = {
               sidebarPath: require.resolve('./sidebars.js'),
               // Please change this to your repo.
               editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-              remarkPlugins: [math],
+              remarkPlugins: [math,oembed],
               rehypePlugins: [katex],
             //   lastVersion: 'current',
             //   versions: {

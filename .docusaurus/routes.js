@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog','8ad'),
     exact: true
@@ -65,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','571'),
+    component: ComponentCreator('/docs','5df'),
     routes: [
       {
         path: '/docs/intro',
@@ -74,8 +109,386 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/a3c',
+        component: ComponentCreator('/docs/models/a3c','031'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/afm',
+        component: ComponentCreator('/docs/models/afm','45f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/afn',
+        component: ComponentCreator('/docs/models/afn','f97'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/ar',
+        component: ComponentCreator('/docs/models/ar','033'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/asmg',
+        component: ComponentCreator('/docs/models/asmg','7e3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/attrec',
+        component: ComponentCreator('/docs/models/attrec','f97'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/autoint',
+        component: ComponentCreator('/docs/models/autoint','6ef'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/bcq',
+        component: ComponentCreator('/docs/models/bcq','350'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/biasonly',
+        component: ComponentCreator('/docs/models/biasonly','227'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/bpr',
+        component: ComponentCreator('/docs/models/bpr','204'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/caser',
+        component: ComponentCreator('/docs/models/caser','ab3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/dcn',
+        component: ComponentCreator('/docs/models/dcn','bc7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/ddpg',
+        component: ComponentCreator('/docs/models/ddpg','5f5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/deepcross',
+        component: ComponentCreator('/docs/models/deepcross','3b9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/deepfm',
+        component: ComponentCreator('/docs/models/deepfm','aca'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/deepwalk',
+        component: ComponentCreator('/docs/models/deepwalk','65b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/dgtn',
+        component: ComponentCreator('/docs/models/dgtn','7f1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/dqn',
+        component: ComponentCreator('/docs/models/dqn','5a9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/drqn',
+        component: ComponentCreator('/docs/models/drqn','e87'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/drr',
+        component: ComponentCreator('/docs/models/drr','d43'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/dueling-dqn',
+        component: ComponentCreator('/docs/models/dueling-dqn','ecd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/ffm',
         component: ComponentCreator('/docs/models/ffm','5b3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/fgnn',
+        component: ComponentCreator('/docs/models/fgnn','f7d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/fm',
+        component: ComponentCreator('/docs/models/fm','1cf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/gat',
+        component: ComponentCreator('/docs/models/gat','41f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/gc-san',
+        component: ComponentCreator('/docs/models/gc-san','9e6'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/gce-gnn',
+        component: ComponentCreator('/docs/models/gce-gnn','c76'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/gru4rec',
+        component: ComponentCreator('/docs/models/gru4rec','fe2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/hmlet',
+        component: ComponentCreator('/docs/models/hmlet','35c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/itempop',
+        component: ComponentCreator('/docs/models/itempop','e0a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/lessr',
+        component: ComponentCreator('/docs/models/lessr','1a3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/lightfm-warp',
+        component: ComponentCreator('/docs/models/lightfm-warp','810'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/lightgcn',
+        component: ComponentCreator('/docs/models/lightgcn','9d0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/lird',
+        component: ComponentCreator('/docs/models/lird','556'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/markov-chains',
+        component: ComponentCreator('/docs/models/markov-chains','645'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/mb-gmn',
+        component: ComponentCreator('/docs/models/mb-gmn','6c8'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/mf',
+        component: ComponentCreator('/docs/models/mf','7cd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/mian',
+        component: ComponentCreator('/docs/models/mian','77e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/mp2',
+        component: ComponentCreator('/docs/models/mp2','e88'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/neumf',
+        component: ComponentCreator('/docs/models/neumf','b00'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/nfm',
+        component: ComponentCreator('/docs/models/nfm','338'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/ngcf',
+        component: ComponentCreator('/docs/models/ngcf','c19'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/pnn',
+        component: ComponentCreator('/docs/models/pnn','87c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/ppo',
+        component: ComponentCreator('/docs/models/ppo','043'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/q-learning',
+        component: ComponentCreator('/docs/models/q-learning','00c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sac',
+        component: ComponentCreator('/docs/models/sac','959'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sarsa',
+        component: ComponentCreator('/docs/models/sarsa','00a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sasrec',
+        component: ComponentCreator('/docs/models/sasrec','613'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sgl',
+        component: ComponentCreator('/docs/models/sgl','90e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/siren',
+        component: ComponentCreator('/docs/models/siren','08f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/slist',
+        component: ComponentCreator('/docs/models/slist','8c2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/spop',
+        component: ComponentCreator('/docs/models/spop','5ea'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sr',
+        component: ComponentCreator('/docs/models/sr','47f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sr-gnn',
+        component: ComponentCreator('/docs/models/sr-gnn','2cf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sr-san',
+        component: ComponentCreator('/docs/models/sr-san','3cb'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/stamp',
+        component: ComponentCreator('/docs/models/stamp','13f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/svae',
+        component: ComponentCreator('/docs/models/svae','c85'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/tagnn',
+        component: ComponentCreator('/docs/models/tagnn','f52'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/tagnn-pp',
+        component: ComponentCreator('/docs/models/tagnn-pp','e79'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/vncf',
+        component: ComponentCreator('/docs/models/vncf','381'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/vsknn',
+        component: ComponentCreator('/docs/models/vsknn','cd4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/wide-and-deep',
+        component: ComponentCreator('/docs/models/wide-and-deep','de0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/word2vec',
+        component: ComponentCreator('/docs/models/word2vec','908'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/xdeepfm',
+        component: ComponentCreator('/docs/models/xdeepfm','8bf'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

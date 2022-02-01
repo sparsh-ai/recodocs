@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/dgtn",
+  "id": "models/dgtn",
+  "title": "DGTN",
+  "description": "DGTN stands for Dual-channel Graph Transition Network.",
+  "source": "@site/docs/models/dgtn.md",
+  "sourceDirName": "models",
+  "slug": "/models/dgtn",
+  "permalink": "/docs/models/dgtn",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/dgtn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DeepWalk",
+    "permalink": "/docs/models/deepwalk"
+  },
+  "next": {
+    "title": "DQN",
+    "permalink": "/docs/models/dqn"
+  }
+}

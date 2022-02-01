@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/bpr",
+  "id": "models/bpr",
+  "title": "BPR",
+  "description": "BPR stands for Bayesian Personalized Ranking. In matrix factorization (MF), to compute the prediction we have to multiply the user factors to the item factors:",
+  "source": "@site/docs/models/bpr.md",
+  "sourceDirName": "models",
+  "slug": "/models/bpr",
+  "permalink": "/docs/models/bpr",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/bpr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BiasOnly",
+    "permalink": "/docs/models/biasonly"
+  },
+  "next": {
+    "title": "CASER",
+    "permalink": "/docs/models/caser"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/models",
+  "id": "models/models",
+  "title": "Models",
+  "description": "NFM",
+  "source": "@site/docs/models/models.md",
+  "sourceDirName": "models",
+  "slug": "/models/",
+  "permalink": "/docs/models/",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/models.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recohut Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Field-aware Factorization Machines (FFM)",
+    "permalink": "/docs/models/ffm"
+  }
+}

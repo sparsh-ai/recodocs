@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/mb-gmn",
+  "id": "models/mb-gmn",
+  "title": "MB-GMN",
+  "description": "MB-GMN stands for Multi-behavior pattern modeling with meta-knowledge learner.",
+  "source": "@site/docs/models/mb-gmn.md",
+  "sourceDirName": "models",
+  "slug": "/models/mb-gmn",
+  "permalink": "/docs/models/mb-gmn",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/mb-gmn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markov Chains",
+    "permalink": "/docs/models/markov-chains"
+  },
+  "next": {
+    "title": "MF",
+    "permalink": "/docs/models/mf"
+  }
+}

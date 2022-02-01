@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/afn",
+  "id": "models/afn",
+  "title": "AFN",
+  "description": "AFN stands for Adaptive Factorization Network.",
+  "source": "@site/docs/models/afn.md",
+  "sourceDirName": "models",
+  "slug": "/models/afn",
+  "permalink": "/docs/models/afn",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/afn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AFM",
+    "permalink": "/docs/models/afm"
+  },
+  "next": {
+    "title": "AR",
+    "permalink": "/docs/models/ar"
+  }
+}

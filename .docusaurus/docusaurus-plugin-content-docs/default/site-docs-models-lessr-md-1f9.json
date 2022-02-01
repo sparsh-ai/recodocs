@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/lessr",
+  "id": "models/lessr",
+  "title": "LESSR",
+  "description": "Tianwen Chen and Raymond Chi-Wing Wong, “LESSR: Handling Information Loss of Graph Neural Networks for Session-based Recommendation”. KDD, 2020.",
+  "source": "@site/docs/models/lessr.md",
+  "sourceDirName": "models",
+  "slug": "/models/lessr",
+  "permalink": "/docs/models/lessr",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models/lessr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ItemPop",
+    "permalink": "/docs/models/itempop"
+  },
+  "next": {
+    "title": "LightFM WARP",
+    "permalink": "/docs/models/lightfm-warp"
+  }
+}
