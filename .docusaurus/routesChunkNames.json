@@ -125,7 +125,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-2b0": {
+  "/docs-4d9": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -392,6 +392,18 @@
   "/docs/projects-c4a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-projects-1-dc-4e1"
+  },
+  "/docs/tutorials/addressing-the-cold-start-problem-675": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-addressing-the-cold-start-problem-7-cd-cf8"
+  },
+  "/docs/tutorials/data-science-bookcamp-f86": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-data-science-bookcamp-5-c-8-783"
+  },
+  "/docs/tutorials/matching-and-ranking-models-in-tensorflow-646": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-matching-and-ranking-models-in-tensorflowc-38-43b"
   },
   "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb-852": {
     "component": "component---theme-doc-item-178-a40",

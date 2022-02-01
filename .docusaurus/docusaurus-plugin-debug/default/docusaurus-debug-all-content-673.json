@@ -1508,8 +1508,8 @@
                 "permalink": "/docs/models/word2vec"
               },
               "next": {
-                "title": "Real-time event capturing with Kafka and MongoDB",
-                "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+                "title": "Addressing the Cold-Start Problem",
+                "permalink": "/docs/tutorials/addressing-the-cold-start-problem"
               }
             },
             {
@@ -1532,6 +1532,75 @@
               }
             },
             {
+              "unversionedId": "tutorials/addressing-the-cold-start-problem",
+              "id": "tutorials/addressing-the-cold-start-problem",
+              "title": "Addressing the Cold-Start Problem",
+              "description": "/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled.png",
+              "source": "@site/docs/tutorials/addressing-the-cold-start-problem.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/addressing-the-cold-start-problem",
+              "permalink": "/docs/tutorials/addressing-the-cold-start-problem",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/addressing-the-cold-start-problem.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "xDeepFM",
+                "permalink": "/docs/models/xdeepfm"
+              },
+              "next": {
+                "title": "Data Science Bookcamp",
+                "permalink": "/docs/tutorials/data-science-bookcamp"
+              }
+            },
+            {
+              "unversionedId": "tutorials/data-science-bookcamp",
+              "id": "tutorials/data-science-bookcamp",
+              "title": "Data Science Bookcamp",
+              "description": "Key points",
+              "source": "@site/docs/tutorials/data-science-bookcamp.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/data-science-bookcamp",
+              "permalink": "/docs/tutorials/data-science-bookcamp",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/data-science-bookcamp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Addressing the Cold-Start Problem",
+                "permalink": "/docs/tutorials/addressing-the-cold-start-problem"
+              },
+              "next": {
+                "title": "Matching and Ranking models in Tensorflow",
+                "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
+              }
+            },
+            {
+              "unversionedId": "tutorials/matching-and-ranking-models-in-tensorflow",
+              "id": "tutorials/matching-and-ranking-models-in-tensorflow",
+              "title": "Matching and Ranking models in Tensorflow",
+              "description": "Matching models on ML-1m and ranking models on Criteo (sample) dataset in TF v2.5",
+              "source": "@site/docs/tutorials/matching-and-ranking-models-in-tensorflow.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/matching-and-ranking-models-in-tensorflow",
+              "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/matching-and-ranking-models-in-tensorflow.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data Science Bookcamp",
+                "permalink": "/docs/tutorials/data-science-bookcamp"
+              },
+              "next": {
+                "title": "Real-time event capturing with Kafka and MongoDB",
+                "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+              }
+            },
+            {
               "unversionedId": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
               "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
               "title": "Real-time event capturing with Kafka and MongoDB",
@@ -1546,8 +1615,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "xDeepFM",
-                "permalink": "/docs/models/xdeepfm"
+                "title": "Matching and Ranking models in Tensorflow",
+                "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
               },
               "next": {
                 "title": "Session-based Recommendation with Graph Neural Networks",
@@ -1873,6 +1942,18 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorials/addressing-the-cold-start-problem"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/data-science-bookcamp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/matching-and-ranking-models-in-tensorflow"
+                  },
                   {
                     "type": "doc",
                     "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb"

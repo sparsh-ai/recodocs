@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','2b0'),
+    component: ComponentCreator('/docs','4d9'),
     routes: [
       {
         path: '/docs/datasets',
@@ -495,6 +495,24 @@ export default [
       {
         path: '/docs/projects',
         component: ComponentCreator('/docs/projects','c4a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/addressing-the-cold-start-problem',
+        component: ComponentCreator('/docs/tutorials/addressing-the-cold-start-problem','675'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/data-science-bookcamp',
+        component: ComponentCreator('/docs/tutorials/data-science-bookcamp','f86'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/matching-and-ranking-models-in-tensorflow',
+        component: ComponentCreator('/docs/tutorials/matching-and-ranking-models-in-tensorflow','646'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

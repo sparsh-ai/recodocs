@@ -408,6 +408,24 @@
         "items": [
           {
             "type": "link",
+            "label": "Addressing the Cold-Start Problem",
+            "href": "/docs/tutorials/addressing-the-cold-start-problem",
+            "docId": "tutorials/addressing-the-cold-start-problem"
+          },
+          {
+            "type": "link",
+            "label": "Data Science Bookcamp",
+            "href": "/docs/tutorials/data-science-bookcamp",
+            "docId": "tutorials/data-science-bookcamp"
+          },
+          {
+            "type": "link",
+            "label": "Matching and Ranking models in Tensorflow",
+            "href": "/docs/tutorials/matching-and-ranking-models-in-tensorflow",
+            "docId": "tutorials/matching-and-ranking-models-in-tensorflow"
+          },
+          {
+            "type": "link",
             "label": "Real-time event capturing with Kafka and MongoDB",
             "href": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
             "docId": "tutorials/real-time-event-capturing-with-kafka-and-mongodb"
@@ -835,6 +853,24 @@
       "id": "projects",
       "title": "Projects",
       "description": "| Project Id | Title | Links |",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/addressing-the-cold-start-problem": {
+      "id": "tutorials/addressing-the-cold-start-problem",
+      "title": "Addressing the Cold-Start Problem",
+      "description": "/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled.png",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/data-science-bookcamp": {
+      "id": "tutorials/data-science-bookcamp",
+      "title": "Data Science Bookcamp",
+      "description": "Key points",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/matching-and-ranking-models-in-tensorflow": {
+      "id": "tutorials/matching-and-ranking-models-in-tensorflow",
+      "title": "Matching and Ranking models in Tensorflow",
+      "description": "Matching models on ML-1m and ranking models on Criteo (sample) dataset in TF v2.5",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/real-time-event-capturing-with-kafka-and-mongodb": {

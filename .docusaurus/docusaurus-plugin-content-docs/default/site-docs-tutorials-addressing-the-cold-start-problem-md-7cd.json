@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/addressing-the-cold-start-problem",
+  "id": "tutorials/addressing-the-cold-start-problem",
+  "title": "Addressing the Cold-Start Problem",
+  "description": "/img/content-tutorials-raw-addressing-the-cold-start-problem-untitled.png",
+  "source": "@site/docs/tutorials/addressing-the-cold-start-problem.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/addressing-the-cold-start-problem",
+  "permalink": "/docs/tutorials/addressing-the-cold-start-problem",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/addressing-the-cold-start-problem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
+  },
+  "next": {
+    "title": "Data Science Bookcamp",
+    "permalink": "/docs/tutorials/data-science-bookcamp"
+  }
+}

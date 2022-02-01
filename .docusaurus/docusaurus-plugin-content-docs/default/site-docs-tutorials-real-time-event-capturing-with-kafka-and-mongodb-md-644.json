@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "xDeepFM",
-    "permalink": "/docs/models/xdeepfm"
+    "title": "Matching and Ranking models in Tensorflow",
+    "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
   },
   "next": {
     "title": "Session-based Recommendation with Graph Neural Networks",

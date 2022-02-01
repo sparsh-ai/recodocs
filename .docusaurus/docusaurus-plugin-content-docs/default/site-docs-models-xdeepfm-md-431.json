@@ -17,7 +17,7 @@
     "permalink": "/docs/models/word2vec"
   },
   "next": {
-    "title": "Real-time event capturing with Kafka and MongoDB",
-    "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+    "title": "Addressing the Cold-Start Problem",
+    "permalink": "/docs/tutorials/addressing-the-cold-start-problem"
   }
 }

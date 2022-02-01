@@ -341,6 +341,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/addressing-the-cold-start-problem",
+              "path": "/docs/tutorials/addressing-the-cold-start-problem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/data-science-bookcamp",
+              "path": "/docs/tutorials/data-science-bookcamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matching-and-ranking-models-in-tensorflow",
+              "path": "/docs/tutorials/matching-and-ranking-models-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
               "path": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
               "sidebar": "tutorialSidebar"

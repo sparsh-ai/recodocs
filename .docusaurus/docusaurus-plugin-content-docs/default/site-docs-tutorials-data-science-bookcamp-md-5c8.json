@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/data-science-bookcamp",
+  "id": "tutorials/data-science-bookcamp",
+  "title": "Data Science Bookcamp",
+  "description": "Key points",
+  "source": "@site/docs/tutorials/data-science-bookcamp.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/data-science-bookcamp",
+  "permalink": "/docs/tutorials/data-science-bookcamp",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/data-science-bookcamp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Addressing the Cold-Start Problem",
+    "permalink": "/docs/tutorials/addressing-the-cold-start-problem"
+  },
+  "next": {
+    "title": "Matching and Ranking models in Tensorflow",
+    "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
+  }
+}
