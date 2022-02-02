@@ -1,1064 +1,1042 @@
 {
-  "/__docusaurus/debug-3d6": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/config-914": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/content-c28": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-3cf": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/__docusaurus/debug/metadata-31b": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/__docusaurus/debug/registry-0da": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/__docusaurus/debug/routes-244": {
-    "component": "component---theme-debug-routes-946-699"
-  },
   "/blog-b52": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-185-6a3"
+        "content": "185986ab"
       },
       {
-        "content": "content---blog-02-a-4c0"
+        "content": "02a5a6e0"
       },
       {
-        "content": "content---blog-744-7a9"
+        "content": "744cb713"
       },
       {
-        "content": "content---blogefe-40e"
+        "content": "efed6fa0"
       },
       {
-        "content": "content---blog-0-e-3-056"
+        "content": "0e3c1a88"
       },
       {
-        "content": "content---blog-903-b99"
+        "content": "90386e86"
       },
       {
-        "content": "content---blog-194-80e"
+        "content": "194a13a6"
       },
       {
-        "content": "content---blogd-4-a-a2d"
+        "content": "d4ab1fbc"
       },
       {
-        "content": "content---blog-7-cf-594"
+        "content": "7cf6b45a"
       },
       {
-        "content": "content---blogbaf-e1f"
+        "content": "bafaae06"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "b2b675dd"
   },
   "/blog/2020/01/19/mobilenet-ssd-caffe-pre-trained-model-8e7": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2020-01-19-mobilenet-ssd-caffe-pre-trained-modelae-2-664"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "ae27c878"
   },
   "/blog/2021/01/23/object-detection-with-yolo3-334": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-01-23-object-detection-with-yolo-3-f-76-267"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "f76e21a9"
   },
   "/blog/2021/10/01/bytedance's-secret-sauce-of-recommendation-689": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-bytedances-secret-sauce-of-recommendationc-15-66f"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "c15d490c"
   },
   "/blog/2021/10/01/clinical-decision-making-b7f": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-clinical-decision-making-7-f-2-518"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "7f20c9b3"
   },
   "/blog/2021/10/01/detectron-2-ac0": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-detectron-23-d-9-11d"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "3d93fce4"
   },
   "/blog/2021/10/01/distributed-training-of-recommender-systems-024": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-distributed-training-of-recommender-systems-0-ad-c79"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "0ada242c"
   },
   "/blog/2021/10/01/document-recommendation-682": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-document-recommendation-746-a4e"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "746b09f8"
   },
   "/blog/2021/10/01/fake-voice-detection-3b3": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-fake-voice-detectionef-4-094"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "ef4cd368"
   },
   "/blog/2021/10/01/finding-hardware-parts-in-warehouse-2ea": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-finding-hardware-parts-in-warehouseaf-2-3f3"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "af278104"
   },
   "/blog/2021/10/01/image-similarity-system-64b": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-image-similarity-systemcaa-385"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "caa49cac"
   },
   "/blog/2021/10/01/insurance-personalization-c7e": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-insurance-personalizationf-6-a-3bb"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "f6af6df9"
   },
   "/blog/2021/10/01/name-&-address-parsing-d90": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-name-address-parsing-4-f-3-030"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "4f303f78"
   },
   "/blog/2021/10/01/object-detection-hands-on-exercises-099": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-object-detection-hands-on-exercises-214-fe0"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "2143c78b"
   },
   "/blog/2021/10/01/object-detection-with-opencv-8e4": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-object-detection-with-opencvbfe-cc8"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "bfe29135"
   },
   "/blog/2021/10/01/object-detection-with-yolo3-d54": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-object-detection-with-yolo-341-d-1bb"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "41dadac5"
   },
   "/blog/2021/10/01/ocr-experiments-23a": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-ocr-experiments-3-ca-3cd"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "3ca4ffcb"
   },
   "/blog/2021/10/01/pdf-to-wordcloud-via-mail-2e5": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-pdf-to-wordcloud-via-mail-45-f-b0b"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "45f8179f"
   },
   "/blog/2021/10/01/personalized-unexpectedness-in-recommender-systems-030": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-personalized-unexpectedness-in-recommender-systems-96-e-d9d"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "96e00020"
   },
   "/blog/2021/10/01/predicting-electronics-resale-price-5cf": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-predicting-electronics-resale-price-7-dc-e4b"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "7dca322b"
   },
   "/blog/2021/10/01/real-time-news-personalization-with-flink-d15": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-real-time-news-personalization-with-flinka-99-9e5"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "a999e6ba"
   },
   "/blog/2021/10/01/semantic-similarity-52a": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-semantic-similarity-841-095"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "84115211"
   },
   "/blog/2021/10/01/short-video-background-music-recommender-502": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-short-video-background-music-recommenderedb-d71"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "edbe2c02"
   },
   "/blog/2021/10/01/the-progression-of-analytics-in-enterprises-7d2": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-the-progression-of-analytics-in-enterprisesf-66-23b"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "f66eeb44"
   },
   "/blog/2021/10/01/tools-for-building-recommender-systems-cc7": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-tools-for-building-recommender-systemsf-14-950"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "f1450ef9"
   },
   "/blog/2021/10/01/vehicle-suggestions-702": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-vehicle-suggestions-031-04c"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "03158ba3"
   },
   "/blog/2021/10/01/web-scraping-using-scrapy-bs4-and-selenium-f0e": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-web-scraping-using-scrapy-bs-4-and-selenium-15-f-101"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "15f89aec"
   },
   "/blog/2021/10/01/web-scraping-with-gazpacho-41e": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-web-scraping-with-gazpacho-112-e1b"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "1125aadf"
   },
   "/blog/2021/10/01/wellness-tracker-chatbot-916": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-wellness-tracker-chatbotc-6-b-398"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "c6b8a14b"
   },
   "/blog/2021/10/01/what-is-livestream-ecommerce-313": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-what-is-livestream-ecommerce-14-e-92e"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "14e07bbd"
   },
   "/blog/archive-f4c": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "component": "9e4087bc",
+    "archive": "b2f554cd"
   },
   "/blog/page/2-156": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-2-ac-9-aad"
+        "content": "ac98e55f"
       },
       {
-        "content": "content---blog-page-2-eda-37f"
+        "content": "edadaca9"
       },
       {
-        "content": "content---blog-page-2620-632"
+        "content": "6208a5b7"
       },
       {
-        "content": "content---blog-page-20-bc-18a"
+        "content": "0bcd0601"
       },
       {
-        "content": "content---blog-page-2327-7c6"
+        "content": "3278e099"
       },
       {
-        "content": "content---blog-page-20-c-6-35c"
+        "content": "0c655d87"
       },
       {
-        "content": "content---blog-page-29-cd-b68"
+        "content": "9cd79544"
       },
       {
-        "content": "content---blog-page-28-a-7-66f"
+        "content": "8a789c15"
       },
       {
-        "content": "content---blog-page-2630-68e"
+        "content": "630af974"
       },
       {
-        "content": "content---blog-page-2-e-4-e-e11"
+        "content": "e4e8793a"
       }
     ],
-    "metadata": "metadata---blog-page-28-eb-625"
+    "metadata": "8eb4e46b"
   },
   "/blog/page/3-35b": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-31-c-3-b49"
+        "content": "1c317916"
       },
       {
-        "content": "content---blog-page-37-bd-183"
+        "content": "7bd4c30f"
       },
       {
-        "content": "content---blog-page-3-def-3bc"
+        "content": "defae8b4"
       },
       {
-        "content": "content---blog-page-33-a-1-f6a"
+        "content": "3a1b8b71"
       },
       {
-        "content": "content---blog-page-3285-b7d"
+        "content": "28598ea0"
       },
       {
-        "content": "content---blog-page-39-ea-29d"
+        "content": "9ea30017"
       },
       {
-        "content": "content---blog-page-3-f-48-436"
+        "content": "f4866862"
       },
       {
-        "content": "content---blog-page-3-af-0-85d"
+        "content": "af0d3de2"
       },
       {
-        "content": "content---blog-page-3069-d57"
+        "content": "0690447f"
       }
     ],
-    "metadata": "metadata---blog-page-3929-7ba"
+    "metadata": "92999a1c"
   },
   "/blog/tags-e13": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
   },
   "/blog/tags/app-0e4": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogbaf-e1f"
+        "content": "bafaae06"
       },
       {
-        "content": "content---blog-page-2620-632"
+        "content": "6208a5b7"
       },
       {
-        "content": "content---blog-page-3-af-0-85d"
+        "content": "af0d3de2"
       },
       {
-        "content": "content---blog-page-3069-d57"
+        "content": "0690447f"
       }
     ],
-    "metadata": "metadata---blog-tags-app-03-e-251"
+    "metadata": "03ee96e8"
   },
   "/blog/tags/audio-9c1": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-903-b99"
+        "content": "90386e86"
       }
     ],
-    "metadata": "metadata---blog-tags-audio-671-b71"
+    "metadata": "6712406b"
   },
   "/blog/tags/aws-beanstalk-173": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogd-4-a-a2d"
+        "content": "d4ab1fbc"
       }
     ],
-    "metadata": "metadata---blog-tags-aws-beanstalkf-90-9be"
+    "metadata": "f9046b55"
   },
   "/blog/tags/chatbot-3c0": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-39-ea-29d"
+        "content": "9ea30017"
       }
     ],
-    "metadata": "metadata---blog-tags-chatbotbb-0-460"
+    "metadata": "bb0ed552"
   },
   "/blog/tags/classification-a16": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-02-a-4c0"
+        "content": "02a5a6e0"
       }
     ],
-    "metadata": "metadata---blog-tags-classification-739-673"
+    "metadata": "739966d2"
   },
   "/blog/tags/deepfake-819": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-903-b99"
+        "content": "90386e86"
       }
     ],
-    "metadata": "metadata---blog-tags-deepfakec-4-a-810"
+    "metadata": "c4aea541"
   },
   "/blog/tags/distributed-ae7": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogefe-40e"
+        "content": "efed6fa0"
       }
     ],
-    "metadata": "metadata---blog-tags-distributed-8-b-9-107"
+    "metadata": "8b9f1315"
   },
   "/blog/tags/flask-d82": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogd-4-a-a2d"
+        "content": "d4ab1fbc"
       },
       {
-        "content": "content---blogbaf-e1f"
+        "content": "bafaae06"
       }
     ],
-    "metadata": "metadata---blog-tags-flask-65-d-52f"
+    "metadata": "65da7a06"
   },
   "/blog/tags/healthcare-28a": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-02-a-4c0"
+        "content": "02a5a6e0"
       },
       {
-        "content": "content---blog-page-39-ea-29d"
+        "content": "9ea30017"
       }
     ],
-    "metadata": "metadata---blog-tags-healthcare-8-fa-e25"
+    "metadata": "8fa4918e"
   },
   "/blog/tags/insight-ee0": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-31-c-3-b49"
+        "content": "1c317916"
       }
     ],
-    "metadata": "metadata---blog-tags-insightdb-1-743"
+    "metadata": "db1b94d9"
   },
   "/blog/tags/insurance-452": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-7-cf-594"
+        "content": "7cf6b45a"
       }
     ],
-    "metadata": "metadata---blog-tags-insurance-5-b-0-acd"
+    "metadata": "5b04adc5"
   },
   "/blog/tags/ner-d12": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogbaf-e1f"
+        "content": "bafaae06"
       }
     ],
-    "metadata": "metadata---blog-tags-nerd-03-3a6"
+    "metadata": "d03645fc"
   },
   "/blog/tags/nlp-ba2": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-0-e-3-056"
+        "content": "0e3c1a88"
       },
       {
-        "content": "content---blog-194-80e"
+        "content": "194a13a6"
       },
       {
-        "content": "content---blogbaf-e1f"
+        "content": "bafaae06"
       },
       {
-        "content": "content---blog-page-2630-68e"
+        "content": "630af974"
       },
       {
-        "content": "content---blog-page-3-def-3bc"
+        "content": "defae8b4"
       },
       {
-        "content": "content---blog-page-39-ea-29d"
+        "content": "9ea30017"
       }
     ],
-    "metadata": "metadata---blog-tags-nlpfb-1-230"
+    "metadata": "fb1f3d53"
   },
   "/blog/tags/object-detection-0ee": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-2-ac-9-aad"
+        "content": "ac98e55f"
       },
       {
-        "content": "content---blog-page-2-eda-37f"
+        "content": "edadaca9"
       }
     ],
-    "metadata": "metadata---blog-tags-object-detection-895-c76"
+    "metadata": "89594076"
   },
   "/blog/tags/ocr-e52": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-20-bc-18a"
+        "content": "0bcd0601"
       }
     ],
-    "metadata": "metadata---blog-tags-ocrc-5-c-5c2"
+    "metadata": "c5c6dc34"
   },
   "/blog/tags/opencv-b57": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-2-eda-37f"
+        "content": "edadaca9"
       }
     ],
-    "metadata": "metadata---blog-tags-opencv-279-82b"
+    "metadata": "2796da64"
   },
   "/blog/tags/personalization-82f": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-7-cf-594"
+        "content": "7cf6b45a"
       },
       {
-        "content": "content---blog-page-20-c-6-35c"
+        "content": "0c655d87"
       },
       {
-        "content": "content---blog-page-28-a-7-66f"
+        "content": "8a789c15"
       },
       {
-        "content": "content---blog-page-3-f-48-436"
+        "content": "f4866862"
       }
     ],
-    "metadata": "metadata---blog-tags-personalizationd-73-3d5"
+    "metadata": "d73e75b6"
   },
   "/blog/tags/realtime-b88": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-28-a-7-66f"
+        "content": "8a789c15"
       }
     ],
-    "metadata": "metadata---blog-tags-realtimeb-14-345"
+    "metadata": "b14e6d9a"
   },
   "/blog/tags/recsys-64a": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-185-6a3"
+        "content": "185986ab"
       },
       {
-        "content": "content---blogefe-40e"
+        "content": "efed6fa0"
       },
       {
-        "content": "content---blog-page-2-e-4-e-e11"
+        "content": "e4e8793a"
       },
       {
-        "content": "content---blog-page-37-bd-183"
+        "content": "7bd4c30f"
       }
     ],
-    "metadata": "metadata---blog-tags-recsysa-32-c6f"
+    "metadata": "a32b5cd8"
   },
   "/blog/tags/regression-884": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-29-cd-b68"
+        "content": "9cd79544"
       }
     ],
-    "metadata": "metadata---blog-tags-regressiond-3-c-558"
+    "metadata": "d3c8c60b"
   },
   "/blog/tags/scraping-5f8": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-33-a-1-f6a"
+        "content": "3a1b8b71"
       },
       {
-        "content": "content---blog-page-3285-b7d"
+        "content": "28598ea0"
       }
     ],
-    "metadata": "metadata---blog-tags-scraping-57-e-f12"
+    "metadata": "57e4dcf7"
   },
   "/blog/tags/similarity-50b": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-0-e-3-056"
+        "content": "0e3c1a88"
       },
       {
-        "content": "content---blog-194-80e"
+        "content": "194a13a6"
       },
       {
-        "content": "content---blogd-4-a-a2d"
+        "content": "d4ab1fbc"
       },
       {
-        "content": "content---blog-page-2630-68e"
+        "content": "630af974"
       },
       {
-        "content": "content---blog-page-3-def-3bc"
+        "content": "defae8b4"
       }
     ],
-    "metadata": "metadata---blog-tags-similarity-2-f-3-d1b"
+    "metadata": "2f39caf0"
   },
   "/blog/tags/streamlit-a1d": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-2620-632"
+        "content": "6208a5b7"
       },
       {
-        "content": "content---blog-page-3-af-0-85d"
+        "content": "af0d3de2"
       },
       {
-        "content": "content---blog-page-3069-d57"
+        "content": "0690447f"
       }
     ],
-    "metadata": "metadata---blog-tags-streamlit-451-386"
+    "metadata": "451a9aa3"
   },
   "/blog/tags/tool-a8d": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-185-6a3"
+        "content": "185986ab"
       },
       {
-        "content": "content---blog-744-7a9"
+        "content": "744cb713"
       },
       {
-        "content": "content---blog-page-37-bd-183"
+        "content": "7bd4c30f"
       }
     ],
-    "metadata": "metadata---blog-tags-toolc-17-cc4"
+    "metadata": "c1721191"
   },
   "/blog/tags/trend-981": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-page-3-f-48-436"
+        "content": "f4866862"
       }
     ],
-    "metadata": "metadata---blog-tags-trend-553-c47"
+    "metadata": "553a85c6"
   },
   "/blog/tags/vision-0ea": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-744-7a9"
+        "content": "744cb713"
       },
       {
-        "content": "content---blogd-4-a-a2d"
+        "content": "d4ab1fbc"
       },
       {
-        "content": "content---blog-page-2-ac-9-aad"
+        "content": "ac98e55f"
       },
       {
-        "content": "content---blog-page-2-eda-37f"
+        "content": "edadaca9"
       },
       {
-        "content": "content---blog-page-2620-632"
+        "content": "6208a5b7"
       },
       {
-        "content": "content---blog-page-20-bc-18a"
+        "content": "0bcd0601"
       },
       {
-        "content": "content---blog-page-3-def-3bc"
+        "content": "defae8b4"
       },
       {
-        "content": "content---blog-page-3-af-0-85d"
+        "content": "af0d3de2"
       },
       {
-        "content": "content---blog-page-3069-d57"
+        "content": "0690447f"
       }
     ],
-    "metadata": "metadata---blog-tags-vision-829-cb4"
+    "metadata": "829ddb37"
   },
   "/markdown-page-be1": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
   "/docs-3d9": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/docs/concept-basics/challenges-ea1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-basics-challenges-20-f-5b1"
+    "component": "17896441",
+    "content": "20f6d5b2"
   },
   "/docs/concept-basics/session-based-recommenders-3e6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-basics-session-based-recommenders-44-a-d96"
+    "component": "17896441",
+    "content": "44aba2af"
   },
   "/docs/concept-basics/types-of-recommender-systems-5b7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-basics-types-of-recommender-systemscd-7-f87"
+    "component": "17896441",
+    "content": "cd7428df"
   },
   "/docs/concept-extras/bias-&-fairness-4a1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-bias-fairness-388-ccd"
+    "component": "17896441",
+    "content": "38879a8f"
   },
   "/docs/concept-extras/case-studies/1mg-prod2vec-9e2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-1-mg-prod-2-vec-256-437"
+    "component": "17896441",
+    "content": "256ecddd"
   },
   "/docs/concept-extras/case-studies/airbnb-experiences-4cd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-airbnb-experiencese-42-b44"
+    "component": "17896441",
+    "content": "e42e6a73"
   },
   "/docs/concept-extras/case-studies/alipay-ctr-850": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-alipay-ctr-7-cc-32d"
+    "component": "17896441",
+    "content": "7cc18bc3"
   },
   "/docs/concept-extras/case-studies/doordash-contextual-bandit-32a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-doordash-contextual-bandit-1-e-7-143"
+    "component": "17896441",
+    "content": "1e7b03f8"
   },
   "/docs/concept-extras/case-studies/etsy-personalization-d90": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-etsy-personalizationd-97-d1b"
+    "component": "17896441",
+    "content": "d97d0b4c"
   },
   "/docs/concept-extras/case-studies/huawei-appgallery-9bd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-huawei-appgalleryd-3-d-89d"
+    "component": "17896441",
+    "content": "d3d38f4c"
   },
   "/docs/concept-extras/case-studies/linkedin-glmix-5ae": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-linkedin-glmixdab-92a"
+    "component": "17896441",
+    "content": "dab949ee"
   },
   "/docs/concept-extras/case-studies/marketcloud-real-time-d26": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-marketcloud-real-time-4-c-6-a81"
+    "component": "17896441",
+    "content": "4c65b3cf"
   },
   "/docs/concept-extras/case-studies/netflix-personalize-images-62a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-netflix-personalize-imagesff-2-b34"
+    "component": "17896441",
+    "content": "ff28b437"
   },
   "/docs/concept-extras/case-studies/pinterest-multi-task-learning-9f7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-pinterest-multi-task-learningf-6-f-393"
+    "component": "17896441",
+    "content": "f6fd48a4"
   },
   "/docs/concept-extras/case-studies/santander-banking-products-05a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-santander-banking-productse-87-2e3"
+    "component": "17896441",
+    "content": "e87b59d5"
   },
   "/docs/concept-extras/case-studies/scribd-real-time-8e4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-scribd-real-time-253-528"
+    "component": "17896441",
+    "content": "253fa37d"
   },
   "/docs/concept-extras/case-studies/spotify-contextual-bandits-54c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-spotify-contextual-banditsf-0-a-94b"
+    "component": "17896441",
+    "content": "f0a781fc"
   },
   "/docs/concept-extras/case-studies/spotify-rl-2f5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-spotify-rl-29-e-512"
+    "component": "17896441",
+    "content": "29e6a1d9"
   },
   "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit-24c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-stitchfix-multi-armed-banditdec-f75"
+    "component": "17896441",
+    "content": "decb2cf7"
   },
   "/docs/concept-extras/case-studies/taobao-bst-3dd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-taobao-bstb-30-44a"
+    "component": "17896441",
+    "content": "b30600ac"
   },
   "/docs/concept-extras/case-studies/ubereats-personalization-d7a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-ubereats-personalization-2-c-0-b81"
+    "component": "17896441",
+    "content": "2c03b3c7"
   },
   "/docs/concept-extras/case-studies/walmart-model-selection-b7a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-walmart-model-selectionb-98-007"
+    "component": "17896441",
+    "content": "b982683c"
   },
   "/docs/concept-extras/cold-start-c66": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-cold-startfd-6-f08"
+    "component": "17896441",
+    "content": "fd6d6020"
   },
   "/docs/concept-extras/data-science-cad": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-data-scienceac-3-d8d"
+    "component": "17896441",
+    "content": "ac30c77d"
   },
   "/docs/concept-extras/diversity-932": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-diversity-997-e68"
+    "component": "17896441",
+    "content": "997facb3"
   },
   "/docs/concept-extras/emerging-concepts-in-recommender-systems-60f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-emerging-concepts-in-recommender-systemsb-03-e31"
+    "component": "17896441",
+    "content": "b0339283"
   },
   "/docs/concept-extras/graph-embeddings-91f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-graph-embeddingsd-0-f-389"
+    "component": "17896441",
+    "content": "d0f29458"
   },
   "/docs/concept-extras/incremental-learning-a40": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-incremental-learningfd-4-e36"
+    "component": "17896441",
+    "content": "fd427ffe"
   },
   "/docs/datasets-9a1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-datasets-46-d-b64"
+    "component": "17896441",
+    "content": "46d74525"
   },
   "/docs/intro-99a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-introf-84-2b4"
+    "component": "17896441",
+    "content": "f8409a7e"
   },
   "/docs/models/-0c1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-e-89-6ae"
+    "component": "17896441",
+    "content": "e8947ee0"
   },
   "/docs/models/a3c-031": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-a-3-c-028-ef9"
+    "component": "17896441",
+    "content": "028ac276"
   },
   "/docs/models/afm-45f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-afm-4-c-3-409"
+    "component": "17896441",
+    "content": "4c3d31cd"
   },
   "/docs/models/afn-f97": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-afn-24-d-628"
+    "component": "17896441",
+    "content": "24dbcdc6"
   },
   "/docs/models/ar-033": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-ar-045-3a3"
+    "component": "17896441",
+    "content": "04550df2"
   },
   "/docs/models/asmg-7e3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-asmg-0-c-7-2a4"
+    "component": "17896441",
+    "content": "0c78a21b"
   },
   "/docs/models/attrec-f97": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-attrec-69-b-b30"
+    "component": "17896441",
+    "content": "69be3988"
   },
   "/docs/models/autoint-6ef": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-autoint-166-e14"
+    "component": "17896441",
+    "content": "166c6a7f"
   },
   "/docs/models/bcq-350": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-bcq-594-338"
+    "component": "17896441",
+    "content": "59454cf7"
   },
   "/docs/models/biasonly-227": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-biasonlycf-9-e08"
+    "component": "17896441",
+    "content": "cf9a208c"
   },
   "/docs/models/bpr-204": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-bpr-38-b-779"
+    "component": "17896441",
+    "content": "38b66072"
   },
   "/docs/models/caser-ab3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-caser-45-a-218"
+    "component": "17896441",
+    "content": "45a566eb"
   },
   "/docs/models/dcn-bc7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-dcnfe-7-4d8"
+    "component": "17896441",
+    "content": "fe7548a4"
   },
   "/docs/models/ddpg-5f5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-ddpg-62-b-16d"
+    "component": "17896441",
+    "content": "62b5206f"
   },
   "/docs/models/deepcross-3b9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-deepcrossfff-763"
+    "component": "17896441",
+    "content": "fff5b552"
   },
   "/docs/models/deepfm-aca": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-deepfm-822-994"
+    "component": "17896441",
+    "content": "82257829"
   },
   "/docs/models/deepwalk-65b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-deepwalk-4-b-8-b1e"
+    "component": "17896441",
+    "content": "4b89c6af"
   },
   "/docs/models/dgtn-7f1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-dgtn-34-c-2e6"
+    "component": "17896441",
+    "content": "34c245f9"
   },
   "/docs/models/dqn-5a9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-dqnfdd-591"
+    "component": "17896441",
+    "content": "fdd5b31f"
   },
   "/docs/models/drqn-e87": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-drqn-7-ae-940"
+    "component": "17896441",
+    "content": "7ae1eb67"
   },
   "/docs/models/drr-d43": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-drr-0-ed-a31"
+    "component": "17896441",
+    "content": "0ed8b9f8"
   },
   "/docs/models/dueling-dqn-ecd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-dueling-dqn-321-e8c"
+    "component": "17896441",
+    "content": "32116b5c"
   },
   "/docs/models/ffm-5b3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-ffmf-1-a-e4e"
+    "component": "17896441",
+    "content": "f1a0a79e"
   },
   "/docs/models/fgnn-f7d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-fgnn-370-892"
+    "component": "17896441",
+    "content": "3703d50b"
   },
   "/docs/models/fm-1cf": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-fm-812-00b"
+    "component": "17896441",
+    "content": "8129baa5"
   },
   "/docs/models/gat-41f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-gat-2-e-6-01d"
+    "component": "17896441",
+    "content": "2e63bbe0"
   },
   "/docs/models/gc-san-9e6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-gc-sancf-4-385"
+    "component": "17896441",
+    "content": "cf4e9014"
   },
   "/docs/models/gce-gnn-c76": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-gce-gnn-955-efd"
+    "component": "17896441",
+    "content": "955b016c"
   },
   "/docs/models/gru4rec-fe2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-gru-4-recef-6-d98"
+    "component": "17896441",
+    "content": "ef60ccbb"
   },
   "/docs/models/hmlet-6b4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-hmletb-0-a-bf5"
+    "component": "17896441",
+    "content": "b0ac56d4"
   },
   "/docs/models/itempop-e0a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-itempopfc-7-504"
+    "component": "17896441",
+    "content": "fc7a266e"
   },
   "/docs/models/lessr-1a3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-lessr-1-f-9-93d"
+    "component": "17896441",
+    "content": "1f900998"
   },
   "/docs/models/lightfm-warp-810": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-lightfm-warpb-5-d-62a"
+    "component": "17896441",
+    "content": "b5d80fb8"
   },
   "/docs/models/lightgcn-9d0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-lightgcndcc-c4e"
+    "component": "17896441",
+    "content": "dcc8d722"
   },
   "/docs/models/lird-556": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-lird-5-c-3-c7d"
+    "component": "17896441",
+    "content": "5c34d655"
   },
   "/docs/models/markov-chains-645": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-markov-chains-827-c81"
+    "component": "17896441",
+    "content": "82771ff9"
   },
   "/docs/models/mb-gmn-6c8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-mb-gmn-943-b33"
+    "component": "17896441",
+    "content": "9438f7c4"
   },
   "/docs/models/mf-7cd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-mfb-1-f-895"
+    "component": "17896441",
+    "content": "b1f4f34b"
   },
   "/docs/models/mian-77e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-mian-4-d-0-05b"
+    "component": "17896441",
+    "content": "4d0e2452"
   },
   "/docs/models/neumf-b00": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-neumf-10-a-705"
+    "component": "17896441",
+    "content": "10a3d27e"
   },
   "/docs/models/nfm-338": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-nfm-16-d-051"
+    "component": "17896441",
+    "content": "16dd4b18"
   },
   "/docs/models/ngcf-c19": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-ngcf-5-c-2-0cd"
+    "component": "17896441",
+    "content": "5c2e3d73"
   },
   "/docs/models/pnn-87c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-pnn-330-9f6"
+    "component": "17896441",
+    "content": "330f61f2"
   },
   "/docs/models/ppo-043": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-ppo-420-1c6"
+    "component": "17896441",
+    "content": "4208559d"
   },
   "/docs/models/q-learning-00c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-q-learning-68-f-37c"
+    "component": "17896441",
+    "content": "68f1d7f3"
   },
   "/docs/models/sac-959": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-sacaee-d6b"
+    "component": "17896441",
+    "content": "aee97735"
   },
   "/docs/models/sarsa-00a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-sarsa-929-a8b"
+    "component": "17896441",
+    "content": "92918cd3"
   },
   "/docs/models/sasrec-613": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-sasrec-302-962"
+    "component": "17896441",
+    "content": "302b9db2"
   },
   "/docs/models/sgl-90e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-sgl-924-82b"
+    "component": "17896441",
+    "content": "924986c7"
   },
   "/docs/models/siren-08f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-siren-4-ab-fe2"
+    "component": "17896441",
+    "content": "4abbe002"
   },
   "/docs/models/slist-8c2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-slista-04-78e"
+    "component": "17896441",
+    "content": "a045cb23"
   },
   "/docs/models/spop-5ea": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-spopffd-7de"
+    "component": "17896441",
+    "content": "ffd06d30"
   },
   "/docs/models/sr-47f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-sr-1-a-4-00e"
+    "component": "17896441",
+    "content": "1a440c37"
   },
   "/docs/models/sr-gnn-2cf": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-sr-gnnde-8-078"
+    "component": "17896441",
+    "content": "de82467d"
   },
   "/docs/models/sr-san-3cb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-sr-sanb-1-c-1e1"
+    "component": "17896441",
+    "content": "b1cd8063"
   },
   "/docs/models/stamp-13f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-stamped-5-a74"
+    "component": "17896441",
+    "content": "ed5638c8"
   },
   "/docs/models/svae-c85": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-svae-76-b-960"
+    "component": "17896441",
+    "content": "76b52ec7"
   },
   "/docs/models/tagnn-f52": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-tagnn-136-40e"
+    "component": "17896441",
+    "content": "1369e2cc"
   },
   "/docs/models/tagnn-pp-e79": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-tagnn-pp-597-397"
+    "component": "17896441",
+    "content": "597206b0"
   },
   "/docs/models/vncf-381": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-vncf-993-945"
+    "component": "17896441",
+    "content": "99315e44"
   },
   "/docs/models/vsknn-cd4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-vsknn-9-cc-26c"
+    "component": "17896441",
+    "content": "9ccd5c6b"
   },
   "/docs/models/wide-and-deep-de0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-wide-and-deep-062-0e6"
+    "component": "17896441",
+    "content": "062eb12e"
   },
   "/docs/models/word2vec-908": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-word-2-vec-525-907"
+    "component": "17896441",
+    "content": "525e4a90"
   },
   "/docs/models/xdeepfm-8bf": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-models-xdeepfm-431-6cb"
+    "component": "17896441",
+    "content": "4313e232"
   },
   "/docs/projects-c4a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-projects-1-dc-4e1"
+    "component": "17896441",
+    "content": "1dc2fafb"
   },
   "/docs/tutorials/-7e1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-94-c-5f9"
+    "component": "17896441",
+    "content": "94c0c3db"
   },
   "/docs/tutorials/data-science-bookcamp-f86": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-data-science-bookcamp-5-c-8-783"
+    "component": "17896441",
+    "content": "5c8e1203"
   },
   "/docs/tutorials/matching-and-ranking-models-in-tensorflow-646": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-matching-and-ranking-models-in-tensorflowc-38-43b"
+    "component": "17896441",
+    "content": "c38b9e27"
   },
   "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb-852": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-real-time-event-capturing-with-kafka-and-mongodb-644-cdb"
+    "component": "17896441",
+    "content": "64496b1b"
   },
   "/docs/tutorials/session-based-recommendation-with-graph-neural-net-fda": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-session-based-recommendation-with-graph-neural-net-206-6b6"
+    "component": "17896441",
+    "content": "20652f42"
   },
   "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook-646": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-tensorflow-2-reinforcement-learning-cookbook-4-e-2-138"
+    "component": "17896441",
+    "content": "4e2a1030"
   },
   "/-deb": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---5-e-9-4f3"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   }
 }
