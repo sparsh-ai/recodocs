@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2365],{27569:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/opencv","name":"opencv","count":1,"permalink":"/blog/tags/opencv"}')}}]);

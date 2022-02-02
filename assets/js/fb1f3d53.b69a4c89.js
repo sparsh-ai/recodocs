@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[147],{64148:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/nlp","name":"nlp","count":6,"permalink":"/blog/tags/nlp"}')}}]);

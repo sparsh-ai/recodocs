@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5566],{3759:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/healthcare","name":"healthcare","count":2,"permalink":"/blog/tags/healthcare"}')}}]);
