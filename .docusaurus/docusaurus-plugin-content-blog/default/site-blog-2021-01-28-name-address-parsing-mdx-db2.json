@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/2021/01/28/name-&-address-parsing",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-01-28-name-&-address-parsing.mdx",
+  "source": "@site/blog/2021-01-28-name-&-address-parsing.mdx",
+  "title": "Name & Address Parsing",
+  "description": "/img/content-blog-raw-blog-name-&-address-parsing-untitled.png",
+  "date": "2021-01-28T00:00:00.000Z",
+  "formattedDate": "January 28, 2021",
+  "tags": [
+    {
+      "label": "app",
+      "permalink": "/blog/tags/app"
+    },
+    {
+      "label": "flask",
+      "permalink": "/blog/tags/flask"
+    },
+    {
+      "label": "ner",
+      "permalink": "/blog/tags/ner"
+    },
+    {
+      "label": "nlp",
+      "permalink": "/blog/tags/nlp"
+    }
+  ],
+  "readingTime": 3.805,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
+  "prevItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  },
+  "nextItem": {
+    "title": "Object detection with YOLO3",
+    "permalink": "/blog/2021/01/23/object-detection-with-yolo3"
+  }
+}

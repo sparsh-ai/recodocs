@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/pdf-to-wordcloud-via-mail",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-pdf-to-wordcloud-via-mail.mdx",
+  "source": "@site/blog/2021-10-01-pdf-to-wordcloud-via-mail.mdx",
+  "title": "PDF to Wordcloud via Mail",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 1.025,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "OCR experiments",
+    "permalink": "/blog/2021/10/01/ocr-experiments"
+  },
+  "nextItem": {
+    "title": "Personalized Unexpectedness in  Recommender Systems",
+    "permalink": "/blog/2021/10/01/personalized-unexpectedness-in-recommender-systems"
+  }
+}

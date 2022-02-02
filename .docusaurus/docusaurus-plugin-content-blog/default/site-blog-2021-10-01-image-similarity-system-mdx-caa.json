@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/image-similarity-system",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-image-similarity-system.mdx",
+  "source": "@site/blog/2021-10-01-image-similarity-system.mdx",
+  "title": "Image Similarity System",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 3.095,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Finding Hardware Parts in Warehouse",
+    "permalink": "/blog/2021/10/01/finding-hardware-parts-in-warehouse"
+  },
+  "nextItem": {
+    "title": "Insurance Personalization",
+    "permalink": "/blog/2021/10/01/insurance-personalization"
+  }
+}

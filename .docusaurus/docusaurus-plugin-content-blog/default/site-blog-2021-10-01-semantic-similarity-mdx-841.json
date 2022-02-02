@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/semantic-similarity",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-semantic-similarity.mdx",
+  "source": "@site/blog/2021-10-01-semantic-similarity.mdx",
+  "title": "Semantic Similarity",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 1.695,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Real-time news personalization with Flink",
+    "permalink": "/blog/2021/10/01/real-time-news-personalization-with-flink"
+  },
+  "nextItem": {
+    "title": "Short-video Background Music Recommender",
+    "permalink": "/blog/2021/10/01/short-video-background-music-recommender"
+  }
+}

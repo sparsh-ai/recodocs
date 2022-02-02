@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/object-detection-hands-on-exercises",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-object-detection-hands-on-exercises.mdx",
+  "source": "@site/blog/2021-10-01-object-detection-hands-on-exercises.mdx",
+  "title": "Object Detection Hands-on Exercises",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 3.195,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Name & Address Parsing",
+    "permalink": "/blog/2021/10/01/name-&-address-parsing"
+  },
+  "nextItem": {
+    "title": "Object detection with OpenCV",
+    "permalink": "/blog/2021/10/01/object-detection-with-opencv"
+  }
+}

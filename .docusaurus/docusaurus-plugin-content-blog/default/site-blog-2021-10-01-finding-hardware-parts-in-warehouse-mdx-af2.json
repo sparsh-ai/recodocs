@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/finding-hardware-parts-in-warehouse",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-finding-hardware-parts-in-warehouse.mdx",
+  "source": "@site/blog/2021-10-01-finding-hardware-parts-in-warehouse.mdx",
+  "title": "Finding Hardware Parts in Warehouse",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 1.39,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Fake Voice Detection",
+    "permalink": "/blog/2021/10/01/fake-voice-detection"
+  },
+  "nextItem": {
+    "title": "Image Similarity System",
+    "permalink": "/blog/2021/10/01/image-similarity-system"
+  }
+}

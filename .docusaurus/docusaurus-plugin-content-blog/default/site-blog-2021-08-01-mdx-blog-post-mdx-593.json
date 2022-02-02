@@ -23,12 +23,8 @@
       "key": "sparsh"
     }
   ],
-  "prevItem": {
-    "title": "Welcome",
-    "permalink": "/blog/welcome"
-  },
   "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
+    "title": "Object detection with YOLO3",
+    "permalink": "/blog/2021/01/23/object-detection-with-yolo3"
   }
 }

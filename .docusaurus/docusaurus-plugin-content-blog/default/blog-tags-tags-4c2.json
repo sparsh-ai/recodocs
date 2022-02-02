@@ -1,30 +1,37 @@
 {
-  "/blog/tags/facebook": {
+  "/blog/tags/recsys": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/facebook",
-    "name": "facebook",
+    "slug": "/blog/tags/recsys",
+    "name": "recsys",
     "count": 1,
-    "permalink": "/blog/tags/facebook"
+    "permalink": "/blog/tags/recsys"
   },
-  "/blog/tags/hello": {
+  "/blog/tags/tool": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/hello",
-    "name": "hello",
+    "slug": "/blog/tags/tool",
+    "name": "tool",
+    "count": 1,
+    "permalink": "/blog/tags/tool"
+  },
+  "/blog/tags/app": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/app",
+    "name": "app",
     "count": 2,
-    "permalink": "/blog/tags/hello"
+    "permalink": "/blog/tags/app"
   },
-  "/blog/tags/docusaurus": {
+  "/blog/tags/vision": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/docusaurus",
-    "name": "docusaurus",
-    "count": 4,
-    "permalink": "/blog/tags/docusaurus"
+    "slug": "/blog/tags/vision",
+    "name": "vision",
+    "count": 2,
+    "permalink": "/blog/tags/vision"
   },
-  "/blog/tags/hola": {
+  "/blog/tags/streamlit": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/hola",
-    "name": "hola",
-    "count": 1,
-    "permalink": "/blog/tags/hola"
+    "slug": "/blog/tags/streamlit",
+    "name": "streamlit",
+    "count": 2,
+    "permalink": "/blog/tags/streamlit"
   }
 }

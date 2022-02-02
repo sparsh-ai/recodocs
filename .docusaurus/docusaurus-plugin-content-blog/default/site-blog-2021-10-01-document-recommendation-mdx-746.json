@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/document-recommendation",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-document-recommendation.mdx",
+  "source": "@site/blog/2021-10-01-document-recommendation.mdx",
+  "title": "Document Recommendation",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 1.315,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Distributed Training of Recommender Systems",
+    "permalink": "/blog/2021/10/01/distributed-training-of-recommender-systems"
+  },
+  "nextItem": {
+    "title": "Fake Voice Detection",
+    "permalink": "/blog/2021/10/01/fake-voice-detection"
+  }
+}

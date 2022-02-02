@@ -28,11 +28,7 @@
     }
   ],
   "prevItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/blog/first-blog-post"
+    "title": "MobileNet SSD Caffe Pre-trained model",
+    "permalink": "/blog/2020/01/19/mobilenet-ssd-caffe-pre-trained-model"
   }
 }

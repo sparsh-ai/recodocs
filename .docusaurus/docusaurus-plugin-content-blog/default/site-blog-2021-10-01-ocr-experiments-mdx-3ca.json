@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/ocr-experiments",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-ocr-experiments.mdx",
+  "source": "@site/blog/2021-10-01-ocr-experiments.mdx",
+  "title": "OCR experiments",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 1.18,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Object detection with YOLO3",
+    "permalink": "/blog/2021/10/01/object-detection-with-yolo3"
+  },
+  "nextItem": {
+    "title": "PDF to Wordcloud via Mail",
+    "permalink": "/blog/2021/10/01/pdf-to-wordcloud-via-mail"
+  }
+}

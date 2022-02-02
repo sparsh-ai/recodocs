@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/detectron-2",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-detectron-2.mdx",
+  "source": "@site/blog/2021-10-01-detectron-2.mdx",
+  "title": "Detectron 2",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 6.16,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Clinical Decision Making",
+    "permalink": "/blog/2021/10/01/clinical-decision-making"
+  },
+  "nextItem": {
+    "title": "Distributed Training of Recommender Systems",
+    "permalink": "/blog/2021/10/01/distributed-training-of-recommender-systems"
+  }
+}

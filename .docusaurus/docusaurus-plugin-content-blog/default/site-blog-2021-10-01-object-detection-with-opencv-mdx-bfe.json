@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/object-detection-with-opencv",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-object-detection-with-opencv.mdx",
+  "source": "@site/blog/2021-10-01-object-detection-with-opencv.mdx",
+  "title": "Object detection with OpenCV",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 1.6,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Object Detection Hands-on Exercises",
+    "permalink": "/blog/2021/10/01/object-detection-hands-on-exercises"
+  },
+  "nextItem": {
+    "title": "Object detection with YOLO3",
+    "permalink": "/blog/2021/10/01/object-detection-with-yolo3"
+  }
+}

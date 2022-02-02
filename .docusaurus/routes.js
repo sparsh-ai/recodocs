@@ -4,8 +4,188 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/blog',
-    component: ComponentCreator('/blog','8ad'),
+    component: ComponentCreator('/blog','b52'),
+    exact: true
+  },
+  {
+    path: '/blog/2020/01/19/mobilenet-ssd-caffe-pre-trained-model',
+    component: ComponentCreator('/blog/2020/01/19/mobilenet-ssd-caffe-pre-trained-model','8e7'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/01/23/object-detection-with-yolo3',
+    component: ComponentCreator('/blog/2021/01/23/object-detection-with-yolo3','334'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/bytedance\'s-secret-sauce-of-recommendation',
+    component: ComponentCreator('/blog/2021/10/01/bytedance\'s-secret-sauce-of-recommendation','689'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/clinical-decision-making',
+    component: ComponentCreator('/blog/2021/10/01/clinical-decision-making','b7f'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/detectron-2',
+    component: ComponentCreator('/blog/2021/10/01/detectron-2','ac0'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/distributed-training-of-recommender-systems',
+    component: ComponentCreator('/blog/2021/10/01/distributed-training-of-recommender-systems','024'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/document-recommendation',
+    component: ComponentCreator('/blog/2021/10/01/document-recommendation','682'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/fake-voice-detection',
+    component: ComponentCreator('/blog/2021/10/01/fake-voice-detection','3b3'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/finding-hardware-parts-in-warehouse',
+    component: ComponentCreator('/blog/2021/10/01/finding-hardware-parts-in-warehouse','2ea'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/image-similarity-system',
+    component: ComponentCreator('/blog/2021/10/01/image-similarity-system','64b'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/insurance-personalization',
+    component: ComponentCreator('/blog/2021/10/01/insurance-personalization','c7e'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/name-&-address-parsing',
+    component: ComponentCreator('/blog/2021/10/01/name-&-address-parsing','d90'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/object-detection-hands-on-exercises',
+    component: ComponentCreator('/blog/2021/10/01/object-detection-hands-on-exercises','099'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/object-detection-with-opencv',
+    component: ComponentCreator('/blog/2021/10/01/object-detection-with-opencv','8e4'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/object-detection-with-yolo3',
+    component: ComponentCreator('/blog/2021/10/01/object-detection-with-yolo3','d54'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/ocr-experiments',
+    component: ComponentCreator('/blog/2021/10/01/ocr-experiments','23a'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/pdf-to-wordcloud-via-mail',
+    component: ComponentCreator('/blog/2021/10/01/pdf-to-wordcloud-via-mail','2e5'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/personalized-unexpectedness-in-recommender-systems',
+    component: ComponentCreator('/blog/2021/10/01/personalized-unexpectedness-in-recommender-systems','030'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/predicting-electronics-resale-price',
+    component: ComponentCreator('/blog/2021/10/01/predicting-electronics-resale-price','5cf'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/real-time-news-personalization-with-flink',
+    component: ComponentCreator('/blog/2021/10/01/real-time-news-personalization-with-flink','d15'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/semantic-similarity',
+    component: ComponentCreator('/blog/2021/10/01/semantic-similarity','52a'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/short-video-background-music-recommender',
+    component: ComponentCreator('/blog/2021/10/01/short-video-background-music-recommender','502'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/the-progression-of-analytics-in-enterprises',
+    component: ComponentCreator('/blog/2021/10/01/the-progression-of-analytics-in-enterprises','7d2'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/tools-for-building-recommender-systems',
+    component: ComponentCreator('/blog/2021/10/01/tools-for-building-recommender-systems','cc7'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/vehicle-suggestions',
+    component: ComponentCreator('/blog/2021/10/01/vehicle-suggestions','702'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/web-scraping-using-scrapy,-bs4,-and-selenium',
+    component: ComponentCreator('/blog/2021/10/01/web-scraping-using-scrapy,-bs4,-and-selenium','d61'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/web-scraping-with-gazpacho',
+    component: ComponentCreator('/blog/2021/10/01/web-scraping-with-gazpacho','41e'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/wellness-tracker-chatbot',
+    component: ComponentCreator('/blog/2021/10/01/wellness-tracker-chatbot','916'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/10/01/what-is-livestream-ecommerce',
+    component: ComponentCreator('/blog/2021/10/01/what-is-livestream-ecommerce','313'),
     exact: true
   },
   {
@@ -14,18 +194,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post','b1a'),
+    path: '/blog/page/2',
+    component: ComponentCreator('/blog/page/2','156'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post','6d5'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post','bee'),
+    path: '/blog/page/3',
+    component: ComponentCreator('/blog/page/3','3f1'),
     exact: true
   },
   {
@@ -34,28 +209,28 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','f5a'),
+    path: '/blog/tags/app',
+    component: ComponentCreator('/blog/tags/app','947'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','134'),
+    path: '/blog/tags/recsys',
+    component: ComponentCreator('/blog/tags/recsys','8ad'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello','6d0'),
+    path: '/blog/tags/streamlit',
+    component: ComponentCreator('/blog/tags/streamlit','142'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola','18c'),
+    path: '/blog/tags/tool',
+    component: ComponentCreator('/blog/tags/tool','1f2'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome','351'),
+    path: '/blog/tags/vision',
+    component: ComponentCreator('/blog/tags/vision','d7a'),
     exact: true
   },
   {

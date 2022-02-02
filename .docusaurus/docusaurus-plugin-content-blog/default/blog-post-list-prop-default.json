@@ -2,20 +2,24 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/blog/welcome"
+      "title": "ByteDance's secret sauce of recommendation",
+      "permalink": "/blog/2021/10/01/bytedance's-secret-sauce-of-recommendation"
     },
     {
-      "title": "MDX Blog Post",
-      "permalink": "/blog/mdx-blog-post"
+      "title": "Clinical Decision Making",
+      "permalink": "/blog/2021/10/01/clinical-decision-making"
     },
     {
-      "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post"
+      "title": "Detectron 2",
+      "permalink": "/blog/2021/10/01/detectron-2"
     },
     {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post"
+      "title": "Distributed Training of Recommender Systems",
+      "permalink": "/blog/2021/10/01/distributed-training-of-recommender-systems"
+    },
+    {
+      "title": "Document Recommendation",
+      "permalink": "/blog/2021/10/01/document-recommendation"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/the-progression-of-analytics-in-enterprises",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-the-progression-of-analytics-in-enterprises.mdx",
+  "source": "@site/blog/2021-10-01-the-progression-of-analytics-in-enterprises.mdx",
+  "title": "The progression of analytics in enterprises",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 12.11,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Short-video Background Music Recommender",
+    "permalink": "/blog/2021/10/01/short-video-background-music-recommender"
+  },
+  "nextItem": {
+    "title": "Tools for building recommender systems",
+    "permalink": "/blog/2021/10/01/tools-for-building-recommender-systems"
+  }
+}

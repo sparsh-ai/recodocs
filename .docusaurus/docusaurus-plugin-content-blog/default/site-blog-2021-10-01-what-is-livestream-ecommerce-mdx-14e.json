@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2021/10/01/what-is-livestream-ecommerce",
+  "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-what-is-livestream-ecommerce.mdx",
+  "source": "@site/blog/2021-10-01-what-is-livestream-ecommerce.mdx",
+  "title": "What is Livestream Ecommerce",
+  "description": "Authors: sparsh",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [],
+  "readingTime": 3.415,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "Wellness tracker chatbot",
+    "permalink": "/blog/2021/10/01/wellness-tracker-chatbot"
+  },
+  "nextItem": {
+    "title": "Object detection with YOLO3",
+    "permalink": "/blog/2021/01/23/object-detection-with-yolo3"
+  }
+}
