@@ -89,6 +89,12 @@
             "docId": "concept-extras/incremental-learning"
           },
           {
+            "type": "link",
+            "label": "MLOps",
+            "href": "/docs/concept-extras/mlops",
+            "docId": "concept-extras/mlops"
+          },
+          {
             "type": "category",
             "label": "Case Studies",
             "collapsible": true,
@@ -203,6 +209,81 @@
                 "docId": "concept-extras/case-studies/walmart-model-selection"
               }
             ]
+          },
+          {
+            "type": "category",
+            "label": "NLP",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Chatbot",
+                "href": "/docs/concept-extras/nlp/chatbot",
+                "docId": "concept-extras/nlp/chatbot"
+              },
+              {
+                "type": "link",
+                "label": "Language Modeling",
+                "href": "/docs/concept-extras/nlp/language-modeling",
+                "docId": "concept-extras/nlp/language-modeling"
+              },
+              {
+                "type": "link",
+                "label": "Named Entity Recognition",
+                "href": "/docs/concept-extras/nlp/named-entity-recognition",
+                "docId": "concept-extras/nlp/named-entity-recognition"
+              },
+              {
+                "type": "link",
+                "label": "Text Analysis",
+                "href": "/docs/concept-extras/nlp/text-analysis",
+                "docId": "concept-extras/nlp/text-analysis"
+              },
+              {
+                "type": "link",
+                "label": "Text Classification",
+                "href": "/docs/concept-extras/nlp/text-classification",
+                "docId": "concept-extras/nlp/text-classification"
+              },
+              {
+                "type": "link",
+                "label": "Text Generation",
+                "href": "/docs/concept-extras/nlp/text-generation",
+                "docId": "concept-extras/nlp/text-generation"
+              },
+              {
+                "type": "link",
+                "label": "Text Similarity",
+                "href": "/docs/concept-extras/nlp/text-similarity",
+                "docId": "concept-extras/nlp/text-similarity"
+              },
+              {
+                "type": "link",
+                "label": "Text Style Transfer",
+                "href": "/docs/concept-extras/nlp/text-style-transfer",
+                "docId": "concept-extras/nlp/text-style-transfer"
+              },
+              {
+                "type": "link",
+                "label": "Text Summarization",
+                "href": "/docs/concept-extras/nlp/text-summarization",
+                "docId": "concept-extras/nlp/text-summarization"
+              },
+              {
+                "type": "link",
+                "label": "Topic Modeling",
+                "href": "/docs/concept-extras/nlp/topic-modeling",
+                "docId": "concept-extras/nlp/topic-modeling"
+              },
+              {
+                "type": "link",
+                "label": "Transformers",
+                "href": "/docs/concept-extras/nlp/transformers",
+                "docId": "concept-extras/nlp/transformers"
+              }
+            ],
+            "href": "/docs/concept-extras/nlp/"
           }
         ]
       },
@@ -813,6 +894,84 @@
       "id": "concept-extras/incremental-learning",
       "title": "Incremental Learning",
       "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/mlops": {
+      "id": "concept-extras/mlops",
+      "title": "MLOps",
+      "description": "The boom in AI has seen a rising demand for better AI infrastructure — both in the compute hardware layer and AI framework optimizations that make optimal use of accelerated compute. Unfortunately, organizations often overlook the critical importance of a middle tier: infrastructure software that standardizes the ML life cycle, adding a common platform for teams of data scientists and researchers to standardize their approach and eliminate distracting DevOps work. This process of building the ML life cycle is increasingly known as MLOps, with end-to-end platforms being built to automate and standardize repeatable manual processes. Although dozens of MLOps platforms exist, adopting one can be confusing and cumbersome. What should be considered when employing MLOps? What are the core pillars to MLOps, and which features are most critical?",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/chatbot": {
+      "id": "concept-extras/nlp/chatbot",
+      "title": "Chatbot",
+      "description": "/img/content-concepts-raw-nlp-chatbot-img.png",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/language-modeling": {
+      "id": "concept-extras/nlp/language-modeling",
+      "title": "Language Modeling",
+      "description": "Language Models (LMs) estimate the probability of different linguistic units: symbols, tokens, token sequences.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/named-entity-recognition": {
+      "id": "concept-extras/nlp/named-entity-recognition",
+      "title": "Named Entity Recognition",
+      "description": "/img/content-concepts-raw-nlp-named-entity-recognition-img.png",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/nlp": {
+      "id": "concept-extras/nlp/nlp",
+      "title": "NLP",
+      "description": "Text Similarity",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/text-analysis": {
+      "id": "concept-extras/nlp/text-analysis",
+      "title": "Text Analysis",
+      "description": "Rapid text analysis can save lives. Let’s consider a real-world incident when US soldiers stormed a terrorist compound. In the compound, they discovered a computer containing terabytes of archived data. The data included documents, text messages, and emails pertaining to terrorist activities. The documents were too numerous to be read by any single human being. Fortunately, the soldiers were equipped with special software that could perform very fast text analysis. The software allowed the soldiers to process all of the text data without even having to leave the compound. The onsite analysis immediately revealed an active terrorist plot in a nearby neighborhood. The soldiers instantly responded to the plot and prevented a terrorist attack.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/text-classification": {
+      "id": "concept-extras/nlp/text-classification",
+      "title": "Text Classification",
+      "description": "/img/content-concepts-raw-text-classification-img.png",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/text-generation": {
+      "id": "concept-extras/nlp/text-generation",
+      "title": "Text Generation",
+      "description": "Natural language generation (NLG) can actually tell a story – exactly like that of a human analyst – by writing the sentences and paragraphs for you. It can also summarize reports.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/text-similarity": {
+      "id": "concept-extras/nlp/text-similarity",
+      "title": "Text Similarity",
+      "description": "/img/content-concepts-raw-nlp-text-similarity-img.png",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/text-style-transfer": {
+      "id": "concept-extras/nlp/text-style-transfer",
+      "title": "Text Style Transfer",
+      "description": "How to adapt the text to different situations, audiences and purposes by making some changes? The style of the text usually includes many aspects such as morphology, grammar, emotion, complexity, fluency, tense, tone and so on.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/text-summarization": {
+      "id": "concept-extras/nlp/text-summarization",
+      "title": "Text Summarization",
+      "description": "/img/content-concepts-raw-nlp-text-summarization-untitled.png",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/topic-modeling": {
+      "id": "concept-extras/nlp/topic-modeling",
+      "title": "Topic Modeling",
+      "description": "/img/content-concepts-raw-nlp-topic-modeling-img.png",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/nlp/transformers": {
+      "id": "concept-extras/nlp/transformers",
+      "title": "Transformers",
+      "description": "The old, obsolete, 1980 architecture of Recurrent Neural Networks(RNNs) including the LSTMs were simply not producing good results anymore. In less than two years, transformer models wiped RNNs off the map and even outperformed human baselines for many tasks.",
       "sidebar": "tutorialSidebar"
     },
     "datasets": {

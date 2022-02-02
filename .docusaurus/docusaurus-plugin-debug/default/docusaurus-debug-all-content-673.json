@@ -125,8 +125,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Incremental Learning",
-                "permalink": "/docs/concept-extras/incremental-learning"
+                "title": "MLOps",
+                "permalink": "/docs/concept-extras/mlops"
               },
               "next": {
                 "title": "Airbnb Experiences",
@@ -520,8 +520,8 @@
                 "permalink": "/docs/concept-extras/case-studies/ubereats-personalization"
               },
               "next": {
-                "title": "Models",
-                "permalink": "/docs/models/"
+                "title": "NLP",
+                "permalink": "/docs/concept-extras/nlp/"
               }
             },
             {
@@ -658,8 +658,307 @@
                 "permalink": "/docs/concept-extras/graph-embeddings"
               },
               "next": {
+                "title": "MLOps",
+                "permalink": "/docs/concept-extras/mlops"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/mlops",
+              "id": "concept-extras/mlops",
+              "title": "MLOps",
+              "description": "The boom in AI has seen a rising demand for better AI infrastructure — both in the compute hardware layer and AI framework optimizations that make optimal use of accelerated compute. Unfortunately, organizations often overlook the critical importance of a middle tier: infrastructure software that standardizes the ML life cycle, adding a common platform for teams of data scientists and researchers to standardize their approach and eliminate distracting DevOps work. This process of building the ML life cycle is increasingly known as MLOps, with end-to-end platforms being built to automate and standardize repeatable manual processes. Although dozens of MLOps platforms exist, adopting one can be confusing and cumbersome. What should be considered when employing MLOps? What are the core pillars to MLOps, and which features are most critical?",
+              "source": "@site/docs/concept-extras/mlops.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/mlops",
+              "permalink": "/docs/concept-extras/mlops",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/mlops.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Incremental Learning",
+                "permalink": "/docs/concept-extras/incremental-learning"
+              },
+              "next": {
                 "title": "1mg Prod2vec",
                 "permalink": "/docs/concept-extras/case-studies/1mg-prod2vec"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/chatbot",
+              "id": "concept-extras/nlp/chatbot",
+              "title": "Chatbot",
+              "description": "/img/content-concepts-raw-nlp-chatbot-img.png",
+              "source": "@site/docs/concept-extras/nlp/chatbot.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/chatbot",
+              "permalink": "/docs/concept-extras/nlp/chatbot",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/chatbot.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NLP",
+                "permalink": "/docs/concept-extras/nlp/"
+              },
+              "next": {
+                "title": "Language Modeling",
+                "permalink": "/docs/concept-extras/nlp/language-modeling"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/language-modeling",
+              "id": "concept-extras/nlp/language-modeling",
+              "title": "Language Modeling",
+              "description": "Language Models (LMs) estimate the probability of different linguistic units: symbols, tokens, token sequences.",
+              "source": "@site/docs/concept-extras/nlp/language-modeling.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/language-modeling",
+              "permalink": "/docs/concept-extras/nlp/language-modeling",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/language-modeling.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chatbot",
+                "permalink": "/docs/concept-extras/nlp/chatbot"
+              },
+              "next": {
+                "title": "Named Entity Recognition",
+                "permalink": "/docs/concept-extras/nlp/named-entity-recognition"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/named-entity-recognition",
+              "id": "concept-extras/nlp/named-entity-recognition",
+              "title": "Named Entity Recognition",
+              "description": "/img/content-concepts-raw-nlp-named-entity-recognition-img.png",
+              "source": "@site/docs/concept-extras/nlp/named-entity-recognition.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/named-entity-recognition",
+              "permalink": "/docs/concept-extras/nlp/named-entity-recognition",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/named-entity-recognition.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Language Modeling",
+                "permalink": "/docs/concept-extras/nlp/language-modeling"
+              },
+              "next": {
+                "title": "Text Analysis",
+                "permalink": "/docs/concept-extras/nlp/text-analysis"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/nlp",
+              "id": "concept-extras/nlp/nlp",
+              "title": "NLP",
+              "description": "Text Similarity",
+              "source": "@site/docs/concept-extras/nlp/nlp.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/",
+              "permalink": "/docs/concept-extras/nlp/",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/nlp.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Walmart Model Selection",
+                "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
+              },
+              "next": {
+                "title": "Chatbot",
+                "permalink": "/docs/concept-extras/nlp/chatbot"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/text-analysis",
+              "id": "concept-extras/nlp/text-analysis",
+              "title": "Text Analysis",
+              "description": "Rapid text analysis can save lives. Let’s consider a real-world incident when US soldiers stormed a terrorist compound. In the compound, they discovered a computer containing terabytes of archived data. The data included documents, text messages, and emails pertaining to terrorist activities. The documents were too numerous to be read by any single human being. Fortunately, the soldiers were equipped with special software that could perform very fast text analysis. The software allowed the soldiers to process all of the text data without even having to leave the compound. The onsite analysis immediately revealed an active terrorist plot in a nearby neighborhood. The soldiers instantly responded to the plot and prevented a terrorist attack.",
+              "source": "@site/docs/concept-extras/nlp/text-analysis.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/text-analysis",
+              "permalink": "/docs/concept-extras/nlp/text-analysis",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/text-analysis.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Named Entity Recognition",
+                "permalink": "/docs/concept-extras/nlp/named-entity-recognition"
+              },
+              "next": {
+                "title": "Text Classification",
+                "permalink": "/docs/concept-extras/nlp/text-classification"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/text-classification",
+              "id": "concept-extras/nlp/text-classification",
+              "title": "Text Classification",
+              "description": "/img/content-concepts-raw-text-classification-img.png",
+              "source": "@site/docs/concept-extras/nlp/text-classification.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/text-classification",
+              "permalink": "/docs/concept-extras/nlp/text-classification",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/text-classification.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text Analysis",
+                "permalink": "/docs/concept-extras/nlp/text-analysis"
+              },
+              "next": {
+                "title": "Text Generation",
+                "permalink": "/docs/concept-extras/nlp/text-generation"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/text-generation",
+              "id": "concept-extras/nlp/text-generation",
+              "title": "Text Generation",
+              "description": "Natural language generation (NLG) can actually tell a story – exactly like that of a human analyst – by writing the sentences and paragraphs for you. It can also summarize reports.",
+              "source": "@site/docs/concept-extras/nlp/text-generation.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/text-generation",
+              "permalink": "/docs/concept-extras/nlp/text-generation",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/text-generation.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text Classification",
+                "permalink": "/docs/concept-extras/nlp/text-classification"
+              },
+              "next": {
+                "title": "Text Similarity",
+                "permalink": "/docs/concept-extras/nlp/text-similarity"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/text-similarity",
+              "id": "concept-extras/nlp/text-similarity",
+              "title": "Text Similarity",
+              "description": "/img/content-concepts-raw-nlp-text-similarity-img.png",
+              "source": "@site/docs/concept-extras/nlp/text-similarity.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/text-similarity",
+              "permalink": "/docs/concept-extras/nlp/text-similarity",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/text-similarity.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text Generation",
+                "permalink": "/docs/concept-extras/nlp/text-generation"
+              },
+              "next": {
+                "title": "Text Style Transfer",
+                "permalink": "/docs/concept-extras/nlp/text-style-transfer"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/text-style-transfer",
+              "id": "concept-extras/nlp/text-style-transfer",
+              "title": "Text Style Transfer",
+              "description": "How to adapt the text to different situations, audiences and purposes by making some changes? The style of the text usually includes many aspects such as morphology, grammar, emotion, complexity, fluency, tense, tone and so on.",
+              "source": "@site/docs/concept-extras/nlp/text-style-transfer.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/text-style-transfer",
+              "permalink": "/docs/concept-extras/nlp/text-style-transfer",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/text-style-transfer.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text Similarity",
+                "permalink": "/docs/concept-extras/nlp/text-similarity"
+              },
+              "next": {
+                "title": "Text Summarization",
+                "permalink": "/docs/concept-extras/nlp/text-summarization"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/text-summarization",
+              "id": "concept-extras/nlp/text-summarization",
+              "title": "Text Summarization",
+              "description": "/img/content-concepts-raw-nlp-text-summarization-untitled.png",
+              "source": "@site/docs/concept-extras/nlp/text-summarization.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/text-summarization",
+              "permalink": "/docs/concept-extras/nlp/text-summarization",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/text-summarization.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text Style Transfer",
+                "permalink": "/docs/concept-extras/nlp/text-style-transfer"
+              },
+              "next": {
+                "title": "Topic Modeling",
+                "permalink": "/docs/concept-extras/nlp/topic-modeling"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/topic-modeling",
+              "id": "concept-extras/nlp/topic-modeling",
+              "title": "Topic Modeling",
+              "description": "/img/content-concepts-raw-nlp-topic-modeling-img.png",
+              "source": "@site/docs/concept-extras/nlp/topic-modeling.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/topic-modeling",
+              "permalink": "/docs/concept-extras/nlp/topic-modeling",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/topic-modeling.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text Summarization",
+                "permalink": "/docs/concept-extras/nlp/text-summarization"
+              },
+              "next": {
+                "title": "Transformers",
+                "permalink": "/docs/concept-extras/nlp/transformers"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/nlp/transformers",
+              "id": "concept-extras/nlp/transformers",
+              "title": "Transformers",
+              "description": "The old, obsolete, 1980 architecture of Recurrent Neural Networks(RNNs) including the LSTMs were simply not producing good results anymore. In less than two years, transformer models wiped RNNs off the map and even outperformed human baselines for many tasks.",
+              "source": "@site/docs/concept-extras/nlp/transformers.mdx",
+              "sourceDirName": "concept-extras/nlp",
+              "slug": "/concept-extras/nlp/transformers",
+              "permalink": "/docs/concept-extras/nlp/transformers",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/transformers.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Topic Modeling",
+                "permalink": "/docs/concept-extras/nlp/topic-modeling"
+              },
+              "next": {
+                "title": "Models",
+                "permalink": "/docs/models/"
               }
             },
             {
@@ -1596,8 +1895,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Walmart Model Selection",
-                "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
+                "title": "Transformers",
+                "permalink": "/docs/concept-extras/nlp/transformers"
               },
               "next": {
                 "title": "A3C",
@@ -2398,6 +2697,10 @@
                     "id": "concept-extras/incremental-learning"
                   },
                   {
+                    "type": "doc",
+                    "id": "concept-extras/mlops"
+                  },
+                  {
                     "type": "category",
                     "label": "Case Studies",
                     "collapsible": true,
@@ -2476,6 +2779,62 @@
                         "id": "concept-extras/case-studies/walmart-model-selection"
                       }
                     ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "NLP",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/chatbot"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/language-modeling"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/named-entity-recognition"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/text-analysis"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/text-classification"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/text-generation"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/text-similarity"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/text-style-transfer"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/text-summarization"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/topic-modeling"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/nlp/transformers"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "concept-extras/nlp/nlp"
+                    }
                   }
                 ]
               },

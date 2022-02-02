@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/nlp/nlp",
+  "id": "concept-extras/nlp/nlp",
+  "title": "NLP",
+  "description": "Text Similarity",
+  "source": "@site/docs/concept-extras/nlp/nlp.mdx",
+  "sourceDirName": "concept-extras/nlp",
+  "slug": "/concept-extras/nlp/",
+  "permalink": "/docs/concept-extras/nlp/",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/nlp.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Walmart Model Selection",
+    "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
+  },
+  "next": {
+    "title": "Chatbot",
+    "permalink": "/docs/concept-extras/nlp/chatbot"
+  }
+}

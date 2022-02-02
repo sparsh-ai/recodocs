@@ -151,6 +151,71 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/mlops",
+              "path": "/docs/concept-extras/mlops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/chatbot",
+              "path": "/docs/concept-extras/nlp/chatbot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/language-modeling",
+              "path": "/docs/concept-extras/nlp/language-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/named-entity-recognition",
+              "path": "/docs/concept-extras/nlp/named-entity-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/nlp",
+              "path": "/docs/concept-extras/nlp/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/text-analysis",
+              "path": "/docs/concept-extras/nlp/text-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/text-classification",
+              "path": "/docs/concept-extras/nlp/text-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/text-generation",
+              "path": "/docs/concept-extras/nlp/text-generation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/text-similarity",
+              "path": "/docs/concept-extras/nlp/text-similarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/text-style-transfer",
+              "path": "/docs/concept-extras/nlp/text-style-transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/text-summarization",
+              "path": "/docs/concept-extras/nlp/text-summarization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/topic-modeling",
+              "path": "/docs/concept-extras/nlp/topic-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/nlp/transformers",
+              "path": "/docs/concept-extras/nlp/transformers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "datasets",
               "path": "/docs/datasets",
               "sidebar": "tutorialSidebar"

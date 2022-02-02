@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concept-extras/incremental-learning"
+    "title": "MLOps",
+    "permalink": "/docs/concept-extras/mlops"
   },
   "next": {
     "title": "Airbnb Experiences",

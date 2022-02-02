@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/nlp/transformers",
+  "id": "concept-extras/nlp/transformers",
+  "title": "Transformers",
+  "description": "The old, obsolete, 1980 architecture of Recurrent Neural Networks(RNNs) including the LSTMs were simply not producing good results anymore. In less than two years, transformer models wiped RNNs off the map and even outperformed human baselines for many tasks.",
+  "source": "@site/docs/concept-extras/nlp/transformers.mdx",
+  "sourceDirName": "concept-extras/nlp",
+  "slug": "/concept-extras/nlp/transformers",
+  "permalink": "/docs/concept-extras/nlp/transformers",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/nlp/transformers.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Topic Modeling",
+    "permalink": "/docs/concept-extras/nlp/topic-modeling"
+  },
+  "next": {
+    "title": "Models",
+    "permalink": "/docs/models/"
+  }
+}
