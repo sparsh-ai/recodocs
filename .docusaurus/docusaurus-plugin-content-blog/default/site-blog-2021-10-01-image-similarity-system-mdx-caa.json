@@ -3,13 +3,38 @@
   "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-image-similarity-system.mdx",
   "source": "@site/blog/2021-10-01-image-similarity-system.mdx",
   "title": "Image Similarity System",
-  "description": "Authors: sparsh",
+  "description": "/img/content-blog-raw-blog-image-similarity-system-untitled.png",
   "date": "2021-10-01T00:00:00.000Z",
   "formattedDate": "October 1, 2021",
-  "tags": [],
-  "readingTime": 3.095,
+  "tags": [
+    {
+      "label": "aws beanstalk",
+      "permalink": "/blog/tags/aws-beanstalk"
+    },
+    {
+      "label": "flask",
+      "permalink": "/blog/tags/flask"
+    },
+    {
+      "label": "similarity",
+      "permalink": "/blog/tags/similarity"
+    },
+    {
+      "label": "vision",
+      "permalink": "/blog/tags/vision"
+    }
+  ],
+  "readingTime": 3.045,
   "truncated": false,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
   "prevItem": {
     "title": "Finding Hardware Parts in Warehouse",
     "permalink": "/blog/2021/10/01/finding-hardware-parts-in-warehouse"

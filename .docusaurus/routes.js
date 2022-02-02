@@ -169,8 +169,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/2021/10/01/web-scraping-using-scrapy,-bs4,-and-selenium',
-    component: ComponentCreator('/blog/2021/10/01/web-scraping-using-scrapy,-bs4,-and-selenium','d61'),
+    path: '/blog/2021/10/01/web-scraping-using-scrapy-bs4-and-selenium',
+    component: ComponentCreator('/blog/2021/10/01/web-scraping-using-scrapy-bs4-and-selenium','f0e'),
     exact: true
   },
   {
@@ -200,7 +200,7 @@ export default [
   },
   {
     path: '/blog/page/3',
-    component: ComponentCreator('/blog/page/3','3f1'),
+    component: ComponentCreator('/blog/page/3','35b'),
     exact: true
   },
   {
@@ -210,27 +210,132 @@ export default [
   },
   {
     path: '/blog/tags/app',
-    component: ComponentCreator('/blog/tags/app','947'),
+    component: ComponentCreator('/blog/tags/app','0e4'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/audio',
+    component: ComponentCreator('/blog/tags/audio','9c1'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/aws-beanstalk',
+    component: ComponentCreator('/blog/tags/aws-beanstalk','173'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/chatbot',
+    component: ComponentCreator('/blog/tags/chatbot','3c0'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/classification',
+    component: ComponentCreator('/blog/tags/classification','a16'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/deepfake',
+    component: ComponentCreator('/blog/tags/deepfake','819'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/distributed',
+    component: ComponentCreator('/blog/tags/distributed','ae7'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/flask',
+    component: ComponentCreator('/blog/tags/flask','d82'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/healthcare',
+    component: ComponentCreator('/blog/tags/healthcare','28a'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/insight',
+    component: ComponentCreator('/blog/tags/insight','ee0'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/insurance',
+    component: ComponentCreator('/blog/tags/insurance','452'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/ner',
+    component: ComponentCreator('/blog/tags/ner','d12'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/nlp',
+    component: ComponentCreator('/blog/tags/nlp','ba2'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/object-detection',
+    component: ComponentCreator('/blog/tags/object-detection','0ee'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/ocr',
+    component: ComponentCreator('/blog/tags/ocr','e52'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/opencv',
+    component: ComponentCreator('/blog/tags/opencv','b57'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/personalization',
+    component: ComponentCreator('/blog/tags/personalization','82f'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/realtime',
+    component: ComponentCreator('/blog/tags/realtime','b88'),
     exact: true
   },
   {
     path: '/blog/tags/recsys',
-    component: ComponentCreator('/blog/tags/recsys','8ad'),
+    component: ComponentCreator('/blog/tags/recsys','64a'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/regression',
+    component: ComponentCreator('/blog/tags/regression','884'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/scraping',
+    component: ComponentCreator('/blog/tags/scraping','5f8'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/similarity',
+    component: ComponentCreator('/blog/tags/similarity','50b'),
     exact: true
   },
   {
     path: '/blog/tags/streamlit',
-    component: ComponentCreator('/blog/tags/streamlit','142'),
+    component: ComponentCreator('/blog/tags/streamlit','a1d'),
     exact: true
   },
   {
     path: '/blog/tags/tool',
-    component: ComponentCreator('/blog/tags/tool','1f2'),
+    component: ComponentCreator('/blog/tags/tool','a8d'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/trend',
+    component: ComponentCreator('/blog/tags/trend','981'),
     exact: true
   },
   {
     path: '/blog/tags/vision',
-    component: ComponentCreator('/blog/tags/vision','d7a'),
+    component: ComponentCreator('/blog/tags/vision','0ea'),
     exact: true
   },
   {

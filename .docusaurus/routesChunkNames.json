@@ -183,10 +183,10 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2021-10-01-vehicle-suggestions-031-04c"
   },
-  "/blog/2021/10/01/web-scraping-using-scrapy,-bs4,-and-selenium-d61": {
+  "/blog/2021/10/01/web-scraping-using-scrapy-bs4-and-selenium-f0e": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-01-web-scraping-using-scrapy-bs-4-and-selenium-0-fd-b56"
+    "content": "content---blog-2021-10-01-web-scraping-using-scrapy-bs-4-and-selenium-15-f-101"
   },
   "/blog/2021/10/01/web-scraping-with-gazpacho-41e": {
     "component": "component---theme-blog-post-pageccc-cab",
@@ -244,7 +244,7 @@
     ],
     "metadata": "metadata---blog-page-28-eb-625"
   },
-  "/blog/page/3-3f1": {
+  "/blog/page/3-35b": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -258,7 +258,7 @@
         "content": "content---blog-page-3-def-3bc"
       },
       {
-        "content": "content---blog-page-38-c-4-a51"
+        "content": "content---blog-page-33-a-1-f6a"
       },
       {
         "content": "content---blog-page-3285-b7d"
@@ -270,10 +270,10 @@
         "content": "content---blog-page-3-f-48-436"
       },
       {
-        "content": "content---blogaf-0-7c8"
+        "content": "content---blog-page-3-af-0-85d"
       },
       {
-        "content": "content---blog-069-a73"
+        "content": "content---blog-page-3069-d57"
       }
     ],
     "metadata": "metadata---blog-page-3929-7ba"
@@ -283,61 +283,364 @@
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/app-947": {
+  "/blog/tags/app-0e4": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogaf-0-7c8"
+        "content": "content---blogbaf-e1f"
       },
       {
-        "content": "content---blog-069-a73"
+        "content": "content---blog-page-2620-632"
+      },
+      {
+        "content": "content---blog-page-3-af-0-85d"
+      },
+      {
+        "content": "content---blog-page-3069-d57"
       }
     ],
     "metadata": "metadata---blog-tags-app-03-e-251"
   },
-  "/blog/tags/recsys-8ad": {
+  "/blog/tags/audio-9c1": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-903-b99"
+      }
+    ],
+    "metadata": "metadata---blog-tags-audio-671-b71"
+  },
+  "/blog/tags/aws-beanstalk-173": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogd-4-a-a2d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-aws-beanstalkf-90-9be"
+  },
+  "/blog/tags/chatbot-3c0": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-39-ea-29d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-chatbotbb-0-460"
+  },
+  "/blog/tags/classification-a16": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-02-a-4c0"
+      }
+    ],
+    "metadata": "metadata---blog-tags-classification-739-673"
+  },
+  "/blog/tags/deepfake-819": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-903-b99"
+      }
+    ],
+    "metadata": "metadata---blog-tags-deepfakec-4-a-810"
+  },
+  "/blog/tags/distributed-ae7": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogefe-40e"
+      }
+    ],
+    "metadata": "metadata---blog-tags-distributed-8-b-9-107"
+  },
+  "/blog/tags/flask-d82": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogd-4-a-a2d"
+      },
+      {
+        "content": "content---blogbaf-e1f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-flask-65-d-52f"
+  },
+  "/blog/tags/healthcare-28a": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-02-a-4c0"
+      },
+      {
+        "content": "content---blog-page-39-ea-29d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-healthcare-8-fa-e25"
+  },
+  "/blog/tags/insight-ee0": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-31-c-3-b49"
+      }
+    ],
+    "metadata": "metadata---blog-tags-insightdb-1-743"
+  },
+  "/blog/tags/insurance-452": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-cf-594"
+      }
+    ],
+    "metadata": "metadata---blog-tags-insurance-5-b-0-acd"
+  },
+  "/blog/tags/ner-d12": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogbaf-e1f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-nerd-03-3a6"
+  },
+  "/blog/tags/nlp-ba2": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-0-e-3-056"
+      },
+      {
+        "content": "content---blog-194-80e"
+      },
+      {
+        "content": "content---blogbaf-e1f"
+      },
+      {
+        "content": "content---blog-page-2630-68e"
+      },
+      {
+        "content": "content---blog-page-3-def-3bc"
+      },
+      {
+        "content": "content---blog-page-39-ea-29d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-nlpfb-1-230"
+  },
+  "/blog/tags/object-detection-0ee": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2-ac-9-aad"
+      },
+      {
+        "content": "content---blog-page-2-eda-37f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-object-detection-895-c76"
+  },
+  "/blog/tags/ocr-e52": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-20-bc-18a"
+      }
+    ],
+    "metadata": "metadata---blog-tags-ocrc-5-c-5c2"
+  },
+  "/blog/tags/opencv-b57": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2-eda-37f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-opencv-279-82b"
+  },
+  "/blog/tags/personalization-82f": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-cf-594"
+      },
+      {
+        "content": "content---blog-page-20-c-6-35c"
+      },
+      {
+        "content": "content---blog-page-28-a-7-66f"
+      },
+      {
+        "content": "content---blog-page-3-f-48-436"
+      }
+    ],
+    "metadata": "metadata---blog-tags-personalizationd-73-3d5"
+  },
+  "/blog/tags/realtime-b88": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-28-a-7-66f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-realtimeb-14-345"
+  },
+  "/blog/tags/recsys-64a": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
         "content": "content---blog-185-6a3"
+      },
+      {
+        "content": "content---blogefe-40e"
+      },
+      {
+        "content": "content---blog-page-2-e-4-e-e11"
+      },
+      {
+        "content": "content---blog-page-37-bd-183"
       }
     ],
     "metadata": "metadata---blog-tags-recsysa-32-c6f"
   },
-  "/blog/tags/streamlit-142": {
+  "/blog/tags/regression-884": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogaf-0-7c8"
+        "content": "content---blog-page-29-cd-b68"
+      }
+    ],
+    "metadata": "metadata---blog-tags-regressiond-3-c-558"
+  },
+  "/blog/tags/scraping-5f8": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-33-a-1-f6a"
       },
       {
-        "content": "content---blog-069-a73"
+        "content": "content---blog-page-3285-b7d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-scraping-57-e-f12"
+  },
+  "/blog/tags/similarity-50b": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-0-e-3-056"
+      },
+      {
+        "content": "content---blog-194-80e"
+      },
+      {
+        "content": "content---blogd-4-a-a2d"
+      },
+      {
+        "content": "content---blog-page-2630-68e"
+      },
+      {
+        "content": "content---blog-page-3-def-3bc"
+      }
+    ],
+    "metadata": "metadata---blog-tags-similarity-2-f-3-d1b"
+  },
+  "/blog/tags/streamlit-a1d": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2620-632"
+      },
+      {
+        "content": "content---blog-page-3-af-0-85d"
+      },
+      {
+        "content": "content---blog-page-3069-d57"
       }
     ],
     "metadata": "metadata---blog-tags-streamlit-451-386"
   },
-  "/blog/tags/tool-1f2": {
+  "/blog/tags/tool-a8d": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
         "content": "content---blog-185-6a3"
+      },
+      {
+        "content": "content---blog-744-7a9"
+      },
+      {
+        "content": "content---blog-page-37-bd-183"
       }
     ],
     "metadata": "metadata---blog-tags-toolc-17-cc4"
   },
-  "/blog/tags/vision-d7a": {
+  "/blog/tags/trend-981": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogaf-0-7c8"
+        "content": "content---blog-page-3-f-48-436"
+      }
+    ],
+    "metadata": "metadata---blog-tags-trend-553-c47"
+  },
+  "/blog/tags/vision-0ea": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-744-7a9"
       },
       {
-        "content": "content---blog-069-a73"
+        "content": "content---blogd-4-a-a2d"
+      },
+      {
+        "content": "content---blog-page-2-ac-9-aad"
+      },
+      {
+        "content": "content---blog-page-2-eda-37f"
+      },
+      {
+        "content": "content---blog-page-2620-632"
+      },
+      {
+        "content": "content---blog-page-20-bc-18a"
+      },
+      {
+        "content": "content---blog-page-3-def-3bc"
+      },
+      {
+        "content": "content---blog-page-3-af-0-85d"
+      },
+      {
+        "content": "content---blog-page-3069-d57"
       }
     ],
     "metadata": "metadata---blog-tags-vision-829-cb4"

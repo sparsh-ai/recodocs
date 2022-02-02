@@ -3,13 +3,30 @@
   "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-insurance-personalization.mdx",
   "source": "@site/blog/2021-10-01-insurance-personalization.mdx",
   "title": "Insurance Personalization",
-  "description": "Authors: sparsh",
+  "description": "Author: Alexsoft",
   "date": "2021-10-01T00:00:00.000Z",
   "formattedDate": "October 1, 2021",
-  "tags": [],
-  "readingTime": 9.38,
+  "tags": [
+    {
+      "label": "insurance",
+      "permalink": "/blog/tags/insurance"
+    },
+    {
+      "label": "personalization",
+      "permalink": "/blog/tags/personalization"
+    }
+  ],
+  "readingTime": 9.355,
   "truncated": false,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
   "prevItem": {
     "title": "Image Similarity System",
     "permalink": "/blog/2021/10/01/image-similarity-system"

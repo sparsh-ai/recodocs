@@ -3,13 +3,26 @@
   "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-web-scraping-using-scrapy,-bs4,-and-selenium.mdx",
   "source": "@site/blog/2021-10-01-web-scraping-using-scrapy,-bs4,-and-selenium.mdx",
   "title": "Web Scraping using Scrapy, BS4, and Selenium",
-  "description": "Authors: sparsh",
+  "description": "1. Handling single request & response by extracting a city’s weather from a weather site using Scrapy",
   "date": "2021-10-01T00:00:00.000Z",
   "formattedDate": "October 1, 2021",
-  "tags": [],
-  "readingTime": 3.8,
+  "tags": [
+    {
+      "label": "scraping",
+      "permalink": "/blog/tags/scraping"
+    }
+  ],
+  "readingTime": 3.78,
   "truncated": false,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
   "prevItem": {
     "title": "Vehicle Suggestions",
     "permalink": "/blog/2021/10/01/vehicle-suggestions"

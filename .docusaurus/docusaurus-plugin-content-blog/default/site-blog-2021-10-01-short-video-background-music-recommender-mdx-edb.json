@@ -3,13 +3,26 @@
   "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-short-video-background-music-recommender.mdx",
   "source": "@site/blog/2021-10-01-short-video-background-music-recommender.mdx",
   "title": "Short-video Background Music Recommender",
-  "description": "Authors: sparsh",
+  "description": "Matching micro-videos with suitable background music can help uploaders better convey their contents and emotions, and increase the click-through rate of their uploaded videos. However, manually selecting the background music becomes a painstaking task due to the voluminous and ever-growing pool of candidate music. Therefore, automatically recommending background music to videos becomes an important task.",
   "date": "2021-10-01T00:00:00.000Z",
   "formattedDate": "October 1, 2021",
-  "tags": [],
-  "readingTime": 2.19,
+  "tags": [
+    {
+      "label": "recsys",
+      "permalink": "/blog/tags/recsys"
+    }
+  ],
+  "readingTime": 2.17,
   "truncated": false,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
   "prevItem": {
     "title": "Semantic Similarity",
     "permalink": "/blog/2021/10/01/semantic-similarity"

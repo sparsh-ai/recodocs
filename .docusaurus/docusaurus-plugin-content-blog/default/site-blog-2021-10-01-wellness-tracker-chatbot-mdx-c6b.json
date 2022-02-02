@@ -3,13 +3,34 @@
   "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-wellness-tracker-chatbot.mdx",
   "source": "@site/blog/2021-10-01-wellness-tracker-chatbot.mdx",
   "title": "Wellness tracker chatbot",
-  "description": "Authors: sparsh",
+  "description": "/img/content-blog-raw-blog-wellness-tracker-chatbot-untitled.png",
   "date": "2021-10-01T00:00:00.000Z",
   "formattedDate": "October 1, 2021",
-  "tags": [],
-  "readingTime": 0.485,
+  "tags": [
+    {
+      "label": "chatbot",
+      "permalink": "/blog/tags/chatbot"
+    },
+    {
+      "label": "healthcare",
+      "permalink": "/blog/tags/healthcare"
+    },
+    {
+      "label": "nlp",
+      "permalink": "/blog/tags/nlp"
+    }
+  ],
+  "readingTime": 0.455,
   "truncated": false,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
   "prevItem": {
     "title": "Web Scraping with Gazpacho",
     "permalink": "/blog/2021/10/01/web-scraping-with-gazpacho"

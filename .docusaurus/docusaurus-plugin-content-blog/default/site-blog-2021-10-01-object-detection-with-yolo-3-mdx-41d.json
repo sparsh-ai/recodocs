@@ -3,13 +3,34 @@
   "editUrl": "https://github.com/recohut/docs/blog/blog/2021-10-01-object-detection-with-yolo3.mdx",
   "source": "@site/blog/2021-10-01-object-detection-with-yolo3.mdx",
   "title": "Object detection with YOLO3",
-  "description": "Authors: sparsh",
+  "description": "Live app",
   "date": "2021-10-01T00:00:00.000Z",
   "formattedDate": "October 1, 2021",
-  "tags": [],
-  "readingTime": 2.005,
+  "tags": [
+    {
+      "label": "app",
+      "permalink": "/blog/tags/app"
+    },
+    {
+      "label": "streamlit",
+      "permalink": "/blog/tags/streamlit"
+    },
+    {
+      "label": "vision",
+      "permalink": "/blog/tags/vision"
+    }
+  ],
+  "readingTime": 1.975,
   "truncated": false,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
   "prevItem": {
     "title": "Object detection with OpenCV",
     "permalink": "/blog/2021/10/01/object-detection-with-opencv"

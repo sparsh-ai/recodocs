@@ -1,9 +1,10 @@
-# Name & Address Parsing
+---
+title: Name & Address Parsing
+authors: sparsh
+tags: [app, flask, ner, nlp]
+---
 
-Authors: sparsh
-tags: app, flask, ner, nlp
-
-![Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled.png](Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled.png)
+![/img/content-blog-raw-blog-name-&-address-parsing-untitled.png](/img/content-blog-raw-blog-name-&-address-parsing-untitled.png)
 
 # Introduction
 
@@ -77,27 +78,27 @@ Output Tags:-
 
 # Framework
 
-![Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%201.png](Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%201.png)
+![/img/content-blog-raw-blog-name-&-address-parsing-untitled-1.png](/img/content-blog-raw-blog-name-&-address-parsing-untitled-1.png)
 
-![Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%202.png](Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%202.png)
+![/img/content-blog-raw-blog-name-&-address-parsing-untitled-2.png](/img/content-blog-raw-blog-name-&-address-parsing-untitled-2.png)
 
 # Tagging process
 
 I used Doccano ([https://github.com/doccano/doccano](https://github.com/doccano/doccano)) for labeling the dataset. This tool is open-source and free to use. I deployed it with a one-click Heroku service (fig 1). After launching the app, log in with the provided credentials, and create a project (fig 2). Create the labels and upload the dataset (fig 3). Start the annotation process (fig 4). Now after enough annotations (you do not need complete all annotations in one go), go back to projects > edit section and export the data (fig 5). Bring the exported JSON file in python and run the model training code. The whole model will automatically get trained on the new annotations. To make the training faster, you can use Nvidia GPU support.
 
-![fig 1: screenshot taken from Doccano's github page](Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%203.png)
+![fig 1: screenshot taken from Doccano's github page](/img/content-blog-raw-blog-name-&-address-parsing-untitled-3.png)
 
 fig 1: screenshot taken from Doccano's github page
 
-![fig 2: Doccano's deployed app homepage](Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%204.png)
+![fig 2: Doccano's deployed app homepage](/img/content-blog-raw-blog-name-&-address-parsing-untitled-4.png)
 
 fig 2: Doccano's deployed app homepage
 
-![fig 3: create the labels. I defined these labels for my project](Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%205.png)
+![fig 3: create the labels. I defined these labels for my project](/img/content-blog-raw-blog-name-&-address-parsing-untitled-5.png)
 
 fig 3: create the labels. I defined these labels for my project
 
-![fig 5: export the annotations](Name%20&%20Address%20Parsing%2066b54e0cd0564921b634be01b5603d51/Untitled%206.png)
+![fig 5: export the annotations](/img/content-blog-raw-blog-name-&-address-parsing-untitled-6.png)
 
 fig 5: export the annotations
 
