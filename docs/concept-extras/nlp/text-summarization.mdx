@@ -26,7 +26,7 @@ Text summarization can broadly be divided into two categories — **Extractive 
 
 In the inference (testing) phase, the model only depends on the previous step, which means that it totally depends on itself. The problem actually arises when the model results in a bad output in (t-1) (i.e. the previous time step results in a bad output). This would actually affect all the coming sequences. It would lead the model to an entirely different state space from where it has seen and trained on in the training phase, so it simply won’t be able to know what to do. A solution to this problem that has been suggested by [bengio et ai](https://arxiv.org/abs/1506.03099) from google research, was to gradually change the reliance of the model from being totally dependent on the ground truth being supplied to it to depending on itself (i.e. depend on only its previous tokens generated from previous time steps in the decoder). The concept of making the learning path difficult through time (i.e. making the model depends on only itself) is called curriculum learning. Their technique to implement this was truly genius. They call it ‘**scheduled sampling’.**
 
-![Landscape of seq2seq models for neural abstractive text summarization](Text%20Summarization%20558d057d36324a3ba2238c349f28cb45/image_(4).png)
+![Landscape of seq2seq models for neural abstractive text summarization](/img/content-concepts-raw-nlp-text-summarization-image_(4).png)
 
 Landscape of seq2seq models for neural abstractive text summarization
 
@@ -196,7 +196,7 @@ And the *"summary"* itself has some variety.
 
 ## Pointer Generator
 
-![Text%20Summarization%20558d057d36324a3ba2238c349f28cb45/image_(3).png](Text%20Summarization%20558d057d36324a3ba2238c349f28cb45/image_(3).png)
+![/img/content-concepts-raw-nlp-text-summarization-image_(3).png](/img/content-concepts-raw-nlp-text-summarization-image_(3).png)
 
 ![https://miro.medium.com/max/1400/0*vJgFcKRJpdN1sO2Z.png](https://miro.medium.com/max/1400/0*vJgFcKRJpdN1sO2Z.png)
 

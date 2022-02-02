@@ -171,11 +171,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "concept-extras/nlp/nlp",
-              "path": "/docs/concept-extras/nlp/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "concept-extras/nlp/text-analysis",
               "path": "/docs/concept-extras/nlp/text-analysis",
               "sidebar": "tutorialSidebar"

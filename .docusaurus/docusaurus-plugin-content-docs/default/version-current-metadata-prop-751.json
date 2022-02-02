@@ -282,8 +282,7 @@
                 "href": "/docs/concept-extras/nlp/transformers",
                 "docId": "concept-extras/nlp/transformers"
               }
-            ],
-            "href": "/docs/concept-extras/nlp/"
+            ]
           }
         ]
       },
@@ -918,12 +917,6 @@
       "id": "concept-extras/nlp/named-entity-recognition",
       "title": "Named Entity Recognition",
       "description": "/img/content-concepts-raw-nlp-named-entity-recognition-img.png",
-      "sidebar": "tutorialSidebar"
-    },
-    "concept-extras/nlp/nlp": {
-      "id": "concept-extras/nlp/nlp",
-      "title": "NLP",
-      "description": "Text Similarity",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/nlp/text-analysis": {

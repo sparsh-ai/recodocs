@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NLP",
-    "permalink": "/docs/concept-extras/nlp/"
+    "title": "Walmart Model Selection",
+    "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
   },
   "next": {
     "title": "Language Modeling",
