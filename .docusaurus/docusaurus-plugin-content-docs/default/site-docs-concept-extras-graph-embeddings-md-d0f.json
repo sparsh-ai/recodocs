@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Diversity",
-    "permalink": "/docs/concept-extras/diversity"
+    "title": "Emerging Concepts in Recommender Systems",
+    "permalink": "/docs/concept-extras/emerging-concepts-in-recommender-systems"
   },
   "next": {
     "title": "Incremental Learning",

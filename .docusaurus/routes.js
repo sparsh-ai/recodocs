@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','4b9'),
+    component: ComponentCreator('/docs','3d9'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -494,6 +494,12 @@ export default [
       {
         path: '/docs/concept-extras/diversity',
         component: ComponentCreator('/docs/concept-extras/diversity','932'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/emerging-concepts-in-recommender-systems',
+        component: ComponentCreator('/docs/concept-extras/emerging-concepts-in-recommender-systems','60f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -908,6 +914,12 @@ export default [
       {
         path: '/docs/projects',
         component: ComponentCreator('/docs/projects','c4a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/',
+        component: ComponentCreator('/docs/tutorials/','7e1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

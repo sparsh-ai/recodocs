@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/tutorials",
+  "id": "tutorials/tutorials",
+  "title": "Tutorials",
+  "description": "Data pipeline",
+  "source": "@site/docs/tutorials/tutorials.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/",
+  "permalink": "/docs/tutorials/",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tutorials.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
+  },
+  "next": {
+    "title": "Data Science Bookcamp",
+    "permalink": "/docs/tutorials/data-science-bookcamp"
+  }
+}

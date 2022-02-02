@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-4b9": {
+  "/docs-3d9": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -752,6 +752,10 @@
   "/docs/concept-extras/diversity-932": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-diversity-997-e68"
+  },
+  "/docs/concept-extras/emerging-concepts-in-recommender-systems-60f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-emerging-concepts-in-recommender-systemsb-03-e31"
   },
   "/docs/concept-extras/graph-embeddings-91f": {
     "component": "component---theme-doc-item-178-a40",
@@ -1028,6 +1032,10 @@
   "/docs/projects-c4a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-projects-1-dc-4e1"
+  },
+  "/docs/tutorials/-7e1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-94-c-5f9"
   },
   "/docs/tutorials/data-science-bookcamp-f86": {
     "component": "component---theme-doc-item-178-a40",

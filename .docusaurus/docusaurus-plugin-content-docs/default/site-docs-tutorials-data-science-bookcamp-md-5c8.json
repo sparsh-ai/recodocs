@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "xDeepFM",
-    "permalink": "/docs/models/xdeepfm"
+    "title": "Tutorials",
+    "permalink": "/docs/tutorials/"
   },
   "next": {
     "title": "Matching and Ranking models in Tensorflow",

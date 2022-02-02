@@ -136,6 +136,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/emerging-concepts-in-recommender-systems",
+              "path": "/docs/concept-extras/emerging-concepts-in-recommender-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-extras/graph-embeddings",
               "path": "/docs/concept-extras/graph-embeddings",
               "sidebar": "tutorialSidebar"
@@ -503,6 +508,11 @@
             {
               "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
               "path": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tutorials",
+              "path": "/docs/tutorials/",
               "sidebar": "tutorialSidebar"
             }
           ]

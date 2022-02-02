@@ -72,6 +72,12 @@
           },
           {
             "type": "link",
+            "label": "Emerging Concepts in Recommender Systems",
+            "href": "/docs/concept-extras/emerging-concepts-in-recommender-systems",
+            "docId": "concept-extras/emerging-concepts-in-recommender-systems"
+          },
+          {
+            "type": "link",
             "label": "Graph Embeddings",
             "href": "/docs/concept-extras/graph-embeddings",
             "docId": "concept-extras/graph-embeddings"
@@ -623,7 +629,8 @@
             "href": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
             "docId": "tutorials/tensorflow-2-reinforcement-learning-cookbook"
           }
-        ]
+        ],
+        "href": "/docs/tutorials/"
       },
       {
         "type": "link",
@@ -788,6 +795,12 @@
       "id": "concept-extras/diversity",
       "title": "Diversity",
       "description": "Individual-level diversity and System-level diversity",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/emerging-concepts-in-recommender-systems": {
+      "id": "concept-extras/emerging-concepts-in-recommender-systems",
+      "title": "Emerging Concepts in Recommender Systems",
+      "description": "Real-time Learning and Inference",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/graph-embeddings": {
@@ -1232,6 +1245,12 @@
       "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
       "title": "TensorFlow 2 Reinforcement Learning Cookbook",
       "description": "Process flow",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/tutorials": {
+      "id": "tutorials/tutorials",
+      "title": "Tutorials",
+      "description": "Data pipeline",
       "sidebar": "tutorialSidebar"
     }
   }
