@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-basics/processes",
+              "path": "/docs/concept-basics/processes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-basics/session-based-recommenders",
               "path": "/docs/concept-basics/session-based-recommenders",
               "sidebar": "tutorialSidebar"

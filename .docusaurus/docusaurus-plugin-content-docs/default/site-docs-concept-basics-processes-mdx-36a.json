@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-basics/processes",
+  "id": "concept-basics/processes",
+  "title": "Processes",
+  "description": "Retrieval and Ranking",
+  "source": "@site/docs/concept-basics/processes.mdx",
+  "sourceDirName": "concept-basics",
+  "slug": "/concept-basics/processes",
+  "permalink": "/docs/concept-basics/processes",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/processes.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Challenges",
+    "permalink": "/docs/concept-basics/challenges"
+  },
+  "next": {
+    "title": "Session-based Recommenders",
+    "permalink": "/docs/concept-basics/session-based-recommenders"
+  }
+}

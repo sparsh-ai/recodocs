@@ -37,6 +37,29 @@
                 "permalink": "/docs/intro"
               },
               "next": {
+                "title": "Processes",
+                "permalink": "/docs/concept-basics/processes"
+              }
+            },
+            {
+              "unversionedId": "concept-basics/processes",
+              "id": "concept-basics/processes",
+              "title": "Processes",
+              "description": "Retrieval and Ranking",
+              "source": "@site/docs/concept-basics/processes.mdx",
+              "sourceDirName": "concept-basics",
+              "slug": "/concept-basics/processes",
+              "permalink": "/docs/concept-basics/processes",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/processes.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Challenges",
+                "permalink": "/docs/concept-basics/challenges"
+              },
+              "next": {
                 "title": "Session-based Recommenders",
                 "permalink": "/docs/concept-basics/session-based-recommenders"
               }
@@ -56,8 +79,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Challenges",
-                "permalink": "/docs/concept-basics/challenges"
+                "title": "Processes",
+                "permalink": "/docs/concept-basics/processes"
               },
               "next": {
                 "title": "Tasks",
@@ -2858,6 +2881,10 @@
                   {
                     "type": "doc",
                     "id": "concept-basics/challenges"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-basics/processes"
                   },
                   {
                     "type": "doc",

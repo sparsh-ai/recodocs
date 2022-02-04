@@ -28,6 +28,12 @@
           },
           {
             "type": "link",
+            "label": "Processes",
+            "href": "/docs/concept-basics/processes",
+            "docId": "concept-basics/processes"
+          },
+          {
+            "type": "link",
             "label": "Session-based Recommenders",
             "href": "/docs/concept-basics/session-based-recommenders",
             "docId": "concept-basics/session-based-recommenders"
@@ -799,6 +805,12 @@
       "id": "concept-basics/challenges",
       "title": "Challenges",
       "description": "The construction of effective Recommender Systems (RS) is a complex process, mainly due to the nature of RSs which involves large scale software-systems and human interactions. Iterative development processes require deep understanding of a current baseline as well as the ability to estimate the impact of changes in multiple variables of interest. Simulations are well suited to address both challenges and potentially leading to a high velocity construction process, a fundamental requirement in commercial contexts. Recently, there has been significant interest in RS Simulation Platforms, which allow RS developers to easily craft simulated environments where their systems can be analyzed.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-basics/processes": {
+      "id": "concept-basics/processes",
+      "title": "Processes",
+      "description": "Retrieval and Ranking",
       "sidebar": "tutorialSidebar"
     },
     "concept-basics/session-based-recommenders": {
