@@ -60,6 +60,29 @@
                 "permalink": "/docs/concept-basics/challenges"
               },
               "next": {
+                "title": "Tasks",
+                "permalink": "/docs/concept-basics/tasks"
+              }
+            },
+            {
+              "unversionedId": "concept-basics/tasks",
+              "id": "concept-basics/tasks",
+              "title": "Tasks",
+              "description": "Top-K Product Recommendation",
+              "source": "@site/docs/concept-basics/tasks.mdx",
+              "sourceDirName": "concept-basics",
+              "slug": "/concept-basics/tasks",
+              "permalink": "/docs/concept-basics/tasks",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/tasks.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Session-based Recommenders",
+                "permalink": "/docs/concept-basics/session-based-recommenders"
+              },
+              "next": {
                 "title": "Types of Recommender Systems",
                 "permalink": "/docs/concept-basics/types-of-recommender-systems"
               }
@@ -79,8 +102,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Session-based Recommenders",
-                "permalink": "/docs/concept-basics/session-based-recommenders"
+                "title": "Tasks",
+                "permalink": "/docs/concept-basics/tasks"
               },
               "next": {
                 "title": "Bias & Fairness",
@@ -125,8 +148,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "MLOps",
-                "permalink": "/docs/concept-extras/mlops"
+                "title": "Model Deployment",
+                "permalink": "/docs/concept-extras/model-deployment"
               },
               "next": {
                 "title": "Airbnb Experiences",
@@ -681,6 +704,29 @@
                 "permalink": "/docs/concept-extras/incremental-learning"
               },
               "next": {
+                "title": "Model Deployment",
+                "permalink": "/docs/concept-extras/model-deployment"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/model-deployment",
+              "id": "concept-extras/model-deployment",
+              "title": "Model Deployment",
+              "description": "modeldeployment",
+              "source": "@site/docs/concept-extras/model-deployment.md",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/model-deployment",
+              "permalink": "/docs/concept-extras/model-deployment",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/model-deployment.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MLOps",
+                "permalink": "/docs/concept-extras/mlops"
+              },
+              "next": {
                 "title": "1mg Prod2vec",
                 "permalink": "/docs/concept-extras/case-studies/1mg-prod2vec"
               }
@@ -932,6 +978,190 @@
               "previous": {
                 "title": "Topic Modeling",
                 "permalink": "/docs/concept-extras/nlp/topic-modeling"
+              },
+              "next": {
+                "title": "Facial Analytics",
+                "permalink": "/docs/concept-extras/vision/facial-analytics"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/facial-analytics",
+              "id": "concept-extras/vision/facial-analytics",
+              "title": "Facial Analytics",
+              "description": "/img/content-concepts-raw-computer-vision-facial-analytics-img.png",
+              "source": "@site/docs/concept-extras/vision/facial-analytics.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/facial-analytics",
+              "permalink": "/docs/concept-extras/vision/facial-analytics",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/facial-analytics.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Transformers",
+                "permalink": "/docs/concept-extras/nlp/transformers"
+              },
+              "next": {
+                "title": "Image Segmentation",
+                "permalink": "/docs/concept-extras/vision/image-segmentation"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/image-segmentation",
+              "id": "concept-extras/vision/image-segmentation",
+              "title": "Image Segmentation",
+              "description": "/img/content-concepts-raw-computer-vision-image-segmentation-slide46.png",
+              "source": "@site/docs/concept-extras/vision/image-segmentation.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/image-segmentation",
+              "permalink": "/docs/concept-extras/vision/image-segmentation",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/image-segmentation.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Facial Analytics",
+                "permalink": "/docs/concept-extras/vision/facial-analytics"
+              },
+              "next": {
+                "title": "Image Similarity",
+                "permalink": "/docs/concept-extras/vision/image-similarity"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/image-similarity",
+              "id": "concept-extras/vision/image-similarity",
+              "title": "Image Similarity",
+              "description": "/img/content-concepts-raw-computer-vision-image-similarity-slide19.png",
+              "source": "@site/docs/concept-extras/vision/image-similarity.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/image-similarity",
+              "permalink": "/docs/concept-extras/vision/image-similarity",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/image-similarity.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Image Segmentation",
+                "permalink": "/docs/concept-extras/vision/image-segmentation"
+              },
+              "next": {
+                "title": "Object Detection",
+                "permalink": "/docs/concept-extras/vision/object-detection"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/object-detection",
+              "id": "concept-extras/vision/object-detection",
+              "title": "Object Detection",
+              "description": "/img/content-concepts-raw-computer-vision-object-detection-slide29.png",
+              "source": "@site/docs/concept-extras/vision/object-detection.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/object-detection",
+              "permalink": "/docs/concept-extras/vision/object-detection",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/object-detection.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Image Similarity",
+                "permalink": "/docs/concept-extras/vision/image-similarity"
+              },
+              "next": {
+                "title": "Object Tracking",
+                "permalink": "/docs/concept-extras/vision/object-tracking"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/object-tracking",
+              "id": "concept-extras/vision/object-tracking",
+              "title": "Object Tracking",
+              "description": "/img/content-concepts-raw-computer-vision-object-tracking-img.png",
+              "source": "@site/docs/concept-extras/vision/object-tracking.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/object-tracking",
+              "permalink": "/docs/concept-extras/vision/object-tracking",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/object-tracking.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Object Detection",
+                "permalink": "/docs/concept-extras/vision/object-detection"
+              },
+              "next": {
+                "title": "Pose Estimation",
+                "permalink": "/docs/concept-extras/vision/pose-estimation"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/pose-estimation",
+              "id": "concept-extras/vision/pose-estimation",
+              "title": "Pose Estimation",
+              "description": "/img/content-concepts-raw-computer-vision-pose-estimation-slide52.png",
+              "source": "@site/docs/concept-extras/vision/pose-estimation.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/pose-estimation",
+              "permalink": "/docs/concept-extras/vision/pose-estimation",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/pose-estimation.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Object Tracking",
+                "permalink": "/docs/concept-extras/vision/object-tracking"
+              },
+              "next": {
+                "title": "Scene Text Recognition",
+                "permalink": "/docs/concept-extras/vision/scene-text-recognition"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/scene-text-recognition",
+              "id": "concept-extras/vision/scene-text-recognition",
+              "title": "Scene Text Recognition",
+              "description": "/img/content-concepts-raw-computer-vision-scene-text-recognition-img.png",
+              "source": "@site/docs/concept-extras/vision/scene-text-recognition.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/scene-text-recognition",
+              "permalink": "/docs/concept-extras/vision/scene-text-recognition",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/scene-text-recognition.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pose Estimation",
+                "permalink": "/docs/concept-extras/vision/pose-estimation"
+              },
+              "next": {
+                "title": "Video Action Recognition",
+                "permalink": "/docs/concept-extras/vision/video-action-recognition"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/vision/video-action-recognition",
+              "id": "concept-extras/vision/video-action-recognition",
+              "title": "Video Action Recognition",
+              "description": "/img/content-concepts-raw-computer-vision-video-action-recognition-img.png",
+              "source": "@site/docs/concept-extras/vision/video-action-recognition.mdx",
+              "sourceDirName": "concept-extras/vision",
+              "slug": "/concept-extras/vision/video-action-recognition",
+              "permalink": "/docs/concept-extras/vision/video-action-recognition",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/video-action-recognition.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Scene Text Recognition",
+                "permalink": "/docs/concept-extras/vision/scene-text-recognition"
               },
               "next": {
                 "title": "Models",
@@ -1872,8 +2102,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Transformers",
-                "permalink": "/docs/concept-extras/nlp/transformers"
+                "title": "Video Action Recognition",
+                "permalink": "/docs/concept-extras/vision/video-action-recognition"
               },
               "next": {
                 "title": "A3C",
@@ -2635,6 +2865,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "concept-basics/tasks"
+                  },
+                  {
+                    "type": "doc",
                     "id": "concept-basics/types-of-recommender-systems"
                   }
                 ]
@@ -2676,6 +2910,10 @@
                   {
                     "type": "doc",
                     "id": "concept-extras/mlops"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/model-deployment"
                   },
                   {
                     "type": "category",
@@ -2806,6 +3044,46 @@
                       {
                         "type": "doc",
                         "id": "concept-extras/nlp/transformers"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Computer Vision",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/facial-analytics"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/image-segmentation"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/image-similarity"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/object-detection"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/object-tracking"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/pose-estimation"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/scene-text-recognition"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept-extras/vision/video-action-recognition"
                       }
                     ]
                   }

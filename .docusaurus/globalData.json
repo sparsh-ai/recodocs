@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-basics/tasks",
+              "path": "/docs/concept-basics/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-basics/types-of-recommender-systems",
               "path": "/docs/concept-basics/types-of-recommender-systems",
               "sidebar": "tutorialSidebar"
@@ -156,6 +161,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/model-deployment",
+              "path": "/docs/concept-extras/model-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-extras/nlp/chatbot",
               "path": "/docs/concept-extras/nlp/chatbot",
               "sidebar": "tutorialSidebar"
@@ -208,6 +218,46 @@
             {
               "id": "concept-extras/nlp/transformers",
               "path": "/docs/concept-extras/nlp/transformers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/facial-analytics",
+              "path": "/docs/concept-extras/vision/facial-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/image-segmentation",
+              "path": "/docs/concept-extras/vision/image-segmentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/image-similarity",
+              "path": "/docs/concept-extras/vision/image-similarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/object-detection",
+              "path": "/docs/concept-extras/vision/object-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/object-tracking",
+              "path": "/docs/concept-extras/vision/object-tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/pose-estimation",
+              "path": "/docs/concept-extras/vision/pose-estimation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/scene-text-recognition",
+              "path": "/docs/concept-extras/vision/scene-text-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/vision/video-action-recognition",
+              "path": "/docs/concept-extras/vision/video-action-recognition",
               "sidebar": "tutorialSidebar"
             },
             {

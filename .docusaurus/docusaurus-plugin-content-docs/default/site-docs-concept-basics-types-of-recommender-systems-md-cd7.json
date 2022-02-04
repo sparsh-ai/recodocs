@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Session-based Recommenders",
-    "permalink": "/docs/concept-basics/session-based-recommenders"
+    "title": "Tasks",
+    "permalink": "/docs/concept-basics/tasks"
   },
   "next": {
     "title": "Bias & Fairness",

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/model-deployment",
+  "id": "concept-extras/model-deployment",
+  "title": "Model Deployment",
+  "description": "modeldeployment",
+  "source": "@site/docs/concept-extras/model-deployment.md",
+  "sourceDirName": "concept-extras",
+  "slug": "/concept-extras/model-deployment",
+  "permalink": "/docs/concept-extras/model-deployment",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/model-deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MLOps",
+    "permalink": "/docs/concept-extras/mlops"
+  },
+  "next": {
+    "title": "1mg Prod2vec",
+    "permalink": "/docs/concept-extras/case-studies/1mg-prod2vec"
+  }
+}

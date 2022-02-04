@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Transformers",
-    "permalink": "/docs/concept-extras/nlp/transformers"
+    "title": "Video Action Recognition",
+    "permalink": "/docs/concept-extras/vision/video-action-recognition"
   },
   "next": {
     "title": "A3C",

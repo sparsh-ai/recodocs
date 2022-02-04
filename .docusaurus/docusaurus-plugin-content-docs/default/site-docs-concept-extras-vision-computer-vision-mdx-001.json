@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/vision/computer-vision",
+  "id": "concept-extras/vision/computer-vision",
+  "title": "Computer Vision",
+  "description": "Image Similarity",
+  "source": "@site/docs/concept-extras/vision/computer-vision.mdx",
+  "sourceDirName": "concept-extras/vision",
+  "slug": "/concept-extras/vision/computer-vision",
+  "permalink": "/docs/concept-extras/vision/computer-vision",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/vision/computer-vision.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transformers",
+    "permalink": "/docs/concept-extras/nlp/transformers"
+  },
+  "next": {
+    "title": "Facial Analytics",
+    "permalink": "/docs/concept-extras/vision/facial-analytics"
+  }
+}

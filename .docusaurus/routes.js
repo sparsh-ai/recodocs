@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog','b52'),
     exact: true
@@ -310,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','596'),
+    component: ComponentCreator('/docs','d25'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -321,6 +356,12 @@ export default [
       {
         path: '/docs/concept-basics/session-based-recommenders',
         component: ComponentCreator('/docs/concept-basics/session-based-recommenders','3e6'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-basics/tasks',
+        component: ComponentCreator('/docs/concept-basics/tasks','482'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -487,6 +528,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/concept-extras/model-deployment',
+        component: ComponentCreator('/docs/concept-extras/model-deployment','e1f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/concept-extras/nlp/chatbot',
         component: ComponentCreator('/docs/concept-extras/nlp/chatbot','3b3'),
         exact: true,
@@ -549,6 +596,54 @@ export default [
       {
         path: '/docs/concept-extras/nlp/transformers',
         component: ComponentCreator('/docs/concept-extras/nlp/transformers','c82'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/facial-analytics',
+        component: ComponentCreator('/docs/concept-extras/vision/facial-analytics','60f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/image-segmentation',
+        component: ComponentCreator('/docs/concept-extras/vision/image-segmentation','37f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/image-similarity',
+        component: ComponentCreator('/docs/concept-extras/vision/image-similarity','aa8'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/object-detection',
+        component: ComponentCreator('/docs/concept-extras/vision/object-detection','d2f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/object-tracking',
+        component: ComponentCreator('/docs/concept-extras/vision/object-tracking','ba1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/pose-estimation',
+        component: ComponentCreator('/docs/concept-extras/vision/pose-estimation','135'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/scene-text-recognition',
+        component: ComponentCreator('/docs/concept-extras/vision/scene-text-recognition','a62'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/vision/video-action-recognition',
+        component: ComponentCreator('/docs/concept-extras/vision/video-action-recognition','1a2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-basics/tasks",
+  "id": "concept-basics/tasks",
+  "title": "Tasks",
+  "description": "Top-K Product Recommendation",
+  "source": "@site/docs/concept-basics/tasks.mdx",
+  "sourceDirName": "concept-basics",
+  "slug": "/concept-basics/tasks",
+  "permalink": "/docs/concept-basics/tasks",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/tasks.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Session-based Recommenders",
+    "permalink": "/docs/concept-basics/session-based-recommenders"
+  },
+  "next": {
+    "title": "Types of Recommender Systems",
+    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+  }
+}
