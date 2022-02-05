@@ -2,7 +2,7 @@
   "unversionedId": "concept-basics/tasks",
   "id": "concept-basics/tasks",
   "title": "Tasks",
-  "description": "Top-K Product Recommendation",
+  "description": "Top-K Recommendation",
   "source": "@site/docs/concept-basics/tasks.mdx",
   "sourceDirName": "concept-basics",
   "slug": "/concept-basics/tasks",

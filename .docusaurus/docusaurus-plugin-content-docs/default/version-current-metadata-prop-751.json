@@ -870,7 +870,7 @@
     "concept-basics/tasks": {
       "id": "concept-basics/tasks",
       "title": "Tasks",
-      "description": "Top-K Product Recommendation",
+      "description": "Top-K Recommendation",
       "sidebar": "tutorialSidebar"
     },
     "concept-basics/types-of-recommender-systems": {
