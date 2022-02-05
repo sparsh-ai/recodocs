@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-basics/implicit-feedback",
+  "id": "concept-basics/implicit-feedback",
+  "title": "Implicit Feedback",
+  "description": "The numerical values of implicit feedback describe the frequency of actions e.g. how many times you click Data Science job posts, how long you watch a TV series on Netflix, number of times you listen to a song etc. We leverage these implicit numbers given by the users to capture the confidence of user’s preferences or no preferences. Preferences are assumed to be the inner products",
+  "source": "@site/docs/concept-basics/implicit-feedback.mdx",
+  "sourceDirName": "concept-basics",
+  "slug": "/concept-basics/implicit-feedback",
+  "permalink": "/docs/concept-basics/implicit-feedback",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/implicit-feedback.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Challenges",
+    "permalink": "/docs/concept-basics/challenges"
+  },
+  "next": {
+    "title": "Processes",
+    "permalink": "/docs/concept-basics/processes"
+  }
+}

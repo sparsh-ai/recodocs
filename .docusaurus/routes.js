@@ -345,11 +345,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','ec3'),
+    component: ComponentCreator('/docs','a66'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
-        component: ComponentCreator('/docs/concept-basics/challenges','ea1'),
+        component: ComponentCreator('/docs/concept-basics/challenges','3e1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-basics/implicit-feedback',
+        component: ComponentCreator('/docs/concept-basics/implicit-feedback','c42'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

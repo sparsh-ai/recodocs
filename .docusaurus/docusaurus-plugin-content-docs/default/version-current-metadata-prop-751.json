@@ -28,6 +28,12 @@
           },
           {
             "type": "link",
+            "label": "Implicit Feedback",
+            "href": "/docs/concept-basics/implicit-feedback",
+            "docId": "concept-basics/implicit-feedback"
+          },
+          {
+            "type": "link",
             "label": "Processes",
             "href": "/docs/concept-basics/processes",
             "docId": "concept-basics/processes"
@@ -817,6 +823,12 @@
       "id": "concept-basics/challenges",
       "title": "Challenges",
       "description": "The construction of effective Recommender Systems (RS) is a complex process, mainly due to the nature of RSs which involves large scale software-systems and human interactions. Iterative development processes require deep understanding of a current baseline as well as the ability to estimate the impact of changes in multiple variables of interest. Simulations are well suited to address both challenges and potentially leading to a high velocity construction process, a fundamental requirement in commercial contexts. Recently, there has been significant interest in RS Simulation Platforms, which allow RS developers to easily craft simulated environments where their systems can be analyzed.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-basics/implicit-feedback": {
+      "id": "concept-basics/implicit-feedback",
+      "title": "Implicit Feedback",
+      "description": "The numerical values of implicit feedback describe the frequency of actions e.g. how many times you click Data Science job posts, how long you watch a TV series on Netflix, number of times you listen to a song etc. We leverage these implicit numbers given by the users to capture the confidence of user’s preferences or no preferences. Preferences are assumed to be the inner products",
       "sidebar": "tutorialSidebar"
     },
     "concept-basics/processes": {

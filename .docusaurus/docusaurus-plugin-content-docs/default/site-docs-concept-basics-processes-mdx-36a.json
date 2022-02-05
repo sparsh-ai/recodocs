@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Challenges",
-    "permalink": "/docs/concept-basics/challenges"
+    "title": "Implicit Feedback",
+    "permalink": "/docs/concept-basics/implicit-feedback"
   },
   "next": {
     "title": "Session-based Recommenders",

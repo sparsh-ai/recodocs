@@ -649,13 +649,17 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ec3": {
+  "/docs-a66": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/concept-basics/challenges-ea1": {
+  "/docs/concept-basics/challenges-3e1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-basics-challenges-20-f-5b1"
+    "content": "content---docs-concept-basics-challengesddf-7e9"
+  },
+  "/docs/concept-basics/implicit-feedback-c42": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-implicit-feedbackb-54-5e6"
   },
   "/docs/concept-basics/processes-2ec": {
     "component": "component---theme-doc-item-178-a40",
