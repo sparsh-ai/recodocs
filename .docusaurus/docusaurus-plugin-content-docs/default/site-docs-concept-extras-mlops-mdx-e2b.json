@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concept-extras/incremental-learning"
+    "title": "Meta Learning",
+    "permalink": "/docs/concept-extras/meta-learning"
   },
   "next": {
     "title": "Model Deployment",

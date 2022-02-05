@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Types of Recommender Systems",
-    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+    "title": "Amazon Personalize",
+    "permalink": "/docs/concept-extras/amazon-personalize"
   },
   "next": {
     "title": "Causal Inference",

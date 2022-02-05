@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "BCQ",
-    "permalink": "/docs/models/bcq"
+    "title": "Behavior Propensity Modeling",
+    "permalink": "/docs/models/beh-prop"
   },
   "next": {
     "title": "BPR",

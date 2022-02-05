@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a66": {
+  "/docs-fc8": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -677,6 +677,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-basics-types-of-recommender-systemscd-7-f87"
   },
+  "/docs/concept-extras/amazon-personalize-e9d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-amazon-personalizeb-11-b88"
+  },
   "/docs/concept-extras/bias-&-fairness-4a1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-bias-fairness-388-ccd"
@@ -688,6 +692,10 @@
   "/docs/concept-extras/cold-start-c66": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-cold-startfd-6-f08"
+  },
+  "/docs/concept-extras/cross-domain-65a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-cross-domain-4-dd-f87"
   },
   "/docs/concept-extras/data-science-cad": {
     "component": "component---theme-doc-item-178-a40",
@@ -708,6 +716,10 @@
   "/docs/concept-extras/incremental-learning-a40": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-incremental-learningfd-4-e36"
+  },
+  "/docs/concept-extras/meta-learning-3f0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-meta-learninge-21-e8a"
   },
   "/docs/concept-extras/mlops-760": {
     "component": "component---theme-doc-item-178-a40",
@@ -912,6 +924,10 @@
   "/docs/models/bcq-350": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-bcq-594-338"
+  },
+  "/docs/models/beh-prop-7c2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-beh-prop-34-a-8fc"
   },
   "/docs/models/biasonly-227": {
     "component": "component---theme-doc-item-178-a40",

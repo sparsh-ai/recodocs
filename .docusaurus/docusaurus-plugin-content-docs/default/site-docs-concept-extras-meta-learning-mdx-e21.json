@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/meta-learning",
+  "id": "concept-extras/meta-learning",
+  "title": "Meta Learning",
+  "description": "Meta learning covers a wide range of topics and has contributed to a booming study trend. Few-shot learning is one of successful branches of meta learning. We retrospect some representative meta-learning models with strong connections to our work.",
+  "source": "@site/docs/concept-extras/meta-learning.mdx",
+  "sourceDirName": "concept-extras",
+  "slug": "/concept-extras/meta-learning",
+  "permalink": "/docs/concept-extras/meta-learning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/meta-learning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Incremental Learning",
+    "permalink": "/docs/concept-extras/incremental-learning"
+  },
+  "next": {
+    "title": "MLOps",
+    "permalink": "/docs/concept-extras/mlops"
+  }
+}

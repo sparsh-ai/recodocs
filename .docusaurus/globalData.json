@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/amazon-personalize",
+              "path": "/docs/concept-extras/amazon-personalize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-extras/bias-&-fairness",
               "path": "/docs/concept-extras/bias-&-fairness",
               "sidebar": "tutorialSidebar"
@@ -53,6 +58,11 @@
             {
               "id": "concept-extras/cold-start",
               "path": "/docs/concept-extras/cold-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/cross-domain",
+              "path": "/docs/concept-extras/cross-domain",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -78,6 +88,11 @@
             {
               "id": "concept-extras/incremental-learning",
               "path": "/docs/concept-extras/incremental-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/meta-learning",
+              "path": "/docs/concept-extras/meta-learning",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -328,6 +343,11 @@
             {
               "id": "models/bcq",
               "path": "/docs/models/bcq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/beh-prop",
+              "path": "/docs/models/beh-prop",
               "sidebar": "tutorialSidebar"
             },
             {

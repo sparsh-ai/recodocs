@@ -1,4 +1,11 @@
-# Implicit Feedback
+# User Feedback
+
+## Explicit vs. implicit users feedback
+
+- **Explicit feedback**: This is a dataset collected primarily based on the user’s behavior or explicitly posted by the user in the system. Examples include movie ratings on Netflix, or product ratings by users on Amazon.com, which are provided explicitly by the users.
+- **Implicit feedback**: Rather than relying on explicit user feedback, the system can indirectly use user behavior and interactions to learn about their interests and choices. For instance, a user purchasing or browsing an or even the number of times they played a particular song would be implicit feedback.
+
+## Implicit Feedback
 
 The numerical values of implicit feedback describe the frequency of actions e.g. how many times you click Data Science job posts, how long you watch a TV series on Netflix, number of times you listen to a song etc. We leverage these implicit numbers given by the users to capture the confidence of user’s preferences or no preferences. Preferences are assumed to be the inner products: $p_{ui} = U^T.X$. The preference (pui) of user ‘u’ to item ‘i’ is captured by the following equation:
 

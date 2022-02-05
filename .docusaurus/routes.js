@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','a66'),
+    component: ComponentCreator('/docs','fc8'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -384,6 +384,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/concept-extras/amazon-personalize',
+        component: ComponentCreator('/docs/concept-extras/amazon-personalize','e9d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/concept-extras/bias-&-fairness',
         component: ComponentCreator('/docs/concept-extras/bias-&-fairness','4a1'),
         exact: true,
@@ -398,6 +404,12 @@ export default [
       {
         path: '/docs/concept-extras/cold-start',
         component: ComponentCreator('/docs/concept-extras/cold-start','c66'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/cross-domain',
+        component: ComponentCreator('/docs/concept-extras/cross-domain','65a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -428,6 +440,12 @@ export default [
       {
         path: '/docs/concept-extras/incremental-learning',
         component: ComponentCreator('/docs/concept-extras/incremental-learning','a40'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/meta-learning',
+        component: ComponentCreator('/docs/concept-extras/meta-learning','3f0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -734,6 +752,12 @@ export default [
       {
         path: '/docs/models/bcq',
         component: ComponentCreator('/docs/models/bcq','350'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/beh-prop',
+        component: ComponentCreator('/docs/models/beh-prop','7c2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/behavior-propensity",
+  "id": "models/behavior-propensity",
+  "title": "behavior-propensity",
+  "description": "",
+  "source": "@site/docs/models/behavior-propensity.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/behavior-propensity",
+  "permalink": "/docs/models/behavior-propensity",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/behavior-propensity.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BCQ",
+    "permalink": "/docs/models/bcq"
+  },
+  "next": {
+    "title": "BiasOnly",
+    "permalink": "/docs/models/biasonly"
+  }
+}

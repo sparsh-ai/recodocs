@@ -1,8 +1,8 @@
 {
   "unversionedId": "concept-basics/implicit-feedback",
   "id": "concept-basics/implicit-feedback",
-  "title": "Implicit Feedback",
-  "description": "The numerical values of implicit feedback describe the frequency of actions e.g. how many times you click Data Science job posts, how long you watch a TV series on Netflix, number of times you listen to a song etc. We leverage these implicit numbers given by the users to capture the confidence of user’s preferences or no preferences. Preferences are assumed to be the inner products",
+  "title": "User Feedback",
+  "description": "Explicit vs. implicit users feedback",
   "source": "@site/docs/concept-basics/implicit-feedback.mdx",
   "sourceDirName": "concept-basics",
   "slug": "/concept-basics/implicit-feedback",

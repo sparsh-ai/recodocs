@@ -37,15 +37,15 @@
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "Implicit Feedback",
+                "title": "User Feedback",
                 "permalink": "/docs/concept-basics/implicit-feedback"
               }
             },
             {
               "unversionedId": "concept-basics/implicit-feedback",
               "id": "concept-basics/implicit-feedback",
-              "title": "Implicit Feedback",
-              "description": "The numerical values of implicit feedback describe the frequency of actions e.g. how many times you click Data Science job posts, how long you watch a TV series on Netflix, number of times you listen to a song etc. We leverage these implicit numbers given by the users to capture the confidence of user’s preferences or no preferences. Preferences are assumed to be the inner products",
+              "title": "User Feedback",
+              "description": "Explicit vs. implicit users feedback",
               "source": "@site/docs/concept-basics/implicit-feedback.mdx",
               "sourceDirName": "concept-basics",
               "slug": "/concept-basics/implicit-feedback",
@@ -79,7 +79,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Implicit Feedback",
+                "title": "User Feedback",
                 "permalink": "/docs/concept-basics/implicit-feedback"
               },
               "next": {
@@ -152,6 +152,29 @@
                 "permalink": "/docs/concept-basics/tasks"
               },
               "next": {
+                "title": "Amazon Personalize",
+                "permalink": "/docs/concept-extras/amazon-personalize"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/amazon-personalize",
+              "id": "concept-extras/amazon-personalize",
+              "title": "Amazon Personalize",
+              "description": "This page is a random dump of my notes on Amazon Personalize. Proceed accordingly.",
+              "source": "@site/docs/concept-extras/amazon-personalize.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/amazon-personalize",
+              "permalink": "/docs/concept-extras/amazon-personalize",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/amazon-personalize.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+              },
+              "next": {
                 "title": "Bias & Fairness",
                 "permalink": "/docs/concept-extras/bias-&-fairness"
               }
@@ -171,8 +194,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Types of Recommender Systems",
-                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+                "title": "Amazon Personalize",
+                "permalink": "/docs/concept-extras/amazon-personalize"
               },
               "next": {
                 "title": "Causal Inference",
@@ -221,6 +244,29 @@
                 "permalink": "/docs/concept-extras/causal-inference"
               },
               "next": {
+                "title": "Cross-domain",
+                "permalink": "/docs/concept-extras/cross-domain"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/cross-domain",
+              "id": "concept-extras/cross-domain",
+              "title": "Cross-domain",
+              "description": "A common challenge for most current recommender systems is the cold-start problem. Due to the lack of user-item interactions, the fine-tuned recommender systems are unable to handle situations with new users or new items. Recently, some works introduce the meta-optimization idea into the recommendation scenarios, i.e. predicting the user preference by only a few of past interacted items. The core idea is learning a global sharing initialization parameter for all users and then learning the local parameters for each user separately. However, most meta-learning based recommendation approaches adopt model-agnostic meta-learning for parameter initialization, where the global sharing parameter may lead the model into local optima for some users.",
+              "source": "@site/docs/concept-extras/cross-domain.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/cross-domain",
+              "permalink": "/docs/concept-extras/cross-domain",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/cross-domain.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cold Start",
+                "permalink": "/docs/concept-extras/cold-start"
+              },
+              "next": {
                 "title": "Data Science",
                 "permalink": "/docs/concept-extras/data-science"
               }
@@ -240,8 +286,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Cold Start",
-                "permalink": "/docs/concept-extras/cold-start"
+                "title": "Cross-domain",
+                "permalink": "/docs/concept-extras/cross-domain"
               },
               "next": {
                 "title": "Diversity",
@@ -336,6 +382,29 @@
                 "permalink": "/docs/concept-extras/graph-embeddings"
               },
               "next": {
+                "title": "Meta Learning",
+                "permalink": "/docs/concept-extras/meta-learning"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/meta-learning",
+              "id": "concept-extras/meta-learning",
+              "title": "Meta Learning",
+              "description": "Meta learning covers a wide range of topics and has contributed to a booming study trend. Few-shot learning is one of successful branches of meta learning. We retrospect some representative meta-learning models with strong connections to our work.",
+              "source": "@site/docs/concept-extras/meta-learning.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/meta-learning",
+              "permalink": "/docs/concept-extras/meta-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/meta-learning.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Incremental Learning",
+                "permalink": "/docs/concept-extras/incremental-learning"
+              },
+              "next": {
                 "title": "MLOps",
                 "permalink": "/docs/concept-extras/mlops"
               }
@@ -355,8 +424,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Incremental Learning",
-                "permalink": "/docs/concept-extras/incremental-learning"
+                "title": "Meta Learning",
+                "permalink": "/docs/concept-extras/meta-learning"
               },
               "next": {
                 "title": "Model Deployment",
@@ -1485,6 +1554,29 @@
                 "permalink": "/docs/models/autoint"
               },
               "next": {
+                "title": "Behavior Propensity Modeling",
+                "permalink": "/docs/models/beh-prop"
+              }
+            },
+            {
+              "unversionedId": "models/beh-prop",
+              "id": "models/beh-prop",
+              "title": "Behavior Propensity Modeling",
+              "description": "behavior-propensity-modeling",
+              "source": "@site/docs/models/beh-prop.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/beh-prop",
+              "permalink": "/docs/models/beh-prop",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/beh-prop.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BCQ",
+                "permalink": "/docs/models/bcq"
+              },
+              "next": {
                 "title": "BiasOnly",
                 "permalink": "/docs/models/biasonly"
               }
@@ -1504,8 +1596,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "BCQ",
-                "permalink": "/docs/models/bcq"
+                "title": "Behavior Propensity Modeling",
+                "permalink": "/docs/models/beh-prop"
               },
               "next": {
                 "title": "BPR",
@@ -2981,6 +3073,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "concept-extras/amazon-personalize"
+                  },
+                  {
+                    "type": "doc",
                     "id": "concept-extras/bias-&-fairness"
                   },
                   {
@@ -2990,6 +3086,10 @@
                   {
                     "type": "doc",
                     "id": "concept-extras/cold-start"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/cross-domain"
                   },
                   {
                     "type": "doc",
@@ -3010,6 +3110,10 @@
                   {
                     "type": "doc",
                     "id": "concept-extras/incremental-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/meta-learning"
                   },
                   {
                     "type": "doc",
@@ -3234,6 +3338,10 @@
                   {
                     "type": "doc",
                     "id": "models/bcq"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/beh-prop"
                   },
                   {
                     "type": "doc",

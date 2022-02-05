@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/beh-prop",
+  "id": "models/beh-prop",
+  "title": "Behavior Propensity Modeling",
+  "description": "behavior-propensity-modeling",
+  "source": "@site/docs/models/beh-prop.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/beh-prop",
+  "permalink": "/docs/models/beh-prop",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/beh-prop.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BCQ",
+    "permalink": "/docs/models/bcq"
+  },
+  "next": {
+    "title": "BiasOnly",
+    "permalink": "/docs/models/biasonly"
+  }
+}

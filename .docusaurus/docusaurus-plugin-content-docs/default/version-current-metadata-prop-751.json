@@ -28,7 +28,7 @@
           },
           {
             "type": "link",
-            "label": "Implicit Feedback",
+            "label": "User Feedback",
             "href": "/docs/concept-basics/implicit-feedback",
             "docId": "concept-basics/implicit-feedback"
           },
@@ -66,6 +66,12 @@
         "items": [
           {
             "type": "link",
+            "label": "Amazon Personalize",
+            "href": "/docs/concept-extras/amazon-personalize",
+            "docId": "concept-extras/amazon-personalize"
+          },
+          {
+            "type": "link",
             "label": "Bias & Fairness",
             "href": "/docs/concept-extras/bias-&-fairness",
             "docId": "concept-extras/bias-&-fairness"
@@ -81,6 +87,12 @@
             "label": "Cold Start",
             "href": "/docs/concept-extras/cold-start",
             "docId": "concept-extras/cold-start"
+          },
+          {
+            "type": "link",
+            "label": "Cross-domain",
+            "href": "/docs/concept-extras/cross-domain",
+            "docId": "concept-extras/cross-domain"
           },
           {
             "type": "link",
@@ -111,6 +123,12 @@
             "label": "Incremental Learning",
             "href": "/docs/concept-extras/incremental-learning",
             "docId": "concept-extras/incremental-learning"
+          },
+          {
+            "type": "link",
+            "label": "Meta Learning",
+            "href": "/docs/concept-extras/meta-learning",
+            "docId": "concept-extras/meta-learning"
           },
           {
             "type": "link",
@@ -431,6 +449,12 @@
             "label": "BCQ",
             "href": "/docs/models/bcq",
             "docId": "models/bcq"
+          },
+          {
+            "type": "link",
+            "label": "Behavior Propensity Modeling",
+            "href": "/docs/models/beh-prop",
+            "docId": "models/beh-prop"
           },
           {
             "type": "link",
@@ -827,8 +851,8 @@
     },
     "concept-basics/implicit-feedback": {
       "id": "concept-basics/implicit-feedback",
-      "title": "Implicit Feedback",
-      "description": "The numerical values of implicit feedback describe the frequency of actions e.g. how many times you click Data Science job posts, how long you watch a TV series on Netflix, number of times you listen to a song etc. We leverage these implicit numbers given by the users to capture the confidence of user’s preferences or no preferences. Preferences are assumed to be the inner products",
+      "title": "User Feedback",
+      "description": "Explicit vs. implicit users feedback",
       "sidebar": "tutorialSidebar"
     },
     "concept-basics/processes": {
@@ -855,6 +879,12 @@
       "description": "Group Recommender System",
       "sidebar": "tutorialSidebar"
     },
+    "concept-extras/amazon-personalize": {
+      "id": "concept-extras/amazon-personalize",
+      "title": "Amazon Personalize",
+      "description": "This page is a random dump of my notes on Amazon Personalize. Proceed accordingly.",
+      "sidebar": "tutorialSidebar"
+    },
     "concept-extras/bias-&-fairness": {
       "id": "concept-extras/bias-&-fairness",
       "title": "Bias & Fairness",
@@ -871,6 +901,12 @@
       "id": "concept-extras/cold-start",
       "title": "Cold Start",
       "description": "One long-standing challenge for Collaborative Filtering (CF) based recommendation methods is the cold start problem, i.e., to provide recommendations for new users or items who have no historical interaction record. The cold start problem is common in real world applications. For example, 500 hours of new videos are uploaded to YouTube every minute, 500,000 new users register in Facebook every day, and web/mobile apps face the daily challenge of onboarding new users and subscribers. To provide recommendations for these new users and items, many content-based methods and heuristic methods have been deployed, e.g., recommending popular items or geographically near items. However, recent research efforts that tackle the cold start problem from the perspective of machine learning have made promising strides.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/cross-domain": {
+      "id": "concept-extras/cross-domain",
+      "title": "Cross-domain",
+      "description": "A common challenge for most current recommender systems is the cold-start problem. Due to the lack of user-item interactions, the fine-tuned recommender systems are unable to handle situations with new users or new items. Recently, some works introduce the meta-optimization idea into the recommendation scenarios, i.e. predicting the user preference by only a few of past interacted items. The core idea is learning a global sharing initialization parameter for all users and then learning the local parameters for each user separately. However, most meta-learning based recommendation approaches adopt model-agnostic meta-learning for parameter initialization, where the global sharing parameter may lead the model into local optima for some users.",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/data-science": {
@@ -901,6 +937,12 @@
       "id": "concept-extras/incremental-learning",
       "title": "Incremental Learning",
       "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/meta-learning": {
+      "id": "concept-extras/meta-learning",
+      "title": "Meta Learning",
+      "description": "Meta learning covers a wide range of topics and has contributed to a booming study trend. Few-shot learning is one of successful branches of meta learning. We retrospect some representative meta-learning models with strong connections to our work.",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/mlops": {
@@ -1201,6 +1243,12 @@
       "id": "models/bcq",
       "title": "BCQ",
       "description": "Current off-policy deep reinforcement learning algorithms fail to address extrapolation error by selecting actions with respect to a learned value estimate, without consideration of the accuracy of the estimate. As a result, certain outof-distribution actions can be erroneously extrapolated to higher values. However, the value of an off-policy agent can be accurately evaluated in regions where data is available.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/beh-prop": {
+      "id": "models/beh-prop",
+      "title": "Behavior Propensity Modeling",
+      "description": "behavior-propensity-modeling",
       "sidebar": "tutorialSidebar"
     },
     "models/biasonly": {

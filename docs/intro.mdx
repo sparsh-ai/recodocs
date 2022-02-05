@@ -128,6 +128,8 @@ The customer data that is usually accessible to a recommendation engine is com
 - Information about historical activities (e.g., past views, purchases, searches)
 - Current context (e.g., current search, viewed product)
 
+![billion user interactions](/img/docs/billion-user-interactions-050222.png)
+
 A good product recommendation engine shall easily use the below data to display a solid list of recommended products:
 
 - Clickstream behaviour: Views, likes, shopper behaviours like ‘add to favorite’ and ‘add to cart’
@@ -138,6 +140,10 @@ A good product recommendation engine shall easily use the below data to display 
 - Retailer’s commercial priorities: Brands/models that should be displayed in the product recommendation set
 - Customer lifetime value: Recency, frequency and monetary value of customers
 - Popular products: Products with high turnover rate
+
+Data integration and transformation is the first step to enable decision intelligence at the individual customer-level.
+
+![data integration and transformation](/img/docs/data-transformation-050222.png)
 
 Whatever the technique used, all customer information has to be aggregated into a vector (a list of fixed size) of characteristics. For example, from the historical activities, the following characteristics could be extracted:
 
@@ -192,7 +198,13 @@ Some of the many factors to consider include:
 
 ## Deep learning for recommendations
 
+![deep learning in recsys](/img/docs/deep-learning-in-recsys-050222.png)
+
 - **Deep learning can model the non-linear interactions in the data with non-linear activations such as ReLU, Sigmoid, Tanh…** This property makes it possible to capture the complex and intricate user-item interaction patterns. Conventional methods such as matrix factorization and factorization machines are essentially linear models. This linear assumption, acting as the basis of many traditional recommenders, is oversimplified and will greatly limit their modeling expressiveness. It is well-established that neural networks are able to approximate any continuous function with arbitrary precision by varying the activation choices and combinations. This property makes it possible to deal with complex interaction patterns and precisely reflect the user’s preference.
 - **Deep learning can efficiently learn the underlying explanatory factors and useful representations from input data.** In general, a large amount of descriptive information about items and users is available in real-world applications. Making use of this information provides a way to advance our understanding of items and users, thus, resulting in a better recommender. As such, it is a natural choice to apply deep neural networks to representation learning in recommendation models. The advantages of using deep neural networks to assist representation learning are in two-folds: (1) it reduces the efforts in hand-craft feature design; and (2) it enables recommendation models to include heterogeneous content information such as text, images, audio, and even video.
 - **Deep learning is powerful for sequential modeling tasks.** In tasks such as machine translation, natural language understanding, speech recognition, etc., RNNs and CNNs play critical roles. They are widely applicable and flexible in mining sequential structure in data. Modeling sequential signals is an important topic for mining the temporal dynamics of user behavior and item evolution. For example, next-item/basket prediction and session-based recommendations are typical applications. As such, deep neural networks become a perfect fit for this sequential pattern mining task.
 - **Deep learning possesses high flexibility.** There are many popular deep learning frameworks nowadays, including TensorFlow, Keras, Caffe, MXnet, DeepLearning4j, PyTorch, Theano… These tools are developed in a modular way and have active community/professional support. The good modularization makes development and engineering a lot more efficient. For example, it is easy to combine different neural structures to formulate powerful hybrid models or replace one module with others. Thus, we could easily build hybrid and composite recommendation models to simultaneously capture different characteristics and factors.
+
+## The evolution of personalization
+
+![evolution of personalization](/img/docs/evolution-of-personalization-050222.png)
