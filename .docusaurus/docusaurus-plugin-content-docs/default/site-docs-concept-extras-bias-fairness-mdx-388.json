@@ -17,7 +17,7 @@
     "permalink": "/docs/concept-basics/types-of-recommender-systems"
   },
   "next": {
-    "title": "Cold Start",
-    "permalink": "/docs/concept-extras/cold-start"
+    "title": "Causal Inference",
+    "permalink": "/docs/concept-extras/causal-inference"
   }
 }

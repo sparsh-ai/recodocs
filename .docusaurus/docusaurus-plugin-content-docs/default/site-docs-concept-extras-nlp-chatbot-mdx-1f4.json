@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Walmart Model Selection",
-    "permalink": "/docs/concept-extras/case-studies/walmart-model-selection"
+    "title": "Model Deployment",
+    "permalink": "/docs/concept-extras/model-deployment"
   },
   "next": {
     "title": "Language Modeling",

@@ -4,6 +4,34 @@ sidebar_position: 1
 
 # Introduction
 
+It is evident that the pace that technology advances have been increased over the last decades. Scientific discoveries and technological growth introduced to people a huge variety of options and possibilities. One of the most important advantages that technology offers is the direct and easy access to information. Nowadays access to vast networks of information is easy and people can be informed about almost anything they desire. Even though ease of access provided people with the ability to acquire the needed information, they are now facing a new obstacle: this of easily finding what they need. On one hand, information abundance covers the majority of needs but on the other hinders accessibility to information truly valuable to the user. The term that describes this phenomenon is “Information Overload”. Often users are presented with seemingly similar information to their inquiry but irrelevant to their actual needs, rendering this way the discovery of the desired knowledge a difficult task. Continuous expanding of information overload necessitated the development of systems that aim to alleviate such problems. Such systems were introduced in order to filter or retrieve the desired information. Recommendation systems is an example. Recommenders aim to filter out all the unnecessary and irrelevant information and present those that fit the user’s needs. This way the user is relieved of the burden of discovering what he needs making this way information truly accessible.
+
+Recommendation systems have been extensively studied by many literature in the past and are ubiquitous in online advertisement, shopping industry/e-commerce, query suggestions in search engines, and friend recommendation in social networks. Moreover, restaurant/music/product/movie/news/app recommendations are only a few of the applications of a recommender system. A small percent improvement on the CTR prediction accuracy has been mentioned to add millions of dollars of revenue to the advertisement industry. Click-Through-Rate (CTR) prediction is a special version of recommender system in which the goal is predicting whether or not a user is going to click on a recommended item. A content-based recommendation approach takes into account the past history of the user's behavior, i.e. the recommended products and the users reaction to them. So, a personalized model that recommends the right item to the right user at the right time is the key to building such a model. On the other hand, the so-called collaborative filtering approach incorporates the click history of the users who are very similar to a particular user, thereby helping the recommender to come up with a more confident prediction for that particular user by leveraging the wider knowledge of users who share their taste in a connected network of users.
+
+Suppose recently I was looking to buy a budget-friendly laptop without having any idea of what to buy. There are possibilities that might waste a lot of time browsing around on the internet and crawling through various sites hoping to find some useful info. I might look for recommendations from other people.
+
+:::tip
+Commercials and recommendations can look similar to the user. Behind the screen, the intent of the content is different; a recommendation is calculated based on what the active user likes, what others have liked in the past, and what’s often requested by the receiver. A commercial is given for the benefit of the sender and is usually pushed on the receiver. The difference between the two can become blurry.
+:::
+
+Recommenders work by collecting information — by noting what you ask for — such as what movies you tell your video streaming app you want to see, ratings and reviews you’ve submitted, purchases you’ve made, and other actions you’ve taken in the past. Perhaps more importantly, they can keep track of choices you’ve made: what you click on and how you navigate. How long you watch a particular movie, for example. Or which ads you click on or which friends you interact with. All this information is streamed into vast data centers and compiled into complex, multidimensional tables that quickly balloon in size. They can be hundreds of terabytes large — and they’re growing all the time. That’s not so much because vast amounts of data are collected from any one individual, but because a little bit of data is collected from so many. In other words, these tables are sparse — most of the information most of these services have on most of us for most of these categories is zero. But, collectively these tables contain a great deal of information on the preferences of a large number of people. And that helps companies make intelligent decisions about what certain types of users  might like.
+
+The rapid growth of data collection has led to a new era of information. Data is being used to create more efficient systems and this is where Recommendation Systems comes into play. Recommendation Systems are a type of information filtering system as they improve the quality of search results and provide items that are more relevant to the search item or related to the search history of the user. They are used to predict the rating or preference that a user would give to an item. Companies like Netflix and Spotify depend highly on the effectiveness of their recommendation engines for their business and success
+
+In reality, because these systems capture so much data, from so many people, and are deployed at such an enormous scale, they’re able to drive tens or hundreds of millions of dollars of business with even a small improvement in the system’s recommendations. A business may not know what any one individual will do, but thanks to the law of large numbers, they know that, say, if an offer is presented to 1 million people, 1 percent will take it. But while the potential benefits from better recommendation systems are big, so are the challenges. Successful internet companies, for example, need to process ever more queries, faster, spending vast sums on infrastructure to keep up as the amount of data they process continues to swell. Companies outside of technology, by contrast, need access to ready-made tools so they don’t have to hire whole teams of data scientists. If recommenders are going to be used in industries ranging from healthcare to financial services, they’ll need to become more accessible.
+
+## Why companies implement Recommendation Systems
+1. Improve retention: Continuously catering to users’ preferences makes them more likely to remain loyal subscribers of the service
+2. Increase sales: Various research shows an increase in upselling revenue ranging from 10-50% caused by accurate “You must also like” product recommendations
+3. Form habits: Serving accurate content can trigger cues, building strong habits and influencing usage patterns in customers
+4. Accurate work: Analysts can save up to 80% time when served tailored suggestions for materials necessary for their further research.
+
+:::note
+The biggest players use recommendation engines to boost sales, increase revenue, and improve customer experience. They have experimented with recommenders and worked out the best ways to use them, so now businesses all around the world can learn from them and follow their lead. Though you may not necessarily be the next Netflix, a recommender system can be perfectly suited to your business needs – and it should, as using any AI technology should be done strategically, and not in an attempt to blindly follow a market leader.
+:::
+
+## Problem Statement
+
 A typical recommender system takes the training sample in the form: $[\mathrm{x}_\xi^{ID},\mathrm{x}_\xi^{NID},\mathrm{y}_\xi]$, where $\xi$ denotes the index of the sample in the whole dataset. The ID type feature is the sparse encoding of large-scale categorical information. For example, one may use a group of unique integers to record the microvideos (e.g., noted as ⟨VideoIDs⟩) that have been viewed by a user; similar ID type features may include location (⟨LocIDs⟩), relevant topics (⟨TopicIDs⟩), followed video bloggers (⟨BloggerIDs⟩), etc. In our formalization, x ID is the collection of all ID type features—for the above example, it can be considered as:
 
 $$
@@ -59,3 +87,64 @@ $$
 
 ## Process
 ![recsys-scope](/img/docs/recsys-process-0102221001.png)
+
+## Design and Manage Experiments
+
+To leverage the continuous improvement potential of recommendation engines, it is necessary to experiment with different strategies within a sound framework. When designing a prediction model for a recommendation engine, the data scientist might well focus on a simple strategy, such as predicting the probability that a given customer clicks on a given recommendation.
+
+:::info
+Most companies aren’t too keen about telling the world how they track behavior or monitor performance, mainly because it can be a business disadvantage and it can give hackers hints as to what weaknesses the company could have. In addition, if your users know too many intimate details of your recommender system algorithm, the user’s behavior could become less spontaneous. This could induce biases in the results or even make users do things to push certain recommendations in a specific direction.
+:::
+
+This may seem a reasonable compromise compared to the more precise approach of trying to gather information about whether the customer purchased the product and whether to attribute this purchase to a given recommendation. However, this is not adequate from a business perspective, as phenomena like cannibalization may occur (i.e., by showing a low-margin product to a customer, one might prevent them from buying a high-margin product). As a result, even if the predictions were good and resulted in increased sales volume, the overall revenue might be reduced.
+
+On the other hand, bluntly promoting the organization’s interest and not the customer’s could also have detrimental long-term consequences. The overarching KPI that is used to assess if a given strategy yields better results should be carefully chosen, together with the time period over which it is evaluated. Choosing the revenue over a two-week period after the recommendation as the main KPI is common practice.
+
+To be as close as possible to an experimental setting, also called A/B testing, the control group and the experimental groups have to be carefully chosen. Ideally, the groups are defined before the start of the experiment by randomly splitting the customer base. If possible, customers should not have been involved in another experimentation recently so that their historical data is not polluted by its impact. However, this may not be possible in a pull setting in which many new customers are coming in. In this case, the assignment could be decided on the fly. The size of the groups as well as the duration of the experiments depend on the expected magnitude of the KPI difference between the two groups: the larger the expected effect, the smaller the group size and the shorter the duration.
+
+The experimentation could also be done in two steps: in the first one, two groups of equal but limited size could be selected. If the experimentation is positive, the deployment could start with 10% on the new strategy, a proportion that can be raised progressively if results are in line with expectations.
+
+:::tip
+Think the process as a team-sport.
+:::
+
+Sometimes the personalized, sometimes the non-personalized recommendations entail more conversions, therefore professional recommendation engines have to make thousands of decisions in every second: ‘does this customer have enough history here to get personalized offers that might imply higher probability for conversion or shall we ignore the user’s profile and apply general item-to-item recommendations?’- This decision type (fallback scenario) is the most often used by recommendation engines.
+
+## Data Processing
+
+The customer data that is usually accessible to a recommendation engine is composed of the following:
+
+- Structural information about the customer (e.g., age, gender, location)
+- Information about historical activities (e.g., past views, purchases, searches)
+- Current context (e.g., current search, viewed product)
+
+Whatever the technique used, all customer information has to be aggregated into a vector (a list of fixed size) of characteristics. For example, from the historical activities, the following characteristics could be extracted:
+
+- Amount of purchases during the last week or the last month
+- Number of views during past periods
+- Increase in spending or in views during the last month
+- Previously seen impressions and customer’s response
+
+:::info trend
+Earlier in the days of Netflix prize, most of the recommender systems were based on explicit data(ratings data) where users explicitly give ratings to express their opinion. A lot has changed since then. With enhancements in data collection techniques and decrease in the trend of giving explicit ratings among customers, implicit feedback data has become more popular in both academia and industries to build robust recommender systems.
+:::
+
+In addition to customer data, the recommendation context can also be taken into account. For example, days to summer for seasonal products like above-ground swimming pools or days to monthly pay day, as some customers delay purchases for cash flow reasons.
+
+Once the customer and context data is formatted, it is important to define the set of possible recommendations, and there are many choices to make. The same product may be presented with different offers, which may be communicated in different ways.
+
+:::info
+Recommendation lists are generated based on user preferences, item features, user-item past interactions, and some other additional information such as temporal (e.g., sequence-aware recommender) and spatial (e.g., POI recommender) data. 
+:::
+
+It is of the utmost importance not to forget the “do not recommend anything” option. Indeed, most of us have the personal experience that not all recommendations have a positive impact. Sometimes not showing anything might be better than the alternatives. It’s also important to consider that some customers may not be entitled to see certain recommendations, for example depending on their geographical origin.
+
+## Baseline performance
+
+:::caution
+Making recommender systems is such fun that you might not care, but the people who’re paying you will want to know if the recommender has any effect.
+:::
+
+Once we train a model and get results from evaluation metrics we choose, we will wonder how should we interpret the metrics or even wonder if the trained model is better than a simple rule-based model. Baseline results help us to understand those. Let's say we are building a food recommender. We evaluated the model on the test set and got nDCG (at 10) = 0.3. At that moment, we would not know if the model is good or bad. But once we find out that a simple rule of 'recommending top-10 most popular foods to all users' can achieve nDCG = 0.4, we see that our model is not good enough. Maybe the model is not trained well, or maybe we should think about if nDCG is the right metric for prediction of user behaviors in the given problem.
+
+Most importantly, different baseline approaches should be taken for different problems and business goals. For example, recommending the previously purchased items could be used as a baseline model for food or restaurant recommendation since people tend to eat the same foods repeatedly. For TV show and/or movie recommendation, on the other hand, recommending previously watched items does not make sense. Probably recommending the most popular (most watched or highly rated) items is more likely useful as a baseline.

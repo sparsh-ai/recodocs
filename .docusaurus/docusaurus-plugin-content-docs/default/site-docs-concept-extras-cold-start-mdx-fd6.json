@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Bias & Fairness",
-    "permalink": "/docs/concept-extras/bias-&-fairness"
+    "title": "Causal Inference",
+    "permalink": "/docs/concept-extras/causal-inference"
   },
   "next": {
     "title": "Data Science",

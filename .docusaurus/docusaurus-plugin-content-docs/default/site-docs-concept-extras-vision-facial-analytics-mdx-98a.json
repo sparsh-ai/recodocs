@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Transformers",
-    "permalink": "/docs/concept-extras/nlp/transformers"
+    "title": "Walmart Model Selection",
+    "permalink": "/docs/concept-extras/success-stories/walmart-model-selection"
   },
   "next": {
     "title": "Image Segmentation",

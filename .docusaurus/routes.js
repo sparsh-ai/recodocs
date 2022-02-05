@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','97d'),
+    component: ComponentCreator('/docs','ec3'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -384,110 +384,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/concept-extras/case-studies/1mg-prod2vec',
-        component: ComponentCreator('/docs/concept-extras/case-studies/1mg-prod2vec','9e2'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/airbnb-experiences',
-        component: ComponentCreator('/docs/concept-extras/case-studies/airbnb-experiences','4cd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/alipay-ctr',
-        component: ComponentCreator('/docs/concept-extras/case-studies/alipay-ctr','850'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/doordash-contextual-bandit',
-        component: ComponentCreator('/docs/concept-extras/case-studies/doordash-contextual-bandit','32a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/etsy-personalization',
-        component: ComponentCreator('/docs/concept-extras/case-studies/etsy-personalization','d90'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/huawei-appgallery',
-        component: ComponentCreator('/docs/concept-extras/case-studies/huawei-appgallery','9bd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/linkedin-glmix',
-        component: ComponentCreator('/docs/concept-extras/case-studies/linkedin-glmix','5ae'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/marketcloud-real-time',
-        component: ComponentCreator('/docs/concept-extras/case-studies/marketcloud-real-time','d26'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/netflix-personalize-images',
-        component: ComponentCreator('/docs/concept-extras/case-studies/netflix-personalize-images','62a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/pinterest-multi-task-learning',
-        component: ComponentCreator('/docs/concept-extras/case-studies/pinterest-multi-task-learning','9f7'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/santander-banking-products',
-        component: ComponentCreator('/docs/concept-extras/case-studies/santander-banking-products','05a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/scribd-real-time',
-        component: ComponentCreator('/docs/concept-extras/case-studies/scribd-real-time','8e4'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/spotify-contextual-bandits',
-        component: ComponentCreator('/docs/concept-extras/case-studies/spotify-contextual-bandits','54c'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/spotify-rl',
-        component: ComponentCreator('/docs/concept-extras/case-studies/spotify-rl','2f5'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit',
-        component: ComponentCreator('/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit','24c'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/taobao-bst',
-        component: ComponentCreator('/docs/concept-extras/case-studies/taobao-bst','3dd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/ubereats-personalization',
-        component: ComponentCreator('/docs/concept-extras/case-studies/ubereats-personalization','d7a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/concept-extras/case-studies/walmart-model-selection',
-        component: ComponentCreator('/docs/concept-extras/case-studies/walmart-model-selection','b7a'),
+        path: '/docs/concept-extras/causal-inference',
+        component: ComponentCreator('/docs/concept-extras/causal-inference','025'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -602,6 +500,120 @@ export default [
       {
         path: '/docs/concept-extras/nlp/transformers',
         component: ComponentCreator('/docs/concept-extras/nlp/transformers','c82'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/1mg-prod2vec',
+        component: ComponentCreator('/docs/concept-extras/success-stories/1mg-prod2vec','9da'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/airbnb-experiences',
+        component: ComponentCreator('/docs/concept-extras/success-stories/airbnb-experiences','b95'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/alipay-ctr',
+        component: ComponentCreator('/docs/concept-extras/success-stories/alipay-ctr','27b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/doordash-contextual-bandit',
+        component: ComponentCreator('/docs/concept-extras/success-stories/doordash-contextual-bandit','f89'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/etsy-personalization',
+        component: ComponentCreator('/docs/concept-extras/success-stories/etsy-personalization','e71'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/huawei-appgallery',
+        component: ComponentCreator('/docs/concept-extras/success-stories/huawei-appgallery','f65'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/linkedin-glmix',
+        component: ComponentCreator('/docs/concept-extras/success-stories/linkedin-glmix','5aa'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/marketcloud-real-time',
+        component: ComponentCreator('/docs/concept-extras/success-stories/marketcloud-real-time','2e8'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/netflix-personalize-images',
+        component: ComponentCreator('/docs/concept-extras/success-stories/netflix-personalize-images','c61'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/pinterest-multi-task-learning',
+        component: ComponentCreator('/docs/concept-extras/success-stories/pinterest-multi-task-learning','634'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/santander-banking-products',
+        component: ComponentCreator('/docs/concept-extras/success-stories/santander-banking-products','58a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/scribd-real-time',
+        component: ComponentCreator('/docs/concept-extras/success-stories/scribd-real-time','94b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/spotify-contextual-bandits',
+        component: ComponentCreator('/docs/concept-extras/success-stories/spotify-contextual-bandits','eea'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/spotify-rl',
+        component: ComponentCreator('/docs/concept-extras/success-stories/spotify-rl','d07'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/stitchfix-multi-armed-bandit',
+        component: ComponentCreator('/docs/concept-extras/success-stories/stitchfix-multi-armed-bandit','9e2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/taobao-bst',
+        component: ComponentCreator('/docs/concept-extras/success-stories/taobao-bst','165'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/the-long-tail',
+        component: ComponentCreator('/docs/concept-extras/success-stories/the-long-tail','7cf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/ubereats-personalization',
+        component: ComponentCreator('/docs/concept-extras/success-stories/ubereats-personalization','06d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/success-stories/walmart-model-selection',
+        component: ComponentCreator('/docs/concept-extras/success-stories/walmart-model-selection','b16'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

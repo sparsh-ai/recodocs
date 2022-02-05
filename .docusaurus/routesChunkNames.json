@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-97d": {
+  "/docs-ec3": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -677,77 +677,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-bias-fairness-388-ccd"
   },
-  "/docs/concept-extras/case-studies/1mg-prod2vec-9e2": {
+  "/docs/concept-extras/causal-inference-025": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-1-mg-prod-2-vec-256-437"
-  },
-  "/docs/concept-extras/case-studies/airbnb-experiences-4cd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-airbnb-experiencese-42-b44"
-  },
-  "/docs/concept-extras/case-studies/alipay-ctr-850": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-alipay-ctr-7-cc-32d"
-  },
-  "/docs/concept-extras/case-studies/doordash-contextual-bandit-32a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-doordash-contextual-bandit-1-e-7-143"
-  },
-  "/docs/concept-extras/case-studies/etsy-personalization-d90": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-etsy-personalizationd-97-d1b"
-  },
-  "/docs/concept-extras/case-studies/huawei-appgallery-9bd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-huawei-appgalleryd-3-d-89d"
-  },
-  "/docs/concept-extras/case-studies/linkedin-glmix-5ae": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-linkedin-glmixdab-92a"
-  },
-  "/docs/concept-extras/case-studies/marketcloud-real-time-d26": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-marketcloud-real-time-4-c-6-a81"
-  },
-  "/docs/concept-extras/case-studies/netflix-personalize-images-62a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-netflix-personalize-imagesff-2-b34"
-  },
-  "/docs/concept-extras/case-studies/pinterest-multi-task-learning-9f7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-pinterest-multi-task-learningf-6-f-393"
-  },
-  "/docs/concept-extras/case-studies/santander-banking-products-05a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-santander-banking-productse-87-2e3"
-  },
-  "/docs/concept-extras/case-studies/scribd-real-time-8e4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-scribd-real-time-253-528"
-  },
-  "/docs/concept-extras/case-studies/spotify-contextual-bandits-54c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-spotify-contextual-banditsf-0-a-94b"
-  },
-  "/docs/concept-extras/case-studies/spotify-rl-2f5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-spotify-rl-29-e-512"
-  },
-  "/docs/concept-extras/case-studies/stitchfix-multi-armed-bandit-24c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-stitchfix-multi-armed-banditdec-f75"
-  },
-  "/docs/concept-extras/case-studies/taobao-bst-3dd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-taobao-bstb-30-44a"
-  },
-  "/docs/concept-extras/case-studies/ubereats-personalization-d7a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-ubereats-personalization-2-c-0-b81"
-  },
-  "/docs/concept-extras/case-studies/walmart-model-selection-b7a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-concept-extras-case-studies-walmart-model-selectionb-98-007"
+    "content": "content---docs-concept-extras-causal-inference-3-d-4-a4c"
   },
   "/docs/concept-extras/cold-start-c66": {
     "component": "component---theme-doc-item-178-a40",
@@ -824,6 +756,82 @@
   "/docs/concept-extras/nlp/transformers-c82": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-nlp-transformers-08-e-b89"
+  },
+  "/docs/concept-extras/success-stories/1mg-prod2vec-9da": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-1-mg-prod-2-vecddf-897"
+  },
+  "/docs/concept-extras/success-stories/airbnb-experiences-b95": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-airbnb-experiencesafe-a87"
+  },
+  "/docs/concept-extras/success-stories/alipay-ctr-27b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-alipay-ctrd-3-d-112"
+  },
+  "/docs/concept-extras/success-stories/doordash-contextual-bandit-f89": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-doordash-contextual-bandit-8-d-9-dcf"
+  },
+  "/docs/concept-extras/success-stories/etsy-personalization-e71": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-etsy-personalization-94-e-7e7"
+  },
+  "/docs/concept-extras/success-stories/huawei-appgallery-f65": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-huawei-appgallery-6-c-1-9e1"
+  },
+  "/docs/concept-extras/success-stories/linkedin-glmix-5aa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-linkedin-glmixc-2-f-57f"
+  },
+  "/docs/concept-extras/success-stories/marketcloud-real-time-2e8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-marketcloud-real-time-131-d93"
+  },
+  "/docs/concept-extras/success-stories/netflix-personalize-images-c61": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-netflix-personalize-imagesbaf-538"
+  },
+  "/docs/concept-extras/success-stories/pinterest-multi-task-learning-634": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-pinterest-multi-task-learningaa-0-f49"
+  },
+  "/docs/concept-extras/success-stories/santander-banking-products-58a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-santander-banking-products-54-d-71e"
+  },
+  "/docs/concept-extras/success-stories/scribd-real-time-94b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-scribd-real-timefec-316"
+  },
+  "/docs/concept-extras/success-stories/spotify-contextual-bandits-eea": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-spotify-contextual-bandits-3-ea-023"
+  },
+  "/docs/concept-extras/success-stories/spotify-rl-d07": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-spotify-rl-6-c-7-038"
+  },
+  "/docs/concept-extras/success-stories/stitchfix-multi-armed-bandit-9e2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-stitchfix-multi-armed-banditea-8-334"
+  },
+  "/docs/concept-extras/success-stories/taobao-bst-165": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-taobao-bst-454-f4c"
+  },
+  "/docs/concept-extras/success-stories/the-long-tail-7cf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-the-long-tail-537-17f"
+  },
+  "/docs/concept-extras/success-stories/ubereats-personalization-06d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-ubereats-personalization-5-ce-6a8"
+  },
+  "/docs/concept-extras/success-stories/walmart-model-selection-b16": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-walmart-model-selectionfa-1-722"
   },
   "/docs/concept-extras/vision/facial-analytics-60f": {
     "component": "component---theme-doc-item-178-a40",
