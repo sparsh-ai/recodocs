@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "MB-GMN",
-    "permalink": "/docs/models/mb-gmn"
+    "title": "MDP",
+    "permalink": "/docs/models/mdp"
   },
   "next": {
     "title": "MIAN",

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/incctr",
+  "id": "models/incctr",
+  "title": "IncCTR",
+  "description": "Recently, various deep CTR models are proposed, such as DeepFM, Wide & Deep, PIN, DIN, and DIEN. Generally, deep CTR models include three parts: embedding layer, interaction layer, and prediction layer.",
+  "source": "@site/docs/models/incctr.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/incctr",
+  "permalink": "/docs/models/incctr",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/incctr.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HMLET",
+    "permalink": "/docs/models/hmlet"
+  },
+  "next": {
+    "title": "IPW",
+    "permalink": "/docs/models/ipw"
+  }
+}

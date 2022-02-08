@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-basics/evaluation",
+              "path": "/docs/concept-basics/evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-basics/implicit-feedback",
               "path": "/docs/concept-basics/implicit-feedback",
               "sidebar": "tutorialSidebar"
@@ -91,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/jensen-shannon-divergence",
+              "path": "/docs/concept-extras/jensen-shannon-divergence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-extras/meta-learning",
               "path": "/docs/concept-extras/meta-learning",
               "sidebar": "tutorialSidebar"
@@ -103,6 +113,26 @@
             {
               "id": "concept-extras/model-deployment",
               "path": "/docs/concept-extras/model-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/model-retraining",
+              "path": "/docs/concept-extras/model-retraining",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/multi-objective-optimization",
+              "path": "/docs/concept-extras/multi-objective-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/multi-task-learning",
+              "path": "/docs/concept-extras/multi-task-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/multitask-learning",
+              "path": "/docs/concept-extras/multitask-learning",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -158,6 +188,21 @@
             {
               "id": "concept-extras/nlp/transformers",
               "path": "/docs/concept-extras/nlp/transformers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/off-policy-learning",
+              "path": "/docs/concept-extras/off-policy-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/offline-learning",
+              "path": "/docs/concept-extras/offline-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/scalarization",
+              "path": "/docs/concept-extras/scalarization",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -386,6 +431,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/cigc",
+              "path": "/docs/models/cigc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/coke",
               "path": "/docs/models/coke",
               "sidebar": "tutorialSidebar"
@@ -491,6 +541,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/glmix",
+              "path": "/docs/models/glmix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/gru4rec",
               "path": "/docs/models/gru4rec",
               "sidebar": "tutorialSidebar"
@@ -498,6 +553,11 @@
             {
               "id": "models/hmlet",
               "path": "/docs/models/hmlet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/incctr",
+              "path": "/docs/models/incctr",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -556,6 +616,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/mdp",
+              "path": "/docs/models/mdp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/mf",
               "path": "/docs/models/mf",
               "sidebar": "tutorialSidebar"
@@ -566,8 +631,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/mmoe",
+              "path": "/docs/models/mmoe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/models",
               "path": "/docs/models/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/mpnn",
+              "path": "/docs/models/mpnn",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -606,6 +681,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/rkmf",
+              "path": "/docs/models/rkmf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/sac",
               "path": "/docs/models/sac",
               "sidebar": "tutorialSidebar"
@@ -631,6 +711,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/shared-bottom",
+              "path": "/docs/models/shared-bottom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/siren",
               "path": "/docs/models/siren",
               "sidebar": "tutorialSidebar"
@@ -638,6 +723,11 @@
             {
               "id": "models/slist",
               "path": "/docs/models/slist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sml",
+              "path": "/docs/models/sml",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -723,6 +813,16 @@
             {
               "id": "projects",
               "path": "/docs/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/obp",
+              "path": "/docs/tools/obp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/river",
+              "path": "/docs/tools/river",
               "sidebar": "tutorialSidebar"
             },
             {

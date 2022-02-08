@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "HMLET",
-    "permalink": "/docs/models/hmlet"
+    "title": "IncCTR",
+    "permalink": "/docs/models/incctr"
   },
   "next": {
     "title": "ItemPop",

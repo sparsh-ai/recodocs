@@ -649,13 +649,17 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d31": {
+  "/docs-e34": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/concept-basics/challenges-3e1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-basics-challengesddf-7e9"
+  },
+  "/docs/concept-basics/evaluation-452": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-evaluatione-1-c-c1b"
   },
   "/docs/concept-basics/implicit-feedback-c42": {
     "component": "component---theme-doc-item-178-a40",
@@ -717,6 +721,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-incremental-learningfd-4-e36"
   },
+  "/docs/concept-extras/jensen-shannon-divergence-caf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-jensen-shannon-divergence-2-e-7-f62"
+  },
   "/docs/concept-extras/meta-learning-3f0": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-meta-learninge-21-e8a"
@@ -728,6 +736,22 @@
   "/docs/concept-extras/model-deployment-e1f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-model-deployment-09-d-978"
+  },
+  "/docs/concept-extras/model-retraining-0a2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-model-retrainingaa-1-e46"
+  },
+  "/docs/concept-extras/multi-objective-optimization-b39": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-multi-objective-optimizationb-6-b-7ee"
+  },
+  "/docs/concept-extras/multi-task-learning-329": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-multi-task-learning-86-e-5f2"
+  },
+  "/docs/concept-extras/multitask-learning-44d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-multitask-learning-370-124"
   },
   "/docs/concept-extras/nlp/chatbot-3b3": {
     "component": "component---theme-doc-item-178-a40",
@@ -772,6 +796,18 @@
   "/docs/concept-extras/nlp/transformers-c82": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-concept-extras-nlp-transformers-08-e-b89"
+  },
+  "/docs/concept-extras/off-policy-learning-29e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-off-policy-learning-4-a-1-795"
+  },
+  "/docs/concept-extras/offline-learning-743": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-offline-learningdaa-e18"
+  },
+  "/docs/concept-extras/scalarization-561": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-scalarization-3-f-5-ed3"
   },
   "/docs/concept-extras/success-stories/1mg-prod2vec-9da": {
     "component": "component---theme-doc-item-178-a40",
@@ -957,6 +993,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-caser-45-a-218"
   },
+  "/docs/models/cigc-57d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-cigc-219-bc7"
+  },
   "/docs/models/coke-42f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-coke-67-f-8dc"
@@ -1041,6 +1081,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-gce-gnn-955-efd"
   },
+  "/docs/models/glmix-655": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-glmixd-99-27e"
+  },
   "/docs/models/gru4rec-fe2": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-gru-4-recef-6-d98"
@@ -1048,6 +1092,10 @@
   "/docs/models/hmlet-6b4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-hmletb-0-a-bf5"
+  },
+  "/docs/models/incctr-c70": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-incctr-582-40b"
   },
   "/docs/models/ipw-f29": {
     "component": "component---theme-doc-item-178-a40",
@@ -1093,6 +1141,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-mb-gmn-943-b33"
   },
+  "/docs/models/mdp-db9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mdp-1-d-9-296"
+  },
   "/docs/models/mf-7cd": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-mfb-1-f-895"
@@ -1100,6 +1152,14 @@
   "/docs/models/mian-77e": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-mian-4-d-0-05b"
+  },
+  "/docs/models/mmoe-895": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mmoe-110-1b5"
+  },
+  "/docs/models/mpnn-d2c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mpnn-5-f-5-5d2"
   },
   "/docs/models/neumf-b00": {
     "component": "component---theme-doc-item-178-a40",
@@ -1129,6 +1189,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-q-learning-68-f-37c"
   },
+  "/docs/models/rkmf-095": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-rkmf-54-e-d42"
+  },
   "/docs/models/sac-959": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-sacaee-d6b"
@@ -1149,6 +1213,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-sgl-924-82b"
   },
+  "/docs/models/shared-bottom-720": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-shared-bottom-33-e-287"
+  },
   "/docs/models/siren-08f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-siren-4-ab-fe2"
@@ -1156,6 +1224,10 @@
   "/docs/models/slist-8c2": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-slista-04-78e"
+  },
+  "/docs/models/sml-88d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-smlf-60-ba8"
   },
   "/docs/models/spop-5ea": {
     "component": "component---theme-doc-item-178-a40",
@@ -1224,6 +1296,14 @@
   "/docs/projects-c4a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-projects-1-dc-4e1"
+  },
+  "/docs/tools/obp-ef3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tools-obp-112-39b"
+  },
+  "/docs/tools/river-a8f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tools-river-6-a-6-473"
   },
   "/docs/tutorials/-7e1": {
     "component": "component---theme-doc-item-178-a40",

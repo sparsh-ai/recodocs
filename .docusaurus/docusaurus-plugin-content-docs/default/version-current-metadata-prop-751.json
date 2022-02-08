@@ -28,6 +28,12 @@
           },
           {
             "type": "link",
+            "label": "Evaluation",
+            "href": "/docs/concept-basics/evaluation",
+            "docId": "concept-basics/evaluation"
+          },
+          {
+            "type": "link",
             "label": "User Feedback",
             "href": "/docs/concept-basics/implicit-feedback",
             "docId": "concept-basics/implicit-feedback"
@@ -126,6 +132,12 @@
           },
           {
             "type": "link",
+            "label": "Jensen–Shannon divergence",
+            "href": "/docs/concept-extras/jensen-shannon-divergence",
+            "docId": "concept-extras/jensen-shannon-divergence"
+          },
+          {
+            "type": "link",
             "label": "Meta Learning",
             "href": "/docs/concept-extras/meta-learning",
             "docId": "concept-extras/meta-learning"
@@ -141,6 +153,48 @@
             "label": "Model Deployment",
             "href": "/docs/concept-extras/model-deployment",
             "docId": "concept-extras/model-deployment"
+          },
+          {
+            "type": "link",
+            "label": "Model Retraining",
+            "href": "/docs/concept-extras/model-retraining",
+            "docId": "concept-extras/model-retraining"
+          },
+          {
+            "type": "link",
+            "label": "Multi-Objective Optimization",
+            "href": "/docs/concept-extras/multi-objective-optimization",
+            "docId": "concept-extras/multi-objective-optimization"
+          },
+          {
+            "type": "link",
+            "label": "Multi-Task Learning",
+            "href": "/docs/concept-extras/multi-task-learning",
+            "docId": "concept-extras/multi-task-learning"
+          },
+          {
+            "type": "link",
+            "label": "Multi-task Learning",
+            "href": "/docs/concept-extras/multitask-learning",
+            "docId": "concept-extras/multitask-learning"
+          },
+          {
+            "type": "link",
+            "label": "off-policy-learning",
+            "href": "/docs/concept-extras/off-policy-learning",
+            "docId": "concept-extras/off-policy-learning"
+          },
+          {
+            "type": "link",
+            "label": "Off-Policy Learning",
+            "href": "/docs/concept-extras/offline-learning",
+            "docId": "concept-extras/offline-learning"
+          },
+          {
+            "type": "link",
+            "label": "Scalarization",
+            "href": "/docs/concept-extras/scalarization",
+            "docId": "concept-extras/scalarization"
           },
           {
             "type": "category",
@@ -500,6 +554,12 @@
           },
           {
             "type": "link",
+            "label": "CIGC",
+            "href": "/docs/models/cigc",
+            "docId": "models/cigc"
+          },
+          {
+            "type": "link",
             "label": "CoKE",
             "href": "/docs/models/coke",
             "docId": "models/coke"
@@ -626,6 +686,12 @@
           },
           {
             "type": "link",
+            "label": "GLMix",
+            "href": "/docs/models/glmix",
+            "docId": "models/glmix"
+          },
+          {
+            "type": "link",
             "label": "GRU4Rec",
             "href": "/docs/models/gru4rec",
             "docId": "models/gru4rec"
@@ -635,6 +701,12 @@
             "label": "HMLET",
             "href": "/docs/models/hmlet",
             "docId": "models/hmlet"
+          },
+          {
+            "type": "link",
+            "label": "IncCTR",
+            "href": "/docs/models/incctr",
+            "docId": "models/incctr"
           },
           {
             "type": "link",
@@ -704,6 +776,12 @@
           },
           {
             "type": "link",
+            "label": "MDP",
+            "href": "/docs/models/mdp",
+            "docId": "models/mdp"
+          },
+          {
+            "type": "link",
             "label": "MF",
             "href": "/docs/models/mf",
             "docId": "models/mf"
@@ -713,6 +791,18 @@
             "label": "MIAN",
             "href": "/docs/models/mian",
             "docId": "models/mian"
+          },
+          {
+            "type": "link",
+            "label": "MMoE",
+            "href": "/docs/models/mmoe",
+            "docId": "models/mmoe"
+          },
+          {
+            "type": "link",
+            "label": "MPNN",
+            "href": "/docs/models/mpnn",
+            "docId": "models/mpnn"
           },
           {
             "type": "link",
@@ -758,6 +848,12 @@
           },
           {
             "type": "link",
+            "label": "RKMF",
+            "href": "/docs/models/rkmf",
+            "docId": "models/rkmf"
+          },
+          {
+            "type": "link",
             "label": "SAC",
             "href": "/docs/models/sac",
             "docId": "models/sac"
@@ -788,6 +884,12 @@
           },
           {
             "type": "link",
+            "label": "Shared Bottom",
+            "href": "/docs/models/shared-bottom",
+            "docId": "models/shared-bottom"
+          },
+          {
+            "type": "link",
             "label": "SiReN",
             "href": "/docs/models/siren",
             "docId": "models/siren"
@@ -797,6 +899,12 @@
             "label": "SLIST",
             "href": "/docs/models/slist",
             "docId": "models/slist"
+          },
+          {
+            "type": "link",
+            "label": "SML",
+            "href": "/docs/models/sml",
+            "docId": "models/sml"
           },
           {
             "type": "link",
@@ -937,6 +1045,26 @@
         "href": "/docs/tutorials/"
       },
       {
+        "type": "category",
+        "label": "Tools",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "OBP",
+            "href": "/docs/tools/obp",
+            "docId": "tools/obp"
+          },
+          {
+            "type": "link",
+            "label": "River",
+            "href": "/docs/tools/river",
+            "docId": "tools/river"
+          }
+        ]
+      },
+      {
         "type": "link",
         "label": "Datasets",
         "href": "/docs/datasets",
@@ -955,6 +1083,12 @@
       "id": "concept-basics/challenges",
       "title": "Challenges",
       "description": "The construction of effective Recommender Systems (RS) is a complex process, mainly due to the nature of RSs which involves large scale software-systems and human interactions. Iterative development processes require deep understanding of a current baseline as well as the ability to estimate the impact of changes in multiple variables of interest. Simulations are well suited to address both challenges and potentially leading to a high velocity construction process, a fundamental requirement in commercial contexts. Recently, there has been significant interest in RS Simulation Platforms, which allow RS developers to easily craft simulated environments where their systems can be analyzed.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-basics/evaluation": {
+      "id": "concept-basics/evaluation",
+      "title": "Evaluation",
+      "description": "Online vs Offline Evaluation",
       "sidebar": "tutorialSidebar"
     },
     "concept-basics/implicit-feedback": {
@@ -1047,6 +1181,12 @@
       "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
       "sidebar": "tutorialSidebar"
     },
+    "concept-extras/jensen-shannon-divergence": {
+      "id": "concept-extras/jensen-shannon-divergence",
+      "title": "Jensen–Shannon divergence",
+      "description": "In probability theory and statistics, the **Jensen)–Shannon divergence* is a method of measuring the similarity between two probability distributions. It is also known as *information radius* (IRad)[1] or *total divergence to the average**.[2] It is based on the Kullback–Leibler divergence, with some notable (and useful) differences, including that it is symmetric and it always has a finite value. The square root of the Jensen–Shannon divergence is a metric) often referred to as Jensen-Shannon distance.",
+      "sidebar": "tutorialSidebar"
+    },
     "concept-extras/meta-learning": {
       "id": "concept-extras/meta-learning",
       "title": "Meta Learning",
@@ -1063,6 +1203,30 @@
       "id": "concept-extras/model-deployment",
       "title": "Model Deployment",
       "description": "modeldeployment",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/model-retraining": {
+      "id": "concept-extras/model-retraining",
+      "title": "Model Retraining",
+      "description": "Concept Drift",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/multi-objective-optimization": {
+      "id": "concept-extras/multi-objective-optimization",
+      "title": "Multi-Objective Optimization",
+      "description": "Recommender systems have been widely applied to several domains and applications. Traditional recommender systems usually deal with a single objective, such as minimizing the prediction errors or maximizing the ranking of the recommendation list. There is an emerging demand for multi-objective optimization so that the development of recommendation models can take multiple objectives into consideration, especially in the area of multi-stakeholder and multi-task recommender systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/multi-task-learning": {
+      "id": "concept-extras/multi-task-learning",
+      "title": "Multi-Task Learning",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/multitask-learning": {
+      "id": "concept-extras/multitask-learning",
+      "title": "Multi-task Learning",
+      "description": "Generally, as soon as you find yourself optimizing more than one loss function, you are effectively doing multi-task learning (in contrast to single-task learning). In those scenarios, it helps to think about what you are trying to do explicitly in terms of MTL and to draw insights from it.",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/nlp/chatbot": {
@@ -1129,6 +1293,24 @@
       "id": "concept-extras/nlp/transformers",
       "title": "Transformers",
       "description": "The old, obsolete, 1980 architecture of Recurrent Neural Networks(RNNs) including the LSTMs were simply not producing good results anymore. In less than two years, transformer models wiped RNNs off the map and even outperformed human baselines for many tasks.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/off-policy-learning": {
+      "id": "concept-extras/off-policy-learning",
+      "title": "off-policy-learning",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/offline-learning": {
+      "id": "concept-extras/offline-learning",
+      "title": "Off-Policy Learning",
+      "description": "Offline Reinforcement Learning",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/scalarization": {
+      "id": "concept-extras/scalarization",
+      "title": "Scalarization",
+      "description": "| Method | Idea | Scalarization | Characteristic |",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/success-stories/1mg-prod2vec": {
@@ -1401,6 +1583,12 @@
       "description": "CASER stands for Convolutional Sequence Embedding Recommendation. Top-N sequential recommendation models each user as a sequence of items interacted in the past and aims to predict top-N ranked items that a user will likely interact in a 'near future'. The order of interaction implies that sequential patterns play an important role where more recent items in a sequence have a larger impact on the next item. Convolutional Sequence Embedding Recommendation Model (Caser) address this requirement by embedding a sequence of recent items into an image' in the time and latent spaces and learn sequential patterns as local features of the image using convolutional filters. This approach provides a unified and flexible network structure for capturing both general preferences and sequential patterns. In other words, Caser adopts convolutional neural networks capture the dynamic pattern influences of users’ recent activities.",
       "sidebar": "tutorialSidebar"
     },
+    "models/cigc": {
+      "id": "models/cigc",
+      "title": "CIGC",
+      "description": "To pursue high efficiency, we set the target as using only new data for model updating, meanwhile not sacrificing the recommendation accuracy compared with full model retraining. This is non-trivial to achieve, since the interaction data participates in both the graph structure for model construction and the loss function for model learning, whereas the old graph structure is not allowed to use in model updating. Causal Incremental Graph Convolution (CIGC) estimates the output of full graph convolution. Incremental Graph Convolution (IGC) ingeniously combine the old representations and the incremental graph and effectively fuse the long-term and short-term preference signals. Colliding Effect Distillation (CED) aims to avoid the out-of-date issue of inactive nodes that are not in the incremental graph, which connects the new data with inactive nodes through causal inference. In particular, CED estimates the causal effect of new data on the representation of inactive nodes through the control of their collider.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/coke": {
       "id": "models/coke",
       "title": "CoKE",
@@ -1527,6 +1715,12 @@
       "description": "GCE-GNN stands for Global Context Enhanced Graph Neural Networks. It exploit item transitions over all sessions in a more subtle manner for better inferring the user preference of the current session.",
       "sidebar": "tutorialSidebar"
     },
+    "models/glmix": {
+      "id": "models/glmix",
+      "title": "GLMix",
+      "description": "Generalized Linear Mixed Effects model (GLMix) decomposes a personalized recommender system into 2 submodels we first train the fixed effects model, and then train random effects models on the residuals after scoring the fixed effects model, and go back to fixed effects model training again until convergence (Zhang et al., 2016).",
+      "sidebar": "tutorialSidebar"
+    },
     "models/gru4rec": {
       "id": "models/gru4rec",
       "title": "GRU4Rec",
@@ -1537,6 +1731,12 @@
       "id": "models/hmlet",
       "title": "HMLET",
       "description": "HMLET stands for Hybrid Method of Linear and nonlinEar collaborative filTering (HMLET, pronounced as Hamlet). It is a GCN-based CF method.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/incctr": {
+      "id": "models/incctr",
+      "title": "IncCTR",
+      "description": "Recently, various deep CTR models are proposed, such as DeepFM, Wide & Deep, PIN, DIN, and DIEN. Generally, deep CTR models include three parts: embedding layer, interaction layer, and prediction layer.",
       "sidebar": "tutorialSidebar"
     },
     "models/ipw": {
@@ -1605,6 +1805,12 @@
       "description": "MB-GMN stands for Multi-behavior pattern modeling with meta-knowledge learner.",
       "sidebar": "tutorialSidebar"
     },
+    "models/mdp": {
+      "id": "models/mdp",
+      "title": "MDP",
+      "description": "The Markov decision process (MDP), a reinforcement learning (RL) algorithm, perfectly illustrates how machines have become intelligent in their own unique way. Humans build their decision process on experience. MDPs are memoryless. Humans use logic and reasoning to think problems through. MDPs apply random decisions 100% of the time. Humans think in words, labeling everything they perceive. MDPs have an unsupervised approach that uses no labels or training data. MDPs boost the machine thought process of self-driving cars (SDCs), translation tools, scheduling software, and more. This memoryless, random, and unlabeled machine thought process marks a historical change in the way a former human problem was solved.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/mf": {
       "id": "models/mf",
       "title": "MF",
@@ -1617,10 +1823,22 @@
       "description": "MIAN stands for Multi-Interactive Attention Network. It aggregate multiple information, and gain latent representations through interactions between candidate items and other fine-grained features.",
       "sidebar": "tutorialSidebar"
     },
+    "models/mmoe": {
+      "id": "models/mmoe",
+      "title": "MMoE",
+      "description": "MMoE stands for Multi-gate Mixture-of-Experts.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/models": {
       "id": "models/models",
       "title": "Models",
       "description": "CTR Prediction Models",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/mpnn": {
+      "id": "models/mpnn",
+      "title": "MPNN",
+      "description": "Message Passing Neural Networks",
       "sidebar": "tutorialSidebar"
     },
     "models/neumf": {
@@ -1665,6 +1883,12 @@
       "description": "Q-learning can be applied to model-free RL problems. It supports off-policy learning and therefore provides a practical solution to problems where available experiences were/are collected using some other policy or by some other agent (even humans).",
       "sidebar": "tutorialSidebar"
     },
+    "models/rkmf": {
+      "id": "models/rkmf",
+      "title": "RKMF",
+      "description": "A kernel function allows to transform the product of the factor matrices. Kernels like the s-shaped logistic function allow to impose bounds on the prediction (e.g. one to five stars) while still being differentiable.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/sac": {
       "id": "models/sac",
       "title": "SAC",
@@ -1695,6 +1919,12 @@
       "description": "SGL is the latest baseline for top-k recommendations. It introduces self-supervised learning into the recommendation system based on the contrastive learning framework. It is implemented on LightGCN and uses a multitask approach that unites the contrastive loss and the BPR loss function. SGL mainly benefits from graph contrastive learning to reinforce user and item representations.",
       "sidebar": "tutorialSidebar"
     },
+    "models/shared-bottom": {
+      "id": "models/shared-bottom",
+      "title": "Shared Bottom",
+      "description": "The shared-bottom model is the simplest and most common multi-task learning architecture. The model has a single base (the shared bottom) from which all of the task-specific subnetworks begin from. This means that this single representation is used for all tasks, and there is no way for individual tasks to adjust what information they get out of the shared bottom compared to other tasks.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/siren": {
       "id": "models/siren",
       "title": "SiReN",
@@ -1705,6 +1935,12 @@
       "id": "models/slist",
       "title": "SLIST",
       "description": "SLIST stands for Session-aware Linear Similarity/Transition. It is built by unifying two linear models - SLIS and SLIT.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/sml": {
+      "id": "models/sml",
+      "title": "SML",
+      "description": "Problem formulation",
       "sidebar": "tutorialSidebar"
     },
     "models/spop": {
@@ -1807,6 +2043,18 @@
       "id": "projects",
       "title": "Projects",
       "description": "| Project Id | Title | Links |",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/obp": {
+      "id": "tools/obp",
+      "title": "OBP",
+      "description": "Process flow",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/river": {
+      "id": "tools/river",
+      "title": "River",
+      "description": "River is a Python library for online machine learning. It is the result of a merger between creme and scikit-multiflow. River's ambition is to be the go-to library for doing machine learning on streaming data.",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/data-science-bookcamp": {

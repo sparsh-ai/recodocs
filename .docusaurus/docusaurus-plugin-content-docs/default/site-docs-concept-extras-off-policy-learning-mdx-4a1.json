@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/off-policy-learning",
+  "id": "concept-extras/off-policy-learning",
+  "title": "off-policy-learning",
+  "description": "",
+  "source": "@site/docs/concept-extras/off-policy-learning.mdx",
+  "sourceDirName": "concept-extras",
+  "slug": "/concept-extras/off-policy-learning",
+  "permalink": "/docs/concept-extras/off-policy-learning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/off-policy-learning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-task Learning",
+    "permalink": "/docs/concept-extras/multitask-learning"
+  },
+  "next": {
+    "title": "Off-Policy Learning",
+    "permalink": "/docs/concept-extras/offline-learning"
+  }
+}

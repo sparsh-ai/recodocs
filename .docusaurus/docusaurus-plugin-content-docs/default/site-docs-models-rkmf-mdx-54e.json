@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/rkmf",
+  "id": "models/rkmf",
+  "title": "RKMF",
+  "description": "A kernel function allows to transform the product of the factor matrices. Kernels like the s-shaped logistic function allow to impose bounds on the prediction (e.g. one to five stars) while still being differentiable.",
+  "source": "@site/docs/models/rkmf.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/rkmf",
+  "permalink": "/docs/models/rkmf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/rkmf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q-learning",
+    "permalink": "/docs/models/q-learning"
+  },
+  "next": {
+    "title": "SAC",
+    "permalink": "/docs/models/sac"
+  }
+}

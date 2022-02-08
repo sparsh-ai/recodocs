@@ -37,6 +37,29 @@
                 "permalink": "/docs/intro"
               },
               "next": {
+                "title": "Evaluation",
+                "permalink": "/docs/concept-basics/evaluation"
+              }
+            },
+            {
+              "unversionedId": "concept-basics/evaluation",
+              "id": "concept-basics/evaluation",
+              "title": "Evaluation",
+              "description": "Online vs Offline Evaluation",
+              "source": "@site/docs/concept-basics/evaluation.mdx",
+              "sourceDirName": "concept-basics",
+              "slug": "/concept-basics/evaluation",
+              "permalink": "/docs/concept-basics/evaluation",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/evaluation.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Challenges",
+                "permalink": "/docs/concept-basics/challenges"
+              },
+              "next": {
                 "title": "User Feedback",
                 "permalink": "/docs/concept-basics/implicit-feedback"
               }
@@ -56,8 +79,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Challenges",
-                "permalink": "/docs/concept-basics/challenges"
+                "title": "Evaluation",
+                "permalink": "/docs/concept-basics/evaluation"
               },
               "next": {
                 "title": "Processes",
@@ -382,6 +405,29 @@
                 "permalink": "/docs/concept-extras/graph-embeddings"
               },
               "next": {
+                "title": "Jensen–Shannon divergence",
+                "permalink": "/docs/concept-extras/jensen-shannon-divergence"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/jensen-shannon-divergence",
+              "id": "concept-extras/jensen-shannon-divergence",
+              "title": "Jensen–Shannon divergence",
+              "description": "In probability theory and statistics, the **Jensen)–Shannon divergence* is a method of measuring the similarity between two probability distributions. It is also known as *information radius* (IRad)[1] or *total divergence to the average**.[2] It is based on the Kullback–Leibler divergence, with some notable (and useful) differences, including that it is symmetric and it always has a finite value. The square root of the Jensen–Shannon divergence is a metric) often referred to as Jensen-Shannon distance.",
+              "source": "@site/docs/concept-extras/jensen-shannon-divergence.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/jensen-shannon-divergence",
+              "permalink": "/docs/concept-extras/jensen-shannon-divergence",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/jensen-shannon-divergence.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Incremental Learning",
+                "permalink": "/docs/concept-extras/incremental-learning"
+              },
+              "next": {
                 "title": "Meta Learning",
                 "permalink": "/docs/concept-extras/meta-learning"
               }
@@ -401,8 +447,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Incremental Learning",
-                "permalink": "/docs/concept-extras/incremental-learning"
+                "title": "Jensen–Shannon divergence",
+                "permalink": "/docs/concept-extras/jensen-shannon-divergence"
               },
               "next": {
                 "title": "MLOps",
@@ -451,8 +497,100 @@
                 "permalink": "/docs/concept-extras/mlops"
               },
               "next": {
-                "title": "Chatbot",
-                "permalink": "/docs/concept-extras/nlp/chatbot"
+                "title": "Model Retraining",
+                "permalink": "/docs/concept-extras/model-retraining"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/model-retraining",
+              "id": "concept-extras/model-retraining",
+              "title": "Model Retraining",
+              "description": "Concept Drift",
+              "source": "@site/docs/concept-extras/model-retraining.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/model-retraining",
+              "permalink": "/docs/concept-extras/model-retraining",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/model-retraining.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Model Deployment",
+                "permalink": "/docs/concept-extras/model-deployment"
+              },
+              "next": {
+                "title": "Multi-Objective Optimization",
+                "permalink": "/docs/concept-extras/multi-objective-optimization"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/multi-objective-optimization",
+              "id": "concept-extras/multi-objective-optimization",
+              "title": "Multi-Objective Optimization",
+              "description": "Recommender systems have been widely applied to several domains and applications. Traditional recommender systems usually deal with a single objective, such as minimizing the prediction errors or maximizing the ranking of the recommendation list. There is an emerging demand for multi-objective optimization so that the development of recommendation models can take multiple objectives into consideration, especially in the area of multi-stakeholder and multi-task recommender systems.",
+              "source": "@site/docs/concept-extras/multi-objective-optimization.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/multi-objective-optimization",
+              "permalink": "/docs/concept-extras/multi-objective-optimization",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/multi-objective-optimization.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Model Retraining",
+                "permalink": "/docs/concept-extras/model-retraining"
+              },
+              "next": {
+                "title": "Multi-Task Learning",
+                "permalink": "/docs/concept-extras/multi-task-learning"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/multi-task-learning",
+              "id": "concept-extras/multi-task-learning",
+              "title": "Multi-Task Learning",
+              "description": "",
+              "source": "@site/docs/concept-extras/multi-task-learning.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/multi-task-learning",
+              "permalink": "/docs/concept-extras/multi-task-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/multi-task-learning.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multi-Objective Optimization",
+                "permalink": "/docs/concept-extras/multi-objective-optimization"
+              },
+              "next": {
+                "title": "Multi-task Learning",
+                "permalink": "/docs/concept-extras/multitask-learning"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/multitask-learning",
+              "id": "concept-extras/multitask-learning",
+              "title": "Multi-task Learning",
+              "description": "Generally, as soon as you find yourself optimizing more than one loss function, you are effectively doing multi-task learning (in contrast to single-task learning). In those scenarios, it helps to think about what you are trying to do explicitly in terms of MTL and to draw insights from it.",
+              "source": "@site/docs/concept-extras/multitask-learning.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/multitask-learning",
+              "permalink": "/docs/concept-extras/multitask-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/multitask-learning.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multi-Task Learning",
+                "permalink": "/docs/concept-extras/multi-task-learning"
+              },
+              "next": {
+                "title": "off-policy-learning",
+                "permalink": "/docs/concept-extras/off-policy-learning"
               }
             },
             {
@@ -470,8 +608,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Model Deployment",
-                "permalink": "/docs/concept-extras/model-deployment"
+                "title": "Scalarization",
+                "permalink": "/docs/concept-extras/scalarization"
               },
               "next": {
                 "title": "Language Modeling",
@@ -706,6 +844,75 @@
               "next": {
                 "title": "1mg Prod2vec",
                 "permalink": "/docs/concept-extras/success-stories/1mg-prod2vec"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/off-policy-learning",
+              "id": "concept-extras/off-policy-learning",
+              "title": "off-policy-learning",
+              "description": "",
+              "source": "@site/docs/concept-extras/off-policy-learning.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/off-policy-learning",
+              "permalink": "/docs/concept-extras/off-policy-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/off-policy-learning.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multi-task Learning",
+                "permalink": "/docs/concept-extras/multitask-learning"
+              },
+              "next": {
+                "title": "Off-Policy Learning",
+                "permalink": "/docs/concept-extras/offline-learning"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/offline-learning",
+              "id": "concept-extras/offline-learning",
+              "title": "Off-Policy Learning",
+              "description": "Offline Reinforcement Learning",
+              "source": "@site/docs/concept-extras/offline-learning.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/offline-learning",
+              "permalink": "/docs/concept-extras/offline-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/offline-learning.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "off-policy-learning",
+                "permalink": "/docs/concept-extras/off-policy-learning"
+              },
+              "next": {
+                "title": "Scalarization",
+                "permalink": "/docs/concept-extras/scalarization"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/scalarization",
+              "id": "concept-extras/scalarization",
+              "title": "Scalarization",
+              "description": "| Method | Idea | Scalarization | Characteristic |",
+              "source": "@site/docs/concept-extras/scalarization.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/scalarization",
+              "permalink": "/docs/concept-extras/scalarization",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/scalarization.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Off-Policy Learning",
+                "permalink": "/docs/concept-extras/offline-learning"
+              },
+              "next": {
+                "title": "Chatbot",
+                "permalink": "/docs/concept-extras/nlp/chatbot"
               }
             },
             {
@@ -1344,8 +1551,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "TensorFlow 2 Reinforcement Learning Cookbook",
-                "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+                "title": "River",
+                "permalink": "/docs/tools/river"
               },
               "next": {
                 "title": "Projects",
@@ -1738,6 +1945,29 @@
                 "permalink": "/docs/models/bst"
               },
               "next": {
+                "title": "CIGC",
+                "permalink": "/docs/models/cigc"
+              }
+            },
+            {
+              "unversionedId": "models/cigc",
+              "id": "models/cigc",
+              "title": "CIGC",
+              "description": "To pursue high efficiency, we set the target as using only new data for model updating, meanwhile not sacrificing the recommendation accuracy compared with full model retraining. This is non-trivial to achieve, since the interaction data participates in both the graph structure for model construction and the loss function for model learning, whereas the old graph structure is not allowed to use in model updating. Causal Incremental Graph Convolution (CIGC) estimates the output of full graph convolution. Incremental Graph Convolution (IGC) ingeniously combine the old representations and the incremental graph and effectively fuse the long-term and short-term preference signals. Colliding Effect Distillation (CED) aims to avoid the out-of-date issue of inactive nodes that are not in the incremental graph, which connects the new data with inactive nodes through causal inference. In particular, CED estimates the causal effect of new data on the representation of inactive nodes through the control of their collider.",
+              "source": "@site/docs/models/cigc.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/cigc",
+              "permalink": "/docs/models/cigc",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/cigc.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CASER",
+                "permalink": "/docs/models/caser"
+              },
+              "next": {
                 "title": "CoKE",
                 "permalink": "/docs/models/coke"
               }
@@ -1757,8 +1987,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "CASER",
-                "permalink": "/docs/models/caser"
+                "title": "CIGC",
+                "permalink": "/docs/models/cigc"
               },
               "next": {
                 "title": "DCN",
@@ -2221,6 +2451,29 @@
                 "permalink": "/docs/models/gc-san"
               },
               "next": {
+                "title": "GLMix",
+                "permalink": "/docs/models/glmix"
+              }
+            },
+            {
+              "unversionedId": "models/glmix",
+              "id": "models/glmix",
+              "title": "GLMix",
+              "description": "Generalized Linear Mixed Effects model (GLMix) decomposes a personalized recommender system into 2 submodels we first train the fixed effects model, and then train random effects models on the residuals after scoring the fixed effects model, and go back to fixed effects model training again until convergence (Zhang et al., 2016).",
+              "source": "@site/docs/models/glmix.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/glmix",
+              "permalink": "/docs/models/glmix",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/glmix.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GCE-GNN",
+                "permalink": "/docs/models/gce-gnn"
+              },
+              "next": {
                 "title": "GRU4Rec",
                 "permalink": "/docs/models/gru4rec"
               }
@@ -2240,8 +2493,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "GCE-GNN",
-                "permalink": "/docs/models/gce-gnn"
+                "title": "GLMix",
+                "permalink": "/docs/models/glmix"
               },
               "next": {
                 "title": "HMLET",
@@ -2267,6 +2520,29 @@
                 "permalink": "/docs/models/gru4rec"
               },
               "next": {
+                "title": "IncCTR",
+                "permalink": "/docs/models/incctr"
+              }
+            },
+            {
+              "unversionedId": "models/incctr",
+              "id": "models/incctr",
+              "title": "IncCTR",
+              "description": "Recently, various deep CTR models are proposed, such as DeepFM, Wide & Deep, PIN, DIN, and DIEN. Generally, deep CTR models include three parts: embedding layer, interaction layer, and prediction layer.",
+              "source": "@site/docs/models/incctr.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/incctr",
+              "permalink": "/docs/models/incctr",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/incctr.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HMLET",
+                "permalink": "/docs/models/hmlet"
+              },
+              "next": {
                 "title": "IPW",
                 "permalink": "/docs/models/ipw"
               }
@@ -2286,8 +2562,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "HMLET",
-                "permalink": "/docs/models/hmlet"
+                "title": "IncCTR",
+                "permalink": "/docs/models/incctr"
               },
               "next": {
                 "title": "ItemPop",
@@ -2520,6 +2796,29 @@
                 "permalink": "/docs/models/matn"
               },
               "next": {
+                "title": "MDP",
+                "permalink": "/docs/models/mdp"
+              }
+            },
+            {
+              "unversionedId": "models/mdp",
+              "id": "models/mdp",
+              "title": "MDP",
+              "description": "The Markov decision process (MDP), a reinforcement learning (RL) algorithm, perfectly illustrates how machines have become intelligent in their own unique way. Humans build their decision process on experience. MDPs are memoryless. Humans use logic and reasoning to think problems through. MDPs apply random decisions 100% of the time. Humans think in words, labeling everything they perceive. MDPs have an unsupervised approach that uses no labels or training data. MDPs boost the machine thought process of self-driving cars (SDCs), translation tools, scheduling software, and more. This memoryless, random, and unlabeled machine thought process marks a historical change in the way a former human problem was solved.",
+              "source": "@site/docs/models/mdp.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/mdp",
+              "permalink": "/docs/models/mdp",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/mdp.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MB-GMN",
+                "permalink": "/docs/models/mb-gmn"
+              },
+              "next": {
                 "title": "MF",
                 "permalink": "/docs/models/mf"
               }
@@ -2539,8 +2838,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "MB-GMN",
-                "permalink": "/docs/models/mb-gmn"
+                "title": "MDP",
+                "permalink": "/docs/models/mdp"
               },
               "next": {
                 "title": "MIAN",
@@ -2566,8 +2865,31 @@
                 "permalink": "/docs/models/mf"
               },
               "next": {
-                "title": "NeuMF",
-                "permalink": "/docs/models/neumf"
+                "title": "MMoE",
+                "permalink": "/docs/models/mmoe"
+              }
+            },
+            {
+              "unversionedId": "models/mmoe",
+              "id": "models/mmoe",
+              "title": "MMoE",
+              "description": "MMoE stands for Multi-gate Mixture-of-Experts.",
+              "source": "@site/docs/models/mmoe.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/mmoe",
+              "permalink": "/docs/models/mmoe",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/mmoe.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MIAN",
+                "permalink": "/docs/models/mian"
+              },
+              "next": {
+                "title": "MPNN",
+                "permalink": "/docs/models/mpnn"
               }
             },
             {
@@ -2594,6 +2916,29 @@
               }
             },
             {
+              "unversionedId": "models/mpnn",
+              "id": "models/mpnn",
+              "title": "MPNN",
+              "description": "Message Passing Neural Networks",
+              "source": "@site/docs/models/mpnn.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/mpnn",
+              "permalink": "/docs/models/mpnn",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/mpnn.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MMoE",
+                "permalink": "/docs/models/mmoe"
+              },
+              "next": {
+                "title": "NeuMF",
+                "permalink": "/docs/models/neumf"
+              }
+            },
+            {
               "unversionedId": "models/neumf",
               "id": "models/neumf",
               "title": "NeuMF",
@@ -2608,8 +2953,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "MIAN",
-                "permalink": "/docs/models/mian"
+                "title": "MPNN",
+                "permalink": "/docs/models/mpnn"
               },
               "next": {
                 "title": "NFM",
@@ -2750,6 +3095,29 @@
                 "permalink": "/docs/models/ppo"
               },
               "next": {
+                "title": "RKMF",
+                "permalink": "/docs/models/rkmf"
+              }
+            },
+            {
+              "unversionedId": "models/rkmf",
+              "id": "models/rkmf",
+              "title": "RKMF",
+              "description": "A kernel function allows to transform the product of the factor matrices. Kernels like the s-shaped logistic function allow to impose bounds on the prediction (e.g. one to five stars) while still being differentiable.",
+              "source": "@site/docs/models/rkmf.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/rkmf",
+              "permalink": "/docs/models/rkmf",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/rkmf.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Q-learning",
+                "permalink": "/docs/models/q-learning"
+              },
+              "next": {
                 "title": "SAC",
                 "permalink": "/docs/models/sac"
               }
@@ -2769,8 +3137,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Q-learning",
-                "permalink": "/docs/models/q-learning"
+                "title": "RKMF",
+                "permalink": "/docs/models/rkmf"
               },
               "next": {
                 "title": "SARSA",
@@ -2865,6 +3233,29 @@
                 "permalink": "/docs/models/sdne"
               },
               "next": {
+                "title": "Shared Bottom",
+                "permalink": "/docs/models/shared-bottom"
+              }
+            },
+            {
+              "unversionedId": "models/shared-bottom",
+              "id": "models/shared-bottom",
+              "title": "Shared Bottom",
+              "description": "The shared-bottom model is the simplest and most common multi-task learning architecture. The model has a single base (the shared bottom) from which all of the task-specific subnetworks begin from. This means that this single representation is used for all tasks, and there is no way for individual tasks to adjust what information they get out of the shared bottom compared to other tasks.",
+              "source": "@site/docs/models/shared-bottom.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/shared-bottom",
+              "permalink": "/docs/models/shared-bottom",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/shared-bottom.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SGL",
+                "permalink": "/docs/models/sgl"
+              },
+              "next": {
                 "title": "SiReN",
                 "permalink": "/docs/models/siren"
               }
@@ -2884,8 +3275,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "SGL",
-                "permalink": "/docs/models/sgl"
+                "title": "Shared Bottom",
+                "permalink": "/docs/models/shared-bottom"
               },
               "next": {
                 "title": "SLIST",
@@ -2911,6 +3302,29 @@
                 "permalink": "/docs/models/siren"
               },
               "next": {
+                "title": "SML",
+                "permalink": "/docs/models/sml"
+              }
+            },
+            {
+              "unversionedId": "models/sml",
+              "id": "models/sml",
+              "title": "SML",
+              "description": "Problem formulation",
+              "source": "@site/docs/models/sml.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/sml",
+              "permalink": "/docs/models/sml",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/sml.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SLIST",
+                "permalink": "/docs/models/slist"
+              },
+              "next": {
                 "title": "SPop",
                 "permalink": "/docs/models/spop"
               }
@@ -2930,8 +3344,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "SLIST",
-                "permalink": "/docs/models/slist"
+                "title": "SML",
+                "permalink": "/docs/models/sml"
               },
               "next": {
                 "title": "SR-GNN",
@@ -3303,6 +3717,52 @@
               }
             },
             {
+              "unversionedId": "tools/obp",
+              "id": "tools/obp",
+              "title": "OBP",
+              "description": "Process flow",
+              "source": "@site/docs/tools/obp.mdx",
+              "sourceDirName": "tools",
+              "slug": "/tools/obp",
+              "permalink": "/docs/tools/obp",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tools/obp.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+                "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+              },
+              "next": {
+                "title": "River",
+                "permalink": "/docs/tools/river"
+              }
+            },
+            {
+              "unversionedId": "tools/river",
+              "id": "tools/river",
+              "title": "River",
+              "description": "River is a Python library for online machine learning. It is the result of a merger between creme and scikit-multiflow. River's ambition is to be the go-to library for doing machine learning on streaming data.",
+              "source": "@site/docs/tools/river.mdx",
+              "sourceDirName": "tools",
+              "slug": "/tools/river",
+              "permalink": "/docs/tools/river",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tools/river.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OBP",
+                "permalink": "/docs/tools/obp"
+              },
+              "next": {
+                "title": "Datasets",
+                "permalink": "/docs/datasets"
+              }
+            },
+            {
               "unversionedId": "tutorials/data-science-bookcamp",
               "id": "tutorials/data-science-bookcamp",
               "title": "Data Science Bookcamp",
@@ -3413,8 +3873,8 @@
                 "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
               },
               "next": {
-                "title": "Datasets",
-                "permalink": "/docs/datasets"
+                "title": "OBP",
+                "permalink": "/docs/tools/obp"
               }
             },
             {
@@ -3456,6 +3916,10 @@
                   {
                     "type": "doc",
                     "id": "concept-basics/challenges"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-basics/evaluation"
                   },
                   {
                     "type": "doc",
@@ -3527,6 +3991,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "concept-extras/jensen-shannon-divergence"
+                  },
+                  {
+                    "type": "doc",
                     "id": "concept-extras/meta-learning"
                   },
                   {
@@ -3536,6 +4004,34 @@
                   {
                     "type": "doc",
                     "id": "concept-extras/model-deployment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/model-retraining"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/multi-objective-optimization"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/multi-task-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/multitask-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/off-policy-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/offline-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/scalarization"
                   },
                   {
                     "type": "category",
@@ -3787,6 +4283,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/cigc"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/coke"
                   },
                   {
@@ -3871,11 +4371,19 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/glmix"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/gru4rec"
                   },
                   {
                     "type": "doc",
                     "id": "models/hmlet"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/incctr"
                   },
                   {
                     "type": "doc",
@@ -3923,11 +4431,23 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/mdp"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/mf"
                   },
                   {
                     "type": "doc",
                     "id": "models/mian"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/mmoe"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/mpnn"
                   },
                   {
                     "type": "doc",
@@ -3959,6 +4479,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/rkmf"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/sac"
                   },
                   {
@@ -3979,11 +4503,19 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/shared-bottom"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/siren"
                   },
                   {
                     "type": "doc",
                     "id": "models/slist"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sml"
                   },
                   {
                     "type": "doc",
@@ -4086,6 +4618,22 @@
                   "type": "doc",
                   "id": "tutorials/tutorials"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Tools",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tools/obp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/river"
+                  }
+                ]
               },
               {
                 "type": "doc",

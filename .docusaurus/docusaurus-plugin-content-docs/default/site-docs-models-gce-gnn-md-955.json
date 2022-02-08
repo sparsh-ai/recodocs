@@ -17,7 +17,7 @@
     "permalink": "/docs/models/gc-san"
   },
   "next": {
-    "title": "GRU4Rec",
-    "permalink": "/docs/models/gru4rec"
+    "title": "GLMix",
+    "permalink": "/docs/models/glmix"
   }
 }

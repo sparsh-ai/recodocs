@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-basics/evaluation",
+  "id": "concept-basics/evaluation",
+  "title": "Evaluation",
+  "description": "Online vs Offline Evaluation",
+  "source": "@site/docs/concept-basics/evaluation.mdx",
+  "sourceDirName": "concept-basics",
+  "slug": "/concept-basics/evaluation",
+  "permalink": "/docs/concept-basics/evaluation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/evaluation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Challenges",
+    "permalink": "/docs/concept-basics/challenges"
+  },
+  "next": {
+    "title": "User Feedback",
+    "permalink": "/docs/concept-basics/implicit-feedback"
+  }
+}

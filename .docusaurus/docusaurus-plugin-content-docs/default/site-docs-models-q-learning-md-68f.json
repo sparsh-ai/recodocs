@@ -17,7 +17,7 @@
     "permalink": "/docs/models/ppo"
   },
   "next": {
-    "title": "SAC",
-    "permalink": "/docs/models/sac"
+    "title": "RKMF",
+    "permalink": "/docs/models/rkmf"
   }
 }

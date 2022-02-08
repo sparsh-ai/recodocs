@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "GCE-GNN",
-    "permalink": "/docs/models/gce-gnn"
+    "title": "GLMix",
+    "permalink": "/docs/models/glmix"
   },
   "next": {
     "title": "HMLET",

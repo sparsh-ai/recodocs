@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/river",
+  "id": "tools/river",
+  "title": "River",
+  "description": "River is a Python library for online machine learning. It is the result of a merger between creme and scikit-multiflow. River's ambition is to be the go-to library for doing machine learning on streaming data.",
+  "source": "@site/docs/tools/river.mdx",
+  "sourceDirName": "tools",
+  "slug": "/tools/river",
+  "permalink": "/docs/tools/river",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tools/river.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OBP",
+    "permalink": "/docs/tools/obp"
+  },
+  "next": {
+    "title": "Datasets",
+    "permalink": "/docs/datasets"
+  }
+}

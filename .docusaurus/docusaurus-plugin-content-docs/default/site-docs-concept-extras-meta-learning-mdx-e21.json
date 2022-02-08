@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concept-extras/incremental-learning"
+    "title": "Jensen–Shannon divergence",
+    "permalink": "/docs/concept-extras/jensen-shannon-divergence"
   },
   "next": {
     "title": "MLOps",

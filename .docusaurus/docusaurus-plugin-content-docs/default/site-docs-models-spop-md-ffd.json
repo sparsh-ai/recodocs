@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SLIST",
-    "permalink": "/docs/models/slist"
+    "title": "SML",
+    "permalink": "/docs/models/sml"
   },
   "next": {
     "title": "SR-GNN",

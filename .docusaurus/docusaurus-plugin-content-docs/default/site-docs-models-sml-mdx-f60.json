@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/sml",
+  "id": "models/sml",
+  "title": "SML",
+  "description": "Problem formulation",
+  "source": "@site/docs/models/sml.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/sml",
+  "permalink": "/docs/models/sml",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/sml.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SLIST",
+    "permalink": "/docs/models/slist"
+  },
+  "next": {
+    "title": "SPop",
+    "permalink": "/docs/models/spop"
+  }
+}

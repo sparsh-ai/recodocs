@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/mmoe",
+  "id": "models/mmoe",
+  "title": "MMoE",
+  "description": "MMoE stands for Multi-gate Mixture-of-Experts.",
+  "source": "@site/docs/models/mmoe.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/mmoe",
+  "permalink": "/docs/models/mmoe",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/mmoe.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MIAN",
+    "permalink": "/docs/models/mian"
+  },
+  "next": {
+    "title": "MPNN",
+    "permalink": "/docs/models/mpnn"
+  }
+}

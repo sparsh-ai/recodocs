@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Model Deployment",
-    "permalink": "/docs/concept-extras/model-deployment"
+    "title": "Scalarization",
+    "permalink": "/docs/concept-extras/scalarization"
   },
   "next": {
     "title": "Language Modeling",

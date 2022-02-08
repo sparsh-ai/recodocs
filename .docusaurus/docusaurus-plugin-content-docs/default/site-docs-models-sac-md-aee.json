@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Q-learning",
-    "permalink": "/docs/models/q-learning"
+    "title": "RKMF",
+    "permalink": "/docs/models/rkmf"
   },
   "next": {
     "title": "SARSA",

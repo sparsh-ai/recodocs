@@ -17,7 +17,7 @@
     "permalink": "/docs/models/gru4rec"
   },
   "next": {
-    "title": "IPW",
-    "permalink": "/docs/models/ipw"
+    "title": "IncCTR",
+    "permalink": "/docs/models/incctr"
   }
 }
