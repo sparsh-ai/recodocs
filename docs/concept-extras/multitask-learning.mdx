@@ -24,13 +24,13 @@ In the context of Deep Learning, multi-task learning is typically done with eith
 
 Hard parameter sharing is the most commonly used approach to MTL in neural networks and goes back to [Caruana, 1993]. It is generally applied by sharing the hidden layers between all tasks, while keeping several task-specific output layers. Hard parameter sharing greatly reduces the risk of overfitting. In fact, [Baxter, 1997] showed that the risk of overfitting the shared parameters is an order N – where N is the number of tasks – smaller than overfitting the task-specific parameters, i.e. the output layers. This makes sense intuitively: The more tasks we are learning simultaneously, the more our model has to find a representation that captures all of the tasks and the less is our chance of overfitting on our original task.
 
-<p><center><figure><img src='_images/T336869_1.png'/><figcaption>Hard parameter sharing for multi-task learning in deep neural networks.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/T336869_1.png'/><figcaption>Hard parameter sharing for multi-task learning in deep neural networks.</figcaption></figure></center></p>
 
 ## Soft Parameter Sharing
 
 In soft parameter sharing on the other hand, each task has its own model with its own parameters. The distance between the parameters of the model is then regularized in order to encourage the parameters to be similar. [Duong et al., 2015] for instance use $l_2$ distance for regularization, while [Yang and Hospedales, 2017b] use the trace norm.
 
-<p><center><figure><img src='_images/T336869_2.png'/><figcaption>Soft parameter sharing for multi-task learning in deep neural networks.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/T336869_2.png'/><figcaption>Soft parameter sharing for multi-task learning in deep neural networks.</figcaption></figure></center></p>
 
 The constraints used for soft parameter sharing in deep neural networks have been greatly inspired by regularization techniques for MTL that have been developed for other models.
 
