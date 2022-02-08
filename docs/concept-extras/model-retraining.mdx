@@ -10,7 +10,7 @@ Model drift is a bit of a misnomer because it’s not the model that is changing
 
 As soon as you deploy your machine learning model in production, the performance of your model degrades. This is because your model is sensitive to changes in the real world, and user behaviour keeps changing with time. Although all machine learning models decay, the speed of decay varies with time. This is mostly caused by data drift, concept drift, or both.
 
-<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L194114_1.png'></center></p>
+<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L194114_1.png'/></center></p>
 
 Data drift (covariate shift) is a change in the statistical distribution of production data from the baseline data used to train or build the model. Data from real-time serving can drift from the baseline data due to:
 
@@ -50,7 +50,7 @@ We can think of model retraining approaches as a hierarchy:
 
 These levels build upon each other. Depending on how fresh a model needs to be to perform well at its task, we may elect to stay at Level 0 for a stationary problem, all the way through to Level 3 for problems where incorporating new data within seconds makes a difference.
 
-<p><center><figure><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L241645_1.png'><figcaption>*A hierarchy of model retraining.*</figcaption></figure></center></p>
+<p><center><figure><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L241645_1.png'/><figcaption>*A hierarchy of model retraining.*</figcaption></figure></center></p>
 
 If we arrange all of the model updates in Level 3 on a timeline, as depicted in the above, we’ll see three types of model update occurring. Occasionally, a Level 1 update will reset the whole model (both global model and all per-key components); this will be a batch offline update using a large accumulated dataset. More frequently, Level 2 updates will reset just the per-key components; this again will be an offline batch update, but won’t touch the large global model. Finally, “lightweight” Level 3 updates will occur almost continuously; any individual per-key component is tuned as soon as there is enough data to do so.
 

@@ -10,7 +10,7 @@ The objective of an agent in an MDP is to find an optimal policy $(π_θ : S × 
 
 ## Recommender-User interactions in MDP
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_1.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_1.png'/></center></p>
 
 The above figure illustrates the recommender-user interactions in MDP formulation. Considering the current user state and immediate reward to the previous action, the recommender takes an action. Note that in our model, an action corresponds to neither recommending an item nor recommending a list of items. Instead, an action is a continuous parameter vector. Taking such an action, the parameter vector is used to determine the ranking scores of all the candidate items, by performing inner product with item embeddings. All the candidate items are ranked according to the computed scores and Top-N items are recommended to the user. Taking the recommendation from the recommender, the user provides her feedback to the recommender and the user state is updated accordingly. The recommender receives rewards according to the user’s feedback. Without loss of generalization, a recommendation procedure is a $T$ timestep trajectory as $(s_0, a_0, r_0, s_1, a_1, r_1, ..., s_{T−1}, a_{T−1}, r_{T−1}, s_T )$.
 
@@ -24,15 +24,15 @@ However, the Markov property does not hold for all processes. For instance, thro
 
 Moving from one state to another is called a transition, and its probability is called a transition probability. We denote the transition probability by $P(s'|s)$. It indicates the probability of moving from the state $*s$* to the next state $s'$. Say we have three states (cloudy, rainy, and windy) in our Markov chain. Then we can represent the probability of transitioning from one state to another using a table called a Markov table, as shown below:
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_2.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_2.png'/></center></p>
 
 We can also represent this transition information of the Markov chain in the form of a state diagram:
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_3.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_3.png'/></center></p>
 
 We can also formulate the transition probabilities into a matrix called the transition matrix:
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_4.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_4.png'/></center></p>
 
 Thus, to conclude, we can say that the Markov chain or Markov process consists of a set of states along with their transition probabilities.
 
@@ -50,7 +50,7 @@ The **Markov Decision Process** (**MDP**) is an extension of the MRP with acti
 
 Let's understand this with an example. Given any environment, we can formulate the environment using an MDP. For instance, let's consider the same grid world environment, and the goal of the agent is to reach state **I** from state **A** without visiting the shaded states:
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_5.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_5.png'/></center></p>
 
 An agent makes a decision (action) in the environment only based on the current state the agent is in and not based on the past state. So, we can formulate our environment as an MDP. We learned that the MDP consists of states, actions, transition probabilities, and a reward function. Now, let's learn how this relates to our RL environment:
 
@@ -64,23 +64,23 @@ An agent makes a decision (action) in the environment only based on the current 
 
 For example, in our grid world environment, say the transition probability of moving from state **A** to state **B** while performing an action *right* is 100%. This can be expressed as $*P(B|A, right) = 1.0*$.
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_6.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_6.png'/></center></p>
 
 Suppose our agent is in state C and the transition probability of moving from state C to state F while performing the action down is 90%, then it can be expressed as $P(F|C, down) = 0.9$. We can also view this in the state diagram:
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_7.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_7.png'/></center></p>
 
 The reward function is denoted by $R(s,a,s')$. It represents the reward our agent obtains while transitioning from state *s* to state s' while performing an action *a*.
 
 Say the reward we obtain while transitioning from state **A** to state **B** while performing the action *right* is -1, then it can be expressed as *R*(*A*, right, *B*) = -1. We can also view this in the state diagram, as shown below:
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_8.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_8.png'/></center></p>
 
 Thus, an RL environment can be represented as an MDP with states, actions, transition probability, and the reward function. But wait! What is the use of representing the RL environment using the MDP? We can solve the RL problem easily once we model our environment as the MDP. For instance, once we model our grid world environment using the MDP, then we can easily find how to reach the goal state I from state A without visiting the shaded states.
 
 ## Another state transition graph
 
-<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_9.png'></center></p>
+<p><center><img src='https://github.com/recohut/drl-recsys/raw/a8a38a68e3606557f3501c8adc85fc6aa5726bc1/docs/_images/L732057_9.png'/></center></p>
 
 The state transition graph with transition probabilities.
 

@@ -39,11 +39,11 @@ $$Pr(v_i | (Φ(v_1), Φ(v_2), · · · , Φ(v_{i−1}))) $$
 
 Although as the walk length grows, computing this objective function becomes un-feasible, skip-gram concept in language modeling can be employed to solve this problem. First, instead of using the context to predict a missing word, it uses one word to predict the context. Secondly, the context is composed of the words appearing to right side of the given word as well as the left side. Finally, it removes the ordering constraint on the problem. Instead, the model is required to maximize the probability of any word appearing in the context without the knowledge of its offset from the given word.
 
-<p><center><figure><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C870584_1.png'><figcaption>DeepWalk algorithm</figcaption></figure></center></p>
+<p><center><figure><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C870584_1.png'/><figcaption>DeepWalk algorithm</figcaption></figure></center></p>
 
 Below picture explains the process clearly:
 
-<p><center><figure><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C870584_2.png'><figcaption>source - original paper.</figcaption></figure></center></p>
+<p><center><figure><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C870584_2.png'/><figcaption>source - original paper.</figcaption></figure></center></p>
 
 ### What does it look like in code?
 

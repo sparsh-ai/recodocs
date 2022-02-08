@@ -18,7 +18,7 @@ The key challenge in CTR prediction is modelling feature interactions. Existing 
 
 The model trained in the batch mode is iteratively learned based on the data from a fixed-size time window. When new data is arriving, the time window slides forward. As shown in following figure, “model 0” is trained based on data from day 1 to day 10. Then when new data (namely “day 11”) is arriving, a new model (namely “model 1”) is trained based on data from day 2 to day 11. For similar procedure, “model 2” is trained on data from day 3 to day 12. 
 
-<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L832818_1.png'></center></p>
+<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L832818_1.png'/></center></p>
 
 With incremental mode, the model is trained based on the existing model and new data. As shown in the above figure, the “Model 1” is trained based on the existing model “Model 0” (which is trained on data from day 1 to day 10), and data from day 11. Then “Model 1” turns into the existing model. Consequently, when data from day 12 arrives, “Model 2” is trained based on the “Model 1” and data from day 12.
 
@@ -26,6 +26,6 @@ As can be seen, when training with batch mode, two consecutive time window of tr
 
 ## Framework
 
-<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L832818_2.png'></center></p>
+<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L832818_2.png'/></center></p>
 
 Three modules are designed from the perspective of feature, model and data respectively to balance the trade-off between learning from historical data and incoming data. **Data module** mimics the functionality of a reservoir, constructing training data from both historical data and incoming data. **Feature module** is designed to handle new features from incoming data and initialize both existing features and new features wisely. **Model module** employs knowledge distillation to fine-tune the model parameters, balancing learning knowledge from the previous model and from incoming data.

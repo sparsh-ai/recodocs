@@ -83,7 +83,7 @@ To overcome the specific forgetting issue in RSs incremental update, two lines o
 
 ### Three continual learning scenarios in the context of computer vision
 
-<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L883094_1.png'></center></p>
+<p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L883094_1.png'/></center></p>
 
 In the first scenario, models are always informed about which task needs to be performed. This is the easiest continual learning scenario, and we refer to it as task-incremental learning (Task-IL). Since task identity is always provided, in this scenario it is possible to train models with task-specific components. A typical network architecture used in this scenario has a “multi-headed” output layer, meaning that each task has its own output units but the rest of the network is (potentially) shared between tasks. Example - **With task given, is it the 1st or 2nd class? (e.g., 0 or 1)**.
 
@@ -91,7 +91,7 @@ In the second scenario, which we refer to as domain-incremental learning (Domain
 
 Finally, in the third scenario, models must be able to both solve each task seen so far and infer which task they are presented with. We refer to this scenario as class-incremental learning (Class-IL), as it includes the common real-world problem of incrementally learning new classes of objects. Example - **With task unknown, which digit is it? (i.e., choice from 0 to 9)**.
 
-<p><center><figure><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L883094_2.png'><figcaption>Examples of the three CL scenarios. (x, y, task-ID) represents (input images, target label and task identity). The main distinction between task incremental and class incremental is the availability of task-ID. The main difference between class incremental and domain incremental is that, in class incremental, a new task contains completely new classes, whereas domain incremental, a new task consists of new instances with nonstationarity (e.g., noise) of all the seen classes.</figcaption></figure></center></p>
+<p><center><figure><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L883094_2.png'/><figcaption>Examples of the three CL scenarios. (x, y, task-ID) represents (input images, target label and task identity). The main distinction between task incremental and class incremental is the availability of task-ID. The main difference between class incremental and domain incremental is that, in class incremental, a new task contains completely new classes, whereas domain incremental, a new task consists of new instances with nonstationarity (e.g., noise) of all the seen classes.</figcaption></figure></center></p>
 
 ## References
 
