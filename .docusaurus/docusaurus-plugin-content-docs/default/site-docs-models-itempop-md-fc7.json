@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "HMLET",
-    "permalink": "/docs/models/hmlet"
+    "title": "IPW",
+    "permalink": "/docs/models/ipw"
   },
   "next": {
-    "title": "LESSR",
-    "permalink": "/docs/models/lessr"
+    "title": "KHGT",
+    "permalink": "/docs/models/khgt"
   }
 }

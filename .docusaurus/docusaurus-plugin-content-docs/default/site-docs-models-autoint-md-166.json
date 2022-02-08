@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "AttRec",
-    "permalink": "/docs/models/attrec"
+    "title": "AUSH",
+    "permalink": "/docs/models/aush"
   },
   "next": {
-    "title": "BCQ",
-    "permalink": "/docs/models/bcq"
+    "title": "BASR",
+    "permalink": "/docs/models/basr"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/biggraph",
+  "id": "models/biggraph",
+  "title": "BigGraph",
+  "description": "PyTorch-BigGraph: A Large-scale Graph Embedding System",
+  "source": "@site/docs/models/biggraph.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/biggraph",
+  "permalink": "/docs/models/biggraph",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/biggraph.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BiasOnly",
+    "permalink": "/docs/models/biasonly"
+  },
+  "next": {
+    "title": "BPR",
+    "permalink": "/docs/models/bpr"
+  }
+}

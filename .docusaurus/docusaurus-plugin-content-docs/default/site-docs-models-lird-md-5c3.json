@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "LightGCN",
-    "permalink": "/docs/models/lightgcn"
+    "title": "LINE",
+    "permalink": "/docs/models/line"
   },
   "next": {
     "title": "Markov Chains",

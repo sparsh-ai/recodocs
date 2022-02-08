@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/aush",
+  "id": "models/aush",
+  "title": "AUSH",
+  "description": "Attacking Recommender Systems with Augmented User Profiles",
+  "source": "@site/docs/models/aush.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/aush",
+  "permalink": "/docs/models/aush",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/aush.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AttRec",
+    "permalink": "/docs/models/attrec"
+  },
+  "next": {
+    "title": "AutoInt",
+    "permalink": "/docs/models/autoint"
+  }
+}

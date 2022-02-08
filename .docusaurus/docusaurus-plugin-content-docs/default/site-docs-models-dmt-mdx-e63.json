@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/dmt",
+  "id": "models/dmt",
+  "title": "DMT",
+  "description": "Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems.",
+  "source": "@site/docs/models/dmt.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/dmt",
+  "permalink": "/docs/models/dmt",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/dmt.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DM",
+    "permalink": "/docs/models/dm"
+  },
+  "next": {
+    "title": "DPADL",
+    "permalink": "/docs/models/dpadl"
+  }
+}

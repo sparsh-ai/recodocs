@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "CASER",
-    "permalink": "/docs/models/caser"
+    "title": "CoKE",
+    "permalink": "/docs/models/coke"
   },
   "next": {
     "title": "DDPG",

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/basr",
+  "id": "models/basr",
+  "title": "BASR",
+  "description": "Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction",
+  "source": "@site/docs/models/basr.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/basr",
+  "permalink": "/docs/models/basr",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/basr.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AutoInt",
+    "permalink": "/docs/models/autoint"
+  },
+  "next": {
+    "title": "BCQ",
+    "permalink": "/docs/models/bcq"
+  }
+}

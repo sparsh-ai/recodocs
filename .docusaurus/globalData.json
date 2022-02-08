@@ -336,8 +336,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/aush",
+              "path": "/docs/models/aush",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/autoint",
               "path": "/docs/models/autoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/basr",
+              "path": "/docs/models/basr",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -356,13 +366,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/biggraph",
+              "path": "/docs/models/biggraph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/bpr",
               "path": "/docs/models/bpr",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/bst",
+              "path": "/docs/models/bst",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/caser",
               "path": "/docs/models/caser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/coke",
+              "path": "/docs/models/coke",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -396,8 +421,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/dm",
+              "path": "/docs/models/dm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/dmt",
+              "path": "/docs/models/dmt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/dpadl",
+              "path": "/docs/models/dpadl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/dqn",
               "path": "/docs/models/dqn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/dr",
+              "path": "/docs/models/dr",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -456,8 +501,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/ipw",
+              "path": "/docs/models/ipw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/itempop",
               "path": "/docs/models/itempop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/khgt",
+              "path": "/docs/models/khgt",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -476,6 +531,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/line",
+              "path": "/docs/models/line",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/lird",
               "path": "/docs/models/lird",
               "sidebar": "tutorialSidebar"
@@ -483,6 +543,11 @@
             {
               "id": "models/markov-chains",
               "path": "/docs/models/markov-chains",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/matn",
+              "path": "/docs/models/matn",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -521,6 +586,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/node2vec",
+              "path": "/docs/models/node2vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/pnn",
               "path": "/docs/models/pnn",
               "sidebar": "tutorialSidebar"
@@ -548,6 +618,11 @@
             {
               "id": "models/sasrec",
               "path": "/docs/models/sasrec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/sdne",
+              "path": "/docs/models/sdne",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -586,13 +661,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/sse-pt",
+              "path": "/docs/models/sse-pt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/stamp",
               "path": "/docs/models/stamp",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/struc2vec",
+              "path": "/docs/models/struc2vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/svae",
               "path": "/docs/models/svae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/taamr",
+              "path": "/docs/models/taamr",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -29,6 +29,22 @@
     
 - However, the main issue with DeepWalk is that it lacks the ability to generalize. Whenever a new node comes in, it has to re-train the model in order to represent this node (transductive). Thus, such GNN is not suitable for dynamic graphs where the nodes in the graphs are ever-changing.
 
+The key idea is that the techniques which have been used to model natural language (where the symbol frequency follows a power law distribution (or Zipf ’s law)) can be repurposed to model community structure in networks. In this model, we generalizes the concept of language modeling to explore the graph through a stream of short random walks. These walks can be thought of short sentences and phrases in a special language. The direct analog is to estimate the likelihood of observing vertex $v_i$ given all the previous vertices visited so far in the random walk.
+
+$$P_r(v_i \vert (v_1,v_2,...,v_{i-1}))$$
+
+But since our goal is to learn a latent representation, not only a probability distribution of node co-occurrences, so we use a mapping function $Φ: v ∈ V \rightarrow \mathbb{R}^{|V|×d}$. This mapping $Φ$ represents the latent social representation associated with each vertex v in the graph. The problem then, is to estimate the likelihood:
+
+$$Pr(v_i | (Φ(v_1), Φ(v_2), · · · , Φ(v_{i−1}))) $$
+
+Although as the walk length grows, computing this objective function becomes un-feasible, skip-gram concept in language modeling can be employed to solve this problem. First, instead of using the context to predict a missing word, it uses one word to predict the context. Secondly, the context is composed of the words appearing to right side of the given word as well as the left side. Finally, it removes the ordering constraint on the problem. Instead, the model is required to maximize the probability of any word appearing in the context without the knowledge of its offset from the given word.
+
+<p><center><figure><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C870584_1.png'><figcaption>DeepWalk algorithm</figcaption></figure></center></p>
+
+Below picture explains the process clearly:
+
+<p><center><figure><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C870584_2.png'><figcaption>source - original paper.</figcaption></figure></center></p>
+
 ### What does it look like in code?
 
 ```python
@@ -91,3 +107,8 @@ It’s a slight stretch, but here’s the gist of it from the recommendations pe
 3. [https://towardsdatascience.com/deepwalk-its-behavior-and-how-to-implement-it-b5aac0290a15](https://towardsdatascience.com/deepwalk-its-behavior-and-how-to-implement-it-b5aac0290a15)
 4. [https://towardsdatascience.com/introduction-to-graph-neural-networks-with-deepwalk-f5ac25900772](https://towardsdatascience.com/introduction-to-graph-neural-networks-with-deepwalk-f5ac25900772)
 5. [https://www.analyticsvidhya.com/blog/2019/11/graph-feature-extraction-deepwalk/](https://www.analyticsvidhya.com/blog/2019/11/graph-feature-extraction-deepwalk/)
+6. [https://github.com/ninoxjy/graph-embedding](https://github.com/ninoxjy/graph-embedding) (2020) [Source code]
+7. [https://github.com/rforgione/deepwalk](https://github.com/rforgione/deepwalk) (2020) [Source code]
+8. [https://github.com/gen3111620/DeepWalk](https://github.com/gen3111620/DeepWalk) (2020) [Source code]
+9. [https://github.com/benedekrozemberczki/karateclub](https://github.com/benedekrozemberczki/karateclub) (2021) [Source code]
+10. [https://github.com/shenweichen/GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) (2020) [Source code]

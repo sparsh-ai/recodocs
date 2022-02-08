@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SVAE",
-    "permalink": "/docs/models/svae"
+    "title": "TAaMR",
+    "permalink": "/docs/models/taamr"
   },
   "next": {
     "title": "TAGNN",

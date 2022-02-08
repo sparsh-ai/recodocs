@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/khgt",
+  "id": "models/khgt",
+  "title": "KHGT",
+  "description": "Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation",
+  "source": "@site/docs/models/khgt.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/khgt",
+  "permalink": "/docs/models/khgt",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/khgt.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ItemPop",
+    "permalink": "/docs/models/itempop"
+  },
+  "next": {
+    "title": "LESSR",
+    "permalink": "/docs/models/lessr"
+  }
+}

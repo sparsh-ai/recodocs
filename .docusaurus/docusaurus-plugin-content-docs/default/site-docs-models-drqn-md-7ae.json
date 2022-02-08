@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "DQN",
-    "permalink": "/docs/models/dqn"
+    "title": "Doubly Robust",
+    "permalink": "/docs/models/dr"
   },
   "next": {
     "title": "DRR",

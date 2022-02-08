@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "DGTN",
-    "permalink": "/docs/models/dgtn"
+    "title": "DPADL",
+    "permalink": "/docs/models/dpadl"
   },
   "next": {
-    "title": "DRQN",
-    "permalink": "/docs/models/drqn"
+    "title": "Doubly Robust",
+    "permalink": "/docs/models/dr"
   }
 }

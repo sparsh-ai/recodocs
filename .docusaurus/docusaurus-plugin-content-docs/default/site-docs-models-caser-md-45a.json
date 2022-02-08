@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "BPR",
-    "permalink": "/docs/models/bpr"
+    "title": "BST",
+    "permalink": "/docs/models/bst"
   },
   "next": {
-    "title": "DCN",
-    "permalink": "/docs/models/dcn"
+    "title": "CoKE",
+    "permalink": "/docs/models/coke"
   }
 }

@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "BiasOnly",
-    "permalink": "/docs/models/biasonly"
+    "title": "BigGraph",
+    "permalink": "/docs/models/biggraph"
   },
   "next": {
-    "title": "CASER",
-    "permalink": "/docs/models/caser"
+    "title": "BST",
+    "permalink": "/docs/models/bst"
   }
 }

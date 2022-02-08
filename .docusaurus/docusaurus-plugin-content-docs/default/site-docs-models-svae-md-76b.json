@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "STAMP",
-    "permalink": "/docs/models/stamp"
+    "title": "Struc2Vec",
+    "permalink": "/docs/models/struc2vec"
   },
   "next": {
-    "title": "TAGNN-PP",
-    "permalink": "/docs/models/tagnn-pp"
+    "title": "TAaMR",
+    "permalink": "/docs/models/taamr"
   }
 }

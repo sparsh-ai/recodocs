@@ -17,7 +17,7 @@
     "permalink": "/docs/models/nfm"
   },
   "next": {
-    "title": "PNN",
-    "permalink": "/docs/models/pnn"
+    "title": "Node2vec",
+    "permalink": "/docs/models/node2vec"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/taamr",
+  "id": "models/taamr",
+  "title": "TAaMR",
+  "description": "Targeted Adversarial Attack against Multimedia Recommender Systems",
+  "source": "@site/docs/models/taamr.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/taamr",
+  "permalink": "/docs/models/taamr",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/taamr.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SVAE",
+    "permalink": "/docs/models/svae"
+  },
+  "next": {
+    "title": "TAGNN-PP",
+    "permalink": "/docs/models/tagnn-pp"
+  }
+}

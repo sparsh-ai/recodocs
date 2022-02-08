@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/deepwalk",
+  "id": "models/deepwalk",
+  "title": "DeepWalk",
+  "description": "DeepWalk learns representations of online social networks graphs. By performing random walks to generate sequences, the paper demonstrated that it was able to learn vector representations of nodes (e.g., profiles, content) in the graph.",
+  "source": "@site/docs/models/deepwalk.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/deepwalk",
+  "permalink": "/docs/models/deepwalk",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/deepwalk.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DeepFM",
+    "permalink": "/docs/models/deepfm"
+  },
+  "next": {
+    "title": "DGTN",
+    "permalink": "/docs/models/dgtn"
+  }
+}

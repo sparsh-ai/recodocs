@@ -1,0 +1,23 @@
+{
+  "unversionedId": "models/coke",
+  "id": "models/coke",
+  "title": "CoKE",
+  "description": "Contextualized Knowledge Graph Embedding",
+  "source": "@site/docs/models/coke.mdx",
+  "sourceDirName": "models",
+  "slug": "/models/coke",
+  "permalink": "/docs/models/coke",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/models/coke.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CASER",
+    "permalink": "/docs/models/caser"
+  },
+  "next": {
+    "title": "DCN",
+    "permalink": "/docs/models/dcn"
+  }
+}

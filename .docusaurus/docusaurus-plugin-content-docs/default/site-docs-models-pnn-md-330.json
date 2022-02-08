@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NGCF",
-    "permalink": "/docs/models/ngcf"
+    "title": "Node2vec",
+    "permalink": "/docs/models/node2vec"
   },
   "next": {
     "title": "PPO",

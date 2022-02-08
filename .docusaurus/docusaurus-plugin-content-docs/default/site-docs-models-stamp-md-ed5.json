@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SR",
-    "permalink": "/docs/models/sr"
+    "title": "SSE-PT",
+    "permalink": "/docs/models/sse-pt"
   },
   "next": {
-    "title": "SVAE",
-    "permalink": "/docs/models/svae"
+    "title": "Struc2Vec",
+    "permalink": "/docs/models/struc2vec"
   }
 }

@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog','b52'),
     exact: true
@@ -310,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','fc8'),
+    component: ComponentCreator('/docs','d31'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -709,8 +744,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/aush',
+        component: ComponentCreator('/docs/models/aush','8f4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/autoint',
         component: ComponentCreator('/docs/models/autoint','6ef'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/basr',
+        component: ComponentCreator('/docs/models/basr','819'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -733,14 +780,32 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/biggraph',
+        component: ComponentCreator('/docs/models/biggraph','14c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/bpr',
         component: ComponentCreator('/docs/models/bpr','204'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/bst',
+        component: ComponentCreator('/docs/models/bst','1ff'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/caser',
         component: ComponentCreator('/docs/models/caser','ab3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/coke',
+        component: ComponentCreator('/docs/models/coke','42f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -770,7 +835,7 @@ export default [
       },
       {
         path: '/docs/models/deepwalk',
-        component: ComponentCreator('/docs/models/deepwalk','65b'),
+        component: ComponentCreator('/docs/models/deepwalk','843'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -781,8 +846,32 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/dm',
+        component: ComponentCreator('/docs/models/dm','1bf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/dmt',
+        component: ComponentCreator('/docs/models/dmt','392'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/dpadl',
+        component: ComponentCreator('/docs/models/dpadl','85a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/dqn',
         component: ComponentCreator('/docs/models/dqn','5a9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/dr',
+        component: ComponentCreator('/docs/models/dr','c6b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -824,7 +913,7 @@ export default [
       },
       {
         path: '/docs/models/gat',
-        component: ComponentCreator('/docs/models/gat','41f'),
+        component: ComponentCreator('/docs/models/gat','164'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -853,8 +942,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/ipw',
+        component: ComponentCreator('/docs/models/ipw','f29'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/itempop',
         component: ComponentCreator('/docs/models/itempop','e0a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/khgt',
+        component: ComponentCreator('/docs/models/khgt','229'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -877,6 +978,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/line',
+        component: ComponentCreator('/docs/models/line','24c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/lird',
         component: ComponentCreator('/docs/models/lird','556'),
         exact: true,
@@ -885,6 +992,12 @@ export default [
       {
         path: '/docs/models/markov-chains',
         component: ComponentCreator('/docs/models/markov-chains','645'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/matn',
+        component: ComponentCreator('/docs/models/matn','caf'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -925,6 +1038,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/node2vec',
+        component: ComponentCreator('/docs/models/node2vec','07b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/pnn',
         component: ComponentCreator('/docs/models/pnn','87c'),
         exact: true,
@@ -957,6 +1076,12 @@ export default [
       {
         path: '/docs/models/sasrec',
         component: ComponentCreator('/docs/models/sasrec','613'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/sdne',
+        component: ComponentCreator('/docs/models/sdne','a69'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -1003,14 +1128,32 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/sse-pt',
+        component: ComponentCreator('/docs/models/sse-pt','1f3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/stamp',
         component: ComponentCreator('/docs/models/stamp','13f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/struc2vec',
+        component: ComponentCreator('/docs/models/struc2vec','2b3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/svae',
         component: ComponentCreator('/docs/models/svae','c85'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/taamr',
+        component: ComponentCreator('/docs/models/taamr','5c6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

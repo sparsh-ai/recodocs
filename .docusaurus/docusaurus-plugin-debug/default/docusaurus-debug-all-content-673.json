@@ -1508,6 +1508,29 @@
                 "permalink": "/docs/models/asmg"
               },
               "next": {
+                "title": "AUSH",
+                "permalink": "/docs/models/aush"
+              }
+            },
+            {
+              "unversionedId": "models/aush",
+              "id": "models/aush",
+              "title": "AUSH",
+              "description": "Attacking Recommender Systems with Augmented User Profiles",
+              "source": "@site/docs/models/aush.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/aush",
+              "permalink": "/docs/models/aush",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/aush.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AttRec",
+                "permalink": "/docs/models/attrec"
+              },
+              "next": {
                 "title": "AutoInt",
                 "permalink": "/docs/models/autoint"
               }
@@ -1527,8 +1550,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "AttRec",
-                "permalink": "/docs/models/attrec"
+                "title": "AUSH",
+                "permalink": "/docs/models/aush"
+              },
+              "next": {
+                "title": "BASR",
+                "permalink": "/docs/models/basr"
+              }
+            },
+            {
+              "unversionedId": "models/basr",
+              "id": "models/basr",
+              "title": "BASR",
+              "description": "Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction",
+              "source": "@site/docs/models/basr.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/basr",
+              "permalink": "/docs/models/basr",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/basr.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AutoInt",
+                "permalink": "/docs/models/autoint"
               },
               "next": {
                 "title": "BCQ",
@@ -1550,8 +1596,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "AutoInt",
-                "permalink": "/docs/models/autoint"
+                "title": "BASR",
+                "permalink": "/docs/models/basr"
               },
               "next": {
                 "title": "Behavior Propensity Modeling",
@@ -1600,6 +1646,29 @@
                 "permalink": "/docs/models/beh-prop"
               },
               "next": {
+                "title": "BigGraph",
+                "permalink": "/docs/models/biggraph"
+              }
+            },
+            {
+              "unversionedId": "models/biggraph",
+              "id": "models/biggraph",
+              "title": "BigGraph",
+              "description": "PyTorch-BigGraph: A Large-scale Graph Embedding System",
+              "source": "@site/docs/models/biggraph.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/biggraph",
+              "permalink": "/docs/models/biggraph",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/biggraph.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BiasOnly",
+                "permalink": "/docs/models/biasonly"
+              },
+              "next": {
                 "title": "BPR",
                 "permalink": "/docs/models/bpr"
               }
@@ -1619,8 +1688,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "BiasOnly",
-                "permalink": "/docs/models/biasonly"
+                "title": "BigGraph",
+                "permalink": "/docs/models/biggraph"
+              },
+              "next": {
+                "title": "BST",
+                "permalink": "/docs/models/bst"
+              }
+            },
+            {
+              "unversionedId": "models/bst",
+              "id": "models/bst",
+              "title": "BST",
+              "description": "It stands for Behavior Sequence Transformer.",
+              "source": "@site/docs/models/bst.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/bst",
+              "permalink": "/docs/models/bst",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/bst.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BPR",
+                "permalink": "/docs/models/bpr"
               },
               "next": {
                 "title": "CASER",
@@ -1642,8 +1734,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "BPR",
-                "permalink": "/docs/models/bpr"
+                "title": "BST",
+                "permalink": "/docs/models/bst"
+              },
+              "next": {
+                "title": "CoKE",
+                "permalink": "/docs/models/coke"
+              }
+            },
+            {
+              "unversionedId": "models/coke",
+              "id": "models/coke",
+              "title": "CoKE",
+              "description": "Contextualized Knowledge Graph Embedding",
+              "source": "@site/docs/models/coke.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/coke",
+              "permalink": "/docs/models/coke",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/coke.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CASER",
+                "permalink": "/docs/models/caser"
               },
               "next": {
                 "title": "DCN",
@@ -1665,8 +1780,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "CASER",
-                "permalink": "/docs/models/caser"
+                "title": "CoKE",
+                "permalink": "/docs/models/coke"
               },
               "next": {
                 "title": "DDPG",
@@ -1747,11 +1862,11 @@
               "id": "models/deepwalk",
               "title": "DeepWalk",
               "description": "DeepWalk learns representations of online social networks graphs. By performing random walks to generate sequences, the paper demonstrated that it was able to learn vector representations of nodes (e.g., profiles, content) in the graph.",
-              "source": "@site/docs/models/deepwalk.md",
+              "source": "@site/docs/models/deepwalk.mdx",
               "sourceDirName": "models",
               "slug": "/models/deepwalk",
               "permalink": "/docs/models/deepwalk",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/models/deepwalk.md",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/deepwalk.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -1784,6 +1899,75 @@
                 "permalink": "/docs/models/deepwalk"
               },
               "next": {
+                "title": "DM",
+                "permalink": "/docs/models/dm"
+              }
+            },
+            {
+              "unversionedId": "models/dm",
+              "id": "models/dm",
+              "title": "DM",
+              "description": "The direct method (DM) involves training a model on the historical data to predict the reward for each context-action instance. In this model, the reward is the target variable, while the context and action are the input features. Using this model, we can predict the rewards for each context-action instance associated with the target policy. This is illustrated below.",
+              "source": "@site/docs/models/dm.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/dm",
+              "permalink": "/docs/models/dm",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/dm.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DGTN",
+                "permalink": "/docs/models/dgtn"
+              },
+              "next": {
+                "title": "DMT",
+                "permalink": "/docs/models/dmt"
+              }
+            },
+            {
+              "unversionedId": "models/dmt",
+              "id": "models/dmt",
+              "title": "DMT",
+              "description": "Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems.",
+              "source": "@site/docs/models/dmt.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/dmt",
+              "permalink": "/docs/models/dmt",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/dmt.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DM",
+                "permalink": "/docs/models/dm"
+              },
+              "next": {
+                "title": "DPADL",
+                "permalink": "/docs/models/dpadl"
+              }
+            },
+            {
+              "unversionedId": "models/dpadl",
+              "id": "models/dpadl",
+              "title": "DPADL",
+              "description": "Data Poisoning Attacks to Deep Learning Based Recommender Systems",
+              "source": "@site/docs/models/dpadl.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/dpadl",
+              "permalink": "/docs/models/dpadl",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/dpadl.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DMT",
+                "permalink": "/docs/models/dmt"
+              },
+              "next": {
                 "title": "DQN",
                 "permalink": "/docs/models/dqn"
               }
@@ -1803,8 +1987,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "DGTN",
-                "permalink": "/docs/models/dgtn"
+                "title": "DPADL",
+                "permalink": "/docs/models/dpadl"
+              },
+              "next": {
+                "title": "Doubly Robust",
+                "permalink": "/docs/models/dr"
+              }
+            },
+            {
+              "unversionedId": "models/dr",
+              "id": "models/dr",
+              "title": "Doubly Robust",
+              "description": "The doubly robust technique combines the direct method with inverse propensity scores. An intuitive way to think about it is to consider that it uses the predicted rewards from the direct method, and if there is additional information (i.e. exploration and target policy actions match) then the inverse propensity score correction is applied. This is illustrated below.",
+              "source": "@site/docs/models/dr.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/dr",
+              "permalink": "/docs/models/dr",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/dr.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DQN",
+                "permalink": "/docs/models/dqn"
               },
               "next": {
                 "title": "DRQN",
@@ -1826,8 +2033,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "DQN",
-                "permalink": "/docs/models/dqn"
+                "title": "Doubly Robust",
+                "permalink": "/docs/models/dr"
               },
               "next": {
                 "title": "DRR",
@@ -1954,11 +2161,11 @@
               "id": "models/gat",
               "title": "GAT",
               "description": "GAT stands for Graph Attention Networks. This is a special GNN model that addresses several key challenges of spectral models, such as poor ability of generalization from a specific graph structure to another and sophisticated computation of matrix inverse. GAT utilizes attention mechanisms to aggregate neighborhood features (embeddings) by specifying different weights to different nodes.",
-              "source": "@site/docs/models/gat.md",
+              "source": "@site/docs/models/gat.mdx",
               "sourceDirName": "models",
               "slug": "/models/gat",
               "permalink": "/docs/models/gat",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/models/gat.md",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/gat.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -2060,6 +2267,29 @@
                 "permalink": "/docs/models/gru4rec"
               },
               "next": {
+                "title": "IPW",
+                "permalink": "/docs/models/ipw"
+              }
+            },
+            {
+              "unversionedId": "models/ipw",
+              "id": "models/ipw",
+              "title": "IPW",
+              "description": "Inverse Propensity Weighting",
+              "source": "@site/docs/models/ipw.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/ipw",
+              "permalink": "/docs/models/ipw",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/ipw.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HMLET",
+                "permalink": "/docs/models/hmlet"
+              },
+              "next": {
                 "title": "ItemPop",
                 "permalink": "/docs/models/itempop"
               }
@@ -2079,8 +2309,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "HMLET",
-                "permalink": "/docs/models/hmlet"
+                "title": "IPW",
+                "permalink": "/docs/models/ipw"
+              },
+              "next": {
+                "title": "KHGT",
+                "permalink": "/docs/models/khgt"
+              }
+            },
+            {
+              "unversionedId": "models/khgt",
+              "id": "models/khgt",
+              "title": "KHGT",
+              "description": "Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation",
+              "source": "@site/docs/models/khgt.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/khgt",
+              "permalink": "/docs/models/khgt",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/khgt.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ItemPop",
+                "permalink": "/docs/models/itempop"
               },
               "next": {
                 "title": "LESSR",
@@ -2102,8 +2355,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ItemPop",
-                "permalink": "/docs/models/itempop"
+                "title": "KHGT",
+                "permalink": "/docs/models/khgt"
               },
               "next": {
                 "title": "LightFM WARP",
@@ -2152,6 +2405,29 @@
                 "permalink": "/docs/models/lightfm-warp"
               },
               "next": {
+                "title": "LINE",
+                "permalink": "/docs/models/line"
+              }
+            },
+            {
+              "unversionedId": "models/line",
+              "id": "models/line",
+              "title": "LINE",
+              "description": "Large-scale Information Network Embedding",
+              "source": "@site/docs/models/line.md",
+              "sourceDirName": "models",
+              "slug": "/models/line",
+              "permalink": "/docs/models/line",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/line.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LightGCN",
+                "permalink": "/docs/models/lightgcn"
+              },
+              "next": {
                 "title": "LIRD",
                 "permalink": "/docs/models/lird"
               }
@@ -2171,8 +2447,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "LightGCN",
-                "permalink": "/docs/models/lightgcn"
+                "title": "LINE",
+                "permalink": "/docs/models/line"
               },
               "next": {
                 "title": "Markov Chains",
@@ -2198,6 +2474,29 @@
                 "permalink": "/docs/models/lird"
               },
               "next": {
+                "title": "MATN",
+                "permalink": "/docs/models/matn"
+              }
+            },
+            {
+              "unversionedId": "models/matn",
+              "id": "models/matn",
+              "title": "MATN",
+              "description": "Multiplex Behavioral Relation Learning for Recommendation via Memory Augmented Transformer Network.",
+              "source": "@site/docs/models/matn.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/matn",
+              "permalink": "/docs/models/matn",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/matn.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markov Chains",
+                "permalink": "/docs/models/markov-chains"
+              },
+              "next": {
                 "title": "MB-GMN",
                 "permalink": "/docs/models/mb-gmn"
               }
@@ -2217,8 +2516,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Markov Chains",
-                "permalink": "/docs/models/markov-chains"
+                "title": "MATN",
+                "permalink": "/docs/models/matn"
               },
               "next": {
                 "title": "MF",
@@ -2359,6 +2658,29 @@
                 "permalink": "/docs/models/nfm"
               },
               "next": {
+                "title": "Node2vec",
+                "permalink": "/docs/models/node2vec"
+              }
+            },
+            {
+              "unversionedId": "models/node2vec",
+              "id": "models/node2vec",
+              "title": "Node2vec",
+              "description": "Nodes in networks could be organized based on communities they belong to (i.e., homophily); in other cases, the organization could be based on the structural roles of nodes in the network (i.e., structural equivalence). For instance, in the below figure, we observe nodes $u$ and $s1$ belonging to the same tightly knit community of nodes, while the nodes $u$ and $s6$ in the two distinct communities share the same structural role of a hub node. Real-world networks commonly exhibit a mixture of such equivalences.",
+              "source": "@site/docs/models/node2vec.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/node2vec",
+              "permalink": "/docs/models/node2vec",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/node2vec.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NGCF",
+                "permalink": "/docs/models/ngcf"
+              },
+              "next": {
                 "title": "PNN",
                 "permalink": "/docs/models/pnn"
               }
@@ -2378,8 +2700,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "NGCF",
-                "permalink": "/docs/models/ngcf"
+                "title": "Node2vec",
+                "permalink": "/docs/models/node2vec"
               },
               "next": {
                 "title": "PPO",
@@ -2497,6 +2819,29 @@
                 "permalink": "/docs/models/sarsa"
               },
               "next": {
+                "title": "SDNE",
+                "permalink": "/docs/models/sdne"
+              }
+            },
+            {
+              "unversionedId": "models/sdne",
+              "id": "models/sdne",
+              "title": "SDNE",
+              "description": "Structural Deep Network Embedding",
+              "source": "@site/docs/models/sdne.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/sdne",
+              "permalink": "/docs/models/sdne",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/sdne.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SASRec",
+                "permalink": "/docs/models/sasrec"
+              },
+              "next": {
                 "title": "SGL",
                 "permalink": "/docs/models/sgl"
               }
@@ -2516,8 +2861,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "SASRec",
-                "permalink": "/docs/models/sasrec"
+                "title": "SDNE",
+                "permalink": "/docs/models/sdne"
               },
               "next": {
                 "title": "SiReN",
@@ -2612,8 +2957,8 @@
                 "permalink": "/docs/models/sr-san"
               },
               "next": {
-                "title": "STAMP",
-                "permalink": "/docs/models/stamp"
+                "title": "SSE-PT",
+                "permalink": "/docs/models/sse-pt"
               }
             },
             {
@@ -2663,6 +3008,29 @@
               }
             },
             {
+              "unversionedId": "models/sse-pt",
+              "id": "models/sse-pt",
+              "title": "SSE-PT",
+              "description": "Temporal information is crucial for recommendation problems because user preferences are naturally dynamic in the real world. Recent advances in deep learning, especially the discovery of various attention mechanisms and newer architectures in addition to widely used RNN and CNN in natural language processing, have allowed for better use of the temporal ordering of items that each user has engaged with. In particular, the SASRec model, inspired by the popular Transformer model in natural languages processing, has achieved state-of-the-art results. However, SASRec, just like the original Transformer model, is inherently an un-personalized model and does not include personalized user embeddings. SSE-PT overcomes this limitation by employing a Personalized Transformer.",
+              "source": "@site/docs/models/sse-pt.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/sse-pt",
+              "permalink": "/docs/models/sse-pt",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/sse-pt.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SR",
+                "permalink": "/docs/models/sr"
+              },
+              "next": {
+                "title": "STAMP",
+                "permalink": "/docs/models/stamp"
+              }
+            },
+            {
               "unversionedId": "models/stamp",
               "id": "models/stamp",
               "title": "STAMP",
@@ -2677,8 +3045,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "SR",
-                "permalink": "/docs/models/sr"
+                "title": "SSE-PT",
+                "permalink": "/docs/models/sse-pt"
+              },
+              "next": {
+                "title": "Struc2Vec",
+                "permalink": "/docs/models/struc2vec"
+              }
+            },
+            {
+              "unversionedId": "models/struc2vec",
+              "id": "models/struc2vec",
+              "title": "Struc2Vec",
+              "description": "Learning Node Representations from Structural Identity",
+              "source": "@site/docs/models/struc2vec.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/struc2vec",
+              "permalink": "/docs/models/struc2vec",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/struc2vec.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "STAMP",
+                "permalink": "/docs/models/stamp"
               },
               "next": {
                 "title": "SVAE",
@@ -2700,8 +3091,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "STAMP",
-                "permalink": "/docs/models/stamp"
+                "title": "Struc2Vec",
+                "permalink": "/docs/models/struc2vec"
+              },
+              "next": {
+                "title": "TAaMR",
+                "permalink": "/docs/models/taamr"
+              }
+            },
+            {
+              "unversionedId": "models/taamr",
+              "id": "models/taamr",
+              "title": "TAaMR",
+              "description": "Targeted Adversarial Attack against Multimedia Recommender Systems",
+              "source": "@site/docs/models/taamr.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/taamr",
+              "permalink": "/docs/models/taamr",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/taamr.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SVAE",
+                "permalink": "/docs/models/svae"
               },
               "next": {
                 "title": "TAGNN-PP",
@@ -2746,8 +3160,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "SVAE",
-                "permalink": "/docs/models/svae"
+                "title": "TAaMR",
+                "permalink": "/docs/models/taamr"
               },
               "next": {
                 "title": "TAGNN",
@@ -3333,7 +3747,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/aush"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/autoint"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/basr"
                   },
                   {
                     "type": "doc",
@@ -3349,11 +3771,23 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/biggraph"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/bpr"
                   },
                   {
                     "type": "doc",
+                    "id": "models/bst"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/caser"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/coke"
                   },
                   {
                     "type": "doc",
@@ -3381,7 +3815,23 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/dm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/dmt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/dpadl"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/dqn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/dr"
                   },
                   {
                     "type": "doc",
@@ -3429,7 +3879,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/ipw"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/itempop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/khgt"
                   },
                   {
                     "type": "doc",
@@ -3445,11 +3903,19 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/line"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/lird"
                   },
                   {
                     "type": "doc",
                     "id": "models/markov-chains"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/matn"
                   },
                   {
                     "type": "doc",
@@ -3477,6 +3943,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/node2vec"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/pnn"
                   },
                   {
@@ -3498,6 +3968,10 @@
                   {
                     "type": "doc",
                     "id": "models/sasrec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/sdne"
                   },
                   {
                     "type": "doc",
@@ -3529,11 +4003,23 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/sse-pt"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/stamp"
                   },
                   {
                     "type": "doc",
+                    "id": "models/struc2vec"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/svae"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/taamr"
                   },
                   {
                     "type": "doc",

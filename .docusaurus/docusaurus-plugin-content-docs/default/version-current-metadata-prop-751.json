@@ -440,9 +440,21 @@
           },
           {
             "type": "link",
+            "label": "AUSH",
+            "href": "/docs/models/aush",
+            "docId": "models/aush"
+          },
+          {
+            "type": "link",
             "label": "AutoInt",
             "href": "/docs/models/autoint",
             "docId": "models/autoint"
+          },
+          {
+            "type": "link",
+            "label": "BASR",
+            "href": "/docs/models/basr",
+            "docId": "models/basr"
           },
           {
             "type": "link",
@@ -464,15 +476,33 @@
           },
           {
             "type": "link",
+            "label": "BigGraph",
+            "href": "/docs/models/biggraph",
+            "docId": "models/biggraph"
+          },
+          {
+            "type": "link",
             "label": "BPR",
             "href": "/docs/models/bpr",
             "docId": "models/bpr"
           },
           {
             "type": "link",
+            "label": "BST",
+            "href": "/docs/models/bst",
+            "docId": "models/bst"
+          },
+          {
+            "type": "link",
             "label": "CASER",
             "href": "/docs/models/caser",
             "docId": "models/caser"
+          },
+          {
+            "type": "link",
+            "label": "CoKE",
+            "href": "/docs/models/coke",
+            "docId": "models/coke"
           },
           {
             "type": "link",
@@ -512,9 +542,33 @@
           },
           {
             "type": "link",
+            "label": "DM",
+            "href": "/docs/models/dm",
+            "docId": "models/dm"
+          },
+          {
+            "type": "link",
+            "label": "DMT",
+            "href": "/docs/models/dmt",
+            "docId": "models/dmt"
+          },
+          {
+            "type": "link",
+            "label": "DPADL",
+            "href": "/docs/models/dpadl",
+            "docId": "models/dpadl"
+          },
+          {
+            "type": "link",
             "label": "DQN",
             "href": "/docs/models/dqn",
             "docId": "models/dqn"
+          },
+          {
+            "type": "link",
+            "label": "Doubly Robust",
+            "href": "/docs/models/dr",
+            "docId": "models/dr"
           },
           {
             "type": "link",
@@ -584,9 +638,21 @@
           },
           {
             "type": "link",
+            "label": "IPW",
+            "href": "/docs/models/ipw",
+            "docId": "models/ipw"
+          },
+          {
+            "type": "link",
             "label": "ItemPop",
             "href": "/docs/models/itempop",
             "docId": "models/itempop"
+          },
+          {
+            "type": "link",
+            "label": "KHGT",
+            "href": "/docs/models/khgt",
+            "docId": "models/khgt"
           },
           {
             "type": "link",
@@ -608,6 +674,12 @@
           },
           {
             "type": "link",
+            "label": "LINE",
+            "href": "/docs/models/line",
+            "docId": "models/line"
+          },
+          {
+            "type": "link",
             "label": "LIRD",
             "href": "/docs/models/lird",
             "docId": "models/lird"
@@ -617,6 +689,12 @@
             "label": "Markov Chains",
             "href": "/docs/models/markov-chains",
             "docId": "models/markov-chains"
+          },
+          {
+            "type": "link",
+            "label": "MATN",
+            "href": "/docs/models/matn",
+            "docId": "models/matn"
           },
           {
             "type": "link",
@@ -656,6 +734,12 @@
           },
           {
             "type": "link",
+            "label": "Node2vec",
+            "href": "/docs/models/node2vec",
+            "docId": "models/node2vec"
+          },
+          {
+            "type": "link",
             "label": "PNN",
             "href": "/docs/models/pnn",
             "docId": "models/pnn"
@@ -689,6 +773,12 @@
             "label": "SASRec",
             "href": "/docs/models/sasrec",
             "docId": "models/sasrec"
+          },
+          {
+            "type": "link",
+            "label": "SDNE",
+            "href": "/docs/models/sdne",
+            "docId": "models/sdne"
           },
           {
             "type": "link",
@@ -734,15 +824,33 @@
           },
           {
             "type": "link",
+            "label": "SSE-PT",
+            "href": "/docs/models/sse-pt",
+            "docId": "models/sse-pt"
+          },
+          {
+            "type": "link",
             "label": "STAMP",
             "href": "/docs/models/stamp",
             "docId": "models/stamp"
           },
           {
             "type": "link",
+            "label": "Struc2Vec",
+            "href": "/docs/models/struc2vec",
+            "docId": "models/struc2vec"
+          },
+          {
+            "type": "link",
             "label": "SVAE",
             "href": "/docs/models/svae",
             "docId": "models/svae"
+          },
+          {
+            "type": "link",
+            "label": "TAaMR",
+            "href": "/docs/models/taamr",
+            "docId": "models/taamr"
           },
           {
             "type": "link",
@@ -1233,10 +1341,22 @@
       "description": "AttRec stands for Self-Attentive Sequential Recommendation.",
       "sidebar": "tutorialSidebar"
     },
+    "models/aush": {
+      "id": "models/aush",
+      "title": "AUSH",
+      "description": "Attacking Recommender Systems with Augmented User Profiles",
+      "sidebar": "tutorialSidebar"
+    },
     "models/autoint": {
       "id": "models/autoint",
       "title": "AutoInt",
       "description": "Song et. al., “Automatic Feature Interaction Learning via Self-Attentive Neural Networks”. CIKM, 2018.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/basr": {
+      "id": "models/basr",
+      "title": "BASR",
+      "description": "Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction",
       "sidebar": "tutorialSidebar"
     },
     "models/bcq": {
@@ -1257,16 +1377,34 @@
       "description": "BiasOnly is a simple baseline that assumes no interactions between users and items. Formally, it learns: (1) a global bias 𝛼; (2) scalar biases $\\betau$ for each user 𝑢 ∈ U; and (3) scalar biases $\\betai$ for each item 𝑖 ∈ I. Ultimately, the rating/relevance for user 𝑢 and item 𝑖 is modeled as $\\hati^u = \\alpha + \\betau + \\beta_i$.",
       "sidebar": "tutorialSidebar"
     },
+    "models/biggraph": {
+      "id": "models/biggraph",
+      "title": "BigGraph",
+      "description": "PyTorch-BigGraph: A Large-scale Graph Embedding System",
+      "sidebar": "tutorialSidebar"
+    },
     "models/bpr": {
       "id": "models/bpr",
       "title": "BPR",
       "description": "BPR stands for Bayesian Personalized Ranking. In matrix factorization (MF), to compute the prediction we have to multiply the user factors to the item factors:",
       "sidebar": "tutorialSidebar"
     },
+    "models/bst": {
+      "id": "models/bst",
+      "title": "BST",
+      "description": "It stands for Behavior Sequence Transformer.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/caser": {
       "id": "models/caser",
       "title": "CASER",
       "description": "CASER stands for Convolutional Sequence Embedding Recommendation. Top-N sequential recommendation models each user as a sequence of items interacted in the past and aims to predict top-N ranked items that a user will likely interact in a 'near future'. The order of interaction implies that sequential patterns play an important role where more recent items in a sequence have a larger impact on the next item. Convolutional Sequence Embedding Recommendation Model (Caser) address this requirement by embedding a sequence of recent items into an image' in the time and latent spaces and learn sequential patterns as local features of the image using convolutional filters. This approach provides a unified and flexible network structure for capturing both general preferences and sequential patterns. In other words, Caser adopts convolutional neural networks capture the dynamic pattern influences of users’ recent activities.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/coke": {
+      "id": "models/coke",
+      "title": "CoKE",
+      "description": "Contextualized Knowledge Graph Embedding",
       "sidebar": "tutorialSidebar"
     },
     "models/dcn": {
@@ -1305,10 +1443,34 @@
       "description": "DGTN stands for Dual-channel Graph Transition Network.",
       "sidebar": "tutorialSidebar"
     },
+    "models/dm": {
+      "id": "models/dm",
+      "title": "DM",
+      "description": "The direct method (DM) involves training a model on the historical data to predict the reward for each context-action instance. In this model, the reward is the target variable, while the context and action are the input features. Using this model, we can predict the rewards for each context-action instance associated with the target policy. This is illustrated below.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/dmt": {
+      "id": "models/dmt",
+      "title": "DMT",
+      "description": "Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/dpadl": {
+      "id": "models/dpadl",
+      "title": "DPADL",
+      "description": "Data Poisoning Attacks to Deep Learning Based Recommender Systems",
+      "sidebar": "tutorialSidebar"
+    },
     "models/dqn": {
       "id": "models/dqn",
       "title": "DQN",
       "description": "The Q-learning component of DQN was invented in 1989 by Christopher Watkins in his PhD thesis titled “Learning from Delayed Rewards”. Experience replay quickly followed, invented by Long-Ji Lin in 1992. This played a major role in improving the efficiency of Q-learning. In the years that followed, however, there were no major success stories involving deep Q-learning. This is perhaps not surprising given the combination of limited computational power in the 1990s and early 2000s, data-hungry deep learning architectures, and the sparse, noisy, and delayed feedback signals experienced in RL. Progress had to wait for the emergence of general-purpose GPU programming, for example with the launch of CUDA in 2006, and the reignition of interest in deep learning within the machine learning community that began in the mid-2000s and rapidly accelerated after 2012.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/dr": {
+      "id": "models/dr",
+      "title": "Doubly Robust",
+      "description": "The doubly robust technique combines the direct method with inverse propensity scores. An intuitive way to think about it is to consider that it uses the predicted rewards from the direct method, and if there is additional information (i.e. exploration and target policy actions match) then the inverse propensity score correction is applied. This is illustrated below.",
       "sidebar": "tutorialSidebar"
     },
     "models/drqn": {
@@ -1377,10 +1539,22 @@
       "description": "HMLET stands for Hybrid Method of Linear and nonlinEar collaborative filTering (HMLET, pronounced as Hamlet). It is a GCN-based CF method.",
       "sidebar": "tutorialSidebar"
     },
+    "models/ipw": {
+      "id": "models/ipw",
+      "title": "IPW",
+      "description": "Inverse Propensity Weighting",
+      "sidebar": "tutorialSidebar"
+    },
     "models/itempop": {
       "id": "models/itempop",
       "title": "ItemPop",
       "description": "Itempop is a naïve baseline that simply ranks items according to overall train-set popularity. Note that this method is unaffected by the user for which items are being recommended, and has the same global ranking of all items",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/khgt": {
+      "id": "models/khgt",
+      "title": "KHGT",
+      "description": "Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation",
       "sidebar": "tutorialSidebar"
     },
     "models/lessr": {
@@ -1401,6 +1575,12 @@
       "description": "GCN is a representative model of graph neural networks that applies message passing to aggregate neighborhood information. The message passing layer with self-loops is defined as follows:",
       "sidebar": "tutorialSidebar"
     },
+    "models/line": {
+      "id": "models/line",
+      "title": "LINE",
+      "description": "Large-scale Information Network Embedding",
+      "sidebar": "tutorialSidebar"
+    },
     "models/lird": {
       "id": "models/lird",
       "title": "LIRD",
@@ -1411,6 +1591,12 @@
       "id": "models/markov-chains",
       "title": "Markov Chains",
       "description": "Markov chains, named after Andrey Markov, are mathematical systems that hop from one \"state\" (a situation or set of values) to another. For example, if you made a Markov chain model of a baby's behavior, you might include \"playing,\" \"eating\", \"sleeping,\" and \"crying\" as states, which together with other behaviors could form a 'state space': a list of all possible states. In addition, on top of the state space, a Markov chain tells you the probability of hopping, or \"transitioning,\" from one state to any other state---e.g., the chance that a baby currently playing will fall asleep in the next five minutes without crying first.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/matn": {
+      "id": "models/matn",
+      "title": "MATN",
+      "description": "Multiplex Behavioral Relation Learning for Recommendation via Memory Augmented Transformer Network.",
       "sidebar": "tutorialSidebar"
     },
     "models/mb-gmn": {
@@ -1455,6 +1641,12 @@
       "description": "NGCF stands for Neural Graph Collaborative Filtering. This GNN-based approach follows basic operations inherited from the standard GCN to explore the high-order connectivity information. More specifically, NGCF stacks embedding layers and concatenates embeddings obtained in all layers to constitute the final embeddings.",
       "sidebar": "tutorialSidebar"
     },
+    "models/node2vec": {
+      "id": "models/node2vec",
+      "title": "Node2vec",
+      "description": "Nodes in networks could be organized based on communities they belong to (i.e., homophily); in other cases, the organization could be based on the structural roles of nodes in the network (i.e., structural equivalence). For instance, in the below figure, we observe nodes $u$ and $s1$ belonging to the same tightly knit community of nodes, while the nodes $u$ and $s6$ in the two distinct communities share the same structural role of a hub node. Real-world networks commonly exhibit a mixture of such equivalences.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/pnn": {
       "id": "models/pnn",
       "title": "PNN",
@@ -1489,6 +1681,12 @@
       "id": "models/sasrec",
       "title": "SASRec",
       "description": "SASRec stands for Self-Attentive Sequential Recommendation. It relies on the sequence modeling capabilities of self-attentive neural networks to predict the occurence of the next item in a user’s consumption sequence. To be precise, given a user 𝑢 and their time-ordered consumption history $S^𝑢 = (S1^u, S2^u, \\dots, S_{|S^u|}^𝑢),$ SASRec first applies self-attention on $S^𝑢$ followed by a series of non-linear feed-forward layers to finally obtain the next item likelihood.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/sdne": {
+      "id": "models/sdne",
+      "title": "SDNE",
+      "description": "Structural Deep Network Embedding",
       "sidebar": "tutorialSidebar"
     },
     "models/sgl": {
@@ -1533,16 +1731,34 @@
       "description": "SR-SAN stands for Session-based Recommendation with Self-Attention Networks.",
       "sidebar": "tutorialSidebar"
     },
+    "models/sse-pt": {
+      "id": "models/sse-pt",
+      "title": "SSE-PT",
+      "description": "Temporal information is crucial for recommendation problems because user preferences are naturally dynamic in the real world. Recent advances in deep learning, especially the discovery of various attention mechanisms and newer architectures in addition to widely used RNN and CNN in natural language processing, have allowed for better use of the temporal ordering of items that each user has engaged with. In particular, the SASRec model, inspired by the popular Transformer model in natural languages processing, has achieved state-of-the-art results. However, SASRec, just like the original Transformer model, is inherently an un-personalized model and does not include personalized user embeddings. SSE-PT overcomes this limitation by employing a Personalized Transformer.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/stamp": {
       "id": "models/stamp",
       "title": "STAMP",
       "description": "/img/content-models-raw-mp2-stamp-untitled.png",
       "sidebar": "tutorialSidebar"
     },
+    "models/struc2vec": {
+      "id": "models/struc2vec",
+      "title": "Struc2Vec",
+      "description": "Learning Node Representations from Structural Identity",
+      "sidebar": "tutorialSidebar"
+    },
     "models/svae": {
       "id": "models/svae",
       "title": "SVAE",
       "description": "SVAE stands for Sequential Variational Autoencoder.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/taamr": {
+      "id": "models/taamr",
+      "title": "TAaMR",
+      "description": "Targeted Adversarial Attack against Multimedia Recommender Systems",
       "sidebar": "tutorialSidebar"
     },
     "models/tagnn": {
