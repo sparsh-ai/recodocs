@@ -38,7 +38,7 @@ In case that a gradient-based optimization algorithm is applied, the gradient of
 
 Let's understand with an example. Imagine you want to eat a fruit and you have conditions - the fruit should be healthy as well as tasty. Based on your knowledge, you draw the following diagram to decide which fruit to eat:
 
-<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L069335_1.png'/><figcaption>[source](https://www.alexirpan.com/public/fruit-opinion/xkcdfruit.png)</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L069335_1.png'/><figcaption>[source](https://www.alexirpan.com/public/fruit-opinion/xkcdfruit.png)</figcaption></center></p></figure>
 
 So which one is the best to eat? The answer is that there is no single optimal choice here but three - Peaches, Strawberries, and Seedless grapes. These 3 fruits are at the Pareto Front (don't worry, we are going to learn this concept) and called non-dominated and therefore optimal choices.
 
@@ -54,13 +54,13 @@ Unfortunately, these things are likely to be in tension. It may be possible to c
 
 Imagine we randomly sampled hyperparameter configurations and measured the speed and accuracy of the resulting models. We would surely find some configurations that result in algorithms being both slower and less accurate than others. Speaking technically, if one point—call it `A`—is better than another point—`B`—in one dimension, and at least as good in all other dimensions, we say `A` *dominates* `B`. We’d never want to deploy dominated models, since there are other models that are strictly better in both the optimization objectives.
 
-<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L069335_2.png'/><figcaption>As we try different hyperparameter configurations, we’ll find that the resultant models represent different accuracy-speed trade offs. We can visualize each model as a point in the trade off space.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L069335_2.png'/><figcaption>As we try different hyperparameter configurations, we’ll find that the resultant models represent different accuracy-speed trade offs. We can visualize each model as a point in the trade off space.</figcaption></center></p></figure>
 
 It’s possible we’d find one point that maximizes both the accuracy and speed of our predictions. In practice, this is unlikely. We might improve accuracy by using deeper trees in a random forest, but deeper trees also take longer to evaluate, so we have traded off some speed for accuracy.
 
 Eventually, we’ll discern an edge in the accuracy-speed tradeoff space, where we cannot find a hyperparameter combination that leads to an improvement in one direction without a negative impact on the other. This edge is called the *Pareto frontier*, and allows us to make a quantitative tradeoff between our optimization objectives. The Pareto frontier is constructed from the set of non-dominated points, and choosing any one of them gives us our exact accuracy/speed tradeoff.
 
-<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L069335_3.png'/><figcaption>As we try different hyperparameter configurations, we’ll find that the resultant models represent different accuracy-speed trade offs. We can visualize each model as a point in the trade off space.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L069335_3.png'/><figcaption>As we try different hyperparameter configurations, we’ll find that the resultant models represent different accuracy-speed trade offs. We can visualize each model as a point in the trade off space.</figcaption></center></p></figure>
 
 Ultimately, a deployed ML system will be trained with a single hyperparameter combination, and we must choose a single *point* in the accuracy-speed plane. The Pareto frontier allows us to present a decision maker with a host of models, some maximizing accuracy, others maximizing speed, and the entire spectrum in between.
 
@@ -78,7 +78,7 @@ In traditional recommender systems, the goal is to generate a list of items that
 
 When a recommender system tries to maximize all three metrics at the same time, it become a multi objective optimization problem. Each metric is an objective. In this case, increasing accuracy may reduce the diversity and novelty, since more items that user assessed in the testing data set are in recommendation list. Increasing diversity or novelty may also reduce the accuracy for the same reason.
 
-<figure><p><center><img src='_images/L553498_1.png'/><figcaption>A 3-dimensional objective space. Points are possible hybrids and are represented by the corresponding level of accuracy, novelty and diversity. Hybrids lying in the Pareto frontier are not dominated by any other hybrid.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/L553498_1.png'/><figcaption>A 3-dimensional objective space. Points are possible hybrids and are represented by the corresponding level of accuracy, novelty and diversity. Hybrids lying in the Pareto frontier are not dominated by any other hybrid.</figcaption></center></p></figure>
 
 We have a recommendation system that tries to optimize multiple objectives that conflict each other. Another interesting benefit of applying MOO in this case is the fact that recommendations (movies, music, news) might soon become boring to the users if we focus just on accuracy. Diversity enable the recommender to recommend something different. Similarly, novelty enable it to recommend something never experienced before.
 
@@ -116,13 +116,13 @@ Unfortunately, these things are likely to be in tension. It may be possible to c
 
 Imagine we randomly sampled hyperparameter configurations and measured the speed and accuracy of the resulting models. We would surely find some configurations that result in algorithms being both slower and less accurate than others. Speaking technically, if one point—call it `A`—is better than another point—`B`—in one dimension, and at least as good in all other dimensions, we say `A` *dominates* `B`. We’d never want to deploy dominated models, since there are other models that are strictly better in both the optimization objectives.
 
-<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L556513_1.png'/><figcaption>As we try different hyperparameter configurations, we’ll find that the resultant models represent different accuracy-speed trade offs. We can visualize each model as a point in the trade off space.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L556513_1.png'/><figcaption>As we try different hyperparameter configurations, we’ll find that the resultant models represent different accuracy-speed trade offs. We can visualize each model as a point in the trade off space.</figcaption></center></p></figure>
 
 It’s possible we’d find one point that maximizes both the accuracy and speed of our predictions. In practice, this is unlikely. We might improve accuracy by using deeper trees in a random forest, but deeper trees also take longer to evaluate, so we have traded off some speed for accuracy.
 
 Eventually, we’ll discern an edge in the accuracy-speed tradeoff space, where we cannot find a hyperparameter combination that leads to an improvement in one direction without a negative impact on the other. This edge is called the *Pareto frontier*, and allows us to make a quantitative tradeoff between our optimization objectives. The Pareto frontier is constructed from the set of non-dominated points, and choosing any one of them gives us our exact accuracy/speed tradeoff.
 
-<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L556513_2.png'/><figcaption>The Pareto frontier is formed by those points that are not dominated by any others.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/multiobjective-optimizations/raw/098954ea18e25506b6320039c85d09385c70f37b/docs/_images/L556513_2.png'/><figcaption>The Pareto frontier is formed by those points that are not dominated by any others.</figcaption></center></p></figure>
 
 Ultimately, a deployed ML system will be trained with a single hyperparameter combination, and we must choose a single *point* in the accuracy-speed plane. The Pareto frontier allows us to present a decision maker with a host of models, some maximizing accuracy, others maximizing speed, and the entire spectrum in between.
 
@@ -163,17 +163,17 @@ The Pareto frontier generalizes the notion of optimizing to more than one dimens
 
 Suppose we have a Pareto frontier of points initialized by randomly sampling the hyperparameter space. Even though these hyperparameter configurations were sampled randomly, we can still draw a Pareto frontier, which is just the set of points that are not dominated by others. We additionally choose a reference point that is completely dominated by the entire Pareto frontier (by every point on it). The hypervolume of interest is the volume occupied between the reference point and the Pareto frontier. With 2 objectives, the hypervolume is just the area. We are looking for points that increase this volume, which, intuitively, are points that push the Pareto frontier out, away from the reference point.
 
-<figure><p><center><img src='_images/L556513_5.png'/><figcaption>The green shaded region is the hypervolume between the points on the Pareto frontier and the reference point, in this case, at the origin of the chart.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/L556513_5.png'/><figcaption>The green shaded region is the hypervolume between the points on the Pareto frontier and the reference point, in this case, at the origin of the chart.</figcaption></center></p></figure>
 
 When we draw a new point, we sample from the *hyperparameter* space, but we want a volume improvement in the *objective space*. Our surrogate model – usually consisting of an independent Gaussian Process model for each objective – is approximating how input hyperparameters will result in output objective values, and the goal is to choose input hyperparameters that maximize the expected hypervolume improvement in the output space.
 
 Choosing points that maximize the expected hypervolume improvement is itself an optimization problem, just like finding those that maximize expected improvement or probability of improvement in the single-objective case. We can perform this optimization using our surrogate functions, which are fast to compute. If we knew the objective function perfectly, the hypervolume improvement from adding a new point might look something like this.
 
-<figure><p><center><img src='_images/L556513_6.png'/><figcaption>The red shaded region is the hypervolume improvement that would result from adding the new candidate point.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/L556513_6.png'/><figcaption>The red shaded region is the hypervolume improvement that would result from adding the new candidate point.</figcaption></center></p></figure>
 
 However, we don’t know that objective function perfectly—we’re modelling it with surrogate functions (one for each objective). The surrogate functions come with uncertainty attached, since they’re just our best approximation of the objective function. Because of that uncertainty, we can’t be sure exactly where on the accuracy-speed space a given hyperparameter combination will land us, so the picture looks a little more like this.
 
-<figure><p><center><img src='_images/L556513_7.png'/><figcaption>In reality, we don’t know the objective function perfectly—we are modeling it with a surrogate function that has uncertainty. The fuzzy point and area on the chart indicate that the exact location of the point, and thus the associated hypervolume improvement, are uncertain.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/L556513_7.png'/><figcaption>In reality, we don’t know the objective function perfectly—we are modeling it with a surrogate function that has uncertainty. The fuzzy point and area on the chart indicate that the exact location of the point, and thus the associated hypervolume improvement, are uncertain.</figcaption></center></p></figure>
 
 This uncertainty is the reason we compute the *Expected* HVI, which means integrating over the uncertainty. There are fast computational methods for doing so using Monte Carlo and discretizing the space. Fortunately, evaluating the EHVI is not nearly as expensive as training an ML model and finding the true hypervolume improvement. So we can find the point that maximizes the EHVI using iterative methods (think [BFGS](https://en.wikipedia.org/wiki/Broyden-Fletcher-Goldfarb-Shanno_algorithm)). This is made all the faster by having exact gradients of the MC estimate of the EHVI, thanks to modern auto-differentiation tools.[5](https://blog.fastforwardlabs.com/2021/07/07/exploring-multi-objective-hyperparameter-optimization.html#fn:5)
 
@@ -187,7 +187,7 @@ That little “q” signifies a recent advance – trying multiple new points in
 
 We need not restrict ourselves to trying only one new hyperparameter config at a time. The “q” in qEHVI indicates the number of parallel candidates suggested. The q candidates are selected by optimizing the *total* hypervolume improvement from their *combined* contribution, so they ought to work together. This makes sense, for if we chose three points that each maximize the EHVI independently, they’d be at the same spot. It’s a clever mechanism for exploiting parallelism in an otherwise sequential optimization process.
 
-<figure><p><center><img src='_images/L556513_8.png'/><figcaption>qEHVI can suggest multiple (here q=3) new candidate points without refitting the surrogate models, accelerating the search for the Pareto Frontier.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/L556513_8.png'/><figcaption>qEHVI can suggest multiple (here q=3) new candidate points without refitting the surrogate models, accelerating the search for the Pareto Frontier.</figcaption></center></p></figure>
 
 The full technical treatment of qEHVI is given in the paper. We warn the intrepid reader that for anyone unfamiliar with Bayesian Optimization literature (which is vast and deep), and through no fault of the authors, the paper is a tough read. We recommend starting with [this short video](https://www.youtube.com/watch?v=JNt_hBjH4wU) explaining the contributions of the paper.
 
@@ -203,7 +203,7 @@ $$p\left(\text{hyperparameter} \ |\ \text{objective}\right) \ = \begin{cases} l 
 
 The two functions $l$ and $g$ are themselves density estimations (“Parzen estimator” is just a particular name for a kernel density estimator), and functions of the hyperparameters. The threshold between them selects for whether the objective is among the best values, where “best” is defined as some upper quantile. A different density is fit to those good (upper quantile) objective values ($l$) and the poorer (lower quantiles) ones ($g$). New hyperparameters are drawn such that they’re very likely under the distribution $l$, and unlikely under the distribution $g$.
 
-<figure><p><center><img src='_images/L556513_9.png'/><figcaption>TPE fits two densities to each hyperparameter, then samples hyperparameters from the configuration, l, that is fit only to the better objective values. In reality, the distributions may not separate so neatly.</figcaption></figure></center></p>
+<figure><p><center><img src='_images/L556513_9.png'/><figcaption>TPE fits two densities to each hyperparameter, then samples hyperparameters from the configuration, l, that is fit only to the better objective values. In reality, the distributions may not separate so neatly.</figcaption></center></p></figure>
 
 Modeling the conditional distribution of each hyperparameter, rather than the objectives, means we can handle tree-shaped hyperparameter configurations such as the neural net example above. We simply don’t update the model, $p(hyperparameter|objective)$, for a hyperparameter if it wasn’t used in a particular trial. As a trade off for this effective handling of tree-shaped search spaces, we lose the ability to model hyperparameter interactions, since each hyperparameter has its own conditional density. Whether this trade-off makes sense depends on the shape of our search space, and alas can rarely be known in advance.
 

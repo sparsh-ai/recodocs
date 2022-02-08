@@ -10,7 +10,7 @@ $$(D_t, W_{t-1}) \xrightarrow{\text{get}} W_t \xleftarrow{\text{test}}D_{t+1}$$
 
 ## Model overview
 
-<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_1.png'/><figcaption>Model overview of transfer-based retraining for the t-th time period. $W_{t−1}$ represents the previous recommender, $\hat{W}_t$ is a recommender learned on new data $D_t$ only. The transfer component is to combine the “knowledge” in $W_{t−1}$ and $\hat{W}_t$ to obtain the new recommender $W_t$ for serving the next period.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_1.png'/><figcaption>Model overview of transfer-based retraining for the t-th time period. $W_{t−1}$ represents the previous recommender, $\hat{W}_t$ is a recommender learned on new data $D_t$ only. The transfer component is to combine the “knowledge” in $W_{t−1}$ and $\hat{W}_t$ to obtain the new recommender $W_t$ for serving the next period.</figcaption></center></p></figure>
 
 We propose a new retraining method with two major considerations: 1) building an expressive component that transfers the knowledge gained in previous training to the training on new interactions, and, 2) optimizing the transfer component towards the recommendation performance in the near future.
 
@@ -20,12 +20,12 @@ In real-world recommender systems, user interaction data streams in continuously
 
 ## Training procedure
 
-<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_2.png'/><figcaption>Sequential training procedure of SML.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_2.png'/><figcaption>Sequential training procedure of SML.</figcaption></center></p></figure>
 
 ## Evaluation procedure
 
-<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_3.png'/><figcaption>Model evaluation and update procedure.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_3.png'/><figcaption>Model evaluation and update procedure.</figcaption></center></p></figure>
 
 ## Performance
 
-<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_4.png'/><figcaption>Average recommendation performance over online testing periods on Adressa and Yelp. “RI” indicates the relative improvement of SML over the corresponding baseline.</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/incremental-learning/raw/a6fdcde2e8af7ebfd9f5efd278c487e0e9560cb3/docs/_images/L753817_4.png'/><figcaption>Average recommendation performance over online testing periods on Adressa and Yelp. “RI” indicates the relative improvement of SML over the corresponding baseline.</figcaption></center></p></figure>

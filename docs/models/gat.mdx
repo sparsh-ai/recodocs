@@ -39,7 +39,7 @@ $$
 
 If we perform multi-head attention on the final (prediction) layer of the network, concatenation is no longer sensible—instead, we employ averaging, and delay applying the final nonlinearity (usually a softmax or logistic sigmoid for classification problems) until then.
 
-<figure><p><center><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C047239_2.png'/><figcaption>A t-SNE plot of the computed feature representations of a pre-trained GAT model’s first hidden layer on the Cora dataset. Node colors denote classes. Edge thickness indicates aggregated normalized attention coefficients between nodes i and j, across all eight attention heads (\sum_{k=1}^K \alpha_{ij}^k + \alpha{ji}^k).</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C047239_2.png'/><figcaption>A t-SNE plot of the computed feature representations of a pre-trained GAT model’s first hidden layer on the Cora dataset. Node colors denote classes. Edge thickness indicates aggregated normalized attention coefficients between nodes i and j, across all eight attention heads (\sum_{k=1}^K \alpha_{ij}^k + \alpha{ji}^k).</figcaption></center></p></figure>
 
 ## GATv2
 

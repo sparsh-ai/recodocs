@@ -6,7 +6,7 @@ CoKE takes a sequence as input and uses a Transformer encoder to obtain contextu
 
 Unlike sequential left-to-right or right-to-left encoding strategies, Transformer uses a multi-head self-attention mechanism, which allows each element to attend to all elements in the sequence, and thus is more effective in context modeling.
 
-<figure><p><center><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C652166_1.png'/><figcaption>An example of Barack Obama, where the left subgraph shows his political role (dashed blue) and the right one his family role (solid orange).</figcaption></figure></center></p>
+<figure><p><center><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C652166_1.png'/><figcaption>An example of Barack Obama, where the left subgraph shows his political role (dashed blue) and the right one his family role (solid orange).</figcaption></center></p></figure>
 
 Take relation HasPart as an example, which also presents contextualized meanings, e.g., composition-related as (Table, HasPart, Leg) and location-related as (Atlantics, HasPart, NewYorkBay) (Xiao et al., 2016). Learning entity and relation representations that could effectively capture their contextual meanings poses a new challenge to KG embedding.
 
