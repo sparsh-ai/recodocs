@@ -41,8 +41,20 @@ If we perform multi-head attention on the final (prediction) layer of the networ
 
 <p><center><figure><img src='https://github.com/recohut/graph-embeddings/raw/3ae14e9b7e26389dede9d33d96465a674b8acd21/docs/_images/C047239_2.png'><figcaption>A t-SNE plot of the computed feature representations of a pre-trained GAT model’s first hidden layer on the Cora dataset. Node colors denote classes. Edge thickness indicates aggregated normalized attention coefficients between nodes i and j, across all eight attention heads (\sum_{k=1}^K \alpha_{ij}^k + \alpha{ji}^k).</figcaption></figure></center></p>
 
+## GATv2
+
+### Abstract
+
+*Graph Attention Networks (GATs) are one of the most popular GNN architectures and are considered as the state-of-the-art architecture for representation learning with graphs. In GAT, every node attends to its neighbors given its own representation as the query. However, in this paper we show that GATs can only compute a restricted kind of attention where the ranking of attended nodes is unconditioned on the query node. We formally define this restricted kind of attention as static attention and distinguish it from a strictly more expressive dynamic attention. Because GATs use a static attention mechanism, there are simple graph problems that GAT cannot express: in a controlled problem, we show that static attention hinders GAT from even fitting the training data. To remove this limitation, we introduce a simple fix by modifying the order of operations and propose GATv2: a dynamic graph attention variant that is strictly more expressive than GAT. We perform an extensive evaluation and show that GATv2 outperforms GAT across 11 OGB and other benchmarks while we match their parametric costs.*
+
+GATv2s work on graph data similar to [GAT](https://nn.labml.ai/graphs/gat/index.html). A graph consists of nodes and edges connecting nodes. For example, in Cora dataset the nodes are research papers and the edges are citations that connect the papers.
+
+The GATv2 operator fixes the static attention problem of the standard [GAT](https://nn.labml.ai/graphs/gat/index.html). Static attention is when the attention to the key nodes has the same rank (order) for any query node.
+
 ## Links
 
 - [https://github.com/PetarV-/GAT](https://github.com/PetarV-/GAT)
 - [https://arxiv.org/abs/1710.10903v3](https://arxiv.org/abs/1710.10903v3)
+- [https://github.com/tech-srl/how_attentive_are_gats](https://github.com/tech-srl/how_attentive_are_gats)
 - [https://nn.labml.ai/graphs/gat/index.html](https://nn.labml.ai/graphs/gat/index.html)
+- [https://nn.labml.ai/graphs/gatv2/index.html](https://nn.labml.ai/graphs/gatv2/index.html)
