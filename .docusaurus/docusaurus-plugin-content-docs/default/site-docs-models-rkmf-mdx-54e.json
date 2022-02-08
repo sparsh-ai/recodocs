@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Q-learning",
-    "permalink": "/docs/models/q-learning"
+    "title": "Random Walk",
+    "permalink": "/docs/models/random_walk"
   },
   "next": {
     "title": "SAC",

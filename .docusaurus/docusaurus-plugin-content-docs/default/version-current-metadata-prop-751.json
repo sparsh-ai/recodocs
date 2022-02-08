@@ -824,6 +824,12 @@
           },
           {
             "type": "link",
+            "label": "NMRN",
+            "href": "/docs/models/nmrn",
+            "docId": "models/nmrn"
+          },
+          {
+            "type": "link",
             "label": "Node2vec",
             "href": "/docs/models/node2vec",
             "docId": "models/node2vec"
@@ -845,6 +851,12 @@
             "label": "Q-learning",
             "href": "/docs/models/q-learning",
             "docId": "models/q-learning"
+          },
+          {
+            "type": "link",
+            "label": "Random Walk",
+            "href": "/docs/models/random_walk",
+            "docId": "models/random_walk"
           },
           {
             "type": "link",
@@ -1859,6 +1871,12 @@
       "description": "NGCF stands for Neural Graph Collaborative Filtering. This GNN-based approach follows basic operations inherited from the standard GCN to explore the high-order connectivity information. More specifically, NGCF stacks embedding layers and concatenates embeddings obtained in all layers to constitute the final embeddings.",
       "sidebar": "tutorialSidebar"
     },
+    "models/nmrn": {
+      "id": "models/nmrn",
+      "title": "NMRN",
+      "description": "NMRN is a streaming recommender model based on neural memory networks with external memories to capture and store both long-term stable interests and short-term dynamic interests in a unified way. An adaptive negative sampling framework based on Generative Adversarial Nets (GAN) is developed to optimize our proposed streaming recommender model, which effectively overcomes the limitations of classical negative sampling approaches and improves the effectiveness of the model parameter inference.",
+      "sidebar": "tutorialSidebar"
+    },
     "models/node2vec": {
       "id": "models/node2vec",
       "title": "Node2vec",
@@ -1881,6 +1899,12 @@
       "id": "models/q-learning",
       "title": "Q-learning",
       "description": "Q-learning can be applied to model-free RL problems. It supports off-policy learning and therefore provides a practical solution to problems where available experiences were/are collected using some other policy or by some other agent (even humans).",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/random_walk": {
+      "id": "models/random_walk",
+      "title": "Random Walk",
+      "description": "The term \"random walk\" was first mentioned by Karl Pearson in 1905 in a letter to Nature magazine titled The Problem of the Random Walk. Study of random walks date back even further to the Gambler’s ruin problem, where it could be used to show that a gambler would eventually go bankrupt against an opponent with infinite wealth. It’s only in the last couple of decades, however, that researchers have studied them with respect to networks.",
       "sidebar": "tutorialSidebar"
     },
     "models/rkmf": {

@@ -3003,6 +3003,29 @@
                 "permalink": "/docs/models/nfm"
               },
               "next": {
+                "title": "NMRN",
+                "permalink": "/docs/models/nmrn"
+              }
+            },
+            {
+              "unversionedId": "models/nmrn",
+              "id": "models/nmrn",
+              "title": "NMRN",
+              "description": "NMRN is a streaming recommender model based on neural memory networks with external memories to capture and store both long-term stable interests and short-term dynamic interests in a unified way. An adaptive negative sampling framework based on Generative Adversarial Nets (GAN) is developed to optimize our proposed streaming recommender model, which effectively overcomes the limitations of classical negative sampling approaches and improves the effectiveness of the model parameter inference.",
+              "source": "@site/docs/models/nmrn.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/nmrn",
+              "permalink": "/docs/models/nmrn",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/nmrn.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NGCF",
+                "permalink": "/docs/models/ngcf"
+              },
+              "next": {
                 "title": "Node2vec",
                 "permalink": "/docs/models/node2vec"
               }
@@ -3022,8 +3045,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "NGCF",
-                "permalink": "/docs/models/ngcf"
+                "title": "NMRN",
+                "permalink": "/docs/models/nmrn"
               },
               "next": {
                 "title": "PNN",
@@ -3095,6 +3118,29 @@
                 "permalink": "/docs/models/ppo"
               },
               "next": {
+                "title": "Random Walk",
+                "permalink": "/docs/models/random_walk"
+              }
+            },
+            {
+              "unversionedId": "models/random_walk",
+              "id": "models/random_walk",
+              "title": "Random Walk",
+              "description": "The term \"random walk\" was first mentioned by Karl Pearson in 1905 in a letter to Nature magazine titled The Problem of the Random Walk. Study of random walks date back even further to the Gambler’s ruin problem, where it could be used to show that a gambler would eventually go bankrupt against an opponent with infinite wealth. It’s only in the last couple of decades, however, that researchers have studied them with respect to networks.",
+              "source": "@site/docs/models/random_walk.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/random_walk",
+              "permalink": "/docs/models/random_walk",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/random_walk.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Q-learning",
+                "permalink": "/docs/models/q-learning"
+              },
+              "next": {
                 "title": "RKMF",
                 "permalink": "/docs/models/rkmf"
               }
@@ -3114,8 +3160,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Q-learning",
-                "permalink": "/docs/models/q-learning"
+                "title": "Random Walk",
+                "permalink": "/docs/models/random_walk"
               },
               "next": {
                 "title": "SAC",
@@ -4463,6 +4509,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "models/nmrn"
+                  },
+                  {
+                    "type": "doc",
                     "id": "models/node2vec"
                   },
                   {
@@ -4476,6 +4526,10 @@
                   {
                     "type": "doc",
                     "id": "models/q-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/random_walk"
                   },
                   {
                     "type": "doc",

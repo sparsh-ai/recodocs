@@ -661,6 +661,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models/nmrn",
+              "path": "/docs/models/nmrn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models/node2vec",
               "path": "/docs/models/node2vec",
               "sidebar": "tutorialSidebar"
@@ -678,6 +683,11 @@
             {
               "id": "models/q-learning",
               "path": "/docs/models/q-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/random_walk",
+              "path": "/docs/models/random_walk",
               "sidebar": "tutorialSidebar"
             },
             {

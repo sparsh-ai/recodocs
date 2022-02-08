@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','e34'),
+    component: ComponentCreator('/docs','33a'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -1128,6 +1128,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/models/nmrn',
+        component: ComponentCreator('/docs/models/nmrn','f76'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/models/node2vec',
         component: ComponentCreator('/docs/models/node2vec','07b'),
         exact: true,
@@ -1148,6 +1154,12 @@ export default [
       {
         path: '/docs/models/q-learning',
         component: ComponentCreator('/docs/models/q-learning','00c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/random_walk',
+        component: ComponentCreator('/docs/models/random_walk','f0a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

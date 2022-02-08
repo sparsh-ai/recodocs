@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-e34": {
+  "/docs-33a": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -1173,6 +1173,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-ngcf-5-c-2-0cd"
   },
+  "/docs/models/nmrn-f76": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-nmrnaa-4-848"
+  },
   "/docs/models/node2vec-07b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-node-2-vec-393-dfb"
@@ -1188,6 +1192,10 @@
   "/docs/models/q-learning-00c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-models-q-learning-68-f-37c"
+  },
+  "/docs/models/random_walk-f0a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-random-walk-992-593"
   },
   "/docs/models/rkmf-095": {
     "component": "component---theme-doc-item-178-a40",
