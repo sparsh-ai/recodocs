@@ -2,7 +2,7 @@
 
 The doubly robust technique combines the direct method with inverse propensity scores. An intuitive way to think about it is to consider that it uses the predicted rewards from the direct method, and if there is additional information (i.e. exploration and target policy actions match) then the inverse propensity score correction is applied. This is illustrated below.
 
-<p><center><img src='https://github.com/recohut/ope-rec/raw/ded0ee7c461d3ddfaf0b136d19189f6eb89af26e/docs/_images/C235655_1.png'></center></p>
+<p><center><img src='https://github.com/recohut/ope-rec/raw/ded0ee7c461d3ddfaf0b136d19189f6eb89af26e/docs/_images/C235655_1.png'/></center></p>
 
 This technique is doubly robust, because if either the direct method or the inverse propensity score component is accurate, then the final reward estimate is accurate.
 
@@ -28,4 +28,4 @@ where, $\hat{r}(x_k,\nu) = \sum_{\alpha \in \mathcal{A}}{\nu(a\vert x_k)}\hat{r}
 
 In the formula above you can see that the doubly robust method takes the direct method and applies a correction based on the action distribution mismatch and reward model prediction error. If the reward model prediction error is 0 on a specific sample, then the entire second term cancels out and you are simply left with the direct method. As the doubly robust paper puts it, “…the doubly robust estimator uses [the reward model] as a baseline and if there is data available, a correction is applied”.
 
-<p><center><img src='https://github.com/recohut/ope-rec/raw/ded0ee7c461d3ddfaf0b136d19189f6eb89af26e/docs/_images/C235655_2.png'></center></p>
+<p><center><img src='https://github.com/recohut/ope-rec/raw/ded0ee7c461d3ddfaf0b136d19189f6eb89af26e/docs/_images/C235655_2.png'/></center></p>
