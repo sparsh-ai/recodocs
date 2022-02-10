@@ -1,7 +1,7 @@
 {
   "unversionedId": "tools/tools",
   "id": "tools/tools",
-  "title": "tools",
+  "title": "Tools",
   "description": "In the following sections, we will more systematically introduce the following tools:",
   "source": "@site/docs/tools/tools.mdx",
   "sourceDirName": "tools",

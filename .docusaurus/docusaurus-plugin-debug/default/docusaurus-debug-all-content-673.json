@@ -33,7 +33,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "concept-basics",
+                "title": "Concept - Basics",
                 "permalink": "/docs/concept-basics/"
               },
               "next": {
@@ -44,7 +44,7 @@
             {
               "unversionedId": "concept-basics/concept-basics",
               "id": "concept-basics/concept-basics",
-              "title": "concept-basics",
+              "title": "Concept - Basics",
               "description": "In the following sections, we will more systematically introduce the following concepts:",
               "source": "@site/docs/concept-basics/concept-basics.mdx",
               "sourceDirName": "concept-basics",
@@ -198,7 +198,7 @@
                 "permalink": "/docs/concept-basics/tasks"
               },
               "next": {
-                "title": "concept-extras",
+                "title": "Concept - Extras",
                 "permalink": "/docs/concept-extras/"
               }
             },
@@ -217,7 +217,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "concept-extras",
+                "title": "Concept - Extras",
                 "permalink": "/docs/concept-extras/"
               },
               "next": {
@@ -320,7 +320,7 @@
             {
               "unversionedId": "concept-extras/concept-extras",
               "id": "concept-extras/concept-extras",
-              "title": "concept-extras",
+              "title": "Concept - Extras",
               "description": "In the following sections, we will more systematically introduce the following extra concepts:",
               "source": "@site/docs/concept-extras/concept-extras.mdx",
               "sourceDirName": "concept-extras",
@@ -1646,7 +1646,7 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "concept-basics",
+                "title": "Concept - Basics",
                 "permalink": "/docs/concept-basics/"
               }
             },
@@ -3869,7 +3869,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "tools",
+                "title": "Tools",
                 "permalink": "/docs/tools/"
               },
               "next": {
@@ -3903,7 +3903,7 @@
             {
               "unversionedId": "tools/tools",
               "id": "tools/tools",
-              "title": "tools",
+              "title": "Tools",
               "description": "In the following sections, we will more systematically introduce the following tools:",
               "source": "@site/docs/tools/tools.mdx",
               "sourceDirName": "tools",
@@ -4034,7 +4034,7 @@
                 "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
               },
               "next": {
-                "title": "tools",
+                "title": "Tools",
                 "permalink": "/docs/tools/"
               }
             },

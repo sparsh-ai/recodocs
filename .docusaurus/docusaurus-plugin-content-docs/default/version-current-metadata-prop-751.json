@@ -1114,7 +1114,7 @@
     },
     "concept-basics/concept-basics": {
       "id": "concept-basics/concept-basics",
-      "title": "concept-basics",
+      "title": "Concept - Basics",
       "description": "In the following sections, we will more systematically introduce the following concepts:",
       "sidebar": "tutorialSidebar"
     },
@@ -1186,7 +1186,7 @@
     },
     "concept-extras/concept-extras": {
       "id": "concept-extras/concept-extras",
-      "title": "concept-extras",
+      "title": "Concept - Extras",
       "description": "In the following sections, we will more systematically introduce the following extra concepts:",
       "sidebar": "tutorialSidebar"
     },
@@ -2122,7 +2122,7 @@
     },
     "tools/tools": {
       "id": "tools/tools",
-      "title": "tools",
+      "title": "Tools",
       "description": "In the following sections, we will more systematically introduce the following tools:",
       "sidebar": "tutorialSidebar"
     },
