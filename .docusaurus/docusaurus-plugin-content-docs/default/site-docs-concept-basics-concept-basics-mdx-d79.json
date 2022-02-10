@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-basics/concept-basics",
+  "id": "concept-basics/concept-basics",
+  "title": "concept-basics",
+  "description": "In the following sections, we will more systematically introduce the following concepts:",
+  "source": "@site/docs/concept-basics/concept-basics.mdx",
+  "sourceDirName": "concept-basics",
+  "slug": "/concept-basics/",
+  "permalink": "/docs/concept-basics/",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/concept-basics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Challenges",
+    "permalink": "/docs/concept-basics/challenges"
+  }
+}

@@ -1,5 +1,14 @@
 # Models
 
+In the following sections, we will more systematically introduce the following models:
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+```
+
 ## CTR Prediction Models
 
 In the early stage of recommendation systems, people spent much time on tedious and onerous feature engineering. At that time, the dimensions of the raw features are relatively small, which makes it possible to implement different combinations of raw features. The newly created features are then fed into a shallow model, such as Logistic Regression (LR) and Gradient Boosting Decision Trees (GBDT) are widely used in CTR prediction. Then, Factorization Machine (FM) transforms the learning of users and items features into a small, shared vector shape. Based on the above method, Field-aware and Field-weighted FM (FFM) further consider the different impact of the fields that a feature belongs to in order to improve the performance of CTR prediction. Along this line, Attentional Factorization Machines (AFM) are proposed to automatically learn weights of deep cross-features and Neural Factorization Machines (NFM) enhances FMs by modelling higher-order and non-linear feature interactions.

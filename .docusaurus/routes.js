@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog','b52'),
     exact: true
@@ -310,8 +345,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','ce3'),
+    component: ComponentCreator('/docs','2fe'),
     routes: [
+      {
+        path: '/docs/concept-basics/',
+        component: ComponentCreator('/docs/concept-basics/','54d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/concept-basics/challenges',
         component: ComponentCreator('/docs/concept-basics/challenges','3e1'),
@@ -351,6 +392,12 @@ export default [
       {
         path: '/docs/concept-basics/types-of-recommender-systems',
         component: ComponentCreator('/docs/concept-basics/types-of-recommender-systems','5b7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/',
+        component: ComponentCreator('/docs/concept-extras/','035'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -728,7 +775,7 @@ export default [
       },
       {
         path: '/docs/models/',
-        component: ComponentCreator('/docs/models/','0c1'),
+        component: ComponentCreator('/docs/models/','cfa'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -1299,6 +1346,12 @@ export default [
       {
         path: '/docs/projects',
         component: ComponentCreator('/docs/projects','c4a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tools/',
+        component: ComponentCreator('/docs/tools/','7d4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/tools",
+  "id": "tools/tools",
+  "title": "tools",
+  "description": "In the following sections, we will more systematically introduce the following tools:",
+  "source": "@site/docs/tools/tools.mdx",
+  "sourceDirName": "tools",
+  "slug": "/tools/",
+  "permalink": "/docs/tools/",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tools/tools.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+    "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+  },
+  "next": {
+    "title": "OBP",
+    "permalink": "/docs/tools/obp"
+  }
+}

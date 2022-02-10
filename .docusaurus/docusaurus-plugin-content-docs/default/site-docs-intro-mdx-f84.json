@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Challenges",
-    "permalink": "/docs/concept-basics/challenges"
+    "title": "concept-basics",
+    "permalink": "/docs/concept-basics/"
   }
 }

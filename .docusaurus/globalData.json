@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-basics/concept-basics",
+              "path": "/docs/concept-basics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-basics/evaluation",
               "path": "/docs/concept-basics/evaluation",
               "sidebar": "tutorialSidebar"
@@ -68,6 +73,11 @@
             {
               "id": "concept-extras/cold-start",
               "path": "/docs/concept-extras/cold-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/concept-extras",
+              "path": "/docs/concept-extras/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -843,6 +853,11 @@
             {
               "id": "tools/river",
               "path": "/docs/tools/river",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/tools",
+              "path": "/docs/tools/",
               "sidebar": "tutorialSidebar"
             },
             {

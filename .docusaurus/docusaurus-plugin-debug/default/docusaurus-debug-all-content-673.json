@@ -33,12 +33,35 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/intro"
+                "title": "concept-basics",
+                "permalink": "/docs/concept-basics/"
               },
               "next": {
                 "title": "Evaluation",
                 "permalink": "/docs/concept-basics/evaluation"
+              }
+            },
+            {
+              "unversionedId": "concept-basics/concept-basics",
+              "id": "concept-basics/concept-basics",
+              "title": "concept-basics",
+              "description": "In the following sections, we will more systematically introduce the following concepts:",
+              "source": "@site/docs/concept-basics/concept-basics.mdx",
+              "sourceDirName": "concept-basics",
+              "slug": "/concept-basics/",
+              "permalink": "/docs/concept-basics/",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-basics/concept-basics.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Challenges",
+                "permalink": "/docs/concept-basics/challenges"
               }
             },
             {
@@ -175,8 +198,8 @@
                 "permalink": "/docs/concept-basics/tasks"
               },
               "next": {
-                "title": "Amazon Personalize",
-                "permalink": "/docs/concept-extras/amazon-personalize"
+                "title": "concept-extras",
+                "permalink": "/docs/concept-extras/"
               }
             },
             {
@@ -194,8 +217,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Types of Recommender Systems",
-                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+                "title": "concept-extras",
+                "permalink": "/docs/concept-extras/"
               },
               "next": {
                 "title": "Apps",
@@ -292,6 +315,29 @@
               "next": {
                 "title": "Cross-domain",
                 "permalink": "/docs/concept-extras/cross-domain"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/concept-extras",
+              "id": "concept-extras/concept-extras",
+              "title": "concept-extras",
+              "description": "In the following sections, we will more systematically introduce the following extra concepts:",
+              "source": "@site/docs/concept-extras/concept-extras.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/",
+              "permalink": "/docs/concept-extras/",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/concept-extras.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Types of Recommender Systems",
+                "permalink": "/docs/concept-basics/types-of-recommender-systems"
+              },
+              "next": {
+                "title": "Amazon Personalize",
+                "permalink": "/docs/concept-extras/amazon-personalize"
               }
             },
             {
@@ -1600,8 +1646,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Challenges",
-                "permalink": "/docs/concept-basics/challenges"
+                "title": "concept-basics",
+                "permalink": "/docs/concept-basics/"
               }
             },
             {
@@ -2919,12 +2965,12 @@
               "unversionedId": "models/models",
               "id": "models/models",
               "title": "Models",
-              "description": "CTR Prediction Models",
-              "source": "@site/docs/models/models.md",
+              "description": "In the following sections, we will more systematically introduce the following models:",
+              "source": "@site/docs/models/models.mdx",
               "sourceDirName": "models",
               "slug": "/models/",
               "permalink": "/docs/models/",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/models/models.md",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/models.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -3823,8 +3869,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "TensorFlow 2 Reinforcement Learning Cookbook",
-                "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+                "title": "tools",
+                "permalink": "/docs/tools/"
               },
               "next": {
                 "title": "River",
@@ -3852,6 +3898,29 @@
               "next": {
                 "title": "Datasets",
                 "permalink": "/docs/datasets"
+              }
+            },
+            {
+              "unversionedId": "tools/tools",
+              "id": "tools/tools",
+              "title": "tools",
+              "description": "In the following sections, we will more systematically introduce the following tools:",
+              "source": "@site/docs/tools/tools.mdx",
+              "sourceDirName": "tools",
+              "slug": "/tools/",
+              "permalink": "/docs/tools/",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tools/tools.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+                "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+              },
+              "next": {
+                "title": "OBP",
+                "permalink": "/docs/tools/obp"
               }
             },
             {
@@ -3965,15 +4034,15 @@
                 "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
               },
               "next": {
-                "title": "OBP",
-                "permalink": "/docs/tools/obp"
+                "title": "tools",
+                "permalink": "/docs/tools/"
               }
             },
             {
               "unversionedId": "tutorials/tutorials",
               "id": "tutorials/tutorials",
               "title": "Tutorials",
-              "description": "Data pipeline",
+              "description": "In the following sections, we will more systematically introduce the following tutorials:",
               "source": "@site/docs/tutorials/tutorials.mdx",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/",
@@ -4033,7 +4102,11 @@
                     "type": "doc",
                     "id": "concept-basics/types-of-recommender-systems"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "concept-basics/concept-basics"
+                }
               },
               {
                 "type": "category",
@@ -4305,7 +4378,11 @@
                       }
                     ]
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "concept-extras/concept-extras"
+                }
               },
               {
                 "type": "category",
@@ -4741,7 +4818,11 @@
                     "type": "doc",
                     "id": "tools/river"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "tools/tools"
+                }
               },
               {
                 "type": "doc",
