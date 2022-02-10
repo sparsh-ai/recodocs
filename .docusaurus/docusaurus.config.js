@@ -5,7 +5,7 @@ export default {
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/logo.svg",
   "organizationName": "recohut",
   "projectName": "docs",
   "presets": [
@@ -78,12 +78,16 @@ export default {
               "to": "/docs/intro"
             },
             {
-              "label": "Notebooks",
-              "to": "https://nb.recohut.com/"
+              "label": "Concepts",
+              "to": "/docs/concept-basics"
             },
             {
-              "label": "Stories",
-              "to": "https://step.recohut.com/"
+              "label": "Tutorials",
+              "to": "/docs/tutorials"
+            },
+            {
+              "label": "Projects",
+              "to": "/docs/projects"
             }
           ]
         },
@@ -97,6 +101,14 @@ export default {
             {
               "label": "GitHub",
               "href": "https://github.com/recohut/docs"
+            },
+            {
+              "label": "Jupyter Notebooks",
+              "href": "https://nb.recohut.com/"
+            },
+            {
+              "label": "Interactive Stories",
+              "href": "https://step.recohut.com/"
             }
           ]
         }
