@@ -51,6 +51,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-extras/apps",
+              "path": "/docs/concept-extras/apps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-extras/bias-&-fairness",
               "path": "/docs/concept-extras/bias-&-fairness",
               "sidebar": "tutorialSidebar"
@@ -88,6 +93,11 @@
             {
               "id": "concept-extras/graph-embeddings",
               "path": "/docs/concept-extras/graph-embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept-extras/graph-networks",
+              "path": "/docs/concept-extras/graph-networks",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -188,11 +198,6 @@
             {
               "id": "concept-extras/nlp/transformers",
               "path": "/docs/concept-extras/nlp/transformers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "concept-extras/off-policy-learning",
-              "path": "/docs/concept-extras/off-policy-learning",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -793,6 +798,11 @@
             {
               "id": "models/tagnn-pp",
               "path": "/docs/models/tagnn-pp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/tgin",
+              "path": "/docs/models/tgin",
               "sidebar": "tutorialSidebar"
             },
             {

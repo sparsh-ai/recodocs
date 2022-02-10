@@ -305,12 +305,12 @@ export default [
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','be1'),
+    component: ComponentCreator('/markdown-page','0d8'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','33a'),
+    component: ComponentCreator('/docs','ce3'),
     routes: [
       {
         path: '/docs/concept-basics/challenges',
@@ -361,6 +361,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/concept-extras/apps',
+        component: ComponentCreator('/docs/concept-extras/apps','387'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/concept-extras/bias-&-fairness',
         component: ComponentCreator('/docs/concept-extras/bias-&-fairness','4a1'),
         exact: true,
@@ -404,7 +410,13 @@ export default [
       },
       {
         path: '/docs/concept-extras/graph-embeddings',
-        component: ComponentCreator('/docs/concept-extras/graph-embeddings','91f'),
+        component: ComponentCreator('/docs/concept-extras/graph-embeddings','e65'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-extras/graph-networks',
+        component: ComponentCreator('/docs/concept-extras/graph-networks','d44'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -529,12 +541,6 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/concept-extras/off-policy-learning',
-        component: ComponentCreator('/docs/concept-extras/off-policy-learning','29e'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/docs/concept-extras/offline-learning',
         component: ComponentCreator('/docs/concept-extras/offline-learning','743'),
         exact: true,
@@ -560,7 +566,7 @@ export default [
       },
       {
         path: '/docs/concept-extras/success-stories/alipay-ctr',
-        component: ComponentCreator('/docs/concept-extras/success-stories/alipay-ctr','27b'),
+        component: ComponentCreator('/docs/concept-extras/success-stories/alipay-ctr','379'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -1251,6 +1257,12 @@ export default [
       {
         path: '/docs/models/tagnn-pp',
         component: ComponentCreator('/docs/models/tagnn-pp','e79'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/models/tgin',
+        component: ComponentCreator('/docs/models/tgin','a56'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

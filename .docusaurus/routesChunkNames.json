@@ -623,11 +623,11 @@
     ],
     "metadata": "829ddb37"
   },
-  "/markdown-page-be1": {
+  "/markdown-page-0d8": {
     "component": "1f391b9e",
-    "content": "393be207"
+    "content": "4c678320"
   },
-  "/docs-33a": {
+  "/docs-ce3": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -663,6 +663,10 @@
     "component": "17896441",
     "content": "b114af35"
   },
+  "/docs/concept-extras/apps-387": {
+    "component": "17896441",
+    "content": "3364a0a7"
+  },
   "/docs/concept-extras/bias-&-fairness-4a1": {
     "component": "17896441",
     "content": "38879a8f"
@@ -691,9 +695,13 @@
     "component": "17896441",
     "content": "b0339283"
   },
-  "/docs/concept-extras/graph-embeddings-91f": {
+  "/docs/concept-extras/graph-embeddings-e65": {
     "component": "17896441",
-    "content": "d0f29458"
+    "content": "41fc1781"
+  },
+  "/docs/concept-extras/graph-networks-d44": {
+    "component": "17896441",
+    "content": "e1893f79"
   },
   "/docs/concept-extras/incremental-learning-a40": {
     "component": "17896441",
@@ -775,10 +783,6 @@
     "component": "17896441",
     "content": "08e0249a"
   },
-  "/docs/concept-extras/off-policy-learning-29e": {
-    "component": "17896441",
-    "content": "4a17e4a4"
-  },
   "/docs/concept-extras/offline-learning-743": {
     "component": "17896441",
     "content": "daae9272"
@@ -795,9 +799,9 @@
     "component": "17896441",
     "content": "afe99cf3"
   },
-  "/docs/concept-extras/success-stories/alipay-ctr-27b": {
+  "/docs/concept-extras/success-stories/alipay-ctr-379": {
     "component": "17896441",
-    "content": "d3dda431"
+    "content": "2bc56b97"
   },
   "/docs/concept-extras/success-stories/doordash-contextual-bandit-f89": {
     "component": "17896441",
@@ -1258,6 +1262,10 @@
   "/docs/models/tagnn-pp-e79": {
     "component": "17896441",
     "content": "597206b0"
+  },
+  "/docs/models/tgin-a56": {
+    "component": "17896441",
+    "content": "28190081"
   },
   "/docs/models/vncf-381": {
     "component": "17896441",

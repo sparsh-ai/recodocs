@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Graph Embeddings",
-    "permalink": "/docs/concept-extras/graph-embeddings"
+    "title": "Graph Networks",
+    "permalink": "/docs/concept-extras/graph-networks"
   },
   "next": {
     "title": "Jensen–Shannon divergence",

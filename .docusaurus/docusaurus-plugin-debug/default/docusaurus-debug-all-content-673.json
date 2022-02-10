@@ -198,6 +198,29 @@
                 "permalink": "/docs/concept-basics/types-of-recommender-systems"
               },
               "next": {
+                "title": "Apps",
+                "permalink": "/docs/concept-extras/apps"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/apps",
+              "id": "concept-extras/apps",
+              "title": "Apps",
+              "description": "Streamlit",
+              "source": "@site/docs/concept-extras/apps.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/apps",
+              "permalink": "/docs/concept-extras/apps",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/apps.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Amazon Personalize",
+                "permalink": "/docs/concept-extras/amazon-personalize"
+              },
+              "next": {
                 "title": "Bias & Fairness",
                 "permalink": "/docs/concept-extras/bias-&-fairness"
               }
@@ -217,8 +240,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Amazon Personalize",
-                "permalink": "/docs/concept-extras/amazon-personalize"
+                "title": "Apps",
+                "permalink": "/docs/concept-extras/apps"
               },
               "next": {
                 "title": "Causal Inference",
@@ -368,11 +391,11 @@
               "id": "concept-extras/graph-embeddings",
               "title": "Graph Embeddings",
               "description": "Due to their nature, graphs can be analyzed at different levels of granularity: at the node, edge, and graph level (the whole graph), as depicted in the following figure. For each of those levels, different problems could be faced and, as a consequence, specific algorithms should be used.",
-              "source": "@site/docs/concept-extras/graph-embeddings.md",
+              "source": "@site/docs/concept-extras/graph-embeddings.mdx",
               "sourceDirName": "concept-extras",
               "slug": "/concept-extras/graph-embeddings",
               "permalink": "/docs/concept-extras/graph-embeddings",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/graph-embeddings.md",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/graph-embeddings.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -380,6 +403,29 @@
               "previous": {
                 "title": "Emerging Concepts in Recommender Systems",
                 "permalink": "/docs/concept-extras/emerging-concepts-in-recommender-systems"
+              },
+              "next": {
+                "title": "Graph Networks",
+                "permalink": "/docs/concept-extras/graph-networks"
+              }
+            },
+            {
+              "unversionedId": "concept-extras/graph-networks",
+              "id": "concept-extras/graph-networks",
+              "title": "Graph Networks",
+              "description": "Item-Item Co-Occurrence Graph",
+              "source": "@site/docs/concept-extras/graph-networks.mdx",
+              "sourceDirName": "concept-extras",
+              "slug": "/concept-extras/graph-networks",
+              "permalink": "/docs/concept-extras/graph-networks",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/graph-networks.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Graph Embeddings",
+                "permalink": "/docs/concept-extras/graph-embeddings"
               },
               "next": {
                 "title": "Incremental Learning",
@@ -401,8 +447,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Graph Embeddings",
-                "permalink": "/docs/concept-extras/graph-embeddings"
+                "title": "Graph Networks",
+                "permalink": "/docs/concept-extras/graph-networks"
               },
               "next": {
                 "title": "Jensen–Shannon divergence",
@@ -589,8 +635,8 @@
                 "permalink": "/docs/concept-extras/multi-task-learning"
               },
               "next": {
-                "title": "off-policy-learning",
-                "permalink": "/docs/concept-extras/off-policy-learning"
+                "title": "Off-Policy Learning",
+                "permalink": "/docs/concept-extras/offline-learning"
               }
             },
             {
@@ -847,29 +893,6 @@
               }
             },
             {
-              "unversionedId": "concept-extras/off-policy-learning",
-              "id": "concept-extras/off-policy-learning",
-              "title": "off-policy-learning",
-              "description": "",
-              "source": "@site/docs/concept-extras/off-policy-learning.mdx",
-              "sourceDirName": "concept-extras",
-              "slug": "/concept-extras/off-policy-learning",
-              "permalink": "/docs/concept-extras/off-policy-learning",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/off-policy-learning.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Multi-task Learning",
-                "permalink": "/docs/concept-extras/multitask-learning"
-              },
-              "next": {
-                "title": "Off-Policy Learning",
-                "permalink": "/docs/concept-extras/offline-learning"
-              }
-            },
-            {
               "unversionedId": "concept-extras/offline-learning",
               "id": "concept-extras/offline-learning",
               "title": "Off-Policy Learning",
@@ -884,8 +907,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "off-policy-learning",
-                "permalink": "/docs/concept-extras/off-policy-learning"
+                "title": "Multi-task Learning",
+                "permalink": "/docs/concept-extras/multitask-learning"
               },
               "next": {
                 "title": "Scalarization",
@@ -957,20 +980,20 @@
                 "permalink": "/docs/concept-extras/success-stories/1mg-prod2vec"
               },
               "next": {
-                "title": "Alipay CTR",
+                "title": "Alibaba",
                 "permalink": "/docs/concept-extras/success-stories/alipay-ctr"
               }
             },
             {
               "unversionedId": "concept-extras/success-stories/alipay-ctr",
               "id": "concept-extras/success-stories/alipay-ctr",
-              "title": "Alipay CTR",
-              "description": "An online A/B testing was conducted in the production environment of Alipay for 10 days. The candidate items recommended to users include cash reward, coupons, prizes and member credits. The goal is to increase the CTR of the candidate items while constraining the total cost due to limited budget. The recommendation system serves at the scale of tens of millions of users in real traffic, hence the traffic is very expensive in the business view.",
-              "source": "@site/docs/concept-extras/success-stories/alipay-ctr.md",
+              "title": "Alibaba",
+              "description": "Alipay CTR",
+              "source": "@site/docs/concept-extras/success-stories/alipay-ctr.mdx",
               "sourceDirName": "concept-extras/success-stories",
               "slug": "/concept-extras/success-stories/alipay-ctr",
               "permalink": "/docs/concept-extras/success-stories/alipay-ctr",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/success-stories/alipay-ctr.md",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/success-stories/alipay-ctr.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -999,7 +1022,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Alipay CTR",
+                "title": "Alibaba",
                 "permalink": "/docs/concept-extras/success-stories/alipay-ctr"
               },
               "next": {
@@ -3601,8 +3624,8 @@
                 "permalink": "/docs/models/tagnn-pp"
               },
               "next": {
-                "title": "VNCF",
-                "permalink": "/docs/models/vncf"
+                "title": "TGIN",
+                "permalink": "/docs/models/tgin"
               }
             },
             {
@@ -3629,6 +3652,29 @@
               }
             },
             {
+              "unversionedId": "models/tgin",
+              "id": "models/tgin",
+              "title": "TGIN",
+              "description": "Jiang et. al., “Triangle Graph Interest Network for Click-through Rate Prediction”. WSDM, 2022.",
+              "source": "@site/docs/models/tgin.mdx",
+              "sourceDirName": "models",
+              "slug": "/models/tgin",
+              "permalink": "/docs/models/tgin",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/models/tgin.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TAGNN",
+                "permalink": "/docs/models/tagnn"
+              },
+              "next": {
+                "title": "VNCF",
+                "permalink": "/docs/models/vncf"
+              }
+            },
+            {
               "unversionedId": "models/vncf",
               "id": "models/vncf",
               "title": "VNCF",
@@ -3643,8 +3689,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "TAGNN",
-                "permalink": "/docs/models/tagnn"
+                "title": "TGIN",
+                "permalink": "/docs/models/tgin"
               },
               "next": {
                 "title": "VSKNN",
@@ -4001,6 +4047,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "concept-extras/apps"
+                  },
+                  {
+                    "type": "doc",
                     "id": "concept-extras/bias-&-fairness"
                   },
                   {
@@ -4030,6 +4080,10 @@
                   {
                     "type": "doc",
                     "id": "concept-extras/graph-embeddings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concept-extras/graph-networks"
                   },
                   {
                     "type": "doc",
@@ -4066,10 +4120,6 @@
                   {
                     "type": "doc",
                     "id": "concept-extras/multitask-learning"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "concept-extras/off-policy-learning"
                   },
                   {
                     "type": "doc",
@@ -4614,6 +4664,10 @@
                   {
                     "type": "doc",
                     "id": "models/tagnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "models/tgin"
                   },
                   {
                     "type": "doc",
@@ -6234,7 +6288,7 @@
       {
         "type": "mdx",
         "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md"
+        "source": "@site/src/pages/markdown-page.mdx"
       }
     ]
   },

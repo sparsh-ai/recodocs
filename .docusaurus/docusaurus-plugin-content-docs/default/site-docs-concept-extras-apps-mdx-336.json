@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/apps",
+  "id": "concept-extras/apps",
+  "title": "Apps",
+  "description": "Streamlit",
+  "source": "@site/docs/concept-extras/apps.mdx",
+  "sourceDirName": "concept-extras",
+  "slug": "/concept-extras/apps",
+  "permalink": "/docs/concept-extras/apps",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/apps.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amazon Personalize",
+    "permalink": "/docs/concept-extras/amazon-personalize"
+  },
+  "next": {
+    "title": "Bias & Fairness",
+    "permalink": "/docs/concept-extras/bias-&-fairness"
+  }
+}

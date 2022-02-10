@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "TAGNN",
-    "permalink": "/docs/models/tagnn"
+    "title": "TGIN",
+    "permalink": "/docs/models/tgin"
   },
   "next": {
     "title": "VSKNN",

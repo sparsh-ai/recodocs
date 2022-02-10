@@ -76,19 +76,14 @@ export default {
             {
               "label": "Introduction",
               "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Notebooks",
+              "to": "https://nb.recohut.com/"
+            },
+            {
+              "label": "Stories",
+              "to": "https://step.recohut.com/"
             }
           ]
         },

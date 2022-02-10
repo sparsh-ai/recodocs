@@ -17,7 +17,7 @@
     "permalink": "/docs/concept-extras/multi-task-learning"
   },
   "next": {
-    "title": "off-policy-learning",
-    "permalink": "/docs/concept-extras/off-policy-learning"
+    "title": "Off-Policy Learning",
+    "permalink": "/docs/concept-extras/offline-learning"
   }
 }

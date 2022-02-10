@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Amazon Personalize",
-    "permalink": "/docs/concept-extras/amazon-personalize"
+    "title": "Apps",
+    "permalink": "/docs/concept-extras/apps"
   },
   "next": {
     "title": "Causal Inference",

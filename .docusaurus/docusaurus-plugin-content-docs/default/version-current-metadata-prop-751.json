@@ -78,6 +78,12 @@
           },
           {
             "type": "link",
+            "label": "Apps",
+            "href": "/docs/concept-extras/apps",
+            "docId": "concept-extras/apps"
+          },
+          {
+            "type": "link",
             "label": "Bias & Fairness",
             "href": "/docs/concept-extras/bias-&-fairness",
             "docId": "concept-extras/bias-&-fairness"
@@ -123,6 +129,12 @@
             "label": "Graph Embeddings",
             "href": "/docs/concept-extras/graph-embeddings",
             "docId": "concept-extras/graph-embeddings"
+          },
+          {
+            "type": "link",
+            "label": "Graph Networks",
+            "href": "/docs/concept-extras/graph-networks",
+            "docId": "concept-extras/graph-networks"
           },
           {
             "type": "link",
@@ -177,12 +189,6 @@
             "label": "Multi-task Learning",
             "href": "/docs/concept-extras/multitask-learning",
             "docId": "concept-extras/multitask-learning"
-          },
-          {
-            "type": "link",
-            "label": "off-policy-learning",
-            "href": "/docs/concept-extras/off-policy-learning",
-            "docId": "concept-extras/off-policy-learning"
           },
           {
             "type": "link",
@@ -290,7 +296,7 @@
               },
               {
                 "type": "link",
-                "label": "Alipay CTR",
+                "label": "Alibaba",
                 "href": "/docs/concept-extras/success-stories/alipay-ctr",
                 "docId": "concept-extras/success-stories/alipay-ctr"
               },
@@ -986,6 +992,12 @@
           },
           {
             "type": "link",
+            "label": "TGIN",
+            "href": "/docs/models/tgin",
+            "docId": "models/tgin"
+          },
+          {
+            "type": "link",
             "label": "VNCF",
             "href": "/docs/models/vncf",
             "docId": "models/vncf"
@@ -1139,6 +1151,12 @@
       "description": "This page is a random dump of my notes on Amazon Personalize. Proceed accordingly.",
       "sidebar": "tutorialSidebar"
     },
+    "concept-extras/apps": {
+      "id": "concept-extras/apps",
+      "title": "Apps",
+      "description": "Streamlit",
+      "sidebar": "tutorialSidebar"
+    },
     "concept-extras/bias-&-fairness": {
       "id": "concept-extras/bias-&-fairness",
       "title": "Bias & Fairness",
@@ -1185,6 +1203,12 @@
       "id": "concept-extras/graph-embeddings",
       "title": "Graph Embeddings",
       "description": "Due to their nature, graphs can be analyzed at different levels of granularity: at the node, edge, and graph level (the whole graph), as depicted in the following figure. For each of those levels, different problems could be faced and, as a consequence, specific algorithms should be used.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-extras/graph-networks": {
+      "id": "concept-extras/graph-networks",
+      "title": "Graph Networks",
+      "description": "Item-Item Co-Occurrence Graph",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/incremental-learning": {
@@ -1307,12 +1331,6 @@
       "description": "The old, obsolete, 1980 architecture of Recurrent Neural Networks(RNNs) including the LSTMs were simply not producing good results anymore. In less than two years, transformer models wiped RNNs off the map and even outperformed human baselines for many tasks.",
       "sidebar": "tutorialSidebar"
     },
-    "concept-extras/off-policy-learning": {
-      "id": "concept-extras/off-policy-learning",
-      "title": "off-policy-learning",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "concept-extras/offline-learning": {
       "id": "concept-extras/offline-learning",
       "title": "Off-Policy Learning",
@@ -1339,8 +1357,8 @@
     },
     "concept-extras/success-stories/alipay-ctr": {
       "id": "concept-extras/success-stories/alipay-ctr",
-      "title": "Alipay CTR",
-      "description": "An online A/B testing was conducted in the production environment of Alipay for 10 days. The candidate items recommended to users include cash reward, coupons, prizes and member credits. The goal is to increase the CTR of the candidate items while constraining the total cost due to limited budget. The recommendation system serves at the scale of tens of millions of users in real traffic, hence the traffic is very expensive in the business view.",
+      "title": "Alibaba",
+      "description": "Alipay CTR",
       "sidebar": "tutorialSidebar"
     },
     "concept-extras/success-stories/doordash-contextual-bandit": {
@@ -2031,6 +2049,12 @@
       "id": "models/tagnn-pp",
       "title": "TAGNN-PP",
       "description": "TAGNN-PP models item interactions with GNN, and both local and global user interactions with  a Transformer.",
+      "sidebar": "tutorialSidebar"
+    },
+    "models/tgin": {
+      "id": "models/tgin",
+      "title": "TGIN",
+      "description": "Jiang et. al., “Triangle Graph Interest Network for Click-through Rate Prediction”. WSDM, 2022.",
       "sidebar": "tutorialSidebar"
     },
     "models/vncf": {

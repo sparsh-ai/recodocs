@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "off-policy-learning",
-    "permalink": "/docs/concept-extras/off-policy-learning"
+    "title": "Multi-task Learning",
+    "permalink": "/docs/concept-extras/multitask-learning"
   },
   "next": {
     "title": "Scalarization",

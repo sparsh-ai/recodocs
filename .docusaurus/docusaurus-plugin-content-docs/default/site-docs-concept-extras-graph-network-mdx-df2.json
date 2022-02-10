@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept-extras/graph-network",
+  "id": "concept-extras/graph-network",
+  "title": "graph-network",
+  "description": "",
+  "source": "@site/docs/concept-extras/graph-network.mdx",
+  "sourceDirName": "concept-extras",
+  "slug": "/concept-extras/graph-network",
+  "permalink": "/docs/concept-extras/graph-network",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/concept-extras/graph-network.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Embeddings",
+    "permalink": "/docs/concept-extras/graph-embeddings"
+  },
+  "next": {
+    "title": "Incremental Learning",
+    "permalink": "/docs/concept-extras/incremental-learning"
+  }
+}

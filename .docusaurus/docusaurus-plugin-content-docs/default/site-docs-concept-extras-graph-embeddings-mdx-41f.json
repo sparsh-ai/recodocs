@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Types of Recommender Systems",
-    "permalink": "/docs/concept-basics/types-of-recommender-systems"
+    "title": "Emerging Concepts in Recommender Systems",
+    "permalink": "/docs/concept-extras/emerging-concepts-in-recommender-systems"
   },
   "next": {
-    "title": "Incremental Learning",
-    "permalink": "/docs/concept-extras/incremental-learning"
+    "title": "Graph Networks",
+    "permalink": "/docs/concept-extras/graph-networks"
   }
 }

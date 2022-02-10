@@ -99,18 +99,13 @@ const config = {
                 label: 'Introduction',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Notebooks',
+                to: 'https://nb.recohut.com/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Stories',
+                to: 'https://step.recohut.com/',
               },
             ],
           },
