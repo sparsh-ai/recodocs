@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/multi-task-learning-on-ml-k-in-tfrs",
+  "id": "tutorials/multi-task-learning-on-ml-k-in-tfrs",
+  "title": "multi-task-learning-on-ml-k-in-tfrs",
+  "description": "In the basic retrieval tutorial we built a retrieval system using movie watches as positive interaction signals.",
+  "source": "@site/docs/tutorials/multi-task-learning-on-ml-k-in-tfrs.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/multi-task-learning-on-ml-k-in-tfrs",
+  "permalink": "/docs/tutorials/multi-task-learning-on-ml-k-in-tfrs",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/multi-task-learning-on-ml-k-in-tfrs.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multi-task-learning-income-census-data",
+    "permalink": "/docs/tutorials/multi-task-learning-income-census-data"
+  },
+  "next": {
+    "title": "multi-task-learning",
+    "permalink": "/docs/tutorials/multi-task-learning"
+  }
+}

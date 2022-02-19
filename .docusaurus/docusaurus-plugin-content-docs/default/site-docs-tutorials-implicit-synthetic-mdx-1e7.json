@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/implicit-synthetic",
+  "id": "tutorials/implicit-synthetic",
+  "title": "implicit-synthetic",
+  "description": "Generating a small synthetic implicit data with Gamma distributed interaction and fitting ALS, BPR, PoissonMF, and HPFRec models",
+  "source": "@site/docs/tutorials/implicit-synthetic.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/implicit-synthetic",
+  "permalink": "/docs/tutorials/implicit-synthetic",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/implicit-synthetic.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "implicit-recommendation",
+    "permalink": "/docs/tutorials/implicit-recommendation"
+  },
+  "next": {
+    "title": "importance-sampling",
+    "permalink": "/docs/tutorials/importance-sampling"
+  }
+}

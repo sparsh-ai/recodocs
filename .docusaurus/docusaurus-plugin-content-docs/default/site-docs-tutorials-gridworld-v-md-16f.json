@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/gridworld-v",
+  "id": "tutorials/gridworld-v",
+  "title": "gridworld-v",
+  "description": "---",
+  "source": "@site/docs/tutorials/gridworld-v.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gridworld-v",
+  "permalink": "/docs/tutorials/gridworld-v",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gridworld-v.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gridworld-td",
+    "permalink": "/docs/tutorials/gridworld-td"
+  },
+  "next": {
+    "title": "grocery-recommendation-using-graph-network",
+    "permalink": "/docs/tutorials/grocery-recommendation-using-graph-network"
+  }
+}

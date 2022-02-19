@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/ncf-from-scratch-pytorch",
+  "id": "tutorials/ncf-from-scratch-pytorch",
+  "title": "ncf-from-scratch-pytorch",
+  "description": "Building neural collaborative filtering model from scratch in pytorch and plotting movielens rating matrix before and after rating prediction",
+  "source": "@site/docs/tutorials/ncf-from-scratch-pytorch.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ncf-from-scratch-pytorch",
+  "permalink": "/docs/tutorials/ncf-from-scratch-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ncf-from-scratch-pytorch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 2",
+        "language": "python",
+        "name": "python2"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "name-address-parsing",
+    "permalink": "/docs/tutorials/name-address-parsing"
+  },
+  "next": {
+    "title": "ncf-movielens-tensorflow",
+    "permalink": "/docs/tutorials/ncf-movielens-tensorflow"
+  }
+}

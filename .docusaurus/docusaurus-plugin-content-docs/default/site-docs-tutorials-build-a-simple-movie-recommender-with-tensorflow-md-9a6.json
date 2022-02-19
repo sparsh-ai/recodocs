@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/build-a-simple-movie-recommender-with-tensorflow",
+  "id": "tutorials/build-a-simple-movie-recommender-with-tensorflow",
+  "title": "A simple recommender with tensorflow",
+  "description": "A tutorial on how to build a simple deep learning based movie recommender using tensorflow library.",
+  "source": "@site/docs/tutorials/build-a-simple-movie-recommender-with-tensorflow.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/build-a-simple-movie-recommender-with-tensorflow",
+  "permalink": "/docs/tutorials/build-a-simple-movie-recommender-with-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/build-a-simple-movie-recommender-with-tensorflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "build-a-kubeflow-pipeline",
+    "permalink": "/docs/tutorials/build-a-kubeflow-pipeline"
+  },
+  "next": {
+    "title": "building-a-simple-gridworld-environment",
+    "permalink": "/docs/tutorials/building-a-simple-gridworld-environment"
+  }
+}

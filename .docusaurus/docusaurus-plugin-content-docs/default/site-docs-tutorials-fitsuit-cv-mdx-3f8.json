@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/fitsuit-cv",
+  "id": "tutorials/fitsuit-cv",
+  "title": "fitsuit-cv",
+  "description": "Installing PoseNet",
+  "source": "@site/docs/tutorials/fitsuit-cv.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/fitsuit-cv",
+  "permalink": "/docs/tutorials/fitsuit-cv",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/fitsuit-cv.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "finding-the-winning-strategy-in-a-sum-card-game",
+    "permalink": "/docs/tutorials/finding-the-winning-strategy-in-a-sum-card-game"
+  },
+  "next": {
+    "title": "flower-classification",
+    "permalink": "/docs/tutorials/flower-classification"
+  }
+}

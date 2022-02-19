@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/simulating-data-poisoning-attacks-against-twitter-recommender",
+  "id": "tutorials/simulating-data-poisoning-attacks-against-twitter-recommender",
+  "title": "simulating-data-poisoning-attacks-against-twitter-recommender",
+  "description": "This tutorial details experiments designed to simulate attacks against social network recommendation mechanisms, and evaluate their effectiveness. All experiments documented here follow the procedure outlined below:",
+  "source": "@site/docs/tutorials/simulating-data-poisoning-attacks-against-twitter-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/simulating-data-poisoning-attacks-against-twitter-recommender",
+  "permalink": "/docs/tutorials/simulating-data-poisoning-attacks-against-twitter-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/simulating-data-poisoning-attacks-against-twitter-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "simplex-mf",
+    "permalink": "/docs/tutorials/simplex-mf"
+  },
+  "next": {
+    "title": "siren-on-ml-m-in-pytorch",
+    "permalink": "/docs/tutorials/siren-on-ml-m-in-pytorch"
+  }
+}

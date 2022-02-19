@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/face-analytics",
+  "id": "tutorials/face-analytics",
+  "title": "Face Analytics",
+  "description": "Face Recognition with FaceNet (Keras)",
+  "source": "@site/docs/tutorials/face-analytics.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/face-analytics",
+  "permalink": "/docs/tutorials/face-analytics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/face-analytics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "exploring-multi-objective-hyperparameter-optimization",
+    "permalink": "/docs/tutorials/exploring-multi-objective-hyperparameter-optimization"
+  },
+  "next": {
+    "title": "face-detection-dlib-mtcnn",
+    "permalink": "/docs/tutorials/face-detection-dlib-mtcnn"
+  }
+}

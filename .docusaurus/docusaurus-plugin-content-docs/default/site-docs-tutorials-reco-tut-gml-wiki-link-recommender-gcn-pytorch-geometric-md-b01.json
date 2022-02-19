@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+  "id": "tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+  "title": "reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+  "description": "Data loading",
+  "source": "@site/docs/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+  "permalink": "/docs/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-fp-data-model",
+    "permalink": "/docs/tutorials/reco-tut-fp-data-model"
+  },
+  "next": {
+    "title": "reco-tut-itr-data-ingestion",
+    "permalink": "/docs/tutorials/reco-tut-itr-data-ingestion"
+  }
+}

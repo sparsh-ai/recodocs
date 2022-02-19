@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/tanp-cold-start-recommender-on-lastfm-dataset",
+  "id": "tutorials/tanp-cold-start-recommender-on-lastfm-dataset",
+  "title": "tanp-cold-start-recommender-on-lastfm-dataset",
+  "description": "Recent studies seek to address this challenge from the perspective of meta learning, and most of them follow a manner of parameter initialization, where the model parameters can be learned by a few steps of gradient updates. While these gradient-based meta-learning models achieve promising performances to some extent, a fundamental problem of them is how to adapt the global knowledge learned from previous tasks for the recommendations of cold-start users more effectively.",
+  "source": "@site/docs/tutorials/tanp-cold-start-recommender-on-lastfm-dataset.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tanp-cold-start-recommender-on-lastfm-dataset",
+  "permalink": "/docs/tutorials/tanp-cold-start-recommender-on-lastfm-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tanp-cold-start-recommender-on-lastfm-dataset.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tagnnpp",
+    "permalink": "/docs/tutorials/tagnnpp"
+  },
+  "next": {
+    "title": "taxi-qlearning",
+    "permalink": "/docs/tutorials/taxi-qlearning"
+  }
+}

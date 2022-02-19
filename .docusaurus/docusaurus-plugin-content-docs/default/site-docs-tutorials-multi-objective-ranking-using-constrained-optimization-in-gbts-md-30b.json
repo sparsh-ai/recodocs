@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts",
+  "id": "tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts",
+  "title": "multi-objective-ranking-using-constrained-optimization-in-gbts",
+  "description": "This method is inspired by Multi-objective Ranking via Constrained Optimization which introduces multi-objective optimization in Search by incorporating constrained optimization in LambdaMART, a popular LTR algorithm.",
+  "source": "@site/docs/tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts",
+  "permalink": "/docs/tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Itempop and two-stage recommender on MTS data",
+    "permalink": "/docs/tutorials/mts"
+  },
+  "next": {
+    "title": "multi-task-learning-income-census-data",
+    "permalink": "/docs/tutorials/multi-task-learning-income-census-data"
+  }
+}

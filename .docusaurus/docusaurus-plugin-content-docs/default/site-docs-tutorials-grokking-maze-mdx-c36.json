@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/grokking-maze",
+  "id": "tutorials/grokking-maze",
+  "title": "Grokking AI Algorithms - Maze",
+  "description": "Define the Maze",
+  "source": "@site/docs/tutorials/grokking-maze.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/grokking-maze",
+  "permalink": "/docs/tutorials/grokking-maze",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/grokking-maze.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "grocery-recommendation-using-graph-network",
+    "permalink": "/docs/tutorials/grocery-recommendation-using-graph-network"
+  },
+  "next": {
+    "title": "group-data",
+    "permalink": "/docs/tutorials/group-data"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/text-summarization-bart-dashplotly",
+  "id": "tutorials/text-summarization-bart-dashplotly",
+  "title": "text-summarization-bart-dashplotly",
+  "description": "To start this Jupyter Dash app, please run all the cells below. Then, click on the temporary URL at the end of the last cell to open the app.",
+  "source": "@site/docs/tutorials/text-summarization-bart-dashplotly.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/text-summarization-bart-dashplotly",
+  "permalink": "/docs/tutorials/text-summarization-bart-dashplotly",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/text-summarization-bart-dashplotly.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "text-summarisation",
+    "permalink": "/docs/tutorials/text-summarisation"
+  },
+  "next": {
+    "title": "textsum-playground-enronemail",
+    "permalink": "/docs/tutorials/textsum-playground-enronemail"
+  }
+}

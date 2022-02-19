@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-sor-t-eda",
+  "id": "tutorials/reco-tut-sor-t-eda",
+  "title": "reco-tut-sor-t-eda",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-sor-t-eda.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-sor-t-eda",
+  "permalink": "/docs/tutorials/reco-tut-sor-t-eda",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-sor-t-eda.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-sor-t-baseline",
+    "permalink": "/docs/tutorials/reco-tut-sor-t-baseline"
+  },
+  "next": {
+    "title": "reco-tut-sor-xgboost",
+    "permalink": "/docs/tutorials/reco-tut-sor-xgboost"
+  }
+}

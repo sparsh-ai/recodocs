@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/node-vec-edge-vec-and-graph-vec",
+  "id": "tutorials/node-vec-edge-vec-and-graph-vec",
+  "title": "node-vec-edge-vec-and-graph-vec",
+  "description": "Due to their nature, graphs can be analyzed at different levels of granularity: at the node, edge, and graph level (the whole graph), as depicted in the following figure. For each of those levels, different problems could be faced and, as a consequence, specific algorithms should be used.",
+  "source": "@site/docs/tutorials/node-vec-edge-vec-and-graph-vec.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/node-vec-edge-vec-and-graph-vec",
+  "permalink": "/docs/tutorials/node-vec-edge-vec-and-graph-vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/node-vec-edge-vec-and-graph-vec.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nms",
+    "permalink": "/docs/tutorials/nms"
+  },
+  "next": {
+    "title": "node-vec-in-pytorch-geometric-on-cora-dataset",
+    "permalink": "/docs/tutorials/node-vec-in-pytorch-geometric-on-cora-dataset"
+  }
+}

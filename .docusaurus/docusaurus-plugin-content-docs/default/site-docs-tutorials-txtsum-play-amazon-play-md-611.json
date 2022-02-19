@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/txtsum-play-amazon-play",
+  "id": "tutorials/txtsum-play-amazon-play",
+  "title": "txtsum-play-amazon-play",
+  "description": "Data preparation",
+  "source": "@site/docs/tutorials/txtsum-play-amazon-play.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/txtsum-play-amazon-play",
+  "permalink": "/docs/tutorials/txtsum-play-amazon-play",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/txtsum-play-amazon-play.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "twostage-retail",
+    "permalink": "/docs/tutorials/twostage-retail"
+  },
+  "next": {
+    "title": "udacity-abtest-python",
+    "permalink": "/docs/tutorials/udacity-abtest-python"
+  }
+}

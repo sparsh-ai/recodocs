@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/image-similarity-system",
+  "id": "tutorials/image-similarity-system",
+  "title": "image-similarity-system",
+  "description": "Recommending visually similar products is an important task in today's E-commerce recommender systems. In this tutorial, we will learn how to achieve this task using the latest tools and techniques.",
+  "source": "@site/docs/tutorials/image-similarity-system.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/image-similarity-system",
+  "permalink": "/docs/tutorials/image-similarity-system",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/image-similarity-system.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "image-similarity-recommendations",
+    "permalink": "/docs/tutorials/image-similarity-recommendations"
+  },
+  "next": {
+    "title": "Basic techniques for Image segmentation",
+    "permalink": "/docs/tutorials/img-seg"
+  }
+}

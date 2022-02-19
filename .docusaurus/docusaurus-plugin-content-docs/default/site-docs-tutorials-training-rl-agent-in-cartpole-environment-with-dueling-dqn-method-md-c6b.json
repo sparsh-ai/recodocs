@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+  "id": "tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+  "title": "training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+  "description": "---",
+  "source": "@site/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+  "permalink": "/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "training-rl-agent-in-cartpole-environment-with-dqn-method",
+    "permalink": "/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dqn-method"
+  },
+  "next": {
+    "title": "training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+    "permalink": "/docs/tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow"
+  }
+}

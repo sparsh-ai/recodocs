@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/feast",
+  "id": "tutorials/feast",
+  "title": "feast",
+  "description": "image.png",
+  "source": "@site/docs/tutorials/feast.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/feast",
+  "permalink": "/docs/tutorials/feast",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/feast.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Facebook Friend Recommender",
+    "permalink": "/docs/tutorials/fbfriend-recs"
+  },
+  "next": {
+    "title": "feature-selection-on-quantum-computer",
+    "permalink": "/docs/tutorials/feature-selection-on-quantum-computer"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/rl-sac",
+  "id": "tutorials/rl-sac",
+  "title": "rl-sac",
+  "description": "Implementing the RL agent’s runtime components",
+  "source": "@site/docs/tutorials/rl-sac.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/rl-sac",
+  "permalink": "/docs/tutorials/rl-sac",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/rl-sac.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rl-in-action",
+    "permalink": "/docs/tutorials/rl-in-action"
+  },
+  "next": {
+    "title": "rl-social",
+    "permalink": "/docs/tutorials/rl-social"
+  }
+}

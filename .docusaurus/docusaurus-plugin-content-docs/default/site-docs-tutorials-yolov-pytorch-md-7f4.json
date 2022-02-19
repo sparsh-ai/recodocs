@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/yolov-pytorch",
+  "id": "tutorials/yolov-pytorch",
+  "title": "yolov-pytorch",
+  "description": "This notebook uses a PyTorch port of YOLO v3 to detect objects on a given image.",
+  "source": "@site/docs/tutorials/yolov-pytorch.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/yolov-pytorch",
+  "permalink": "/docs/tutorials/yolov-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/yolov-pytorch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "yolo",
+    "permalink": "/docs/tutorials/yolo"
+  },
+  "next": {
+    "title": "yoochoose-session-graph",
+    "permalink": "/docs/tutorials/yoochoose-session-graph"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/keypoint-rcnn-torchvision",
+  "id": "tutorials/keypoint-rcnn-torchvision",
+  "title": "keypoint-rcnn-torchvision",
+  "description": "",
+  "source": "@site/docs/tutorials/keypoint-rcnn-torchvision.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/keypoint-rcnn-torchvision",
+  "permalink": "/docs/tutorials/keypoint-rcnn-torchvision",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/keypoint-rcnn-torchvision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kernelized-matrix-factorization-on-ml-m",
+    "permalink": "/docs/tutorials/kernelized-matrix-factorization-on-ml-m"
+  },
+  "next": {
+    "title": "keyword-extraction",
+    "permalink": "/docs/tutorials/keyword-extraction"
+  }
+}

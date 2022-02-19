@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/importance-sampling",
+  "id": "tutorials/importance-sampling",
+  "title": "importance-sampling",
+  "description": "Demonstrating the utility of importance sampling, which allows you to calculate sample means without actually sampling!",
+  "source": "@site/docs/tutorials/importance-sampling.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/importance-sampling",
+  "permalink": "/docs/tutorials/importance-sampling",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/importance-sampling.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "implicit-synthetic",
+    "permalink": "/docs/tutorials/implicit-synthetic"
+  },
+  "next": {
+    "title": "improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+    "permalink": "/docs/tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/matrix-factorization-with-sgd-and-als-on-ml-m",
+  "id": "tutorials/matrix-factorization-with-sgd-and-als-on-ml-m",
+  "title": "matrix-factorization-with-sgd-and-als-on-ml-m",
+  "description": "Matrix Factorization from scratch - SGD method",
+  "source": "@site/docs/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m",
+  "permalink": "/docs/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "matrix-factorization-model-with-loss-functions-on-epinions",
+    "permalink": "/docs/tutorials/matrix-factorization-model-with-loss-functions-on-epinions"
+  },
+  "next": {
+    "title": "maxent-gridworld",
+    "permalink": "/docs/tutorials/maxent-gridworld"
+  }
+}

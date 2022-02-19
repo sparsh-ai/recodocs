@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/movie-eda",
+  "id": "tutorials/movie-eda",
+  "title": "movie-eda",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/movie-eda.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/movie-eda",
+  "permalink": "/docs/tutorials/movie-eda",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/movie-eda.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mountaincar-a-c",
+    "permalink": "/docs/tutorials/mountaincar-a-c"
+  },
+  "next": {
+    "title": "movie-mf-torch",
+    "permalink": "/docs/tutorials/movie-mf-torch"
+  }
+}

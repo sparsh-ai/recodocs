@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/feature-selection-on-quantum-computer",
+  "id": "tutorials/feature-selection-on-quantum-computer",
+  "title": "feature-selection-on-quantum-computer",
+  "description": "This notebook demonstrates the formulation of an  (nk)  optimization problem for solution on a D-Wave quantum computer. The method used in the example problem of this notebook—feature-selection for machine learning— is applicable to problems from a wide range of domains; for example feature selection in recommenders.",
+  "source": "@site/docs/tutorials/feature-selection-on-quantum-computer.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/feature-selection-on-quantum-computer",
+  "permalink": "/docs/tutorials/feature-selection-on-quantum-computer",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/feature-selection-on-quantum-computer.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "feast",
+    "permalink": "/docs/tutorials/feast"
+  },
+  "next": {
+    "title": "febr-framework",
+    "permalink": "/docs/tutorials/febr-framework"
+  }
+}

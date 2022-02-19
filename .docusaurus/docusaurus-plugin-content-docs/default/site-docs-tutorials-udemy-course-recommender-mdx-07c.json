@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/udemy-course-recommender",
+  "id": "tutorials/udemy-course-recommender",
+  "title": "udemy-course-recommender",
+  "description": "Fetching Business course data from Udemy using official Udemy API 2.0, cleaning the data, exploring and building content-based course recommendation system",
+  "source": "@site/docs/tutorials/udemy-course-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/udemy-course-recommender",
+  "permalink": "/docs/tutorials/udemy-course-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/udemy-course-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "udacity-abtest",
+    "permalink": "/docs/tutorials/udacity-abtest"
+  },
+  "next": {
+    "title": "Unsupervised Graph Embeddings - Neural methods",
+    "permalink": "/docs/tutorials/uge-neural"
+  }
+}

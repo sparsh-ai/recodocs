@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recommender-playground-packt",
+  "id": "tutorials/recommender-playground-packt",
+  "title": "recommender-playground-packt",
+  "description": "Knowledge-based Simple IMDB Recommendation System",
+  "source": "@site/docs/tutorials/recommender-playground-packt.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recommender-playground-packt",
+  "permalink": "/docs/tutorials/recommender-playground-packt",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recommender-playground-packt.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recommender-implicit-negative-feedback",
+    "permalink": "/docs/tutorials/recommender-implicit-negative-feedback"
+  },
+  "next": {
+    "title": "recommender-sagemaker",
+    "permalink": "/docs/tutorials/recommender-sagemaker"
+  }
+}

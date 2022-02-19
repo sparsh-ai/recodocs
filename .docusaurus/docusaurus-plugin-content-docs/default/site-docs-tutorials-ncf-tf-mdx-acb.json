@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ncf-tf",
+  "id": "tutorials/ncf-tf",
+  "title": "NCF Tensorflow",
+  "description": "Dataset MovieLens",
+  "source": "@site/docs/tutorials/ncf-tf.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ncf-tf",
+  "permalink": "/docs/tutorials/ncf-tf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ncf-tf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ncf-on-ml-m-in-tf-x",
+    "permalink": "/docs/tutorials/ncf-on-ml-m-in-tf-x"
+  },
+  "next": {
+    "title": "NCF Torch",
+    "permalink": "/docs/tutorials/ncf-torch"
+  }
+}

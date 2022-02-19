@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/listwise-retail",
+  "id": "tutorials/listwise-retail",
+  "title": "listwise-retail",
+  "description": "Data",
+  "source": "@site/docs/tutorials/listwise-retail.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/listwise-retail",
+  "permalink": "/docs/tutorials/listwise-retail",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/listwise-retail.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "listwise-movie-recommendations-using-rl-methods",
+    "permalink": "/docs/tutorials/listwise-movie-recommendations-using-rl-methods"
+  },
+  "next": {
+    "title": "live-streamer-recommender",
+    "permalink": "/docs/tutorials/live-streamer-recommender"
+  }
+}

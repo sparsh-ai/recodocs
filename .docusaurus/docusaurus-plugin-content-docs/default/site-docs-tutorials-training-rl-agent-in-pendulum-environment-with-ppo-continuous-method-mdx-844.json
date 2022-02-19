@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+  "id": "tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+  "title": "training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+  "description": "---",
+  "source": "@site/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+  "permalink": "/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "training-rl-agent-in-pendulum-environment-with-ddpg-method",
+    "permalink": "/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ddpg-method"
+  },
+  "next": {
+    "title": "training-tokenizers",
+    "permalink": "/docs/tutorials/training-tokenizers"
+  }
+}

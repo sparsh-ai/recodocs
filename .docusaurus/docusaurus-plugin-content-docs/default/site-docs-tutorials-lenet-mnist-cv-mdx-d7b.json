@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/lenet-mnist-cv",
+  "id": "tutorials/lenet-mnist-cv",
+  "title": "lenet-mnist-cv",
+  "description": "In this section, we train a Convolutional Neural Network to classify images from the MNIST database.",
+  "source": "@site/docs/tutorials/lenet-mnist-cv.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/lenet-mnist-cv",
+  "permalink": "/docs/tutorials/lenet-mnist-cv",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/lenet-mnist-cv.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "learning-node-representations-from-multiple-social-contexts",
+    "permalink": "/docs/tutorials/learning-node-representations-from-multiple-social-contexts"
+  },
+  "next": {
+    "title": "lessr",
+    "permalink": "/docs/tutorials/lessr"
+  }
+}

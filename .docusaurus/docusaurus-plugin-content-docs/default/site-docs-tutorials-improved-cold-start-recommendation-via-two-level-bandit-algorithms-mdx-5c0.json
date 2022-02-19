@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+  "id": "tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+  "title": "improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+  "permalink": "/docs/tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "importance-sampling",
+    "permalink": "/docs/tutorials/importance-sampling"
+  },
+  "next": {
+    "title": "incremental-collaborative-filtering",
+    "permalink": "/docs/tutorials/incremental-collaborative-filtering"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/contextual-online-advertising-with-synthetic-user-data",
+  "id": "tutorials/contextual-online-advertising-with-synthetic-user-data",
+  "title": "contextual-online-advertising-with-synthetic-user-data",
+  "description": "Context is similar to a state in a multi-step reinforcement learning (RL) problem, with one key difference. In a multi-step RL problem, the action an agent takes affects the states it is likely to visit in the subsequent steps. For example, while playing tic-tac-toe, an agent's action in the current state changes the board configuration (state) in a particular way, which then affects what actions the opponent can take, and so on. In CB problems, however, the agent simply observes the context, makes a decision, and observes the reward. The next context the agent will observe does not depend on the current context/action. This setup, although simpler than multi-step RL, occurs in a very broad set of applications.",
+  "source": "@site/docs/tutorials/contextual-online-advertising-with-synthetic-user-data.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/contextual-online-advertising-with-synthetic-user-data",
+  "permalink": "/docs/tutorials/contextual-online-advertising-with-synthetic-user-data",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/contextual-online-advertising-with-synthetic-user-data.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contextual-mab",
+    "permalink": "/docs/tutorials/contextual-mab"
+  },
+  "next": {
+    "title": "contextualized-knowledge-graph-embedding",
+    "permalink": "/docs/tutorials/contextualized-knowledge-graph-embedding"
+  }
+}

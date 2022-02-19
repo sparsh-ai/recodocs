@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/book-recommender-kubeflow",
+  "id": "tutorials/book-recommender-kubeflow",
+  "title": "book-recommender-kubeflow",
+  "description": "A simple book recommender system using Kubeflow pipeline",
+  "source": "@site/docs/tutorials/book-recommender-kubeflow.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/book-recommender-kubeflow",
+  "permalink": "/docs/tutorials/book-recommender-kubeflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/book-recommender-kubeflow.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "book-recommender-diversity-aware",
+    "permalink": "/docs/tutorials/book-recommender-diversity-aware"
+  },
+  "next": {
+    "title": "bookcrossing",
+    "permalink": "/docs/tutorials/bookcrossing"
+  }
+}

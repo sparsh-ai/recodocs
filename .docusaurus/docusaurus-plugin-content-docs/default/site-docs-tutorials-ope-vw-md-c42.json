@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ope-vw",
+  "id": "tutorials/ope-vw",
+  "title": "ope-vw",
+  "description": "VW implements several estimators to reduce policy evaluation to supervised learning-type evaluation. The simplest method, the direct method (DM), simply trains a regression model that estimates the cost (negative reward) of an (action, context) pair. As you might suspect, this method is generally biased, because the partial information problem means you typically see many more rewards for good actions than bad ones (assuming your production policy is working normally). Biased estimators should not be used for offline policy evaluation, but VW implements provably unbiased estimators like inverse propensity weighting (IPS) and doubly robust (DR) that can be used for this purpose.",
+  "source": "@site/docs/tutorials/ope-vw.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ope-vw",
+  "permalink": "/docs/tutorials/ope-vw",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ope-vw.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ope-slate",
+    "permalink": "/docs/tutorials/ope-slate"
+  },
+  "next": {
+    "title": "OpenCV Video Basics",
+    "permalink": "/docs/tutorials/opencv-video"
+  }
+}

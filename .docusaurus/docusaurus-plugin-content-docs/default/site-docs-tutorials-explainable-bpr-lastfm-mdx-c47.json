@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/explainable-bpr-lastfm",
+  "id": "tutorials/explainable-bpr-lastfm",
+  "title": "explainable-bpr-lastfm",
+  "description": "Executive summary",
+  "source": "@site/docs/tutorials/explainable-bpr-lastfm.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/explainable-bpr-lastfm",
+  "permalink": "/docs/tutorials/explainable-bpr-lastfm",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/explainable-bpr-lastfm.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evaluation-recometrics-lightfm",
+    "permalink": "/docs/tutorials/evaluation-recometrics-lightfm"
+  },
+  "next": {
+    "title": "exploring-multi-objective-hyperparameter-optimization",
+    "permalink": "/docs/tutorials/exploring-multi-objective-hyperparameter-optimization"
+  }
+}

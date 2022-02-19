@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/news-recommender-mind-pytorch-lightning",
+  "id": "tutorials/news-recommender-mind-pytorch-lightning",
+  "title": "news-recommender-mind-pytorch-lightning",
+  "description": "Finding best news to recommender using NCF model, training in pytorch lightening on MIND news dataset",
+  "source": "@site/docs/tutorials/news-recommender-mind-pytorch-lightning.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/news-recommender-mind-pytorch-lightning",
+  "permalink": "/docs/tutorials/news-recommender-mind-pytorch-lightning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/news-recommender-mind-pytorch-lightning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neural-network-from-scratch",
+    "permalink": "/docs/tutorials/neural-network-from-scratch"
+  },
+  "next": {
+    "title": "nfm-criteo",
+    "permalink": "/docs/tutorials/nfm-criteo"
+  }
+}

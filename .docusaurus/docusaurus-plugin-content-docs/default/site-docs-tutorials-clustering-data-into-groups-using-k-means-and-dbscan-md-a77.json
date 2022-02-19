@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/clustering-data-into-groups-using-k-means-and-dbscan",
+  "id": "tutorials/clustering-data-into-groups-using-k-means-and-dbscan",
+  "title": "clustering-data-into-groups-using-k-means-and-dbscan",
+  "description": "Clustering is the process of organizing data points into conceptually meaningful groups. What makes a given group “conceptually meaningful”? There is no easy answer to that question. The usefulness of any clustered output is dependent on the task we’ve been assigned.",
+  "source": "@site/docs/tutorials/clustering-data-into-groups-using-k-means-and-dbscan.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/clustering-data-into-groups-using-k-means-and-dbscan",
+  "permalink": "/docs/tutorials/clustering-data-into-groups-using-k-means-and-dbscan",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/clustering-data-into-groups-using-k-means-and-dbscan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cloth-parsing",
+    "permalink": "/docs/tutorials/cloth-parsing"
+  },
+  "next": {
+    "title": "cmf",
+    "permalink": "/docs/tutorials/cmf"
+  }
+}

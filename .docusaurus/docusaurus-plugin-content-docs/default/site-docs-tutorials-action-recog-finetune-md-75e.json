@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/action-recog-finetune",
+  "id": "tutorials/action-recog-finetune",
+  "title": "Finetune the pretrained R(2+1)D model",
+  "description": "Objective - to finetune the pretrained R(2+1)D model",
+  "source": "@site/docs/tutorials/action-recog-finetune.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/action-recog-finetune",
+  "permalink": "/docs/tutorials/action-recog-finetune",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/action-recog-finetune.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ac",
+    "permalink": "/docs/tutorials/ac"
+  },
+  "next": {
+    "title": "ad-conversion-simple-ab-testing",
+    "permalink": "/docs/tutorials/ad-conversion-simple-ab-testing"
+  }
+}

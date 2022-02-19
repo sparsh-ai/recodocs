@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mongodb-to-csv-conversion",
+  "id": "tutorials/mongodb-to-csv-conversion",
+  "title": "mongodb-to-csv-conversion",
+  "description": "Pull a noSQL data from MongoDB and convert into Pandas dataframe",
+  "source": "@site/docs/tutorials/mongodb-to-csv-conversion.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mongodb-to-csv-conversion",
+  "permalink": "/docs/tutorials/mongodb-to-csv-conversion",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mongodb-to-csv-conversion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "moe-tf",
+    "permalink": "/docs/tutorials/moe-tf"
+  },
+  "next": {
+    "title": "mooccube-course-recommender",
+    "permalink": "/docs/tutorials/mooccube-course-recommender"
+  }
+}

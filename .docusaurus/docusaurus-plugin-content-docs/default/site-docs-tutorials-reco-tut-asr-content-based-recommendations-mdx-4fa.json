@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-content-based-recommendations",
+  "id": "tutorials/reco-tut-asr-content-based-recommendations",
+  "title": "reco-tut-asr-content-based-recommendations",
+  "description": "When we use Non personalised and stereotyped recommendations, we have the benefit that we don't need to know about our products neither user preferences (apart from explicit metrics). However, in order to provide confident recommendations, we have to have a big number of useful reviews, and account for all the risks when using a evaluation such as 5 starts (see Part I).",
+  "source": "@site/docs/tutorials/reco-tut-asr-content-based-recommendations.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-content-based-recommendations",
+  "permalink": "/docs/tutorials/reco-tut-asr-content-based-recommendations",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-content-based-recommendations.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-arr-t-eda-and-data-cleaning",
+    "permalink": "/docs/tutorials/reco-tut-arr-t-eda-and-data-cleaning"
+  },
+  "next": {
+    "title": "reco-tut-asr-evaluation-version",
+    "permalink": "/docs/tutorials/reco-tut-asr-evaluation-version"
+  }
+}

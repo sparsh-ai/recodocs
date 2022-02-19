@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/cyber-insurance",
+  "id": "tutorials/cyber-insurance",
+  "title": "Cyber Insurance Analytics",
+  "description": "Module 1 Simulator code",
+  "source": "@site/docs/tutorials/cyber-insurance.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cyber-insurance",
+  "permalink": "/docs/tutorials/cyber-insurance",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/cyber-insurance.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cv",
+    "permalink": "/docs/tutorials/cv"
+  },
+  "next": {
+    "title": "d-optimal-online-experiment-design-for-recommender-selection",
+    "permalink": "/docs/tutorials/d-optimal-online-experiment-design-for-recommender-selection"
+  }
+}

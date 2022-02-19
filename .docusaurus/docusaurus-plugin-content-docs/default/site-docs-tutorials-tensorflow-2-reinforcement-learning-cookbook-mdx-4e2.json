@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Session-based Recommendation with Graph Neural Networks",
-    "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
+    "title": "tensorboard",
+    "permalink": "/docs/tutorials/tensorboard"
   },
   "next": {
-    "title": "Tools",
-    "permalink": "/docs/tools/"
+    "title": "Speaker verification with GE2E loss (Text independent version)",
+    "permalink": "/docs/tutorials/tensorflow-speaker-verification"
   }
 }

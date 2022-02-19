@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/diginetica-baseline",
+  "id": "tutorials/diginetica-baseline",
+  "title": "Diginetica Baseline Recommender",
+  "description": "",
+  "source": "@site/docs/tutorials/diginetica-baseline.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/diginetica-baseline",
+  "permalink": "/docs/tutorials/diginetica-baseline",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/diginetica-baseline.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "diabetes",
+    "permalink": "/docs/tutorials/diabetes"
+  },
+  "next": {
+    "title": "din-on-amazon-electronics-dataset-in-tf-x",
+    "permalink": "/docs/tutorials/din-on-amazon-electronics-dataset-in-tf-x"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-hybrid-recommendations",
+  "id": "tutorials/reco-tut-asr-hybrid-recommendations",
+  "title": "reco-tut-asr-hybrid-recommendations",
+  "description": "- Each algorithm has strenghts and weakness. So we can combine them",
+  "source": "@site/docs/tutorials/reco-tut-asr-hybrid-recommendations.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-hybrid-recommendations",
+  "permalink": "/docs/tutorials/reco-tut-asr-hybrid-recommendations",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-hybrid-recommendations.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-asr-evaluation-version",
+    "permalink": "/docs/tutorials/reco-tut-asr-evaluation-version"
+  },
+  "next": {
+    "title": "reco-tut-asr-item-item-cf",
+    "permalink": "/docs/tutorials/reco-tut-asr-item-item-cf"
+  }
+}

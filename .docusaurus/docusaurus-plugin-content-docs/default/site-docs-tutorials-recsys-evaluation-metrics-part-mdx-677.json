@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recsys-evaluation-metrics-part",
+  "id": "tutorials/recsys-evaluation-metrics-part",
+  "title": "recsys-evaluation-metrics-part",
+  "description": "Understanding evaluation metrics and pricing factors",
+  "source": "@site/docs/tutorials/recsys-evaluation-metrics-part.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recsys-evaluation-metrics-part",
+  "permalink": "/docs/tutorials/recsys-evaluation-metrics-part",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recsys-evaluation-metrics-part.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recsim",
+    "permalink": "/docs/tutorials/recsim"
+  },
+  "next": {
+    "title": "recsys-evaluation-metrics",
+    "permalink": "/docs/tutorials/recsys-evaluation-metrics"
+  }
+}

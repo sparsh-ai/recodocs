@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/cornac-examples",
+  "id": "tutorials/cornac-examples",
+  "title": "cornac-examples",
+  "description": "Multiple examples showcasing the features of cornac library and recommender concepts",
+  "source": "@site/docs/tutorials/cornac-examples.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cornac-examples",
+  "permalink": "/docs/tutorials/cornac-examples",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/cornac-examples.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contextualized-knowledge-graph-embedding",
+    "permalink": "/docs/tutorials/contextualized-knowledge-graph-embedding"
+  },
+  "next": {
+    "title": "cornac-item-popularity",
+    "permalink": "/docs/tutorials/cornac-item-popularity"
+  }
+}

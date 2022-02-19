@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/slist-yoochoose",
+  "id": "tutorials/slist-yoochoose",
+  "title": "slist-yoochoose",
+  "description": "Executive summary",
+  "source": "@site/docs/tutorials/slist-yoochoose.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/slist-yoochoose",
+  "permalink": "/docs/tutorials/slist-yoochoose",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/slist-yoochoose.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "site-rank",
+    "permalink": "/docs/tutorials/site-rank"
+  },
+  "next": {
+    "title": "sms-spam-detection-using-fm-model",
+    "permalink": "/docs/tutorials/sms-spam-detection-using-fm-model"
+  }
+}

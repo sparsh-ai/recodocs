@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ngcf",
+  "id": "tutorials/ngcf",
+  "title": "Neural Graph Collaborative Filtering",
+  "description": "Model architecture",
+  "source": "@site/docs/tutorials/ngcf.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ngcf",
+  "permalink": "/docs/tutorials/ngcf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ngcf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ngcf-movielens",
+    "permalink": "/docs/tutorials/ngcf-movielens"
+  },
+  "next": {
+    "title": "nicf",
+    "permalink": "/docs/tutorials/nicf"
+  }
+}

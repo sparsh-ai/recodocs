@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/travel-optim",
+  "id": "tutorials/travel-optim",
+  "title": "travel-optim",
+  "description": "In business logistics, product delivery time can impact certain critical decisions. Consider the following scenario, in which you’ve opened your own kombucha brewery. Your plan is to deliver batches of the delicious fermented tea to all the towns within a reasonable driving radius. More specifically, you’ll only deliver to a town if it’s within a two-hour driving distance of the brewery; otherwise, the gas costs won’t justify the revenue from that delivery. A grocery store in a neighboring county is interested in regular deliveries. What is the fastest driving time between your brewery and that store?",
+  "source": "@site/docs/tutorials/travel-optim.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/travel-optim",
+  "permalink": "/docs/tutorials/travel-optim",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/travel-optim.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transforming-interactions-to-sequences",
+    "permalink": "/docs/tutorials/transforming-interactions-to-sequences"
+  },
+  "next": {
+    "title": "trend-news",
+    "permalink": "/docs/tutorials/trend-news"
+  }
+}

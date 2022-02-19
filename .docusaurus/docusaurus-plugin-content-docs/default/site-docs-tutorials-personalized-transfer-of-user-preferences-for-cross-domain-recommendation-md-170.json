@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+  "id": "tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+  "title": "personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+  "description": "API Run",
+  "source": "@site/docs/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+  "permalink": "/docs/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "personalize-model",
+    "permalink": "/docs/tutorials/personalize-model"
+  },
+  "next": {
+    "title": "pifpaf-pose-estimation",
+    "permalink": "/docs/tutorials/pifpaf-pose-estimation"
+  }
+}

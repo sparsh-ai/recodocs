@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorials",
-    "permalink": "/docs/tutorials/"
+    "title": "MovieLens 100K Data Preparation",
+    "permalink": "/docs/tutorials/data-prep"
   },
   "next": {
-    "title": "Matching and Ranking models in Tensorflow",
-    "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
+    "title": "databricks-collaborative-filtering-data-preparation",
+    "permalink": "/docs/tutorials/databricks-collaborative-filtering-data-preparation"
   }
 }

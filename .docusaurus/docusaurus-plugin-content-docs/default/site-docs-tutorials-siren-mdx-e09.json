@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/siren",
+  "id": "tutorials/siren",
+  "title": "siren",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/siren.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/siren",
+  "permalink": "/docs/tutorials/siren",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/siren.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "siren-yelp",
+    "permalink": "/docs/tutorials/siren-yelp"
+  },
+  "next": {
+    "title": "site-rank",
+    "permalink": "/docs/tutorials/site-rank"
+  }
+}

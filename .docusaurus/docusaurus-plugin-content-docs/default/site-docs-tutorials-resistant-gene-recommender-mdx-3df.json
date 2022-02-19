@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/resistant-gene-recommender",
+  "id": "tutorials/resistant-gene-recommender",
+  "title": "resistant-gene-recommender",
+  "description": "To find key drivers of resistance faster they built a hybrid recommendation system on top of a heterogeneous biomedical knowledge graph. In the absence of either training data or continuous feedback they approached recommendations as a multi-objective optimization problem. Genes were ranked based on trade-offs between diverse types of evidence linking them to potential mechanisms of EGFRi resistance. This unbiased approach narrowed down the number of targets from more than 3,000 to 36 and reduced hit identification time from months to minutes. Similar recommendation system frameworks could be applied to a range of related problems in drug discovery space.",
+  "source": "@site/docs/tutorials/resistant-gene-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/resistant-gene-recommender",
+  "permalink": "/docs/tutorials/resistant-gene-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/resistant-gene-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "resale-prediction",
+    "permalink": "/docs/tutorials/resale-prediction"
+  },
+  "next": {
+    "title": "resnet",
+    "permalink": "/docs/tutorials/resnet"
+  }
+}

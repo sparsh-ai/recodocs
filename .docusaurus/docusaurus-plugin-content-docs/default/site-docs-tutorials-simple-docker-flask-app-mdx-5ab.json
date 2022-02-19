@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/simple-docker-flask-app",
+  "id": "tutorials/simple-docker-flask-app",
+  "title": "simple-docker-flask-app",
+  "description": "---",
+  "source": "@site/docs/tutorials/simple-docker-flask-app.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/simple-docker-flask-app",
+  "permalink": "/docs/tutorials/simple-docker-flask-app",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/simple-docker-flask-app.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "simple-analysis",
+    "permalink": "/docs/tutorials/simple-analysis"
+  },
+  "next": {
+    "title": "Simple Recommender Models",
+    "permalink": "/docs/tutorials/simple-models"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/image-analytics-tensorflow",
+  "id": "tutorials/image-analytics-tensorflow",
+  "title": "image-analytics-tensorflow",
+  "description": "Applying image analytics and computer vision methods using Tensorflow",
+  "source": "@site/docs/tutorials/image-analytics-tensorflow.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/image-analytics-tensorflow",
+  "permalink": "/docs/tutorials/image-analytics-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/image-analytics-tensorflow.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee",
+    "permalink": "/docs/tutorials/ieee"
+  },
+  "next": {
+    "title": "image-captioning-tf",
+    "permalink": "/docs/tutorials/image-captioning-tf"
+  }
+}

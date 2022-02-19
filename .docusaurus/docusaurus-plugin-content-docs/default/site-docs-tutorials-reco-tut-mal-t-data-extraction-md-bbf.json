@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-mal-t-data-extraction",
+  "id": "tutorials/reco-tut-mal-t-data-extraction",
+  "title": "reco-tut-mal-t-data-extraction",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-mal-t-data-extraction.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-mal-t-data-extraction",
+  "permalink": "/docs/tutorials/reco-tut-mal-t-data-extraction",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-mal-t-data-extraction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-mal-launchpad",
+    "permalink": "/docs/tutorials/reco-tut-mal-launchpad"
+  },
+  "next": {
+    "title": "reco-tut-mal-t-recommendation",
+    "permalink": "/docs/tutorials/reco-tut-mal-t-recommendation"
+  }
+}

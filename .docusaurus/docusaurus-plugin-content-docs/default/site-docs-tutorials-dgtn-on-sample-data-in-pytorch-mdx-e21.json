@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dgtn-on-sample-data-in-pytorch",
+  "id": "tutorials/dgtn-on-sample-data-in-pytorch",
+  "title": "dgtn-on-sample-data-in-pytorch",
+  "description": "Preprocessing",
+  "source": "@site/docs/tutorials/dgtn-on-sample-data-in-pytorch.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dgtn-on-sample-data-in-pytorch",
+  "permalink": "/docs/tutorials/dgtn-on-sample-data-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dgtn-on-sample-data-in-pytorch.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Defect Detection with Image Segmentation",
+    "permalink": "/docs/tutorials/defect-detection"
+  },
+  "next": {
+    "title": "dgtn-yoochoose",
+    "permalink": "/docs/tutorials/dgtn-yoochoose"
+  }
+}

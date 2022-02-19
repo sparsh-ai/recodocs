@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/tag-reuters",
+  "id": "tutorials/tag-reuters",
+  "title": "Text Analytics using Graphs",
+  "description": "Dataset overview",
+  "source": "@site/docs/tutorials/tag-reuters.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tag-reuters",
+  "permalink": "/docs/tutorials/tag-reuters",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tag-reuters.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "t",
+    "permalink": "/docs/tutorials/t"
+  },
+  "next": {
+    "title": "tagnn-session-based-recommendations-on-yoochoose-dataset",
+    "permalink": "/docs/tutorials/tagnn-session-based-recommendations-on-yoochoose-dataset"
+  }
+}

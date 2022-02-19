@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+  "id": "tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+  "title": "dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+  "permalink": "/docs/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "drl-for-restaurant-recommendation",
+    "permalink": "/docs/tutorials/drl-for-restaurant-recommendation"
+  },
+  "next": {
+    "title": "drug-recommender",
+    "permalink": "/docs/tutorials/drug-recommender"
+  }
+}

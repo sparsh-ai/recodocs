@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset",
+  "id": "tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset",
+  "title": "dare-cross-domain-recommender-on-amazon-reviews-dataset",
+  "description": "CDR utilizes information from source domains to alleviate the cold-start problem in the target domain. Early studies adopt feature mapping technique that requires overlapped users. For example, RC-DFM applies Stacked Denoising Autoencoder (SDAE) to each domain, where the learned knowledge of the same set of users are transferred from source to target domain. To overcome the restrictive requirement of overlapped users, CDLFM and CATN employ neighbor or similar user-based feature mapping. However, this kind of cross-domain algorithm implicates defects like filtering noises or requiring duplicate users.",
+  "source": "@site/docs/tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset",
+  "permalink": "/docs/tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "d-optimal-online-experiment-design-for-recommender-selection",
+    "permalink": "/docs/tutorials/d-optimal-online-experiment-design-for-recommender-selection"
+  },
+  "next": {
+    "title": "dask-incremental-wrapper",
+    "permalink": "/docs/tutorials/dask-incremental-wrapper"
+  }
+}

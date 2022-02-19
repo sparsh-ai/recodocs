@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/storing-ml-features-using-feast",
+  "id": "tutorials/storing-ml-features-using-feast",
+  "title": "storing-ml-features-using-feast",
+  "description": "Storing features in feast (a featurestore system), tried out on movielens & ad-click datasets",
+  "source": "@site/docs/tutorials/storing-ml-features-using-feast.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/storing-ml-features-using-feast",
+  "permalink": "/docs/tutorials/storing-ml-features-using-feast",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/storing-ml-features-using-feast.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stock-agent",
+    "permalink": "/docs/tutorials/stock-agent"
+  },
+  "next": {
+    "title": "stosa",
+    "permalink": "/docs/tutorials/stosa"
+  }
+}

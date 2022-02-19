@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/augmented-shilling-attack-aush",
+  "id": "tutorials/augmented-shilling-attack-aush",
+  "title": "augmented-shilling-attack-aush",
+  "description": "",
+  "source": "@site/docs/tutorials/augmented-shilling-attack-aush.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/augmented-shilling-attack-aush",
+  "permalink": "/docs/tutorials/augmented-shilling-attack-aush",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/augmented-shilling-attack-aush.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "audible-audiobook-recommender",
+    "permalink": "/docs/tutorials/audible-audiobook-recommender"
+  },
+  "next": {
+    "title": "automatically-adding-products-to-a-user-s-shopping-cart",
+    "permalink": "/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart"
+  }
+}

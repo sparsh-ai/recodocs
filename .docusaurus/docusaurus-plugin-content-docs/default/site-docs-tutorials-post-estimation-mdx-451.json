@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/post-estimation",
+  "id": "tutorials/post-estimation",
+  "title": "Post Estimation",
+  "description": "YouTube",
+  "source": "@site/docs/tutorials/post-estimation.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/post-estimation",
+  "permalink": "/docs/tutorials/post-estimation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/post-estimation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "poison-attack",
+    "permalink": "/docs/tutorials/poison-attack"
+  },
+  "next": {
+    "title": "predicting-rewards-with-the-state-value-and-action-value-function",
+    "permalink": "/docs/tutorials/predicting-rewards-with-the-state-value-and-action-value-function"
+  }
+}

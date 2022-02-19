@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
+  "id": "tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
+  "title": "building-an-rl-agent-to-manage-emails-on-the-web",
+  "description": "image.png",
+  "source": "@site/docs/tutorials/building-an-rl-agent-to-manage-emails-on-the-web.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
+  "permalink": "/docs/tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/building-an-rl-agent-to-manage-emails-on-the-web.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
+    "permalink": "/docs/tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action"
+  },
+  "next": {
+    "title": "building-deploying-asos-fashion-recommender-tensorflow",
+    "permalink": "/docs/tutorials/building-deploying-asos-fashion-recommender-tensorflow"
+  }
+}

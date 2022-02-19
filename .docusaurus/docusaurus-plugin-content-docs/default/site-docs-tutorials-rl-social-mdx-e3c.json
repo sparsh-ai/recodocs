@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/rl-social",
+  "id": "tutorials/rl-social",
+  "title": "rl-social",
+  "description": "Social Media Like Reply Agent",
+  "source": "@site/docs/tutorials/rl-social.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/rl-social",
+  "permalink": "/docs/tutorials/rl-social",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/rl-social.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rl-sac",
+    "permalink": "/docs/tutorials/rl-sac"
+  },
+  "next": {
+    "title": "rl-tictactoe",
+    "permalink": "/docs/tutorials/rl-tictactoe"
+  }
+}

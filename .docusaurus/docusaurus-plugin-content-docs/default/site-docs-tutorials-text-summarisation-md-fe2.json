@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/text-summarisation",
+  "id": "tutorials/text-summarisation",
+  "title": "text-summarisation",
+  "description": "Connecting to Git",
+  "source": "@site/docs/tutorials/text-summarisation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/text-summarisation",
+  "permalink": "/docs/tutorials/text-summarisation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/text-summarisation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "test",
+    "permalink": "/docs/tutorials/test"
+  },
+  "next": {
+    "title": "text-summarization-bart-dashplotly",
+    "permalink": "/docs/tutorials/text-summarization-bart-dashplotly"
+  }
+}

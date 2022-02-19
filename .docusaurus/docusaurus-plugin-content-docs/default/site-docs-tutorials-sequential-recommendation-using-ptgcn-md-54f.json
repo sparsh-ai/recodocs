@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sequential-recommendation-using-ptgcn",
+  "id": "tutorials/sequential-recommendation-using-ptgcn",
+  "title": "sequential-recommendation-using-ptgcn",
+  "description": "Building a sequential movie recommender on movielens-1m data using a newly-proposed graph based recommender model in pytorch",
+  "source": "@site/docs/tutorials/sequential-recommendation-using-ptgcn.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sequential-recommendation-using-ptgcn",
+  "permalink": "/docs/tutorials/sequential-recommendation-using-ptgcn",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sequential-recommendation-using-ptgcn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sequence-aware-recommenders-music",
+    "permalink": "/docs/tutorials/sequence-aware-recommenders-music"
+  },
+  "next": {
+    "title": "serverless-ml",
+    "permalink": "/docs/tutorials/serverless-ml"
+  }
+}

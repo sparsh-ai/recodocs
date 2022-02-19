@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/warm-start-model-retraining",
+  "id": "tutorials/warm-start-model-retraining",
+  "title": "warm-start-model-retraining",
+  "description": "Importantly, you have a lot of flexibility when it comes to responding to a change to the problem or the availability of new data.",
+  "source": "@site/docs/tutorials/warm-start-model-retraining.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/warm-start-model-retraining",
+  "permalink": "/docs/tutorials/warm-start-model-retraining",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/warm-start-model-retraining.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vw",
+    "permalink": "/docs/tutorials/vw"
+  },
+  "next": {
+    "title": "web-scraping-tutorial",
+    "permalink": "/docs/tutorials/web-scraping-tutorial"
+  }
+}

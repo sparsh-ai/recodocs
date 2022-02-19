@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/opencv-video",
+  "id": "tutorials/opencv-video",
+  "title": "OpenCV Video Basics",
+  "description": "Download Youtube Video",
+  "source": "@site/docs/tutorials/opencv-video.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/opencv-video",
+  "permalink": "/docs/tutorials/opencv-video",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/opencv-video.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ope-vw",
+    "permalink": "/docs/tutorials/ope-vw"
+  },
+  "next": {
+    "title": "opl",
+    "permalink": "/docs/tutorials/opl"
+  }
+}

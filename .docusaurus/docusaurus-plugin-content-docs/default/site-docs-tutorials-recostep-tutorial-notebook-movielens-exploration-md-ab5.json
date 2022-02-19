@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recostep-tutorial-notebook-movielens-exploration",
+  "id": "tutorials/recostep-tutorial-notebook-movielens-exploration",
+  "title": "recostep-tutorial-notebook-movielens-exploration",
+  "description": "summary: In this tutorial, we will explore movielens dataset",
+  "source": "@site/docs/tutorials/recostep-tutorial-notebook-movielens-exploration.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-tutorial-notebook-movielens-exploration",
+  "permalink": "/docs/tutorials/recostep-tutorial-notebook-movielens-exploration",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-tutorial-notebook-movielens-exploration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-tutorial-multi-armed-bandit-product-recommender",
+    "permalink": "/docs/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender"
+  },
+  "next": {
+    "title": "recostep-tutorial-offline-replayer-eval-amazon-electronics",
+    "permalink": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics"
+  }
+}

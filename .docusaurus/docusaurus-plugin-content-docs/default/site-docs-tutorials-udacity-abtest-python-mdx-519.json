@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/udacity-abtest-python",
+  "id": "tutorials/udacity-abtest-python",
+  "title": "udacity-abtest-python",
+  "description": "Walkthrough on a Udacity Course on AB testing",
+  "source": "@site/docs/tutorials/udacity-abtest-python.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/udacity-abtest-python",
+  "permalink": "/docs/tutorials/udacity-abtest-python",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/udacity-abtest-python.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "txtsum-play-amazon-play",
+    "permalink": "/docs/tutorials/txtsum-play-amazon-play"
+  },
+  "next": {
+    "title": "udacity-abtest",
+    "permalink": "/docs/tutorials/udacity-abtest"
+  }
+}

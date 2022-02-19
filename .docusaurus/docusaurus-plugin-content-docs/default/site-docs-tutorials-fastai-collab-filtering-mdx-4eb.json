@@ -1,0 +1,40 @@
+{
+  "unversionedId": "tutorials/fastai-collab-filtering",
+  "id": "tutorials/fastai-collab-filtering",
+  "title": "fastai-collab-filtering",
+  "description": "FastAI built a collaborative filtering model on top of pytorch. This example is showing the demo using movielens dataset.",
+  "source": "@site/docs/tutorials/fastai-collab-filtering.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/fastai-collab-filtering",
+  "permalink": "/docs/tutorials/fastai-collab-filtering",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/fastai-collab-filtering.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "split_at_heading": true,
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fake-voice-detection",
+    "permalink": "/docs/tutorials/fake-voice-detection"
+  },
+  "next": {
+    "title": "fastai-vision-fastbook",
+    "permalink": "/docs/tutorials/fastai-vision-fastbook"
+  }
+}

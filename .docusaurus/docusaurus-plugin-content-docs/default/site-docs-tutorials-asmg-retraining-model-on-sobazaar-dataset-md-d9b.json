@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/asmg-retraining-model-on-sobazaar-dataset",
+  "id": "tutorials/asmg-retraining-model-on-sobazaar-dataset",
+  "title": "asmg-retraining-model-on-sobazaar-dataset",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/asmg-retraining-model-on-sobazaar-dataset",
+  "permalink": "/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "artist-free-song-recommender",
+    "permalink": "/docs/tutorials/artist-free-song-recommender"
+  },
+  "next": {
+    "title": "asr",
+    "permalink": "/docs/tutorials/asr"
+  }
+}

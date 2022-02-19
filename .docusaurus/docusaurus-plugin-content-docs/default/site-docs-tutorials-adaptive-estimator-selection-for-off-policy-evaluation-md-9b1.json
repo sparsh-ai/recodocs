@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+  "id": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+  "title": "adaptive-estimator-selection-for-off-policy-evaluation",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+  "permalink": "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ad-conversion-simple-ab-testing",
+    "permalink": "/docs/tutorials/ad-conversion-simple-ab-testing"
+  },
+  "next": {
+    "title": "ads-selection-using-bandits",
+    "permalink": "/docs/tutorials/ads-selection-using-bandits"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/pyg-gnn",
+  "id": "tutorials/pyg-gnn",
+  "title": "pyg-gnn",
+  "description": "Understanding the Fundamentals of Graph Neural and Graph Convolutional Networks with PyTorch Geometric",
+  "source": "@site/docs/tutorials/pyg-gnn.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pyg-gnn",
+  "permalink": "/docs/tutorials/pyg-gnn",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pyg-gnn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pydeep-recsys",
+    "permalink": "/docs/tutorials/pydeep-recsys"
+  },
+  "next": {
+    "title": "pymoo",
+    "permalink": "/docs/tutorials/pymoo"
+  }
+}

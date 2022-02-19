@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/fbfriend-recs",
+  "id": "tutorials/fbfriend-recs",
+  "title": "Facebook Friend Recommender",
+  "description": "First we will load our dataset from Kaggle and perform exploratory data analysis on our given data set such as number of followers and followees of each person. Then we will generate some datapoints which were not present in our given data-set, since we have only class label 1 data. Then we will do some feature engineering on dataset like finding shortest path, kartz centrality, jaccard distances, page rank, preferential attachements etc. After performing exploratory data analysis and feature engineering, we will split whole dataset into train and test and perform random forest and xgboost taking f1-score as our metric. At the end we will plot confusion matrix and pretty-table for both algorithm and finf best hyperparameters.",
+  "source": "@site/docs/tutorials/fbfriend-recs.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/fbfriend-recs",
+  "permalink": "/docs/tutorials/fbfriend-recs",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/fbfriend-recs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fastai-vision-fastbook",
+    "permalink": "/docs/tutorials/fastai-vision-fastbook"
+  },
+  "next": {
+    "title": "feast",
+    "permalink": "/docs/tutorials/feast"
+  }
+}

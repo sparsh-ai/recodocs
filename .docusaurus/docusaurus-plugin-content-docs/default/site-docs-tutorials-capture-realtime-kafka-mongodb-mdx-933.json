@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/capture-realtime-kafka-mongodb",
+  "id": "tutorials/capture-realtime-kafka-mongodb",
+  "title": "capture-realtime-kafka-mongodb",
+  "description": "Creating kafka cluster and topic on cloud - Creating mongodb cluster and database on cloud - Pre-process movielens data in kafka Json format - Send and receive data events in kafka in real-time - Persist the streaming data in NoSQL mongoDB database.",
+  "source": "@site/docs/tutorials/capture-realtime-kafka-mongodb.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/capture-realtime-kafka-mongodb",
+  "permalink": "/docs/tutorials/capture-realtime-kafka-mongodb",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/capture-realtime-kafka-mongodb.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+    "permalink": "/docs/tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m"
+  },
+  "next": {
+    "title": "car-damage-cv",
+    "permalink": "/docs/tutorials/car-damage-cv"
+  }
+}

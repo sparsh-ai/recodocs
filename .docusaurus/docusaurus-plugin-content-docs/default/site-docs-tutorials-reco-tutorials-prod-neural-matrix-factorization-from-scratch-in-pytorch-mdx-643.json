@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch",
+  "id": "tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch",
+  "title": "reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch",
+  "description": "summary: A tutorial to understand the process of building a Neural Matrix Factorization model from scratch in PyTorch on MovieLens-1M dataset.",
+  "source": "@site/docs/tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch",
+  "permalink": "/docs/tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tutorials-dev-template",
+    "permalink": "/docs/tutorials/reco-tutorials-dev-template"
+  },
+  "next": {
+    "title": "recobase-us-neural-graph-matching",
+    "permalink": "/docs/tutorials/recobase-us-neural-graph-matching"
+  }
+}

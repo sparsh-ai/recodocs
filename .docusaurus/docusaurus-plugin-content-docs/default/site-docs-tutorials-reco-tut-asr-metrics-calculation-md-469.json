@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-metrics-calculation",
+  "id": "tutorials/reco-tut-asr-metrics-calculation",
+  "title": "Import libraries and data",
+  "description": "Dataset was obtained in the capstone project description (direct link here) and splited manually in separated csv files. They were stored at my personal github account (folder link here) and you can download and paste inside your working directory in order for this notebook to run.",
+  "source": "@site/docs/tutorials/reco-tut-asr-metrics-calculation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-metrics-calculation",
+  "permalink": "/docs/tutorials/reco-tut-asr-metrics-calculation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-metrics-calculation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Matrix Factorization?",
+    "permalink": "/docs/tutorials/reco-tut-asr-matrix-factorization"
+  },
+  "next": {
+    "title": "Recommender Systems - Introduction",
+    "permalink": "/docs/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation"
+  }
+}

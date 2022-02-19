@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-srr-basics",
+  "id": "tutorials/reco-tut-srr-basics",
+  "title": "reco-tut-srr-basics",
+  "description": "Wait, you can add features to user (average bill, number of purchases in categories, etc.), to item (price, number of sales per week, etc.), and solve the classification problem. What is the difference between RecSys and classification?",
+  "source": "@site/docs/tutorials/reco-tut-srr-basics.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-srr-basics",
+  "permalink": "/docs/tutorials/reco-tut-srr-basics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-srr-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-spr-etl",
+    "permalink": "/docs/tutorials/reco-tut-spr-etl"
+  },
+  "next": {
+    "title": "reco-tut-tf-us-tf-datasets",
+    "permalink": "/docs/tutorials/reco-tut-tf-us-tf-datasets"
+  }
+}

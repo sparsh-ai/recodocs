@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-elf-ml-k-data-preparation",
+  "id": "tutorials/reco-tut-elf-ml-k-data-preparation",
+  "title": "reco-tut-elf-ml-k-data-preparation",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-elf-ml-k-data-preparation.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-elf-ml-k-data-preparation",
+  "permalink": "/docs/tutorials/reco-tut-elf-ml-k-data-preparation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-elf-ml-k-data-preparation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-elf-launchpad",
+    "permalink": "/docs/tutorials/reco-tut-elf-launchpad"
+  },
+  "next": {
+    "title": "reco-tut-elf-notebook",
+    "permalink": "/docs/tutorials/reco-tut-elf-notebook"
+  }
+}

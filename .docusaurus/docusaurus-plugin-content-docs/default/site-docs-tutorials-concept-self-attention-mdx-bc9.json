@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/concept-self-attention",
+  "id": "tutorials/concept-self-attention",
+  "title": "concept-self-attention",
+  "description": "Step-by-step guide to self-attention with illustrations and code",
+  "source": "@site/docs/tutorials/concept-self-attention.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/concept-self-attention",
+  "permalink": "/docs/tutorials/concept-self-attention",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/concept-self-attention.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concept-normalization",
+    "permalink": "/docs/tutorials/concept-normalization"
+  },
+  "next": {
+    "title": "concept-transformer-lm",
+    "permalink": "/docs/tutorials/concept-transformer-lm"
+  }
+}

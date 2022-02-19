@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/face-recognition",
+  "id": "tutorials/face-recognition",
+  "title": "Face Recognition",
+  "description": "Using an ConvNet  to compute encodings",
+  "source": "@site/docs/tutorials/face-recognition.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/face-recognition",
+  "permalink": "/docs/tutorials/face-recognition",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/face-recognition.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python [conda env:keras]",
+        "language": "python",
+        "name": "conda-env-keras-py"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "face-landmarks",
+    "permalink": "/docs/tutorials/face-landmarks"
+  },
+  "next": {
+    "title": "fairness-obp",
+    "permalink": "/docs/tutorials/fairness-obp"
+  }
+}

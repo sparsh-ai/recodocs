@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/tf-serving-in-action",
+  "id": "tutorials/tf-serving-in-action",
+  "title": "tf-serving-in-action",
+  "description": "Chapter 19 of the hands-on-ml book",
+  "source": "@site/docs/tutorials/tf-serving-in-action.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tf-serving-in-action",
+  "permalink": "/docs/tutorials/tf-serving-in-action",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tf-serving-in-action.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "textsum-playground-enronemail",
+    "permalink": "/docs/tutorials/textsum-playground-enronemail"
+  },
+  "next": {
+    "title": "Tensorflow js model",
+    "permalink": "/docs/tutorials/tfjs"
+  }
+}

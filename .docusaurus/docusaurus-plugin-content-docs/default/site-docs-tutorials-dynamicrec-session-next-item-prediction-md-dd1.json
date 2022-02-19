@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dynamicrec-session-next-item-prediction",
+  "id": "tutorials/dynamicrec-session-next-item-prediction",
+  "title": "dynamicrec-session-next-item-prediction",
+  "description": "Improve accuracy of in-session recommenders using dynamic convolutional layers to train next-item recommender model",
+  "source": "@site/docs/tutorials/dynamicrec-session-next-item-prediction.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dynamicrec-session-next-item-prediction",
+  "permalink": "/docs/tutorials/dynamicrec-session-next-item-prediction",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dynamicrec-session-next-item-prediction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "drug-recommender",
+    "permalink": "/docs/tutorials/drug-recommender"
+  },
+  "next": {
+    "title": "easyocr",
+    "permalink": "/docs/tutorials/easyocr"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sgl",
+  "id": "tutorials/sgl",
+  "title": "Supervised Graph Learning",
+  "description": "Feature-based method is a very naive (yet powerful) approach for solving graph-based supervised machine learning. The idea rely on the classic machine learning approach of handcrafted feature extraction. In this demo, we will be using the PROTEINS dataset, already integrated in StellarGraph.",
+  "source": "@site/docs/tutorials/sgl.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sgl",
+  "permalink": "/docs/tutorials/sgl",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sgl.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supervised Graph Learning - Shallow Embeddings",
+    "permalink": "/docs/tutorials/sgl-shallow-embedding"
+  },
+  "next": {
+    "title": "shallow-embedding-methods",
+    "permalink": "/docs/tutorials/shallow-embedding-methods"
+  }
+}

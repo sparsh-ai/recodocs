@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/mooccube-course-recommender",
+  "id": "tutorials/mooccube-course-recommender",
+  "title": "mooccube-course-recommender",
+  "description": "Disentangled Self-Supervision for Recommending Videos in MOOCs (Code using PyTorch). Finding best MOOC course for students based on the past activity",
+  "source": "@site/docs/tutorials/mooccube-course-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mooccube-course-recommender",
+  "permalink": "/docs/tutorials/mooccube-course-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mooccube-course-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mongodb-to-csv-conversion",
+    "permalink": "/docs/tutorials/mongodb-to-csv-conversion"
+  },
+  "next": {
+    "title": "mot",
+    "permalink": "/docs/tutorials/mot"
+  }
+}

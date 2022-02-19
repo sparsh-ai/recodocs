@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-itr-modeling-collaborative-knn",
+  "id": "tutorials/reco-tut-itr-modeling-collaborative-knn",
+  "title": "reco-tut-itr-modeling-collaborative-knn",
+  "description": "Note: KNN is a memory-based model, that means it will memorize the patterns and not generalize. It is simple yet powerful technique and compete with SOTA models like BERT4Rec.",
+  "source": "@site/docs/tutorials/reco-tut-itr-modeling-collaborative-knn.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-itr-modeling-collaborative-knn",
+  "permalink": "/docs/tutorials/reco-tut-itr-modeling-collaborative-knn",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-itr-modeling-collaborative-knn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-itr-launchpad",
+    "permalink": "/docs/tutorials/reco-tut-itr-launchpad"
+  },
+  "next": {
+    "title": "reco-tut-mal-launchpad",
+    "permalink": "/docs/tutorials/reco-tut-mal-launchpad"
+  }
+}

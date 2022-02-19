@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-cris-amzntools-data-ingestion",
+  "id": "tutorials/reco-tut-cris-amzntools-data-ingestion",
+  "title": "reco-tut-cris-amzntools-data-ingestion",
+  "description": "",
+  "source": "@site/docs/tutorials/reco-tut-cris-amzntools-data-ingestion.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-cris-amzntools-data-ingestion",
+  "permalink": "/docs/tutorials/reco-tut-cris-amzntools-data-ingestion",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-cris-amzntools-data-ingestion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-bok-us-grokking-ai-algorithms-rl",
+    "permalink": "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-rl"
+  },
+  "next": {
+    "title": "reco-tut-cris-amzntools-data-preprocessing",
+    "permalink": "/docs/tutorials/reco-tut-cris-amzntools-data-preprocessing"
+  }
+}

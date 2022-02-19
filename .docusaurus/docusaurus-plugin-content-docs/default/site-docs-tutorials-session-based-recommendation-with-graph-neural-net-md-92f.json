@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Real-time event capturing with Kafka and MongoDB",
-    "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+    "title": "session-based-prod-vec-coveo",
+    "permalink": "/docs/tutorials/session-based-prod-vec-coveo"
   },
   "next": {
-    "title": "Datasets",
-    "permalink": "/docs/datasets"
+    "title": "session-based-recommender-travel",
+    "permalink": "/docs/tutorials/session-based-recommender-travel"
   }
 }

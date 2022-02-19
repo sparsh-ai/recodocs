@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/pdf-to-wordcloud-mail",
+  "id": "tutorials/pdf-to-wordcloud-mail",
+  "title": "pdf-to-wordcloud-mail",
+  "description": "Receive a pdf via outlook mail and send back the wordcloud of that pdf in the reply",
+  "source": "@site/docs/tutorials/pdf-to-wordcloud-mail.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pdf-to-wordcloud-mail",
+  "permalink": "/docs/tutorials/pdf-to-wordcloud-mail",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pdf-to-wordcloud-mail.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pde",
+    "permalink": "/docs/tutorials/pde"
+  },
+  "next": {
+    "title": "pedidos",
+    "permalink": "/docs/tutorials/pedidos"
+  }
+}

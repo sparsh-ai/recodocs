@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces",
+  "id": "tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces",
+  "title": "deep-reinforcement-learning-in-large-discrete-action-spaces",
+  "description": "Advanced AI systems will likely need to reason with a large number of possible actions at every step. Recommender systems used in large systems such as YouTube and Amazon must reason about hundreds of millions of items every second, and control systems for large industrial processes may have millions of possible actions that can be applied at every time step.",
+  "source": "@site/docs/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces",
+  "permalink": "/docs/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ddpg-pendulum",
+    "permalink": "/docs/tutorials/ddpg-pendulum"
+  },
+  "next": {
+    "title": "deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+    "permalink": "/docs/tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/image-colorization",
+  "id": "tutorials/image-colorization",
+  "title": "image-colorization",
+  "description": "Environment Setting",
+  "source": "@site/docs/tutorials/image-colorization.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/image-colorization",
+  "permalink": "/docs/tutorials/image-colorization",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/image-colorization.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "image-classification-scikit",
+    "permalink": "/docs/tutorials/image-classification-scikit"
+  },
+  "next": {
+    "title": "image-seg-playground",
+    "permalink": "/docs/tutorials/image-seg-playground"
+  }
+}

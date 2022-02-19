@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/drl-for-restaurant-recommendation",
+  "id": "tutorials/drl-for-restaurant-recommendation",
+  "title": "drl-for-restaurant-recommendation",
+  "description": "Model",
+  "source": "@site/docs/tutorials/drl-for-restaurant-recommendation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/drl-for-restaurant-recommendation",
+  "permalink": "/docs/tutorials/drl-for-restaurant-recommendation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/drl-for-restaurant-recommendation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "drl-for-movie-recommendation-model",
+    "permalink": "/docs/tutorials/drl-for-movie-recommendation-model"
+  },
+  "next": {
+    "title": "dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+    "permalink": "/docs/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset"
+  }
+}

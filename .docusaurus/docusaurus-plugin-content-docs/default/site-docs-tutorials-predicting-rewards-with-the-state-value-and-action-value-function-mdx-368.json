@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/predicting-rewards-with-the-state-value-and-action-value-function",
+  "id": "tutorials/predicting-rewards-with-the-state-value-and-action-value-function",
+  "title": "predicting-rewards-with-the-state-value-and-action-value-function",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/predicting-rewards-with-the-state-value-and-action-value-function.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/predicting-rewards-with-the-state-value-and-action-value-function",
+  "permalink": "/docs/tutorials/predicting-rewards-with-the-state-value-and-action-value-function",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/predicting-rewards-with-the-state-value-and-action-value-function.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Post Estimation",
+    "permalink": "/docs/tutorials/post-estimation"
+  },
+  "next": {
+    "title": "preprocessing-of-diginetica-session-dataset",
+    "permalink": "/docs/tutorials/preprocessing-of-diginetica-session-dataset"
+  }
+}

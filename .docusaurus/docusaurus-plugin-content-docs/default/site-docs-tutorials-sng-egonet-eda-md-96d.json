@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sng-egonet-eda",
+  "id": "tutorials/sng-egonet-eda",
+  "title": "Social Network Graph EgoNet EDA",
+  "description": "The growth of social networking sites has been one of the most active trends in digital media over the years. Since the late 1990s, when the first social applications were published, they have attracted billions of active users worldwide, many of whom have integrated digital social interactions into their daily lives. New ways of communication are being driven by social networks such as Facebook, Twitter, and Instagram, among others. Users can share ideas, post updates and feedback, or engage in activities and events while sharing their broader interests on social networking sites.",
+  "source": "@site/docs/tutorials/sng-egonet-eda.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sng-egonet-eda",
+  "permalink": "/docs/tutorials/sng-egonet-eda",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sng-egonet-eda.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sms-spam-detection-using-fm-model",
+    "permalink": "/docs/tutorials/sms-spam-detection-using-fm-model"
+  },
+  "next": {
+    "title": "Social Network Graph EgoNet Link Prediction",
+    "permalink": "/docs/tutorials/sng-egonet-link"
+  }
+}

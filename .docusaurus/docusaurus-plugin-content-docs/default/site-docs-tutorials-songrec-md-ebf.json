@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/songrec",
+  "id": "tutorials/songrec",
+  "title": "Song Recommender",
+  "description": "Data Loading",
+  "source": "@site/docs/tutorials/songrec.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/songrec",
+  "permalink": "/docs/tutorials/songrec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/songrec.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "song-recommender-skipgram-word-vec",
+    "permalink": "/docs/tutorials/song-recommender-skipgram-word-vec"
+  },
+  "next": {
+    "title": "songs-embedding-skipgram-recommender",
+    "permalink": "/docs/tutorials/songs-embedding-skipgram-recommender"
+  }
+}

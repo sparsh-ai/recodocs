@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/perform-feature-engineering-recsys",
+  "id": "tutorials/perform-feature-engineering-recsys",
+  "title": "perform-feature-engineering-recsys",
+  "description": "Beginner to intermediate users are the target audience, which should have prior knowledge in python programming using libraries, such as pandas and NumPy. In addition, they should have a basic understanding of recommender systems, decision trees and feed forward neural networks.",
+  "source": "@site/docs/tutorials/perform-feature-engineering-recsys.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/perform-feature-engineering-recsys",
+  "permalink": "/docs/tutorials/perform-feature-engineering-recsys",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/perform-feature-engineering-recsys.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pedidos",
+    "permalink": "/docs/tutorials/pedidos"
+  },
+  "next": {
+    "title": "personalize-cleanup",
+    "permalink": "/docs/tutorials/personalize-cleanup"
+  }
+}

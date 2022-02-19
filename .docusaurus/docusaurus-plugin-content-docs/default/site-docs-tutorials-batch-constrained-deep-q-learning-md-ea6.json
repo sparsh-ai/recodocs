@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/batch-constrained-deep-q-learning",
+  "id": "tutorials/batch-constrained-deep-q-learning",
+  "title": "batch-constrained-deep-q-learning",
+  "description": "Current off-policy deep reinforcement learning algorithms fail to address extrapolation error by selecting actions with respect to a learned value estimate, without consideration of the accuracy of the estimate. As a result, certain outof-distribution actions can be erroneously extrapolated to higher values. However, the value of an off-policy agent can be accurately evaluated in regions where data is available.",
+  "source": "@site/docs/tutorials/batch-constrained-deep-q-learning.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/batch-constrained-deep-q-learning",
+  "permalink": "/docs/tutorials/batch-constrained-deep-q-learning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/batch-constrained-deep-q-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "baseliness-yoochoose",
+    "permalink": "/docs/tutorials/baseliness-yoochoose"
+  },
+  "next": {
+    "title": "batch-learning-from-bandit-feedback-blbf",
+    "permalink": "/docs/tutorials/batch-learning-from-bandit-feedback-blbf"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/tts",
+  "id": "tutorials/tts",
+  "title": "Text to Speech",
+  "description": "Generating synthetic voice from the given text using open-source TTS models.",
+  "source": "@site/docs/tutorials/tts.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tts",
+  "permalink": "/docs/tutorials/tts",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trivago-popular-destination-recommender",
+    "permalink": "/docs/tutorials/trivago-popular-destination-recommender"
+  },
+  "next": {
+    "title": "tutorial-on-behavioral-evaluation-of-recommender-systems",
+    "permalink": "/docs/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems"
+  }
+}

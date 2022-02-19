@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/cornac-item-popularity",
+  "id": "tutorials/cornac-item-popularity",
+  "title": "cornac-item-popularity",
+  "description": "A simple popular movie recommender and eda on movielens-100k dataset with the help of cornac library",
+  "source": "@site/docs/tutorials/cornac-item-popularity.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cornac-item-popularity",
+  "permalink": "/docs/tutorials/cornac-item-popularity",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/cornac-item-popularity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cornac-examples",
+    "permalink": "/docs/tutorials/cornac-examples"
+  },
+  "next": {
+    "title": "cotrec-sess-retailrocket",
+    "permalink": "/docs/tutorials/cotrec-sess-retailrocket"
+  }
+}

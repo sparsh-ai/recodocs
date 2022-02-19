@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/rec-medium-word-vec",
+  "id": "tutorials/rec-medium-word-vec",
+  "title": "rec-medium-word-vec",
+  "description": "Creating a system that automatically recommends a certain number of products to the consumers on an E-commerce website based on the past purchase behavior of the consumers.",
+  "source": "@site/docs/tutorials/rec-medium-word-vec.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/rec-medium-word-vec",
+  "permalink": "/docs/tutorials/rec-medium-word-vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/rec-medium-word-vec.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rec-algo-ncf-pytorch-pyy",
+    "permalink": "/docs/tutorials/rec-algo-ncf-pytorch-pyy"
+  },
+  "next": {
+    "title": "rec-ml-m",
+    "permalink": "/docs/tutorials/rec-ml-m"
+  }
+}

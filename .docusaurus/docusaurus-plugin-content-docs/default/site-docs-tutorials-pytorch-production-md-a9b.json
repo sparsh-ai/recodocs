@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/pytorch-production",
+  "id": "tutorials/pytorch-production",
+  "title": "pytorch-production",
+  "description": "In the past, going from research to production was a challenging task that required a team of software engineers to move PyTorch models to a framework and integrate them nto a (often non-Python) production environment. Today, PyTorch includes built-in tools and external libraries to support rapid deployment to a variety of production environments.",
+  "source": "@site/docs/tutorials/pytorch-production.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pytorch-production",
+  "permalink": "/docs/tutorials/pytorch-production",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pytorch-production.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pytorch-fundamentals-part",
+    "permalink": "/docs/tutorials/pytorch-fundamentals-part"
+  },
+  "next": {
+    "title": "pytorch-profiler",
+    "permalink": "/docs/tutorials/pytorch-profiler"
+  }
+}

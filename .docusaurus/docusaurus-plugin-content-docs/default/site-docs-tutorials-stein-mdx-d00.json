@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/stein",
+  "id": "tutorials/stein",
+  "title": "stein",
+  "description": "Stein's paradox",
+  "source": "@site/docs/tutorials/stein.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/stein",
+  "permalink": "/docs/tutorials/stein",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/stein.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "steam-game-recommender-lightfm-warp",
+    "permalink": "/docs/tutorials/steam-game-recommender-lightfm-warp"
+  },
+  "next": {
+    "title": "step-by-step-ab-testing-guide",
+    "permalink": "/docs/tutorials/step-by-step-ab-testing-guide"
+  }
+}

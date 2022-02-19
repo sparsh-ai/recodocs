@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/booking-dot-com-trip-recommendations-baseline",
+  "id": "tutorials/booking-dot-com-trip-recommendations-baseline",
+  "title": "Booking.com trip recommendation part 1 - baseline model",
+  "description": "Booking.com challenge on trip recommendation part 1",
+  "source": "@site/docs/tutorials/booking-dot-com-trip-recommendations-baseline.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/booking-dot-com-trip-recommendations-baseline",
+  "permalink": "/docs/tutorials/booking-dot-com-trip-recommendations-baseline",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/booking-dot-com-trip-recommendations-baseline.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bookcrossing",
+    "permalink": "/docs/tutorials/bookcrossing"
+  },
+  "next": {
+    "title": "Booking.com trip recommendation part 2 - EDA",
+    "permalink": "/docs/tutorials/booking-dot-com-trip-recommendations-eda"
+  }
+}

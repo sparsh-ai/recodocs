@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method",
+  "id": "tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method",
+  "title": "training-rl-agent-in-maze-gridworld-with-value-iteration-method",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method",
+  "permalink": "/docs/tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "training-rl-agent-in-gridworld-with-sarsa-method",
+    "permalink": "/docs/tutorials/training-rl-agent-in-gridworld-with-sarsa-method"
+  },
+  "next": {
+    "title": "training-rl-agent-in-mountain-car-environment-with-policy-gradient-method",
+    "permalink": "/docs/tutorials/training-rl-agent-in-mountain-car-environment-with-policy-gradient-method"
+  }
+}

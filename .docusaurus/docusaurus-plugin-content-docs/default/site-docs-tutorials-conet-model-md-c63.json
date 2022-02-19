@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/conet-model",
+  "id": "tutorials/conet-model",
+  "title": "conet-model",
+  "description": "Applying Co-occurrence Neural Networks for Recommendation on MovieLens dataset",
+  "source": "@site/docs/tutorials/conet-model.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/conet-model",
+  "permalink": "/docs/tutorials/conet-model",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/conet-model.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concept-transformer-lm",
+    "permalink": "/docs/tutorials/concept-transformer-lm"
+  },
+  "next": {
+    "title": "content-based-and-collaborative-movielens",
+    "permalink": "/docs/tutorials/content-based-and-collaborative-movielens"
+  }
+}

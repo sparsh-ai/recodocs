@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/vw-contextual-default",
+  "id": "tutorials/vw-contextual-default",
+  "title": "vw-contextual-default",
+  "description": "",
+  "source": "@site/docs/tutorials/vw-contextual-default.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/vw-contextual-default",
+  "permalink": "/docs/tutorials/vw-contextual-default",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/vw-contextual-default.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vowpalwabbit-changing-context",
+    "permalink": "/docs/tutorials/vowpalwabbit-changing-context"
+  },
+  "next": {
+    "title": "vw-contextual-mod",
+    "permalink": "/docs/tutorials/vw-contextual-mod"
+  }
+}

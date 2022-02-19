@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/word-vec",
+  "id": "tutorials/word-vec",
+  "title": "word-vec",
+  "description": "image.png",
+  "source": "@site/docs/tutorials/word-vec.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/word-vec",
+  "permalink": "/docs/tutorials/word-vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/word-vec.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "word-vec-recsys-on-ml-m",
+    "permalink": "/docs/tutorials/word-vec-recsys-on-ml-m"
+  },
+  "next": {
+    "title": "xdeepfm-on-criteo-ad-dataset-in-tf-x",
+    "permalink": "/docs/tutorials/xdeepfm-on-criteo-ad-dataset-in-tf-x"
+  }
+}

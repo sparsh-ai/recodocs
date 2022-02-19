@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m",
+  "id": "tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m",
+  "title": "ctr-item-ranking-models-in-tensorflow-on-ml-m",
+  "description": "Step 1 - Setup the environment",
+  "source": "@site/docs/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m",
+  "permalink": "/docs/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "creating-running-and-sharing-docker-container-image-in-kubernetes",
+    "permalink": "/docs/tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes"
+  },
+  "next": {
+    "title": "cv",
+    "permalink": "/docs/tutorials/cv"
+  }
+}

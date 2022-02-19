@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/node-vec",
+  "id": "tutorials/node-vec",
+  "title": "node-vec",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/node-vec.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/node-vec",
+  "permalink": "/docs/tutorials/node-vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/node-vec.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "node-vec-tf",
+    "permalink": "/docs/tutorials/node-vec-tf"
+  },
+  "next": {
+    "title": "nstep",
+    "permalink": "/docs/tutorials/nstep"
+  }
+}

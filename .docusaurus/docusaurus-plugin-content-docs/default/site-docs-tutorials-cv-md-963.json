@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/cv",
+  "id": "tutorials/cv",
+  "title": "cv",
+  "description": "Wiener Filter",
+  "source": "@site/docs/tutorials/cv.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cv",
+  "permalink": "/docs/tutorials/cv",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/cv.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ctr-item-ranking-models-in-tensorflow-on-ml-m",
+    "permalink": "/docs/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m"
+  },
+  "next": {
+    "title": "Cyber Insurance Analytics",
+    "permalink": "/docs/tutorials/cyber-insurance"
+  }
+}

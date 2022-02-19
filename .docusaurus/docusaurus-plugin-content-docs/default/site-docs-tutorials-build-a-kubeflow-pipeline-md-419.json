@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/build-a-kubeflow-pipeline",
+  "id": "tutorials/build-a-kubeflow-pipeline",
+  "title": "build-a-kubeflow-pipeline",
+  "description": "A tutorial on building pipelines to orchestrate your ML workflow",
+  "source": "@site/docs/tutorials/build-a-kubeflow-pipeline.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/build-a-kubeflow-pipeline",
+  "permalink": "/docs/tutorials/build-a-kubeflow-pipeline",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/build-a-kubeflow-pipeline.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bst",
+    "permalink": "/docs/tutorials/bst"
+  },
+  "next": {
+    "title": "A simple recommender with tensorflow",
+    "permalink": "/docs/tutorials/build-a-simple-movie-recommender-with-tensorflow"
+  }
+}

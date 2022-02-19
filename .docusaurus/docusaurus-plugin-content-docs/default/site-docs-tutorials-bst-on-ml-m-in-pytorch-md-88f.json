@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/bst-on-ml-m-in-pytorch",
+  "id": "tutorials/bst-on-ml-m-in-pytorch",
+  "title": "bst-on-ml-m-in-pytorch",
+  "description": "Rating prediction using the Behavior Sequence Transformer (BST) model on ML-1M dataset in PyTorch Lightning.",
+  "source": "@site/docs/tutorials/bst-on-ml-m-in-pytorch.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/bst-on-ml-m-in-pytorch",
+  "permalink": "/docs/tutorials/bst-on-ml-m-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/bst-on-ml-m-in-pytorch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bst-mxnet",
+    "permalink": "/docs/tutorials/bst-mxnet"
+  },
+  "next": {
+    "title": "bst",
+    "permalink": "/docs/tutorials/bst"
+  }
+}

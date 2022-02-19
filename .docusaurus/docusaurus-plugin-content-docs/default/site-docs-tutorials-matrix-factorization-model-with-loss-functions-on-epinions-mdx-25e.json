@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/matrix-factorization-model-with-loss-functions-on-epinions",
+  "id": "tutorials/matrix-factorization-model-with-loss-functions-on-epinions",
+  "title": "matrix-factorization-model-with-loss-functions-on-epinions",
+  "description": "",
+  "source": "@site/docs/tutorials/matrix-factorization-model-with-loss-functions-on-epinions.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/matrix-factorization-model-with-loss-functions-on-epinions",
+  "permalink": "/docs/tutorials/matrix-factorization-model-with-loss-functions-on-epinions",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/matrix-factorization-model-with-loss-functions-on-epinions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "matplotlib",
+    "permalink": "/docs/tutorials/matplotlib"
+  },
+  "next": {
+    "title": "matrix-factorization-with-sgd-and-als-on-ml-m",
+    "permalink": "/docs/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m"
+  }
+}

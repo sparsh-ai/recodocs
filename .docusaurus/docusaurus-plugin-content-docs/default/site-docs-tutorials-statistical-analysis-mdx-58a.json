@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/statistical-analysis",
+  "id": "tutorials/statistical-analysis",
+  "title": "statistical-analysis",
+  "description": "Statistics is a branch of mathematics dealing with the collection and interpretation of numeric data. It is the precursor of all modern data science. The term statistic originally signified “the science of the state” because statistical methods were first developed to analyze the data of state governments. Since ancient times, government agencies have gathered data pertaining to their populace. That data would be used to levy taxes and organize large military campaigns. Hence, critical state decisions depended on the quality of data. Poor record keeping could lead to potentially disastrous results. That is why state bureaucrats were very concerned by any random fluctuations in their records. Probability theory eventually tamed these fluctuations, making the randomness interpretable. Ever since then, statistics and probability theory have been closely intertwined.",
+  "source": "@site/docs/tutorials/statistical-analysis.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/statistical-analysis",
+  "permalink": "/docs/tutorials/statistical-analysis",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/statistical-analysis.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stat-visuals",
+    "permalink": "/docs/tutorials/stat-visuals"
+  },
+  "next": {
+    "title": "statistics-fundamentals",
+    "permalink": "/docs/tutorials/statistics-fundamentals"
+  }
+}

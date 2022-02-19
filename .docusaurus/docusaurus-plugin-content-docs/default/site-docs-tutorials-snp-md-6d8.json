@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/snp",
+  "id": "tutorials/snp",
+  "title": "SNP Data Analysis and Modeling",
+  "description": "Import data",
+  "source": "@site/docs/tutorials/snp.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/snp",
+  "permalink": "/docs/tutorials/snp",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/snp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "papermill-mlflow",
+        "language": "python",
+        "name": "papermill-mlflow"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Social Network Graph EgoNet Link Prediction",
+    "permalink": "/docs/tutorials/sng-egonet-link"
+  },
+  "next": {
+    "title": "social",
+    "permalink": "/docs/tutorials/social"
+  }
+}

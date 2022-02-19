@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/itemcf-movie",
+  "id": "tutorials/itemcf-movie",
+  "title": "itemcf-movie",
+  "description": "Item-based Collaborative Filtering - Cosine Similarity Method",
+  "source": "@site/docs/tutorials/itemcf-movie.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/itemcf-movie",
+  "permalink": "/docs/tutorials/itemcf-movie",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/itemcf-movie.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ipl-player-recommendation-knn",
+    "permalink": "/docs/tutorials/ipl-player-recommendation-knn"
+  },
+  "next": {
+    "title": "job-scraping",
+    "permalink": "/docs/tutorials/job-scraping"
+  }
+}

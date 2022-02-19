@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/recommender-implicit-negative-feedback",
+  "id": "tutorials/recommender-implicit-negative-feedback",
+  "title": "recommender-implicit-negative-feedback",
+  "description": "A tutorial to demonstrate the process of training and evaluating various recommender models on a online retail store data. Along with the positive feedbacks like view, add-to-cart, we also have a negative event 'remove-from-cart'.",
+  "source": "@site/docs/tutorials/recommender-implicit-negative-feedback.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recommender-implicit-negative-feedback",
+  "permalink": "/docs/tutorials/recommender-implicit-negative-feedback",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recommender-implicit-negative-feedback.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recommendation-node-vec",
+    "permalink": "/docs/tutorials/recommendation-node-vec"
+  },
+  "next": {
+    "title": "recommender-playground-packt",
+    "permalink": "/docs/tutorials/recommender-playground-packt"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/tfrs-electronics",
+  "id": "tutorials/tfrs-electronics",
+  "title": "tfrs-electronics",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/tfrs-electronics.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tfrs-electronics",
+  "permalink": "/docs/tutorials/tfrs-electronics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tfrs-electronics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tflite",
+    "permalink": "/docs/tutorials/tflite"
+  },
+  "next": {
+    "title": "tfrs-fi-deepcross",
+    "permalink": "/docs/tutorials/tfrs-fi-deepcross"
+  }
+}

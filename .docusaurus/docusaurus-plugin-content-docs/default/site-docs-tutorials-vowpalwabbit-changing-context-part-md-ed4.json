@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/vowpalwabbit-changing-context-part",
+  "id": "tutorials/vowpalwabbit-changing-context-part",
+  "title": "vowpalwabbit-changing-context-part",
+  "description": "Customizing the context and changing it midway to see how fast the agent can adapt to the new context and start recommending better products as per the context",
+  "source": "@site/docs/tutorials/vowpalwabbit-changing-context-part.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/vowpalwabbit-changing-context-part",
+  "permalink": "/docs/tutorials/vowpalwabbit-changing-context-part",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/vowpalwabbit-changing-context-part.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vowpal-wabbit-contextual-recommender",
+    "permalink": "/docs/tutorials/vowpal-wabbit-contextual-recommender"
+  },
+  "next": {
+    "title": "vowpalwabbit-changing-context",
+    "permalink": "/docs/tutorials/vowpalwabbit-changing-context"
+  }
+}

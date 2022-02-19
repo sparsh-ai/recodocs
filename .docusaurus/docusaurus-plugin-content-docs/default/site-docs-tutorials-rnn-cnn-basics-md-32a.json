@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/rnn-cnn-basics",
+  "id": "tutorials/rnn-cnn-basics",
+  "title": "rnn-cnn-basics",
+  "description": "Chapter 15 of the hands-on-ml book",
+  "source": "@site/docs/tutorials/rnn-cnn-basics.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/rnn-cnn-basics",
+  "permalink": "/docs/tutorials/rnn-cnn-basics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/rnn-cnn-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rl-tictactoe",
+    "permalink": "/docs/tutorials/rl-tictactoe"
+  },
+  "next": {
+    "title": "sageconv",
+    "permalink": "/docs/tutorials/sageconv"
+  }
+}

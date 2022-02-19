@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/simplex-mf",
+  "id": "tutorials/simplex-mf",
+  "title": "simplex-mf",
+  "description": "h5_generator",
+  "source": "@site/docs/tutorials/simplex-mf.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/simplex-mf",
+  "permalink": "/docs/tutorials/simplex-mf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/simplex-mf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "simplex-amazon",
+    "permalink": "/docs/tutorials/simplex-amazon"
+  },
+  "next": {
+    "title": "simulating-data-poisoning-attacks-against-twitter-recommender",
+    "permalink": "/docs/tutorials/simulating-data-poisoning-attacks-against-twitter-recommender"
+  }
+}

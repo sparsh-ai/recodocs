@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/wikidatarecs",
+  "id": "tutorials/wikidatarecs",
+  "title": "wikidatarecs",
+  "description": "",
+  "source": "@site/docs/tutorials/wikidatarecs.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wikidatarecs",
+  "permalink": "/docs/tutorials/wikidatarecs",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/wikidatarecs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wide-deep-on-criteo-ad-dataset-in-tf-x",
+    "permalink": "/docs/tutorials/wide-deep-on-criteo-ad-dataset-in-tf-x"
+  },
+  "next": {
+    "title": "wikipedia-recsys",
+    "permalink": "/docs/tutorials/wikipedia-recsys"
+  }
+}

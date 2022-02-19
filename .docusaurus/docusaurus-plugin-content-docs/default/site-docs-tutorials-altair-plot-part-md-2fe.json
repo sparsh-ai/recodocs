@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/altair-plot-part",
+  "id": "tutorials/altair-plot-part",
+  "title": "altair-plot-part",
+  "description": "A series of Altair plot examples",
+  "source": "@site/docs/tutorials/altair-plot-part.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/altair-plot-part",
+  "permalink": "/docs/tutorials/altair-plot-part",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/altair-plot-part.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alternating Least Square model for recommendation",
+    "permalink": "/docs/tutorials/als"
+  },
+  "next": {
+    "title": "amazon-crossdomain",
+    "permalink": "/docs/tutorials/amazon-crossdomain"
+  }
+}

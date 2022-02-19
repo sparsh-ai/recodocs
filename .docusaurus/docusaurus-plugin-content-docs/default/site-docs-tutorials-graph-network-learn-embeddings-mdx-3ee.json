@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/graph-network-learn-embeddings",
+  "id": "tutorials/graph-network-learn-embeddings",
+  "title": "graph-network-learn-embeddings",
+  "description": "Various short tutorials on using graph network models to learn embeddings, classification and visualization",
+  "source": "@site/docs/tutorials/graph-network-learn-embeddings.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/graph-network-learn-embeddings",
+  "permalink": "/docs/tutorials/graph-network-learn-embeddings",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph-network-learn-embeddings.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "graph-encoder",
+    "permalink": "/docs/tutorials/graph-encoder"
+  },
+  "next": {
+    "title": "graph-properties",
+    "permalink": "/docs/tutorials/graph-properties"
+  }
+}

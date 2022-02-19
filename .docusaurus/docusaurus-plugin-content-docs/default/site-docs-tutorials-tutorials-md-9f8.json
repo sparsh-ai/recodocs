@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/tutorials",
+  "id": "tutorials/tutorials",
+  "title": "Tutorials",
+  "description": "In the following sections, we will more systematically introduce the following tutorials:",
+  "source": "@site/docs/tutorials/tutorials.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/",
+  "permalink": "/docs/tutorials/",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tutorials.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
+  },
+  "next": {
+    "title": "ab-test-in-five-simple-steps",
+    "permalink": "/docs/tutorials/ab-test-in-five-simple-steps"
+  }
+}

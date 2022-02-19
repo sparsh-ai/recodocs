@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes",
+  "id": "tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes",
+  "title": "creating-running-and-sharing-docker-container-image-in-kubernetes",
+  "description": "Creating a trivial Node.js app",
+  "source": "@site/docs/tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes",
+  "permalink": "/docs/tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "coveo-dataset-loading-and-eda",
+    "permalink": "/docs/tutorials/coveo-dataset-loading-and-eda"
+  },
+  "next": {
+    "title": "ctr-item-ranking-models-in-tensorflow-on-ml-m",
+    "permalink": "/docs/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m"
+  }
+}

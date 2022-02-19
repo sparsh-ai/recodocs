@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/frozenlake-using-q-learning",
+  "id": "tutorials/frozenlake-using-q-learning",
+  "title": "frozenlake-using-q-learning",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/frozenlake-using-q-learning.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/frozenlake-using-q-learning",
+  "permalink": "/docs/tutorials/frozenlake-using-q-learning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/frozenlake-using-q-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frozenlake-crossentropy",
+    "permalink": "/docs/tutorials/frozenlake-crossentropy"
+  },
+  "next": {
+    "title": "frozenlake-using-value-iteration",
+    "permalink": "/docs/tutorials/frozenlake-using-value-iteration"
+  }
+}

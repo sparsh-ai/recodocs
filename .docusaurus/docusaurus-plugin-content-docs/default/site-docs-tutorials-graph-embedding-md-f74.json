@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/graph-embedding",
+  "id": "tutorials/graph-embedding",
+  "title": "Graph Embeddings",
+  "description": "Due to their nature, graphs can be analyzed at different levels of granularity: at the node, edge, and graph level (the whole graph), as depicted in the following figure. For each of those levels, different problems could be faced and, as a consequence, specific algorithms should be used.",
+  "source": "@site/docs/tutorials/graph-embedding.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/graph-embedding",
+  "permalink": "/docs/tutorials/graph-embedding",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph-embedding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "graph-convolutional-networks-using-only-numpy",
+    "permalink": "/docs/tutorials/graph-convolutional-networks-using-only-numpy"
+  },
+  "next": {
+    "title": "graph-embeddings-using-convnet-stellargraph",
+    "permalink": "/docs/tutorials/graph-embeddings-using-convnet-stellargraph"
+  }
+}

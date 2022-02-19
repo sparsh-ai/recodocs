@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/double-domain-recommendations-on-ml-m",
+  "id": "tutorials/double-domain-recommendations-on-ml-m",
+  "title": "double-domain-recommendations-on-ml-m",
+  "description": "Introduction",
+  "source": "@site/docs/tutorials/double-domain-recommendations-on-ml-m.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/double-domain-recommendations-on-ml-m",
+  "permalink": "/docs/tutorials/double-domain-recommendations-on-ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/double-domain-recommendations-on-ml-m.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dl-retrieval",
+    "permalink": "/docs/tutorials/dl-retrieval"
+  },
+  "next": {
+    "title": "dqn-ieee",
+    "permalink": "/docs/tutorials/dqn-ieee"
+  }
+}

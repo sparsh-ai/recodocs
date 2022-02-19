@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Data Science Bookcamp",
-    "permalink": "/docs/tutorials/data-science-bookcamp"
+    "title": "maskrcnn-gradio-app",
+    "permalink": "/docs/tutorials/maskrcnn-gradio-app"
   },
   "next": {
-    "title": "Real-time event capturing with Kafka and MongoDB",
-    "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+    "title": "matn-yelp",
+    "permalink": "/docs/tutorials/matn-yelp"
   }
 }

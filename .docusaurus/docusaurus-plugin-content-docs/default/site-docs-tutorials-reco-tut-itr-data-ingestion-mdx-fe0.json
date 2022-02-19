@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-itr-data-ingestion",
+  "id": "tutorials/reco-tut-itr-data-ingestion",
+  "title": "reco-tut-itr-data-ingestion",
+  "description": "",
+  "source": "@site/docs/tutorials/reco-tut-itr-data-ingestion.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-itr-data-ingestion",
+  "permalink": "/docs/tutorials/reco-tut-itr-data-ingestion",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-itr-data-ingestion.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+    "permalink": "/docs/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric"
+  },
+  "next": {
+    "title": "reco-tut-itr-eda",
+    "permalink": "/docs/tutorials/reco-tut-itr-eda"
+  }
+}

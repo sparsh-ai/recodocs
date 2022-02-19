@@ -19,7 +19,7 @@ const config = {
   favicon: 'img/logo.svg',
   organizationName: 'recohut',
   projectName: 'docs',
-
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   presets: [
     [
       '@docusaurus/preset-classic',

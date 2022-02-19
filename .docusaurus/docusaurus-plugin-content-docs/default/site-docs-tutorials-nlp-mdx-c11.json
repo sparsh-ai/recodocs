@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/nlp",
+  "id": "tutorials/nlp",
+  "title": "nlp",
+  "description": "Rapid text analysis can save lives. Let’s consider a real-world incident when US soldiers stormed a terrorist compound. In the compound, they discovered a computer containing terabytes of archived data. The data included documents, text messages, and emails pertaining to terrorist activities. The documents were too numerous to be read by any single human being. Fortunately, the soldiers were equipped with special software that could perform very fast text analysis. The software allowed the soldiers to process all of the text data without even having to leave the compound. The onsite analysis immediately revealed an active terrorist plot in a nearby neighborhood. The soldiers instantly responded to the plot and prevented a terrorist attack.",
+  "source": "@site/docs/tutorials/nlp.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/nlp",
+  "permalink": "/docs/tutorials/nlp",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/nlp.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nicf",
+    "permalink": "/docs/tutorials/nicf"
+  },
+  "next": {
+    "title": "nms",
+    "permalink": "/docs/tutorials/nms"
+  }
+}

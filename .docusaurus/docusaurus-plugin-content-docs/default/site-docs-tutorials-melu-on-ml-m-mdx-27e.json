@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/melu-on-ml-m",
+  "id": "tutorials/melu-on-ml-m",
+  "title": "melu-on-ml-m",
+  "description": "Preparing dataset",
+  "source": "@site/docs/tutorials/melu-on-ml-m.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/melu-on-ml-m",
+  "permalink": "/docs/tutorials/melu-on-ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/melu-on-ml-m.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mdp-inventory",
+    "permalink": "/docs/tutorials/mdp-inventory"
+  },
+  "next": {
+    "title": "metahin",
+    "permalink": "/docs/tutorials/metahin"
+  }
+}

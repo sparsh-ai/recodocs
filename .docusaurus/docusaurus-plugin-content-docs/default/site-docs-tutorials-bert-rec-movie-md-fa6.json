@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/bert-rec-movie",
+  "id": "tutorials/bert-rec-movie",
+  "title": "bert-rec-movie",
+  "description": "In this tutorial, we are building BERT4Rec model in PyTorch and then training it on the movielens 1m dataset.",
+  "source": "@site/docs/tutorials/bert-rec-movie.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/bert-rec-movie",
+  "permalink": "/docs/tutorials/bert-rec-movie",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/bert-rec-movie.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bert-bert-seq-attack",
+    "permalink": "/docs/tutorials/bert-bert-seq-attack"
+  },
+  "next": {
+    "title": "bert-rec-on-ml-m-in-pytorch-lightning",
+    "permalink": "/docs/tutorials/bert-rec-on-ml-m-in-pytorch-lightning"
+  }
+}

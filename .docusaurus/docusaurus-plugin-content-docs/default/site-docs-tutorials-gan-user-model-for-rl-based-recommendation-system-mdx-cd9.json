@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/gan-user-model-for-rl-based-recommendation-system",
+  "id": "tutorials/gan-user-model-for-rl-based-recommendation-system",
+  "title": "gan-user-model-for-rl-based-recommendation-system",
+  "description": "A model-based RL framework for recommendation systems, where a user behavior model and the associated reward function are learned in unified minmax framework, and then RL policies are learned using this model.",
+  "source": "@site/docs/tutorials/gan-user-model-for-rl-based-recommendation-system.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gan-user-model-for-rl-based-recommendation-system",
+  "permalink": "/docs/tutorials/gan-user-model-for-rl-based-recommendation-system",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gan-user-model-for-rl-based-recommendation-system.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frozenlake-using-value-iteration",
+    "permalink": "/docs/tutorials/frozenlake-using-value-iteration"
+  },
+  "next": {
+    "title": "gat-cora",
+    "permalink": "/docs/tutorials/gat-cora"
+  }
+}

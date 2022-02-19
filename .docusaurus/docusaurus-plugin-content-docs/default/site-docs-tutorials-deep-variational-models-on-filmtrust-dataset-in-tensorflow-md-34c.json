@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+  "id": "tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+  "title": "deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+  "description": "Step 1 - Setup the environment",
+  "source": "@site/docs/tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+  "permalink": "/docs/tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deep-reinforcement-learning-in-large-discrete-action-spaces",
+    "permalink": "/docs/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces"
+  },
+  "next": {
+    "title": "deep-variational-models-on-filmtrust-ml-m-and-myanimelist-dataset-in-tensorflow",
+    "permalink": "/docs/tutorials/deep-variational-models-on-filmtrust-ml-m-and-myanimelist-dataset-in-tensorflow"
+  }
+}

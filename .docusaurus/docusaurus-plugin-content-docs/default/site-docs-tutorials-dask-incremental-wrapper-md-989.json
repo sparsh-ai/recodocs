@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dask-incremental-wrapper",
+  "id": "tutorials/dask-incremental-wrapper",
+  "title": "dask-incremental-wrapper",
+  "description": "Some estimators can be trained incrementally – without seeing the entire dataset at once. Scikit-Learn provides the partial_fit API to stream batches of data to an estimator that can be fit in batches.",
+  "source": "@site/docs/tutorials/dask-incremental-wrapper.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dask-incremental-wrapper",
+  "permalink": "/docs/tutorials/dask-incremental-wrapper",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dask-incremental-wrapper.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dare-cross-domain-recommender-on-amazon-reviews-dataset",
+    "permalink": "/docs/tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset"
+  },
+  "next": {
+    "title": "data-mining-similarity-measures",
+    "permalink": "/docs/tutorials/data-mining-similarity-measures"
+  }
+}

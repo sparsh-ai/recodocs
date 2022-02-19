@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/jobs-resume",
+  "id": "tutorials/jobs-resume",
+  "title": "jobs-resume",
+  "description": "We’re ready to expand our data science career. Six months from now, we’ll apply for a new job. In preparation, we begin to draft our resume. The early draft is rough and incomplete. It doesn’t yet cover our career goals or education.",
+  "source": "@site/docs/tutorials/jobs-resume.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/jobs-resume",
+  "permalink": "/docs/tutorials/jobs-resume",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/jobs-resume.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "job-scraping",
+    "permalink": "/docs/tutorials/job-scraping"
+  },
+  "next": {
+    "title": "kafka-colab",
+    "permalink": "/docs/tutorials/kafka-colab"
+  }
+}

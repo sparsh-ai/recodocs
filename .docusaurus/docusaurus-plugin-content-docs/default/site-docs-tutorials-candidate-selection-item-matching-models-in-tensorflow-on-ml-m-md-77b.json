@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+  "id": "tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+  "title": "candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+  "description": "Step 1 - Setup the environment",
+  "source": "@site/docs/tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+  "permalink": "/docs/tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cancer-cv",
+    "permalink": "/docs/tutorials/cancer-cv"
+  },
+  "next": {
+    "title": "capture-realtime-kafka-mongodb",
+    "permalink": "/docs/tutorials/capture-realtime-kafka-mongodb"
+  }
+}

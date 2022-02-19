@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/pedidos",
+  "id": "tutorials/pedidos",
+  "title": "pedidos",
+  "description": "Installations",
+  "source": "@site/docs/tutorials/pedidos.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pedidos",
+  "permalink": "/docs/tutorials/pedidos",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pedidos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pdf-to-wordcloud-mail",
+    "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
+  },
+  "next": {
+    "title": "perform-feature-engineering-recsys",
+    "permalink": "/docs/tutorials/perform-feature-engineering-recsys"
+  }
+}

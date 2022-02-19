@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/adversarial",
+  "id": "tutorials/adversarial",
+  "title": "adversarial",
+  "description": "Adversarial training (also adversarial regularization) is a defense strategy against adversarial perturbations. The main intuition is to increase the robustness of a recommender system on minimal adversarial perturbation of model parameters by adding further training iterations that takes into account the application of such perturbations.",
+  "source": "@site/docs/tutorials/adversarial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/adversarial",
+  "permalink": "/docs/tutorials/adversarial",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/adversarial.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ads-selection-using-bandits",
+    "permalink": "/docs/tutorials/ads-selection-using-bandits"
+  },
+  "next": {
+    "title": "advertising",
+    "permalink": "/docs/tutorials/advertising"
+  }
+}

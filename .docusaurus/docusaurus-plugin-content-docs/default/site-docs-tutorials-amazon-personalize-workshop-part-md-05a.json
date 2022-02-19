@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/amazon-personalize-workshop-part",
+  "id": "tutorials/amazon-personalize-workshop-part",
+  "title": "Amazon Personalize Workshop Part 4 - Security best practices (optional)",
+  "description": "We are using a pre-made dataset that hasn't been encrypted so there is no need to decrypt this dataset. However, it would be a good security practice to store your datasets encrypted.",
+  "source": "@site/docs/tutorials/amazon-personalize-workshop-part.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/amazon-personalize-workshop-part",
+  "permalink": "/docs/tutorials/amazon-personalize-workshop-part",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-workshop-part.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "amazon-personalize-poc-in-a-box",
+    "permalink": "/docs/tutorials/amazon-personalize-poc-in-a-box"
+  },
+  "next": {
+    "title": "amazon-personalize-workshop",
+    "permalink": "/docs/tutorials/amazon-personalize-workshop"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/ddpg-pendulum",
+  "id": "tutorials/ddpg-pendulum",
+  "title": "ddpg-pendulum",
+  "description": "Description: Implementing DDPG algorithm on the Inverted Pendulum Problem.",
+  "source": "@site/docs/tutorials/ddpg-pendulum.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ddpg-pendulum",
+  "permalink": "/docs/tutorials/ddpg-pendulum",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ddpg-pendulum.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dcn",
+    "permalink": "/docs/tutorials/dcn"
+  },
+  "next": {
+    "title": "deep-reinforcement-learning-in-large-discrete-action-spaces",
+    "permalink": "/docs/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces"
+  }
+}

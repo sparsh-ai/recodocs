@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset",
+  "id": "tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset",
+  "title": "metatl-for-cold-start-users-on-amazon-electronics-dataset",
+  "description": "Introduction",
+  "source": "@site/docs/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset",
+  "permalink": "/docs/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metahin",
+    "permalink": "/docs/tutorials/metahin"
+  },
+  "next": {
+    "title": "methods-for-effective-online-testing",
+    "permalink": "/docs/tutorials/methods-for-effective-online-testing"
+  }
+}

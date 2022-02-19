@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/kernelized-matrix-factorization-on-ml-m",
+  "id": "tutorials/kernelized-matrix-factorization-on-ml-m",
+  "title": "kernelized-matrix-factorization-on-ml-m",
+  "description": "A kernel function allows to transform the product of the factor matrices. Kernels like the s-shaped logistic function allow to impose bounds on the prediction (e.g. one to five stars) while still being differentiable.",
+  "source": "@site/docs/tutorials/kernelized-matrix-factorization-on-ml-m.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/kernelized-matrix-factorization-on-ml-m",
+  "permalink": "/docs/tutorials/kernelized-matrix-factorization-on-ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/kernelized-matrix-factorization-on-ml-m.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "keras-ocr",
+    "permalink": "/docs/tutorials/keras-ocr"
+  },
+  "next": {
+    "title": "keypoint-rcnn-torchvision",
+    "permalink": "/docs/tutorials/keypoint-rcnn-torchvision"
+  }
+}

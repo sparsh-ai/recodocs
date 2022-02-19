@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ocr-python",
+  "id": "tutorials/ocr-python",
+  "title": "ocr-python",
+  "description": "We will learn different ways to perform optical character recognition tasks in python using open-source libraries.",
+  "source": "@site/docs/tutorials/ocr-python.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ocr-python",
+  "permalink": "/docs/tutorials/ocr-python",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ocr-python.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "obp-library-workshop-tutorials",
+    "permalink": "/docs/tutorials/obp-library-workshop-tutorials"
+  },
+  "next": {
+    "title": "offline-rl-replay",
+    "permalink": "/docs/tutorials/offline-rl-replay"
+  }
+}

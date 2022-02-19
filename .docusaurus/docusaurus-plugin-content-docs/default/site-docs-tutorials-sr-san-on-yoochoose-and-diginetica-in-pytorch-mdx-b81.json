@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch",
+  "id": "tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch",
+  "title": "sr-san-on-yoochoose-and-diginetica-in-pytorch",
+  "description": "Session-based recommendation aims to predict user's next behavior from current session and previous anonymous sessions. Capturing long-range dependencies between items is a vital challenge in session-based recommendation. A novel approach is proposed for session-based recommendation with self-attention networks (SR-SAN) as a remedy. The self-attention networks (SAN) allow SR-SAN capture the global dependencies among all items of a session regardless of their distance. In SR-SAN, a single item latent vector is used to capture both current interest and global interest instead of session embedding which is composed of current interest embedding and global interest embedding. Some experiments have been performed on some open benchmark datasets. Experimental results show that the proposed method outperforms some state-of-the-arts by comparisons.",
+  "source": "@site/docs/tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch",
+  "permalink": "/docs/tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sr-gnn-session-based-recommendation-on-sample-dataset",
+    "permalink": "/docs/tutorials/sr-gnn-session-based-recommendation-on-sample-dataset"
+  },
+  "next": {
+    "title": "sse-pt-on-ml-m-in-tensorflow-x",
+    "permalink": "/docs/tutorials/sse-pt-on-ml-m-in-tensorflow-x"
+  }
+}

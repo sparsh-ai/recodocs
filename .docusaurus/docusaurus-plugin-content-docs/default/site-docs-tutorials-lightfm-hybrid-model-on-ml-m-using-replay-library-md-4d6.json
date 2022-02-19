@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library",
+  "id": "tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library",
+  "title": "lightfm-hybrid-model-on-ml-m-using-replay-library",
+  "description": "The notebook contains an example of LightFM model usage and dataset preprocessing with RePlay, including:",
+  "source": "@site/docs/tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library",
+  "permalink": "/docs/tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lightfm-cold-start-on-ml-m",
+    "permalink": "/docs/tutorials/lightfm-cold-start-on-ml-m"
+  },
+  "next": {
+    "title": "lightfm-hybrid-recommender-on-retail-product-data",
+    "permalink": "/docs/tutorials/lightfm-hybrid-recommender-on-retail-product-data"
+  }
+}

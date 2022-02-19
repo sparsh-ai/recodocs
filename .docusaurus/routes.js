@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog','b52'),
     exact: true
@@ -310,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','2fe'),
+    component: ComponentCreator('/docs','23a'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -1327,44 +1362,332 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/tools/pyspark',
+        component: ComponentCreator('/docs/tools/pyspark','18f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/tools/river',
         component: ComponentCreator('/docs/tools/river','a8f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/',
-        component: ComponentCreator('/docs/tutorials/','7e1'),
+        path: '/docs/tutorials/ab-test-in-five-simple-steps',
+        component: ComponentCreator('/docs/tutorials/ab-test-in-five-simple-steps','137'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/data-science-bookcamp',
-        component: ComponentCreator('/docs/tutorials/data-science-bookcamp','f86'),
+        path: '/docs/tutorials/ac',
+        component: ComponentCreator('/docs/tutorials/ac','06b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/matching-and-ranking-models-in-tensorflow',
-        component: ComponentCreator('/docs/tutorials/matching-and-ranking-models-in-tensorflow','646'),
+        path: '/docs/tutorials/action-recog-finetune',
+        component: ComponentCreator('/docs/tutorials/action-recog-finetune','044'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb',
-        component: ComponentCreator('/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb','852'),
+        path: '/docs/tutorials/ad-conversion-simple-ab-testing',
+        component: ComponentCreator('/docs/tutorials/ad-conversion-simple-ab-testing','533'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/session-based-recommendation-with-graph-neural-net',
-        component: ComponentCreator('/docs/tutorials/session-based-recommendation-with-graph-neural-net','fda'),
+        path: '/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation',
+        component: ComponentCreator('/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation','6f4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook',
-        component: ComponentCreator('/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook','646'),
+        path: '/docs/tutorials/ads-selection-using-bandits',
+        component: ComponentCreator('/docs/tutorials/ads-selection-using-bandits','371'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/adversarial',
+        component: ComponentCreator('/docs/tutorials/adversarial','508'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/advertising',
+        component: ComponentCreator('/docs/tutorials/advertising','c9b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/ae-ml',
+        component: ComponentCreator('/docs/tutorials/ae-ml','8d5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x',
+        component: ComponentCreator('/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x','d36'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/agnn',
+        component: ComponentCreator('/docs/tutorials/agnn','bd5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/agriculture-image-segmentation',
+        component: ComponentCreator('/docs/tutorials/agriculture-image-segmentation','a9d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/airbnb-fair-valuation',
+        component: ComponentCreator('/docs/tutorials/airbnb-fair-valuation','b07'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/als',
+        component: ComponentCreator('/docs/tutorials/als','a02'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/als-ml-m',
+        component: ComponentCreator('/docs/tutorials/als-ml-m','ba4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/als-on-retail-product-data',
+        component: ComponentCreator('/docs/tutorials/als-on-retail-product-data','713'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/altair-plot-part',
+        component: ComponentCreator('/docs/tutorials/altair-plot-part','8da'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/amazon-crossdomain',
+        component: ComponentCreator('/docs/tutorials/amazon-crossdomain','0c4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/amazon-personalize-batch-job',
+        component: ComponentCreator('/docs/tutorials/amazon-personalize-batch-job','58b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/amazon-personalize-batch-recommendations-lab',
+        component: ComponentCreator('/docs/tutorials/amazon-personalize-batch-recommendations-lab','3a1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/amazon-personalize-poc-in-a-box',
+        component: ComponentCreator('/docs/tutorials/amazon-personalize-poc-in-a-box','05f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/amazon-personalize-workshop',
+        component: ComponentCreator('/docs/tutorials/amazon-personalize-workshop','e13'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/amazon-personalize-workshop-part',
+        component: ComponentCreator('/docs/tutorials/amazon-personalize-workshop-part','627'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/amazon-women-apparel-tfidf-word-vec',
+        component: ComponentCreator('/docs/tutorials/amazon-women-apparel-tfidf-word-vec','e96'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/analytics-zoo-ncf-goodreads',
+        component: ComponentCreator('/docs/tutorials/analytics-zoo-ncf-goodreads','777'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/analytics-zoo-ncf-movielens',
+        component: ComponentCreator('/docs/tutorials/analytics-zoo-ncf-movielens','c59'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/analytics-zoo-wideanddeep-movielens',
+        component: ComponentCreator('/docs/tutorials/analytics-zoo-wideanddeep-movielens','38b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/animations-with-manim-quickstart',
+        component: ComponentCreator('/docs/tutorials/animations-with-manim-quickstart','c75'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/animations-with-matplotlib-and-plotly',
+        component: ComponentCreator('/docs/tutorials/animations-with-matplotlib-and-plotly','2d2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/anime-recommender',
+        component: ComponentCreator('/docs/tutorials/anime-recommender','7fc'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/anime-recommender-graph-network',
+        component: ComponentCreator('/docs/tutorials/anime-recommender-graph-network','2c4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/apache-airflow',
+        component: ComponentCreator('/docs/tutorials/apache-airflow','848'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/apple-podcast-recommender',
+        component: ComponentCreator('/docs/tutorials/apple-podcast-recommender','82a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch',
+        component: ComponentCreator('/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch','1cb'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/apprentice-mountaincar',
+        component: ComponentCreator('/docs/tutorials/apprentice-mountaincar','670'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system',
+        component: ComponentCreator('/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system','54a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/artist-free-song-recommender',
+        component: ComponentCreator('/docs/tutorials/artist-free-song-recommender','d45'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset',
+        component: ComponentCreator('/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset','e02'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/asr',
+        component: ComponentCreator('/docs/tutorials/asr','3aa'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/assessing-online-ad-clicks-for-significance',
+        component: ComponentCreator('/docs/tutorials/assessing-online-ad-clicks-for-significance','387'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/attention-gnn',
+        component: ComponentCreator('/docs/tutorials/attention-gnn','fea'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/attention-mechanisms',
+        component: ComponentCreator('/docs/tutorials/attention-mechanisms','56a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/attrec-on-ml-m-in-tf-x',
+        component: ComponentCreator('/docs/tutorials/attrec-on-ml-m-in-tf-x','997'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations',
+        component: ComponentCreator('/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations','b19'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/audible-audiobook-recommender',
+        component: ComponentCreator('/docs/tutorials/audible-audiobook-recommender','4fa'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/augmented-shilling-attack-aush',
+        component: ComponentCreator('/docs/tutorials/augmented-shilling-attack-aush','45d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart',
+        component: ComponentCreator('/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart','87b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/autorec-movielens',
+        component: ComponentCreator('/docs/tutorials/autorec-movielens','a37'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/autorec-on-ml-m',
+        component: ComponentCreator('/docs/tutorials/autorec-on-ml-m','889'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/autosurprise',
+        component: ComponentCreator('/docs/tutorials/autosurprise','e7c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/avalanche-visual-incremental-learning',
+        component: ComponentCreator('/docs/tutorials/avalanche-visual-incremental-learning','f33'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/ayuhealth-food-recommender',
+        component: ComponentCreator('/docs/tutorials/ayuhealth-food-recommender','cb0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/reco-tut-sjr-data-ingestion',
+        component: ComponentCreator('/docs/tutorials/reco-tut-sjr-data-ingestion','359'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

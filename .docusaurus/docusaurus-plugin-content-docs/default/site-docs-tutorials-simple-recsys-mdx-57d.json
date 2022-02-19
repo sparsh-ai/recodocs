@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/simple-recsys",
+  "id": "tutorials/simple-recsys",
+  "title": "Basic Movie Recommenders",
+  "description": "Content-based, Collaborative filtering, model-based and neural MF models on movielens data.",
+  "source": "@site/docs/tutorials/simple-recsys.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/simple-recsys",
+  "permalink": "/docs/tutorials/simple-recsys",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/simple-recsys.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "simple-movie-recommender",
+    "permalink": "/docs/tutorials/simple-movie-recommender"
+  },
+  "next": {
+    "title": "simple-scraping-nlp-bs-distilbert",
+    "permalink": "/docs/tutorials/simple-scraping-nlp-bs-distilbert"
+  }
+}

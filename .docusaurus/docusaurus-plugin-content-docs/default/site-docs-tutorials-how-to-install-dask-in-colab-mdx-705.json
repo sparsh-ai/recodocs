@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/how-to-install-dask-in-colab",
+  "id": "tutorials/how-to-install-dask-in-colab",
+  "title": "how-to-install-dask-in-colab",
+  "description": "a basic introduction to dask and how to install dask in colab",
+  "source": "@site/docs/tutorials/how-to-install-dask-in-colab.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/how-to-install-dask-in-colab",
+  "permalink": "/docs/tutorials/how-to-install-dask-in-colab",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/how-to-install-dask-in-colab.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hierarchical-rl-on-ml-k",
+    "permalink": "/docs/tutorials/hierarchical-rl-on-ml-k"
+  },
+  "next": {
+    "title": "how-to-setup-and-run-jenkins",
+    "permalink": "/docs/tutorials/how-to-setup-and-run-jenkins"
+  }
+}

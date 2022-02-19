@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/teacher-recommender",
+  "id": "tutorials/teacher-recommender",
+  "title": "teacher-recommender",
+  "description": "Recommending Teachers to Students for the K-12 online one-on-one courses",
+  "source": "@site/docs/tutorials/teacher-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/teacher-recommender",
+  "permalink": "/docs/tutorials/teacher-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/teacher-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tdd",
+    "permalink": "/docs/tutorials/tdd"
+  },
+  "next": {
+    "title": "tensorboard",
+    "permalink": "/docs/tutorials/tensorboard"
+  }
+}

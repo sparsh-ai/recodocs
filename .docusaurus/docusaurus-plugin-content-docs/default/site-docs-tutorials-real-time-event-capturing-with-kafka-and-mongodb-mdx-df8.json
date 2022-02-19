@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "xDeepFM",
-    "permalink": "/docs/models/xdeepfm"
+    "title": "read-data-from-cassandra-into-pandas",
+    "permalink": "/docs/tutorials/read-data-from-cassandra-into-pandas"
   },
   "next": {
-    "title": "Datasets",
-    "permalink": "/docs/datasets"
+    "title": "real-time-in-session-personalization",
+    "permalink": "/docs/tutorials/real-time-in-session-personalization"
   }
 }

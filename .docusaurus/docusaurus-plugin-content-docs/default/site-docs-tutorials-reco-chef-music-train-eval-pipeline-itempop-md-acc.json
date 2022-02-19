@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-chef-music-train-eval-pipeline-itempop",
+  "id": "tutorials/reco-chef-music-train-eval-pipeline-itempop",
+  "title": "reco-chef-music-train-eval-pipeline-itempop",
+  "description": "Scripts",
+  "source": "@site/docs/tutorials/reco-chef-music-train-eval-pipeline-itempop.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-chef-music-train-eval-pipeline-itempop",
+  "permalink": "/docs/tutorials/reco-chef-music-train-eval-pipeline-itempop",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-chef-music-train-eval-pipeline-itempop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-chef-music-data-layer-scripting",
+    "permalink": "/docs/tutorials/reco-chef-music-data-layer-scripting"
+  },
+  "next": {
+    "title": "reco-chef-music-training-evaluation-scripting-itempop-model",
+    "permalink": "/docs/tutorials/reco-chef-music-training-evaluation-scripting-itempop-model"
+  }
+}

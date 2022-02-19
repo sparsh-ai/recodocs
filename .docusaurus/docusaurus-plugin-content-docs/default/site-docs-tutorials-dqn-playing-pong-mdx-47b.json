@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dqn-playing-pong",
+  "id": "tutorials/dqn-playing-pong",
+  "title": "dqn-playing-pong",
+  "description": "",
+  "source": "@site/docs/tutorials/dqn-playing-pong.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dqn-playing-pong",
+  "permalink": "/docs/tutorials/dqn-playing-pong",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dqn-playing-pong.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dqn-on-the-cartpole-and-atari-using-coach",
+    "permalink": "/docs/tutorials/dqn-on-the-cartpole-and-atari-using-coach"
+  },
+  "next": {
+    "title": "drift-detection-using-river-library",
+    "permalink": "/docs/tutorials/drift-detection-using-river-library"
+  }
+}

@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Matching and Ranking models in Tensorflow",
-    "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
+    "title": "read-data-from-cassandra-into-pandas",
+    "permalink": "/docs/tutorials/read-data-from-cassandra-into-pandas"
   },
   "next": {
-    "title": "Session-based Recommendation with Graph Neural Networks",
-    "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
+    "title": "real-time-in-session-personalization",
+    "permalink": "/docs/tutorials/real-time-in-session-personalization"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/stock-agent",
+  "id": "tutorials/stock-agent",
+  "title": "stock-agent",
+  "description": "- Building a stock market trading RL platform using real stock exchange data",
+  "source": "@site/docs/tutorials/stock-agent.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/stock-agent",
+  "permalink": "/docs/tutorials/stock-agent",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/stock-agent.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "step-by-step-ab-testing-guide",
+    "permalink": "/docs/tutorials/step-by-step-ab-testing-guide"
+  },
+  "next": {
+    "title": "storing-ml-features-using-feast",
+    "permalink": "/docs/tutorials/storing-ml-features-using-feast"
+  }
+}

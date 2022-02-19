@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/amazon-personalize-poc-in-a-box",
+  "id": "tutorials/amazon-personalize-poc-in-a-box",
+  "title": "amazon-personalize-poc-in-a-box",
+  "description": "In this workshop you will build your very own recommendation model that will recommend movies to users based on their past preferences. You will further improve the recommendation model to take into account a user’s interactions with movie items to provide accurate recommendations. This workshop will use the publicly available movie lens dataset.",
+  "source": "@site/docs/tutorials/amazon-personalize-poc-in-a-box.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/amazon-personalize-poc-in-a-box",
+  "permalink": "/docs/tutorials/amazon-personalize-poc-in-a-box",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-poc-in-a-box.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "amazon-personalize-batch-recommendations-lab",
+    "permalink": "/docs/tutorials/amazon-personalize-batch-recommendations-lab"
+  },
+  "next": {
+    "title": "Amazon Personalize Workshop Part 4 - Security best practices (optional)",
+    "permalink": "/docs/tutorials/amazon-personalize-workshop-part"
+  }
+}

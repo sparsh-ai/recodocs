@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/neural-network-from-scratch",
+  "id": "tutorials/neural-network-from-scratch",
+  "title": "neural-network-from-scratch",
+  "description": "Perceptron",
+  "source": "@site/docs/tutorials/neural-network-from-scratch.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/neural-network-from-scratch",
+  "permalink": "/docs/tutorials/neural-network-from-scratch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/neural-network-from-scratch.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neumf-on-ml-m",
+    "permalink": "/docs/tutorials/neumf-on-ml-m"
+  },
+  "next": {
+    "title": "news-recommender-mind-pytorch-lightning",
+    "permalink": "/docs/tutorials/news-recommender-mind-pytorch-lightning"
+  }
+}

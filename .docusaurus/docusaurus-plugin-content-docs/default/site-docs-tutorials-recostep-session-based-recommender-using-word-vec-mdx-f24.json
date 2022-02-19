@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/recostep-session-based-recommender-using-word-vec",
+  "id": "tutorials/recostep-session-based-recommender-using-word-vec",
+  "title": "recostep-session-based-recommender-using-word-vec",
+  "description": "How to build a session-based product recommender using word2vec model on retail dataset",
+  "source": "@site/docs/tutorials/recostep-session-based-recommender-using-word-vec.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-session-based-recommender-using-word-vec",
+  "permalink": "/docs/tutorials/recostep-session-based-recommender-using-word-vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-session-based-recommender-using-word-vec.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-movielens-neural-mf",
+    "permalink": "/docs/tutorials/recostep-movielens-neural-mf"
+  },
+  "next": {
+    "title": "recostep-tutorial-multi-armed-bandit-product-recommender",
+    "permalink": "/docs/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender"
+  }
+}

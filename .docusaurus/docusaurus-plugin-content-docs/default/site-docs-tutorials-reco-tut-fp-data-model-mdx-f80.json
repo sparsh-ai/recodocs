@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-fp-data-model",
+  "id": "tutorials/reco-tut-fp-data-model",
+  "title": "reco-tut-fp-data-model",
+  "description": "You can think of the data model as a description of Python as a framework. It formalizes the interfaces of the building blocks of the language itself, such as sequences, functions, iterators, coroutines, classes, context managers, and so on.",
+  "source": "@site/docs/tutorials/reco-tut-fp-data-model.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-fp-data-model",
+  "permalink": "/docs/tutorials/reco-tut-fp-data-model",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-fp-data-model.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-ffr-preprocessing",
+    "permalink": "/docs/tutorials/reco-tut-ffr-preprocessing"
+  },
+  "next": {
+    "title": "reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+    "permalink": "/docs/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric"
+  }
+}

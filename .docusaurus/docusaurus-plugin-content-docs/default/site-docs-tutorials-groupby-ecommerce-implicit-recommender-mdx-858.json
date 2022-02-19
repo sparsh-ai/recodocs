@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/groupby-ecommerce-implicit-recommender",
+  "id": "tutorials/groupby-ecommerce-implicit-recommender",
+  "title": "groupby-ecommerce-implicit-recommender",
+  "description": "Recommendation system using collaborative filtering for implicit data on e-commerce customer journey. Capstone project for Machine Learning Engineer Bootcamp at FourthBrain. It is an industry sponsored project from GroupBy, an e-commerce start up that aims to create highly converting and relevant site experience to maximize revenue through e-commerce channels. Also benchmarking movielens and cosmetics datasets.",
+  "source": "@site/docs/tutorials/groupby-ecommerce-implicit-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/groupby-ecommerce-implicit-recommender",
+  "permalink": "/docs/tutorials/groupby-ecommerce-implicit-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/groupby-ecommerce-implicit-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "group-recommendations-with-actor-critic-rl-agent-in-mdp-environment-on-ml-m-dataset",
+    "permalink": "/docs/tutorials/group-recommendations-with-actor-critic-rl-agent-in-mdp-environment-on-ml-m-dataset"
+  },
+  "next": {
+    "title": "groupim-weeplaces",
+    "permalink": "/docs/tutorials/groupim-weeplaces"
+  }
+}

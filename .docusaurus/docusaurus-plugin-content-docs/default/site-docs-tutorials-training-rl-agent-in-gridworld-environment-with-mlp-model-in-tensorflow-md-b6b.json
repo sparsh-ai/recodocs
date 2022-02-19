@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+  "id": "tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+  "title": "training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+  "permalink": "/docs/tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+    "permalink": "/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method"
+  },
+  "next": {
+    "title": "training-rl-agent-in-gridworld-with-q-learning-method",
+    "permalink": "/docs/tutorials/training-rl-agent-in-gridworld-with-q-learning-method"
+  }
+}

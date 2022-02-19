@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/glt-missing-link",
+  "id": "tutorials/glt-missing-link",
+  "title": "Graph Learning Tasks - Missing link prediction",
+  "description": "Link prediction, also known as graph completion, is a common problem when dealing with graphs. More precisely, from a partially observed graph—a graph where for a certain pair of nodes it is not possible to exactly know if there is (or there is not) an edge between them—we want to predict whether or not edges exist for the unknown status node pairs, as seen in the following figure:",
+  "source": "@site/docs/tutorials/glt-missing-link.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/glt-missing-link",
+  "permalink": "/docs/tutorials/glt-missing-link",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/glt-missing-link.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Learning Tasks - Community Detection",
+    "permalink": "/docs/tutorials/glt-community"
+  },
+  "next": {
+    "title": "gmf-yelp",
+    "permalink": "/docs/tutorials/gmf-yelp"
+  }
+}

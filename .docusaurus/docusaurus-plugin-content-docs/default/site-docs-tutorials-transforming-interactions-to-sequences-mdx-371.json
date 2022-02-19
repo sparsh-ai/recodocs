@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/transforming-interactions-to-sequences",
+  "id": "tutorials/transforming-interactions-to-sequences",
+  "title": "transforming-interactions-to-sequences",
+  "description": "",
+  "source": "@site/docs/tutorials/transforming-interactions-to-sequences.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/transforming-interactions-to-sequences",
+  "permalink": "/docs/tutorials/transforming-interactions-to-sequences",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/transforming-interactions-to-sequences.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NLP Transformers Search and Sampling",
+    "permalink": "/docs/tutorials/transformers"
+  },
+  "next": {
+    "title": "travel-optim",
+    "permalink": "/docs/tutorials/travel-optim"
+  }
+}

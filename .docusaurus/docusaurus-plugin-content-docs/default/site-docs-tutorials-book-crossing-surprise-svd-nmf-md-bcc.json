@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/book-crossing-surprise-svd-nmf",
+  "id": "tutorials/book-crossing-surprise-svd-nmf",
+  "title": "book-crossing-surprise-svd-nmf",
+  "description": "Book recommender system on book crossing dataset using surprise SVD and NMF models",
+  "source": "@site/docs/tutorials/book-crossing-surprise-svd-nmf.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/book-crossing-surprise-svd-nmf",
+  "permalink": "/docs/tutorials/book-crossing-surprise-svd-nmf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/book-crossing-surprise-svd-nmf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bollywood-movie-recommender",
+    "permalink": "/docs/tutorials/bollywood-movie-recommender"
+  },
+  "next": {
+    "title": "book-recommender-api",
+    "permalink": "/docs/tutorials/book-recommender-api"
+  }
+}

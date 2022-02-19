@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/contextual-bandit-dash-app",
+  "id": "tutorials/contextual-bandit-dash-app",
+  "title": "Contextual bandit dash app",
+  "description": "Building a dash app of contextual bandit based recommender system",
+  "source": "@site/docs/tutorials/contextual-bandit-dash-app.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/contextual-bandit-dash-app",
+  "permalink": "/docs/tutorials/contextual-bandit-dash-app",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/contextual-bandit-dash-app.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "content-based-music-recommender-lyricsfreak",
+    "permalink": "/docs/tutorials/content-based-music-recommender-lyricsfreak"
+  },
+  "next": {
+    "title": "contextual-mab",
+    "permalink": "/docs/tutorials/contextual-mab"
+  }
+}

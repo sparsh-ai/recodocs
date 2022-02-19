@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ncf-movielens-tensorflow",
+  "id": "tutorials/ncf-movielens-tensorflow",
+  "title": "ncf-movielens-tensorflow",
+  "description": "We will build a Neural Collaborative Filtering model from scratch in Tensorflow and train it on movielens data. Then we will compare it side by side with lightfm model.",
+  "source": "@site/docs/tutorials/ncf-movielens-tensorflow.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ncf-movielens-tensorflow",
+  "permalink": "/docs/tutorials/ncf-movielens-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ncf-movielens-tensorflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ncf-from-scratch-pytorch",
+    "permalink": "/docs/tutorials/ncf-from-scratch-pytorch"
+  },
+  "next": {
+    "title": "Neural Collaborative Filtering for Personalized Ranking",
+    "permalink": "/docs/tutorials/ncf-mxnet"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ml-m",
+  "id": "tutorials/ml-m",
+  "title": "ml-m",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/ml-m.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ml-m",
+  "permalink": "/docs/tutorials/ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ml-m.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mkr",
+    "permalink": "/docs/tutorials/mkr"
+  },
+  "next": {
+    "title": "ml-pytorch-aws",
+    "permalink": "/docs/tutorials/ml-pytorch-aws"
+  }
+}

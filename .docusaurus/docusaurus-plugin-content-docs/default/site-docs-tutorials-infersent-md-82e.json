@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/infersent",
+  "id": "tutorials/infersent",
+  "title": "infersent",
+  "description": "Installation",
+  "source": "@site/docs/tutorials/infersent.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/infersent",
+  "permalink": "/docs/tutorials/infersent",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/infersent.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "incremental-update-retraining-on-sobazaar-dataset",
+    "permalink": "/docs/tutorials/incremental-update-retraining-on-sobazaar-dataset"
+  },
+  "next": {
+    "title": "information-aggregation",
+    "permalink": "/docs/tutorials/information-aggregation"
+  }
+}

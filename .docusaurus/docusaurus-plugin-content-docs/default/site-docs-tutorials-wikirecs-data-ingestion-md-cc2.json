@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/wikirecs-data-ingestion",
+  "id": "tutorials/wikirecs-data-ingestion",
+  "title": "wikirecs-data-ingestion",
+  "description": "In this first part of the two part series, we will handle the data side. We will fetch data from wikipedia, store in feather format and register the combined data on recochef. After that, we will perform EDA and extensive cleaning.",
+  "source": "@site/docs/tutorials/wikirecs-data-ingestion.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wikirecs-data-ingestion",
+  "permalink": "/docs/tutorials/wikirecs-data-ingestion",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/wikirecs-data-ingestion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wikipedia-recsys",
+    "permalink": "/docs/tutorials/wikipedia-recsys"
+  },
+  "next": {
+    "title": "wikirecs-data-storage",
+    "permalink": "/docs/tutorials/wikirecs-data-storage"
+  }
+}

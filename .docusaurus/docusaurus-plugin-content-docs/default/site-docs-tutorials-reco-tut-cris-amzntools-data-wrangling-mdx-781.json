@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-cris-amzntools-data-wrangling",
+  "id": "tutorials/reco-tut-cris-amzntools-data-wrangling",
+  "title": "reco-tut-cris-amzntools-data-wrangling",
+  "description": "",
+  "source": "@site/docs/tutorials/reco-tut-cris-amzntools-data-wrangling.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-cris-amzntools-data-wrangling",
+  "permalink": "/docs/tutorials/reco-tut-cris-amzntools-data-wrangling",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-cris-amzntools-data-wrangling.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-cris-amzntools-data-preprocessing",
+    "permalink": "/docs/tutorials/reco-tut-cris-amzntools-data-preprocessing"
+  },
+  "next": {
+    "title": "reco-tut-cris-amzntools-dataloaders",
+    "permalink": "/docs/tutorials/reco-tut-cris-amzntools-dataloaders"
+  }
+}

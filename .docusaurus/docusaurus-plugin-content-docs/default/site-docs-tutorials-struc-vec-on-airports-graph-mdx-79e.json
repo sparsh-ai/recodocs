@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/struc-vec-on-airports-graph",
+  "id": "tutorials/struc-vec-on-airports-graph",
+  "title": "struc-vec-on-airports-graph",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/struc-vec-on-airports-graph.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/struc-vec-on-airports-graph",
+  "permalink": "/docs/tutorials/struc-vec-on-airports-graph",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/struc-vec-on-airports-graph.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stosa",
+    "permalink": "/docs/tutorials/stosa"
+  },
+  "next": {
+    "title": "svdpp-movie",
+    "permalink": "/docs/tutorials/svdpp-movie"
+  }
+}

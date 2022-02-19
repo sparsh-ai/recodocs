@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/movielens-data-split",
+  "id": "tutorials/movielens-data-split",
+  "title": "movielens-data-split",
+  "description": "Data Split",
+  "source": "@site/docs/tutorials/movielens-data-split.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/movielens-data-split",
+  "permalink": "/docs/tutorials/movielens-data-split",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/movielens-data-split.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "movie-transformer",
+    "permalink": "/docs/tutorials/movie-transformer"
+  },
+  "next": {
+    "title": "movielens-eda-modeling",
+    "permalink": "/docs/tutorials/movielens-eda-modeling"
+  }
+}

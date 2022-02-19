@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/image-seg",
+  "id": "tutorials/image-seg",
+  "title": "Image segmentation and Background removal",
+  "description": "An editted version of the demo notebook in https://github.com/matterport/Mask_RCNN",
+  "source": "@site/docs/tutorials/image-seg.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/image-seg",
+  "permalink": "/docs/tutorials/image-seg",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/image-seg.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "image-seg-playground",
+    "permalink": "/docs/tutorials/image-seg-playground"
+  },
+  "next": {
+    "title": "image-similarity-recommendations",
+    "permalink": "/docs/tutorials/image-similarity-recommendations"
+  }
+}

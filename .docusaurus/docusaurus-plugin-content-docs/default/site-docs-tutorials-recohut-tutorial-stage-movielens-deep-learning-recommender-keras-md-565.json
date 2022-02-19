@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
+  "id": "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
+  "title": "recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
+  "description": "Our task is to predict the rating for a user/movie pair, with the idea that if we had a model that's good at this task then we could predict how a user would rate movies they haven't seen yet and recommend movies with the highest predicted rating.",
+  "source": "@site/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
+  "permalink": "/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
+    "permalink": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow"
+  },
+  "next": {
+    "title": "recommend-vendors-to-local-agencies-ipynb",
+    "permalink": "/docs/tutorials/recommend-vendors-to-local-agencies-ipynb"
+  }
+}

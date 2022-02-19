@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/rl-basics",
+  "id": "tutorials/rl-basics",
+  "title": "rl-basics",
+  "description": "Learn RL Q-learning by simulating a discrete and continuous toy environment manually as well as with Gym library",
+  "source": "@site/docs/tutorials/rl-basics.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/rl-basics",
+  "permalink": "/docs/tutorials/rl-basics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/rl-basics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revisiting-the-performance-of-ials-on-item-recommendation-benchmarks",
+    "permalink": "/docs/tutorials/revisiting-the-performance-of-ials-on-item-recommendation-benchmarks"
+  },
+  "next": {
+    "title": "rl-in-action",
+    "permalink": "/docs/tutorials/rl-in-action"
+  }
+}

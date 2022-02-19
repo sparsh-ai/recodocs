@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mdp-dynamic",
+  "id": "tutorials/mdp-dynamic",
+  "title": "mdp-dynamic",
+  "description": "We will evaluate and solve MDPs using dynamic programming (DP). It is worth to note that the Model-based methods such as DP have some drawbacks. They require the environment to be fully known, including the transition matrix and reward matrix. They also have limited scalability, especially for environments with plenty of states.",
+  "source": "@site/docs/tutorials/mdp-dynamic.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mdp-dynamic",
+  "permalink": "/docs/tutorials/mdp-dynamic",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mdp-dynamic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mc",
+    "permalink": "/docs/tutorials/mc"
+  },
+  "next": {
+    "title": "mdp-inventory",
+    "permalink": "/docs/tutorials/mdp-inventory"
+  }
+}

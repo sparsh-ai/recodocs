@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-ffr-preprocessing",
+  "id": "tutorials/reco-tut-ffr-preprocessing",
+  "title": "reco-tut-ffr-preprocessing",
+  "description": "Negative sampling",
+  "source": "@site/docs/tutorials/reco-tut-ffr-preprocessing.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-ffr-preprocessing",
+  "permalink": "/docs/tutorials/reco-tut-ffr-preprocessing",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-ffr-preprocessing.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-ffr-modeling",
+    "permalink": "/docs/tutorials/reco-tut-ffr-modeling"
+  },
+  "next": {
+    "title": "reco-tut-fp-data-model",
+    "permalink": "/docs/tutorials/reco-tut-fp-data-model"
+  }
+}

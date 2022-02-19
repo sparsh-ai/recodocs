@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/read-data-from-cassandra-into-pandas",
+  "id": "tutorials/read-data-from-cassandra-into-pandas",
+  "title": "read-data-from-cassandra-into-pandas",
+  "description": "Short guide on how to read data from Cassandra into pandas dataframe format",
+  "source": "@site/docs/tutorials/read-data-from-cassandra-into-pandas.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/read-data-from-cassandra-into-pandas",
+  "permalink": "/docs/tutorials/read-data-from-cassandra-into-pandas",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/read-data-from-cassandra-into-pandas.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3.7.1 64-bit ('env': conda)",
+        "name": "python371jvsc74a57bd0e09bc63938c7c12a1d261af93fef4c49c4bc4ec4b59849b02ca92b0abe12c74c"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ravelry-pattern-recommender",
+    "permalink": "/docs/tutorials/ravelry-pattern-recommender"
+  },
+  "next": {
+    "title": "Real-time event capturing with Kafka and MongoDB",
+    "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+  }
+}

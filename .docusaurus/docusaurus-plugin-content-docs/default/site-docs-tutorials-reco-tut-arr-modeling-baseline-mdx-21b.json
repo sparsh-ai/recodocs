@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-arr-modeling-baseline",
+  "id": "tutorials/reco-tut-arr-modeling-baseline",
+  "title": "reco-tut-arr-modeling-baseline",
+  "description": "Data sampling for quick modeling",
+  "source": "@site/docs/tutorials/reco-tut-arr-modeling-baseline.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-arr-modeling-baseline",
+  "permalink": "/docs/tutorials/reco-tut-arr-modeling-baseline",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-arr-modeling-baseline.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-arr-eda",
+    "permalink": "/docs/tutorials/reco-tut-arr-eda"
+  },
+  "next": {
+    "title": "reco-tut-arr-preprocessing-for-baseline",
+    "permalink": "/docs/tutorials/reco-tut-arr-preprocessing-for-baseline"
+  }
+}

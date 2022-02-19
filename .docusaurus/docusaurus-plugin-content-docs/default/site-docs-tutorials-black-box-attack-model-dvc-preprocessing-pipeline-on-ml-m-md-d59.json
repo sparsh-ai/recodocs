@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m",
+  "id": "tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m",
+  "title": "black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m",
+  "description": "",
+  "source": "@site/docs/tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m",
+  "permalink": "/docs/tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "black-box-attack-model-dvc-negative-sampling-pipeline-on-ml-m",
+    "permalink": "/docs/tutorials/black-box-attack-model-dvc-negative-sampling-pipeline-on-ml-m"
+  },
+  "next": {
+    "title": "black-box-attack-model-dvc-training-pipeline",
+    "permalink": "/docs/tutorials/black-box-attack-model-dvc-training-pipeline"
+  }
+}

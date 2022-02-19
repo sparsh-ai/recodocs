@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/image-similarity-recommendations",
+  "id": "tutorials/image-similarity-recommendations",
+  "title": "image-similarity-recommendations",
+  "description": "A tutorial on building a recommender system that will find similar looking products",
+  "source": "@site/docs/tutorials/image-similarity-recommendations.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/image-similarity-recommendations",
+  "permalink": "/docs/tutorials/image-similarity-recommendations",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/image-similarity-recommendations.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Image segmentation and Background removal",
+    "permalink": "/docs/tutorials/image-seg"
+  },
+  "next": {
+    "title": "image-similarity-system",
+    "permalink": "/docs/tutorials/image-similarity-system"
+  }
+}

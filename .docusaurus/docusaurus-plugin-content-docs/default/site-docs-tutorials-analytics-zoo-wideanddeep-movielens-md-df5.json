@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/analytics-zoo-wideanddeep-movielens",
+  "id": "tutorials/analytics-zoo-wideanddeep-movielens",
+  "title": "analytics-zoo-wideanddeep-movielens",
+  "description": "Applying Wide&Deep on MovieLens using Analytics Zoo library",
+  "source": "@site/docs/tutorials/analytics-zoo-wideanddeep-movielens.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/analytics-zoo-wideanddeep-movielens",
+  "permalink": "/docs/tutorials/analytics-zoo-wideanddeep-movielens",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/analytics-zoo-wideanddeep-movielens.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "analytics-zoo-ncf-movielens",
+    "permalink": "/docs/tutorials/analytics-zoo-ncf-movielens"
+  },
+  "next": {
+    "title": "animations-with-manim-quickstart",
+    "permalink": "/docs/tutorials/animations-with-manim-quickstart"
+  }
+}

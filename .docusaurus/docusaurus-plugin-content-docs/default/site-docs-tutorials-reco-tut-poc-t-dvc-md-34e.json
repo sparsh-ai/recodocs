@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-poc-t-dvc",
+  "id": "tutorials/reco-tut-poc-t-dvc",
+  "title": "reco-tut-poc-t-dvc",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-poc-t-dvc.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-poc-t-dvc",
+  "permalink": "/docs/tutorials/reco-tut-poc-t-dvc",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-poc-t-dvc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-nlpt-t-text-classification",
+    "permalink": "/docs/tutorials/reco-tut-nlpt-t-text-classification"
+  },
+  "next": {
+    "title": "reco-tut-poc-t-streamlit-ebs",
+    "permalink": "/docs/tutorials/reco-tut-poc-t-streamlit-ebs"
+  }
+}

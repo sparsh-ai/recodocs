@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/karateclub-deepwalk",
+  "id": "tutorials/karateclub-deepwalk",
+  "title": "karateclub-deepwalk",
+  "description": "Codebase",
+  "source": "@site/docs/tutorials/karateclub-deepwalk.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/karateclub-deepwalk",
+  "permalink": "/docs/tutorials/karateclub-deepwalk",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/karateclub-deepwalk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kafka-spark-streaming-colab",
+    "permalink": "/docs/tutorials/kafka-spark-streaming-colab"
+  },
+  "next": {
+    "title": "keras-ocr",
+    "permalink": "/docs/tutorials/keras-ocr"
+  }
+}

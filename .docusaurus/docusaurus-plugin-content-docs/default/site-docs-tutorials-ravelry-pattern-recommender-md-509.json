@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ravelry-pattern-recommender",
+  "id": "tutorials/ravelry-pattern-recommender",
+  "title": "ravelry-pattern-recommender",
+  "description": "Recommend Wool knitted desings (artifacts) to users",
+  "source": "@site/docs/tutorials/ravelry-pattern-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ravelry-pattern-recommender",
+  "permalink": "/docs/tutorials/ravelry-pattern-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ravelry-pattern-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rating-predictions-tfrs",
+    "permalink": "/docs/tutorials/rating-predictions-tfrs"
+  },
+  "next": {
+    "title": "read-data-from-cassandra-into-pandas",
+    "permalink": "/docs/tutorials/read-data-from-cassandra-into-pandas"
+  }
+}

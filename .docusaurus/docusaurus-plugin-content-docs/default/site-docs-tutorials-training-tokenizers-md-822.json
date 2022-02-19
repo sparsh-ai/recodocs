@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/training-tokenizers",
+  "id": "tutorials/training-tokenizers",
+  "title": "training-tokenizers",
+  "description": "Before going deep into any Machine Learning or Deep Learning Natural Language Processing models, every practitioner should find a way to map raw input strings to a representation understandable by a trainable model.",
+  "source": "@site/docs/tutorials/training-tokenizers.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/training-tokenizers",
+  "permalink": "/docs/tutorials/training-tokenizers",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/training-tokenizers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+    "permalink": "/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method"
+  },
+  "next": {
+    "title": "training-various-matrix-factorization-models-on-ml-k-in-pytorch-lightning-framework",
+    "permalink": "/docs/tutorials/training-various-matrix-factorization-models-on-ml-k-in-pytorch-lightning-framework"
+  }
+}

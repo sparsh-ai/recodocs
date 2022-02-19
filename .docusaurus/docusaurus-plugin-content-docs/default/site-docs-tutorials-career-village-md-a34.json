@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/career-village",
+  "id": "tutorials/career-village",
+  "title": "career-village",
+  "description": "We’ll develop an implicit content-based filtering system for recommending questions to professionals. Given a question-professional pair, our model will predict how likely the professional is to answer the question. This model can then be used to determine what new (or still-unanswered) questions a professional is most likely to answer, and those questions can be sent to the professional either via email or via their landing page on the CareerVillage site.",
+  "source": "@site/docs/tutorials/career-village.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/career-village",
+  "permalink": "/docs/tutorials/career-village",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/career-village.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "car-damage-cv",
+    "permalink": "/docs/tutorials/car-damage-cv"
+  },
+  "next": {
+    "title": "cartpole-drqn",
+    "permalink": "/docs/tutorials/cartpole-drqn"
+  }
+}

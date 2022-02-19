@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/language-modeling-with-nn-transformer-and-torchtext",
+  "id": "tutorials/language-modeling-with-nn-transformer-and-torchtext",
+  "title": "language-modeling-with-nn-transformer-and-torchtext",
+  "description": "This is a tutorial on training a sequence-to-sequence model that uses the",
+  "source": "@site/docs/tutorials/language-modeling-with-nn-transformer-and-torchtext.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/language-modeling-with-nn-transformer-and-torchtext",
+  "permalink": "/docs/tutorials/language-modeling-with-nn-transformer-and-torchtext",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/language-modeling-with-nn-transformer-and-torchtext.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lambda-learner",
+    "permalink": "/docs/tutorials/lambda-learner"
+  },
+  "next": {
+    "title": "lastfm-session",
+    "permalink": "/docs/tutorials/lastfm-session"
+  }
+}

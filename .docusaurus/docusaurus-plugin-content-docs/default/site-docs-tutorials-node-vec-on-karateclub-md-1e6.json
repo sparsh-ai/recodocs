@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/node-vec-on-karateclub",
+  "id": "tutorials/node-vec-on-karateclub",
+  "title": "node-vec-on-karateclub",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/node-vec-on-karateclub.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/node-vec-on-karateclub",
+  "permalink": "/docs/tutorials/node-vec-on-karateclub",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/node-vec-on-karateclub.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "node-vec-in-pytorch-geometric-on-cora-dataset",
+    "permalink": "/docs/tutorials/node-vec-in-pytorch-geometric-on-cora-dataset"
+  },
+  "next": {
+    "title": "node-vec-on-ml-latest-in-keras",
+    "permalink": "/docs/tutorials/node-vec-on-ml-latest-in-keras"
+  }
+}

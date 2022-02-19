@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/booking-itempop",
+  "id": "tutorials/booking-itempop",
+  "title": "Booking Popularity-based RecSys",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/booking-itempop.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/booking-itempop",
+  "permalink": "/docs/tutorials/booking-itempop",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/booking-itempop.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "booking-dot-com-trip-recommendations-sequential-model",
+    "permalink": "/docs/tutorials/booking-dot-com-trip-recommendations-sequential-model"
+  },
+  "next": {
+    "title": "BookingNet",
+    "permalink": "/docs/tutorials/bookingnet"
+  }
+}

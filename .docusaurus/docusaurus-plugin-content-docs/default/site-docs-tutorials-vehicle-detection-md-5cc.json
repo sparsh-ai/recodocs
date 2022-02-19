@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/vehicle-detection",
+  "id": "tutorials/vehicle-detection",
+  "title": "vehicle-detection",
+  "description": "Today we will learn how to count road traffic based on computer vision and without heavy deep learning algorithms.",
+  "source": "@site/docs/tutorials/vehicle-detection.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/vehicle-detection",
+  "permalink": "/docs/tutorials/vehicle-detection",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/vehicle-detection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vector-search",
+    "permalink": "/docs/tutorials/vector-search"
+  },
+  "next": {
+    "title": "video-action",
+    "permalink": "/docs/tutorials/video-action"
+  }
+}

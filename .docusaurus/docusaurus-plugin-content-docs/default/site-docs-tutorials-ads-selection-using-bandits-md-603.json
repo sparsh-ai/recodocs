@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ads-selection-using-bandits",
+  "id": "tutorials/ads-selection-using-bandits",
+  "title": "ads-selection-using-bandits",
+  "description": "Multi-armed Bandit for Banner Ad and 4 Exploration Strategies",
+  "source": "@site/docs/tutorials/ads-selection-using-bandits.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ads-selection-using-bandits",
+  "permalink": "/docs/tutorials/ads-selection-using-bandits",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ads-selection-using-bandits.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "adaptive-estimator-selection-for-off-policy-evaluation",
+    "permalink": "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation"
+  },
+  "next": {
+    "title": "adversarial",
+    "permalink": "/docs/tutorials/adversarial"
+  }
+}

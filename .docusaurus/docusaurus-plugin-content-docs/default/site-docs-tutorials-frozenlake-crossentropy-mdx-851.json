@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/frozenlake-crossentropy",
+  "id": "tutorials/frozenlake-crossentropy",
+  "title": "frozenlake-crossentropy",
+  "description": "The next environment that we will try to solve using the cross-entropy method is FrozenLake. Its world is from the so-called grid world category, when your agent lives in a grid of size 4×4 and can move in four directions: up, down, left, and right. The agent always starts at a top-left position, and its goal is to reach the bottom-right cell of the grid. There are holes in the fixed cells of the grid and if you get into those holes, the episode ends and your reward is zero. If the agent reaches the destination cell, then it obtains a reward of 1.0 and the episode ends.",
+  "source": "@site/docs/tutorials/frozenlake-crossentropy.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/frozenlake-crossentropy",
+  "permalink": "/docs/tutorials/frozenlake-crossentropy",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/frozenlake-crossentropy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "food-preference-recommender-on-wweia-dataset",
+    "permalink": "/docs/tutorials/food-preference-recommender-on-wweia-dataset"
+  },
+  "next": {
+    "title": "frozenlake-using-q-learning",
+    "permalink": "/docs/tutorials/frozenlake-using-q-learning"
+  }
+}

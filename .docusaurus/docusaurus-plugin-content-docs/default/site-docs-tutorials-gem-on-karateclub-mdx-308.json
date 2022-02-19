@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/gem-on-karateclub",
+  "id": "tutorials/gem-on-karateclub",
+  "title": "gem-on-karateclub",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/gem-on-karateclub.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gem-on-karateclub",
+  "permalink": "/docs/tutorials/gem-on-karateclub",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gem-on-karateclub.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Validation with Great Expectations toolkit",
+    "permalink": "/docs/tutorials/ge"
+  },
+  "next": {
+    "title": "geographic-location-visualization-and-analysis",
+    "permalink": "/docs/tutorials/geographic-location-visualization-and-analysis"
+  }
+}

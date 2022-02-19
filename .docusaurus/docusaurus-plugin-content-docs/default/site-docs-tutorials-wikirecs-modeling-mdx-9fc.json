@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/wikirecs-modeling",
+  "id": "tutorials/wikirecs-modeling",
+  "title": "wikirecs-modeling",
+  "description": "In this second part of the two part series, we will handle the modeling and evaluation side. We will load the saved artifacts and train 7 implicit recommender models. We will compare the performance using various evaluation metrics. We will also visualize the embeddings.",
+  "source": "@site/docs/tutorials/wikirecs-modeling.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wikirecs-modeling",
+  "permalink": "/docs/tutorials/wikirecs-modeling",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/wikirecs-modeling.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wikirecs-modeling-original",
+    "permalink": "/docs/tutorials/wikirecs-modeling-original"
+  },
+  "next": {
+    "title": "wikirecs-worker",
+    "permalink": "/docs/tutorials/wikirecs-worker"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/seq-mab-mushroom",
+  "id": "tutorials/seq-mab-mushroom",
+  "title": "seq-mab-mushroom",
+  "description": "Executive summary",
+  "source": "@site/docs/tutorials/seq-mab-mushroom.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/seq-mab-mushroom",
+  "permalink": "/docs/tutorials/seq-mab-mushroom",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/seq-mab-mushroom.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IMDB Reviews Sentiment Analysis with LSTM RNNs",
+    "permalink": "/docs/tutorials/sentiment-lstm"
+  },
+  "next": {
+    "title": "seq-seq-mapping",
+    "permalink": "/docs/tutorials/seq-seq-mapping"
+  }
+}

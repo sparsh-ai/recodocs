@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-ml-pytorch-fundamentals-tensors",
+  "id": "tutorials/reco-tut-ml-pytorch-fundamentals-tensors",
+  "title": "reco-tut-ml-pytorch-fundamentals-tensors",
+  "description": "Before we dive deep into the world of PyTorch development, it’s important to familiarize yourself with the fundamental data structure in PyTorch: the torch.tensor. By understanding the tensor, you will understand how PyTorch handles and stores data, and since deep learning is fundamentally the collection and manipulation of floating-point numbers, understanding tensors will help you understand how PyTorch implements more advanced functions for deep learning. In addition, you may find yourself using tensor operations frequently when preprocessing input data or manipulating output data during model development",
+  "source": "@site/docs/tutorials/reco-tut-ml-pytorch-fundamentals-tensors.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-ml-pytorch-fundamentals-tensors",
+  "permalink": "/docs/tutorials/reco-tut-ml-pytorch-fundamentals-tensors",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-ml-pytorch-fundamentals-tensors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-ml-pytorch-deep-learning-basics",
+    "permalink": "/docs/tutorials/reco-tut-ml-pytorch-deep-learning-basics"
+  },
+  "next": {
+    "title": "reco-tut-mlh-eda",
+    "permalink": "/docs/tutorials/reco-tut-mlh-eda"
+  }
+}

@@ -1,4 +1,12 @@
 {
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -851,6 +859,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tools/pyspark",
+              "path": "/docs/tools/pyspark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tools/river",
               "path": "/docs/tools/river",
               "sidebar": "tutorialSidebar"
@@ -861,33 +874,268 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/data-science-bookcamp",
-              "path": "/docs/tutorials/data-science-bookcamp",
+              "id": "tutorials/ab-test-in-five-simple-steps",
+              "path": "/docs/tutorials/ab-test-in-five-simple-steps",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/matching-and-ranking-models-in-tensorflow",
-              "path": "/docs/tutorials/matching-and-ranking-models-in-tensorflow",
+              "id": "tutorials/ac",
+              "path": "/docs/tutorials/ac",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
-              "path": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+              "id": "tutorials/action-recog-finetune",
+              "path": "/docs/tutorials/action-recog-finetune",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/session-based-recommendation-with-graph-neural-net",
-              "path": "/docs/tutorials/session-based-recommendation-with-graph-neural-net",
+              "id": "tutorials/ad-conversion-simple-ab-testing",
+              "path": "/docs/tutorials/ad-conversion-simple-ab-testing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
-              "path": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
+              "id": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+              "path": "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/tutorials",
-              "path": "/docs/tutorials/",
+              "id": "tutorials/ads-selection-using-bandits",
+              "path": "/docs/tutorials/ads-selection-using-bandits",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/adversarial",
+              "path": "/docs/tutorials/adversarial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/advertising",
+              "path": "/docs/tutorials/advertising",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ae-ml",
+              "path": "/docs/tutorials/ae-ml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+              "path": "/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/agnn",
+              "path": "/docs/tutorials/agnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/agriculture-image-segmentation",
+              "path": "/docs/tutorials/agriculture-image-segmentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/airbnb-fair-valuation",
+              "path": "/docs/tutorials/airbnb-fair-valuation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/als",
+              "path": "/docs/tutorials/als",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/als-ml-m",
+              "path": "/docs/tutorials/als-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/als-on-retail-product-data",
+              "path": "/docs/tutorials/als-on-retail-product-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/altair-plot-part",
+              "path": "/docs/tutorials/altair-plot-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-crossdomain",
+              "path": "/docs/tutorials/amazon-crossdomain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-personalize-batch-job",
+              "path": "/docs/tutorials/amazon-personalize-batch-job",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-personalize-batch-recommendations-lab",
+              "path": "/docs/tutorials/amazon-personalize-batch-recommendations-lab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-personalize-poc-in-a-box",
+              "path": "/docs/tutorials/amazon-personalize-poc-in-a-box",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-personalize-workshop",
+              "path": "/docs/tutorials/amazon-personalize-workshop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-personalize-workshop-part",
+              "path": "/docs/tutorials/amazon-personalize-workshop-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-women-apparel-tfidf-word-vec",
+              "path": "/docs/tutorials/amazon-women-apparel-tfidf-word-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/analytics-zoo-ncf-goodreads",
+              "path": "/docs/tutorials/analytics-zoo-ncf-goodreads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/analytics-zoo-ncf-movielens",
+              "path": "/docs/tutorials/analytics-zoo-ncf-movielens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/analytics-zoo-wideanddeep-movielens",
+              "path": "/docs/tutorials/analytics-zoo-wideanddeep-movielens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/animations-with-manim-quickstart",
+              "path": "/docs/tutorials/animations-with-manim-quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/animations-with-matplotlib-and-plotly",
+              "path": "/docs/tutorials/animations-with-matplotlib-and-plotly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/anime-recommender",
+              "path": "/docs/tutorials/anime-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/anime-recommender-graph-network",
+              "path": "/docs/tutorials/anime-recommender-graph-network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/apache-airflow",
+              "path": "/docs/tutorials/apache-airflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/apple-podcast-recommender",
+              "path": "/docs/tutorials/apple-podcast-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+              "path": "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/apprentice-mountaincar",
+              "path": "/docs/tutorials/apprentice-mountaincar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+              "path": "/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/artist-free-song-recommender",
+              "path": "/docs/tutorials/artist-free-song-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/asmg-retraining-model-on-sobazaar-dataset",
+              "path": "/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/asr",
+              "path": "/docs/tutorials/asr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/assessing-online-ad-clicks-for-significance",
+              "path": "/docs/tutorials/assessing-online-ad-clicks-for-significance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/attention-gnn",
+              "path": "/docs/tutorials/attention-gnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/attention-mechanisms",
+              "path": "/docs/tutorials/attention-mechanisms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/attrec-on-ml-m-in-tf-x",
+              "path": "/docs/tutorials/attrec-on-ml-m-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+              "path": "/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/audible-audiobook-recommender",
+              "path": "/docs/tutorials/audible-audiobook-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/augmented-shilling-attack-aush",
+              "path": "/docs/tutorials/augmented-shilling-attack-aush",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+              "path": "/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/autorec-movielens",
+              "path": "/docs/tutorials/autorec-movielens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/autorec-on-ml-m",
+              "path": "/docs/tutorials/autorec-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/autosurprise",
+              "path": "/docs/tutorials/autosurprise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/avalanche-visual-incremental-learning",
+              "path": "/docs/tutorials/avalanche-visual-incremental-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ayuhealth-food-recommender",
+              "path": "/docs/tutorials/ayuhealth-food-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-sjr-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-sjr-data-ingestion",
               "sidebar": "tutorialSidebar"
             }
           ]

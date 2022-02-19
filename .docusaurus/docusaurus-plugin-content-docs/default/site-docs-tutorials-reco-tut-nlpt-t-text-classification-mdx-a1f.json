@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-nlpt-t-text-classification",
+  "id": "tutorials/reco-tut-nlpt-t-text-classification",
+  "title": "reco-tut-nlpt-t-text-classification",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-nlpt-t-text-classification.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-nlpt-t-text-classification",
+  "permalink": "/docs/tutorials/reco-tut-nlpt-t-text-classification",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-nlpt-t-text-classification.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-mve",
+    "permalink": "/docs/tutorials/reco-tut-mve"
+  },
+  "next": {
+    "title": "reco-tut-poc-t-dvc",
+    "permalink": "/docs/tutorials/reco-tut-poc-t-dvc"
+  }
+}

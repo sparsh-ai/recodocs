@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/pifpaf-pose-estimation",
+  "id": "tutorials/pifpaf-pose-estimation",
+  "title": "pifpaf-pose-estimation",
+  "description": "",
+  "source": "@site/docs/tutorials/pifpaf-pose-estimation.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pifpaf-pose-estimation",
+  "permalink": "/docs/tutorials/pifpaf-pose-estimation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pifpaf-pose-estimation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+    "permalink": "/docs/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation"
+  },
+  "next": {
+    "title": "pinsage-graph-movielens-m",
+    "permalink": "/docs/tutorials/pinsage-graph-movielens-m"
+  }
+}

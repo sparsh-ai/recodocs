@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/taxi-qlearning",
+  "id": "tutorials/taxi-qlearning",
+  "title": "taxi-qlearning",
+  "description": "",
+  "source": "@site/docs/tutorials/taxi-qlearning.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/taxi-qlearning",
+  "permalink": "/docs/tutorials/taxi-qlearning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/taxi-qlearning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tanp-cold-start-recommender-on-lastfm-dataset",
+    "permalink": "/docs/tutorials/tanp-cold-start-recommender-on-lastfm-dataset"
+  },
+  "next": {
+    "title": "tdd",
+    "permalink": "/docs/tutorials/tdd"
+  }
+}

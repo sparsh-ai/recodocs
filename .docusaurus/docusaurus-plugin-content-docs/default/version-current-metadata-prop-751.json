@@ -1039,36 +1039,323 @@
         "items": [
           {
             "type": "link",
-            "label": "Data Science Bookcamp",
-            "href": "/docs/tutorials/data-science-bookcamp",
-            "docId": "tutorials/data-science-bookcamp"
+            "label": "ab-test-in-five-simple-steps",
+            "href": "/docs/tutorials/ab-test-in-five-simple-steps",
+            "docId": "tutorials/ab-test-in-five-simple-steps"
           },
           {
             "type": "link",
-            "label": "Matching and Ranking models in Tensorflow",
-            "href": "/docs/tutorials/matching-and-ranking-models-in-tensorflow",
-            "docId": "tutorials/matching-and-ranking-models-in-tensorflow"
+            "label": "ac",
+            "href": "/docs/tutorials/ac",
+            "docId": "tutorials/ac"
           },
           {
             "type": "link",
-            "label": "Real-time event capturing with Kafka and MongoDB",
-            "href": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
-            "docId": "tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+            "label": "Finetune the pretrained R(2+1)D model",
+            "href": "/docs/tutorials/action-recog-finetune",
+            "docId": "tutorials/action-recog-finetune"
           },
           {
             "type": "link",
-            "label": "Session-based Recommendation with Graph Neural Networks",
-            "href": "/docs/tutorials/session-based-recommendation-with-graph-neural-net",
-            "docId": "tutorials/session-based-recommendation-with-graph-neural-net"
+            "label": "ad-conversion-simple-ab-testing",
+            "href": "/docs/tutorials/ad-conversion-simple-ab-testing",
+            "docId": "tutorials/ad-conversion-simple-ab-testing"
           },
           {
             "type": "link",
-            "label": "TensorFlow 2 Reinforcement Learning Cookbook",
-            "href": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
-            "docId": "tutorials/tensorflow-2-reinforcement-learning-cookbook"
+            "label": "adaptive-estimator-selection-for-off-policy-evaluation",
+            "href": "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+            "docId": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation"
+          },
+          {
+            "type": "link",
+            "label": "ads-selection-using-bandits",
+            "href": "/docs/tutorials/ads-selection-using-bandits",
+            "docId": "tutorials/ads-selection-using-bandits"
+          },
+          {
+            "type": "link",
+            "label": "adversarial",
+            "href": "/docs/tutorials/adversarial",
+            "docId": "tutorials/adversarial"
+          },
+          {
+            "type": "link",
+            "label": "advertising",
+            "href": "/docs/tutorials/advertising",
+            "docId": "tutorials/advertising"
+          },
+          {
+            "type": "link",
+            "label": "ae-ml",
+            "href": "/docs/tutorials/ae-ml",
+            "docId": "tutorials/ae-ml"
+          },
+          {
+            "type": "link",
+            "label": "afm-on-criteo-ad-dataset-in-tf-x",
+            "href": "/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+            "docId": "tutorials/afm-on-criteo-ad-dataset-in-tf-x"
+          },
+          {
+            "type": "link",
+            "label": "agnn",
+            "href": "/docs/tutorials/agnn",
+            "docId": "tutorials/agnn"
+          },
+          {
+            "type": "link",
+            "label": "agriculture-image-segmentation",
+            "href": "/docs/tutorials/agriculture-image-segmentation",
+            "docId": "tutorials/agriculture-image-segmentation"
+          },
+          {
+            "type": "link",
+            "label": "airbnb-fair-valuation",
+            "href": "/docs/tutorials/airbnb-fair-valuation",
+            "docId": "tutorials/airbnb-fair-valuation"
+          },
+          {
+            "type": "link",
+            "label": "als-ml-m",
+            "href": "/docs/tutorials/als-ml-m",
+            "docId": "tutorials/als-ml-m"
+          },
+          {
+            "type": "link",
+            "label": "als-on-retail-product-data",
+            "href": "/docs/tutorials/als-on-retail-product-data",
+            "docId": "tutorials/als-on-retail-product-data"
+          },
+          {
+            "type": "link",
+            "label": "Alternating Least Square model for recommendation",
+            "href": "/docs/tutorials/als",
+            "docId": "tutorials/als"
+          },
+          {
+            "type": "link",
+            "label": "altair-plot-part",
+            "href": "/docs/tutorials/altair-plot-part",
+            "docId": "tutorials/altair-plot-part"
+          },
+          {
+            "type": "link",
+            "label": "amazon-crossdomain",
+            "href": "/docs/tutorials/amazon-crossdomain",
+            "docId": "tutorials/amazon-crossdomain"
+          },
+          {
+            "type": "link",
+            "label": "amazon-personalize-batch-job",
+            "href": "/docs/tutorials/amazon-personalize-batch-job",
+            "docId": "tutorials/amazon-personalize-batch-job"
+          },
+          {
+            "type": "link",
+            "label": "amazon-personalize-batch-recommendations-lab",
+            "href": "/docs/tutorials/amazon-personalize-batch-recommendations-lab",
+            "docId": "tutorials/amazon-personalize-batch-recommendations-lab"
+          },
+          {
+            "type": "link",
+            "label": "amazon-personalize-poc-in-a-box",
+            "href": "/docs/tutorials/amazon-personalize-poc-in-a-box",
+            "docId": "tutorials/amazon-personalize-poc-in-a-box"
+          },
+          {
+            "type": "link",
+            "label": "Amazon Personalize Workshop Part 4 - Security best practices (optional)",
+            "href": "/docs/tutorials/amazon-personalize-workshop-part",
+            "docId": "tutorials/amazon-personalize-workshop-part"
+          },
+          {
+            "type": "link",
+            "label": "amazon-personalize-workshop",
+            "href": "/docs/tutorials/amazon-personalize-workshop",
+            "docId": "tutorials/amazon-personalize-workshop"
+          },
+          {
+            "type": "link",
+            "label": "amazon-women-apparel-tfidf-word-vec",
+            "href": "/docs/tutorials/amazon-women-apparel-tfidf-word-vec",
+            "docId": "tutorials/amazon-women-apparel-tfidf-word-vec"
+          },
+          {
+            "type": "link",
+            "label": "analytics-zoo-ncf-goodreads",
+            "href": "/docs/tutorials/analytics-zoo-ncf-goodreads",
+            "docId": "tutorials/analytics-zoo-ncf-goodreads"
+          },
+          {
+            "type": "link",
+            "label": "analytics-zoo-ncf-movielens",
+            "href": "/docs/tutorials/analytics-zoo-ncf-movielens",
+            "docId": "tutorials/analytics-zoo-ncf-movielens"
+          },
+          {
+            "type": "link",
+            "label": "analytics-zoo-wideanddeep-movielens",
+            "href": "/docs/tutorials/analytics-zoo-wideanddeep-movielens",
+            "docId": "tutorials/analytics-zoo-wideanddeep-movielens"
+          },
+          {
+            "type": "link",
+            "label": "animations-with-manim-quickstart",
+            "href": "/docs/tutorials/animations-with-manim-quickstart",
+            "docId": "tutorials/animations-with-manim-quickstart"
+          },
+          {
+            "type": "link",
+            "label": "animations-with-matplotlib-and-plotly",
+            "href": "/docs/tutorials/animations-with-matplotlib-and-plotly",
+            "docId": "tutorials/animations-with-matplotlib-and-plotly"
+          },
+          {
+            "type": "link",
+            "label": "anime-recommender-graph-network",
+            "href": "/docs/tutorials/anime-recommender-graph-network",
+            "docId": "tutorials/anime-recommender-graph-network"
+          },
+          {
+            "type": "link",
+            "label": "anime-recommender",
+            "href": "/docs/tutorials/anime-recommender",
+            "docId": "tutorials/anime-recommender"
+          },
+          {
+            "type": "link",
+            "label": "Apache Airflow",
+            "href": "/docs/tutorials/apache-airflow",
+            "docId": "tutorials/apache-airflow"
+          },
+          {
+            "type": "link",
+            "label": "apple-podcast-recommender",
+            "href": "/docs/tutorials/apple-podcast-recommender",
+            "docId": "tutorials/apple-podcast-recommender"
+          },
+          {
+            "type": "link",
+            "label": "applying-gradient-descent-on-a-simple-function-from-scratch",
+            "href": "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+            "docId": "tutorials/applying-gradient-descent-on-a-simple-function-from-scratch"
+          },
+          {
+            "type": "link",
+            "label": "apprentice-mountaincar",
+            "href": "/docs/tutorials/apprentice-mountaincar",
+            "docId": "tutorials/apprentice-mountaincar"
+          },
+          {
+            "type": "link",
+            "label": "archived-deep-reinforcement-learning-based-group-recommender-system",
+            "href": "/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+            "docId": "tutorials/archived-deep-reinforcement-learning-based-group-recommender-system"
+          },
+          {
+            "type": "link",
+            "label": "artist-free-song-recommender",
+            "href": "/docs/tutorials/artist-free-song-recommender",
+            "docId": "tutorials/artist-free-song-recommender"
+          },
+          {
+            "type": "link",
+            "label": "asmg-retraining-model-on-sobazaar-dataset",
+            "href": "/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset",
+            "docId": "tutorials/asmg-retraining-model-on-sobazaar-dataset"
+          },
+          {
+            "type": "link",
+            "label": "asr",
+            "href": "/docs/tutorials/asr",
+            "docId": "tutorials/asr"
+          },
+          {
+            "type": "link",
+            "label": "assessing-online-ad-clicks-for-significance",
+            "href": "/docs/tutorials/assessing-online-ad-clicks-for-significance",
+            "docId": "tutorials/assessing-online-ad-clicks-for-significance"
+          },
+          {
+            "type": "link",
+            "label": "attention-gnn",
+            "href": "/docs/tutorials/attention-gnn",
+            "docId": "tutorials/attention-gnn"
+          },
+          {
+            "type": "link",
+            "label": "attention-mechanisms",
+            "href": "/docs/tutorials/attention-mechanisms",
+            "docId": "tutorials/attention-mechanisms"
+          },
+          {
+            "type": "link",
+            "label": "attrec-on-ml-m-in-tf-x",
+            "href": "/docs/tutorials/attrec-on-ml-m-in-tf-x",
+            "docId": "tutorials/attrec-on-ml-m-in-tf-x"
+          },
+          {
+            "type": "link",
+            "label": "attribute-to-feature-mappings-for-cold-start-recommendations",
+            "href": "/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+            "docId": "tutorials/attribute-to-feature-mappings-for-cold-start-recommendations"
+          },
+          {
+            "type": "link",
+            "label": "audible-audiobook-recommender",
+            "href": "/docs/tutorials/audible-audiobook-recommender",
+            "docId": "tutorials/audible-audiobook-recommender"
+          },
+          {
+            "type": "link",
+            "label": "augmented-shilling-attack-aush",
+            "href": "/docs/tutorials/augmented-shilling-attack-aush",
+            "docId": "tutorials/augmented-shilling-attack-aush"
+          },
+          {
+            "type": "link",
+            "label": "automatically-adding-products-to-a-user-s-shopping-cart",
+            "href": "/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+            "docId": "tutorials/automatically-adding-products-to-a-user-s-shopping-cart"
+          },
+          {
+            "type": "link",
+            "label": "autorec-movielens",
+            "href": "/docs/tutorials/autorec-movielens",
+            "docId": "tutorials/autorec-movielens"
+          },
+          {
+            "type": "link",
+            "label": "autorec-on-ml-m",
+            "href": "/docs/tutorials/autorec-on-ml-m",
+            "docId": "tutorials/autorec-on-ml-m"
+          },
+          {
+            "type": "link",
+            "label": "Auto Surprise Library",
+            "href": "/docs/tutorials/autosurprise",
+            "docId": "tutorials/autosurprise"
+          },
+          {
+            "type": "link",
+            "label": "avalanche-visual-incremental-learning",
+            "href": "/docs/tutorials/avalanche-visual-incremental-learning",
+            "docId": "tutorials/avalanche-visual-incremental-learning"
+          },
+          {
+            "type": "link",
+            "label": "ayuhealth-food-recommender",
+            "href": "/docs/tutorials/ayuhealth-food-recommender",
+            "docId": "tutorials/ayuhealth-food-recommender"
+          },
+          {
+            "type": "link",
+            "label": "reco-tut-sjr-data-ingestion",
+            "href": "/docs/tutorials/reco-tut-sjr-data-ingestion",
+            "docId": "tutorials/reco-tut-sjr-data-ingestion"
           }
-        ],
-        "href": "/docs/tutorials/"
+        ]
       },
       {
         "type": "category",
@@ -1081,6 +1368,12 @@
             "label": "OBP",
             "href": "/docs/tools/obp",
             "docId": "tools/obp"
+          },
+          {
+            "type": "link",
+            "label": "PySpark",
+            "href": "/docs/tools/pyspark",
+            "docId": "tools/pyspark"
           },
           {
             "type": "link",
@@ -2114,6 +2407,12 @@
       "description": "Process flow",
       "sidebar": "tutorialSidebar"
     },
+    "tools/pyspark": {
+      "id": "tools/pyspark",
+      "title": "PySpark",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "tools/river": {
       "id": "tools/river",
       "title": "River",
@@ -2126,40 +2425,322 @@
       "description": "In the following sections, we will more systematically introduce the following tools:",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/data-science-bookcamp": {
-      "id": "tutorials/data-science-bookcamp",
-      "title": "Data Science Bookcamp",
-      "description": "Key points",
+    "tutorials/ab-test-in-five-simple-steps": {
+      "id": "tutorials/ab-test-in-five-simple-steps",
+      "title": "ab-test-in-five-simple-steps",
+      "description": "A-B test and plots with explanations to understand the basics",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/matching-and-ranking-models-in-tensorflow": {
-      "id": "tutorials/matching-and-ranking-models-in-tensorflow",
-      "title": "Matching and Ranking models in Tensorflow",
-      "description": "Matching models on ML-1m and ranking models on Criteo (sample) dataset in TF v2.5",
+    "tutorials/ac": {
+      "id": "tutorials/ac",
+      "title": "ac",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/real-time-event-capturing-with-kafka-and-mongodb": {
-      "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
-      "title": "Real-time event capturing with Kafka and MongoDB",
-      "description": "| | |",
+    "tutorials/action-recog-finetune": {
+      "id": "tutorials/action-recog-finetune",
+      "title": "Finetune the pretrained R(2+1)D model",
+      "description": "Objective - to finetune the pretrained R(2+1)D model",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/session-based-recommendation-with-graph-neural-net": {
-      "id": "tutorials/session-based-recommendation-with-graph-neural-net",
-      "title": "Session-based Recommendation with Graph Neural Networks",
-      "description": "Session-based recommendation tasks are performed based on the user's anonymous historical behavior sequence and implicit feedback data, such as clicks, browsing, purchasing, etc., rather than rating or comment data. The primary aim is to predict the next behavior based on a sequence of the historical sequence of the session. Session-based recommendation aims to predict which item a user will click next, solely based on the user’s current sequential session data without access to the long-term preference profile.",
+    "tutorials/ad-conversion-simple-ab-testing": {
+      "id": "tutorials/ad-conversion-simple-ab-testing",
+      "title": "ad-conversion-simple-ab-testing",
+      "description": "Simple T-test to compare 2 samples of ad-conversions",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/tensorflow-2-reinforcement-learning-cookbook": {
-      "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
-      "title": "TensorFlow 2 Reinforcement Learning Cookbook",
-      "description": "Process flow",
+    "tutorials/adaptive-estimator-selection-for-off-policy-evaluation": {
+      "id": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+      "title": "adaptive-estimator-selection-for-off-policy-evaluation",
+      "description": "Imports",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/tutorials": {
-      "id": "tutorials/tutorials",
-      "title": "Tutorials",
-      "description": "In the following sections, we will more systematically introduce the following tutorials:",
+    "tutorials/ads-selection-using-bandits": {
+      "id": "tutorials/ads-selection-using-bandits",
+      "title": "ads-selection-using-bandits",
+      "description": "Multi-armed Bandit for Banner Ad and 4 Exploration Strategies",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/adversarial": {
+      "id": "tutorials/adversarial",
+      "title": "adversarial",
+      "description": "Adversarial training (also adversarial regularization) is a defense strategy against adversarial perturbations. The main intuition is to increase the robustness of a recommender system on minimal adversarial perturbation of model parameters by adding further training iterations that takes into account the application of such perturbations.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/advertising": {
+      "id": "tutorials/advertising",
+      "title": "advertising",
+      "description": "Contrary to sponsored advertising, where advertisers set fixed bids, in real-time bid‐ ding (RTB) you can set a bid for every individual impression. When a user visits a website that supports ads, this triggers an auction where advertisers bid for an impres‐ sion. Advertisers must submit bids within a period of time, where 100 ms is a com‐ mon limit.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/ae-ml": {
+      "id": "tutorials/ae-ml",
+      "title": "ae-ml",
+      "description": "Setup",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/afm-on-criteo-ad-dataset-in-tf-x": {
+      "id": "tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+      "title": "afm-on-criteo-ad-dataset-in-tf-x",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/agnn": {
+      "id": "tutorials/agnn",
+      "title": "agnn",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/agriculture-image-segmentation": {
+      "id": "tutorials/agriculture-image-segmentation",
+      "title": "agriculture-image-segmentation",
+      "description": "Classifying each pixel of an agricultural satellite image",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/airbnb-fair-valuation": {
+      "id": "tutorials/airbnb-fair-valuation",
+      "title": "airbnb-fair-valuation",
+      "description": "Welcome to Airbnb Analysis Corp.! Your task is to set the competitive daily accomodation rate for a client's house in Bondi Beach. The owner currently charges $500. We have been tasked to estimate a fair value that the owner should be charging. The house has the following characteristics and constraints. While developing this model you came to realise that Airbnb can use your model to estimate the fair value of any property on their database, your are effectively creating a recommendation model for all prospective hosts!",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/als": {
+      "id": "tutorials/als",
+      "title": "Alternating Least Square model for recommendation",
+      "description": "Embeddings visualization",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/als-ml-m": {
+      "id": "tutorials/als-ml-m",
+      "title": "als-ml-m",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/als-on-retail-product-data": {
+      "id": "tutorials/als-on-retail-product-data",
+      "title": "als-on-retail-product-data",
+      "description": "Setup",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/altair-plot-part": {
+      "id": "tutorials/altair-plot-part",
+      "title": "altair-plot-part",
+      "description": "A series of Altair plot examples",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/amazon-crossdomain": {
+      "id": "tutorials/amazon-crossdomain",
+      "title": "amazon-crossdomain",
+      "description": "Dataset",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/amazon-personalize-batch-job": {
+      "id": "tutorials/amazon-personalize-batch-job",
+      "title": "amazon-personalize-batch-job",
+      "description": "Train and create batch recommendations using Amazon Personalize. Expected completion time is 1.5-2 hours",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/amazon-personalize-batch-recommendations-lab": {
+      "id": "tutorials/amazon-personalize-batch-recommendations-lab",
+      "title": "amazon-personalize-batch-recommendations-lab",
+      "description": "This lab will walk you through on how to train and create batch recommendations using Amazon Personalize. For example, you might want to generate recommendations for a large number of users to be later used for batch-oriented workflows such as sending emails or notifications.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/amazon-personalize-poc-in-a-box": {
+      "id": "tutorials/amazon-personalize-poc-in-a-box",
+      "title": "amazon-personalize-poc-in-a-box",
+      "description": "In this workshop you will build your very own recommendation model that will recommend movies to users based on their past preferences. You will further improve the recommendation model to take into account a user’s interactions with movie items to provide accurate recommendations. This workshop will use the publicly available movie lens dataset.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/amazon-personalize-workshop": {
+      "id": "tutorials/amazon-personalize-workshop",
+      "title": "amazon-personalize-workshop",
+      "description": "In this workshop you will build your very own recommendation model that will recommend movies to users based on their past preferences. You will further improve the recommendation model to take into account a user’s interactions with movie items to provide accurate recommendations. This workshop will use the publicly available movie lens dataset.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/amazon-personalize-workshop-part": {
+      "id": "tutorials/amazon-personalize-workshop-part",
+      "title": "Amazon Personalize Workshop Part 4 - Security best practices (optional)",
+      "description": "We are using a pre-made dataset that hasn't been encrypted so there is no need to decrypt this dataset. However, it would be a good security practice to store your datasets encrypted.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/amazon-women-apparel-tfidf-word-vec": {
+      "id": "tutorials/amazon-women-apparel-tfidf-word-vec",
+      "title": "amazon-women-apparel-tfidf-word-vec",
+      "description": "Applying product title descriptions based text semantic methods to recommend similar products",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/analytics-zoo-ncf-goodreads": {
+      "id": "tutorials/analytics-zoo-ncf-goodreads",
+      "title": "analytics-zoo-ncf-goodreads",
+      "description": "Applying NCF on Goodreads using Analytics Zoo library",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/analytics-zoo-ncf-movielens": {
+      "id": "tutorials/analytics-zoo-ncf-movielens",
+      "title": "analytics-zoo-ncf-movielens",
+      "description": "Applying NCF on Movielens using Analytics Zoo library",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/analytics-zoo-wideanddeep-movielens": {
+      "id": "tutorials/analytics-zoo-wideanddeep-movielens",
+      "title": "analytics-zoo-wideanddeep-movielens",
+      "description": "Applying Wide&Deep on MovieLens using Analytics Zoo library",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/animations-with-manim-quickstart": {
+      "id": "tutorials/animations-with-manim-quickstart",
+      "title": "animations-with-manim-quickstart",
+      "description": "We have encountered the .next_to method, one of many (!) methods that modify Mobjects in one way or the other. But what if we wanted to animate how a Mobject changes when one of these methods is applied, say, when we .shift something around, or .rotate a Mobject, or maybe .scale it? The .animate syntax is the answer to this question, let us look at an example",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/animations-with-matplotlib-and-plotly": {
+      "id": "tutorials/animations-with-matplotlib-and-plotly",
+      "title": "animations-with-matplotlib-and-plotly",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/anime-recommender": {
+      "id": "tutorials/anime-recommender",
+      "title": "anime-recommender",
+      "description": "The data crawled from the popular anime website MyAnimeList.net, and cleaned of duplicates as well as missing values and false data. Following that, autoencoders used to learn embeddings of all the anime titles present in the dataset, which were then used to cluster the same.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/anime-recommender-graph-network": {
+      "id": "tutorials/anime-recommender-graph-network",
+      "title": "anime-recommender-graph-network",
+      "description": "Loading Anime dataset from Kaggle and building bipartite graph using NetworkX, then finding similar users and recommending animes to the target user",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/apache-airflow": {
+      "id": "tutorials/apache-airflow",
+      "title": "Apache Airflow",
+      "description": "Airflow uses a relational database as a backend to store configuration data. By default, this is a SQLite database, which will be stored in ~/airflow/airflow.db. You initialize the database in your environment by running the following command in the terminal:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/apple-podcast-recommender": {
+      "id": "tutorials/apple-podcast-recommender",
+      "title": "apple-podcast-recommender",
+      "description": "Scraping, cleaning, exploring and building content-based recommender system to recommend podcasts",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/applying-gradient-descent-on-a-simple-function-from-scratch": {
+      "id": "tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+      "title": "applying-gradient-descent-on-a-simple-function-from-scratch",
+      "description": "Gradient descent, also known as steepest descent, is an optimization algorithm for finding the local minimum of a function. To find a local minimum, the function \"steps\" in the  direction of the negative of the gradient. Gradient ascent is the same as gradient descent, except that it steps in the direction of the positive of the gradient and therefore finds local maximums instead of minimums. The algorithm of gradient descent can be outlined as follows:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/apprentice-mountaincar": {
+      "id": "tutorials/apprentice-mountaincar",
+      "title": "apprentice-mountaincar",
+      "description": "Setup",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/archived-deep-reinforcement-learning-based-group-recommender-system": {
+      "id": "tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+      "title": "archived-deep-reinforcement-learning-based-group-recommender-system",
+      "description": "ActorCriticNetwork, DDPG, GroupRecommendation, MovieLens1M, PyTorch, ReplayMemory",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/artist-free-song-recommender": {
+      "id": "tutorials/artist-free-song-recommender",
+      "title": "artist-free-song-recommender",
+      "description": "In this tutorial, we will first fetch the data from Spotify API, then preprocess it and perform EDA. After that we will train a genre predictor model and replace the Spotify's predicted genre with our predicted values. We are doing this replacement because Spotify uses artist's information also in predicting genres but we are building a song recommender that find similar songs purely on the basis of song features because using artist's info adds a fairness bias to the recommendations. Spotify gets higher accuracy but at the cost of fairness to the artists. After building genre classification model, we will train a KNN model, a non-personalized memory-based model, to find top-k similar songs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/asmg-retraining-model-on-sobazaar-dataset": {
+      "id": "tutorials/asmg-retraining-model-on-sobazaar-dataset",
+      "title": "asmg-retraining-model-on-sobazaar-dataset",
+      "description": "Setup",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/asr": {
+      "id": "tutorials/asr",
+      "title": "asr",
+      "description": "Loading Libraries",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/assessing-online-ad-clicks-for-significance": {
+      "id": "tutorials/assessing-online-ad-clicks-for-significance",
+      "title": "assessing-online-ad-clicks-for-significance",
+      "description": "Fred is a loyal friend, and he needs your help. Fred just launched a burger bistro in the city of Brisbane. The bistro is open for business, but business is slow. Fred wants to entice new customers to come and try his tasty burgers. To do this, Fred will run an online advertising campaign directed at Brisbane residents. Every weekday, between 1100 p.m., Fred will purchase 3,000 ads aimed at hungry locals. Every ad will be viewed by a single Brisbane resident. The text of every ad will read, “Hungry? Try the Best Burger in Brisbane. Come to Fred’s.” Clicking the text will take potential customers to Fred’s site. Each displayed ad will cost our friend one cent, but Fred believes the investment will be worth it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/attention-gnn": {
+      "id": "tutorials/attention-gnn",
+      "title": "attention-gnn",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/attention-mechanisms": {
+      "id": "tutorials/attention-mechanisms",
+      "title": "attention-mechanisms",
+      "description": "Imports",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/attrec-on-ml-m-in-tf-x": {
+      "id": "tutorials/attrec-on-ml-m-in-tf-x",
+      "title": "attrec-on-ml-m-in-tf-x",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/attribute-to-feature-mappings-for-cold-start-recommendations": {
+      "id": "tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+      "title": "attribute-to-feature-mappings-for-cold-start-recommendations",
+      "description": "Datasets",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/audible-audiobook-recommender": {
+      "id": "tutorials/audible-audiobook-recommender",
+      "title": "audible-audiobook-recommender",
+      "description": "Finding similar books using simple text countvectorizer model on audible dataset",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/augmented-shilling-attack-aush": {
+      "id": "tutorials/augmented-shilling-attack-aush",
+      "title": "augmented-shilling-attack-aush",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/automatically-adding-products-to-a-user-s-shopping-cart": {
+      "id": "tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+      "title": "automatically-adding-products-to-a-user-s-shopping-cart",
+      "description": "A recent business model trend is to automatically deliver products to customers and allow them to return those that they are not interested in. Stitch Fix is one of the most famous of the subscription box model businesses. After submitting a smorgasbord of initial information about body type and personal preferences, a Stitch Fix customer will be sent a package full of new clothes. The customer is then free to send back any clothes they don’t like and they are charged for the items they keep (plus a service fee).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/autorec-movielens": {
+      "id": "tutorials/autorec-movielens",
+      "title": "autorec-movielens",
+      "description": "Training AutoRec and DeepAutoRec based simple and hybrid models on movielens-1m",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/autorec-on-ml-m": {
+      "id": "tutorials/autorec-on-ml-m",
+      "title": "autorec-on-ml-m",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/autosurprise": {
+      "id": "tutorials/autosurprise",
+      "title": "Auto Surprise Library",
+      "description": "Quick start",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/avalanche-visual-incremental-learning": {
+      "id": "tutorials/avalanche-visual-incremental-learning",
+      "title": "avalanche-visual-incremental-learning",
+      "description": "Setup",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/ayuhealth-food-recommender": {
+      "id": "tutorials/ayuhealth-food-recommender",
+      "title": "ayuhealth-food-recommender",
+      "description": "Healthy Food Recommendation System using Content Based (KNN) & Collaborative Filtering (matrix-factorization) Method",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/reco-tut-sjr-data-ingestion": {
+      "id": "tutorials/reco-tut-sjr-data-ingestion",
+      "title": "reco-tut-sjr-data-ingestion",
+      "description": "",
       "sidebar": "tutorialSidebar"
     }
   }

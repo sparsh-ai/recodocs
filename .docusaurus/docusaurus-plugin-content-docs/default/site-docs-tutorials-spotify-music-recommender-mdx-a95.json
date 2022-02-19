@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/spotify-music-recommender",
+  "id": "tutorials/spotify-music-recommender",
+  "title": "spotify-music-recommender",
+  "description": "Spotify recommendation system that recommends new songs for your playlist",
+  "source": "@site/docs/tutorials/spotify-music-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/spotify-music-recommender",
+  "permalink": "/docs/tutorials/spotify-music-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/spotify-music-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spotify-knn",
+    "permalink": "/docs/tutorials/spotify-knn"
+  },
+  "next": {
+    "title": "sr-gnn-session-based-recommendation-on-sample-dataset",
+    "permalink": "/docs/tutorials/sr-gnn-session-based-recommendation-on-sample-dataset"
+  }
+}

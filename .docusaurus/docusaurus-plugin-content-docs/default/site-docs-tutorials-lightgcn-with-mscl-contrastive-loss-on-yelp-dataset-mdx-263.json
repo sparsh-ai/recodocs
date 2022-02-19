@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset",
+  "id": "tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset",
+  "title": "lightgcn-with-mscl-contrastive-loss-on-yelp-dataset",
+  "description": "",
+  "source": "@site/docs/tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset",
+  "permalink": "/docs/tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LightFM Hybrid Recommender",
+    "permalink": "/docs/tutorials/lightfm"
+  },
+  "next": {
+    "title": "line-on-wiki-network",
+    "permalink": "/docs/tutorials/line-on-wiki-network"
+  }
+}

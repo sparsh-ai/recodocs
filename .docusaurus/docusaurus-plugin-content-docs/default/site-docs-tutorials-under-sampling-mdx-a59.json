@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/under-sampling",
+  "id": "tutorials/under-sampling",
+  "title": "under-sampling",
+  "description": "Cleaning all the data",
+  "source": "@site/docs/tutorials/under-sampling.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/under-sampling",
+  "permalink": "/docs/tutorials/under-sampling",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/under-sampling.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ultragcn-on-ml-k",
+    "permalink": "/docs/tutorials/ultragcn-on-ml-k"
+  },
+  "next": {
+    "title": "unit-test-jaccard-recommender",
+    "permalink": "/docs/tutorials/unit-test-jaccard-recommender"
+  }
+}

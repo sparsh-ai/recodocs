@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/step-by-step-ab-testing-guide",
+  "id": "tutorials/step-by-step-ab-testing-guide",
+  "title": "step-by-step-ab-testing-guide",
+  "description": "In this notebook we'll go over the process of analysing an A/B test, from formulating a hypothesis, testing it, and finally interpreting results.",
+  "source": "@site/docs/tutorials/step-by-step-ab-testing-guide.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/step-by-step-ab-testing-guide",
+  "permalink": "/docs/tutorials/step-by-step-ab-testing-guide",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/step-by-step-ab-testing-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stein",
+    "permalink": "/docs/tutorials/stein"
+  },
+  "next": {
+    "title": "stock-agent",
+    "permalink": "/docs/tutorials/stock-agent"
+  }
+}

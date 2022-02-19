@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics",
+  "id": "tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics",
+  "title": "recostep-tutorial-offline-replayer-eval-amazon-electronics",
+  "description": "Running bandit models on amazon electronics ratings dataset for offline evaluation",
+  "source": "@site/docs/tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics",
+  "permalink": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-tutorial-notebook-movielens-exploration",
+    "permalink": "/docs/tutorials/recostep-tutorial-notebook-movielens-exploration"
+  },
+  "next": {
+    "title": "recostep-tutorial-offline-replayer-eval-movielens",
+    "permalink": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-movielens"
+  }
+}

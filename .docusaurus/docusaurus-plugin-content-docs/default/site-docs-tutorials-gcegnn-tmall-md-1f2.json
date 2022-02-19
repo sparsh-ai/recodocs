@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/gcegnn-tmall",
+  "id": "tutorials/gcegnn-tmall",
+  "title": "gcegnn-tmall",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/gcegnn-tmall.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gcegnn-tmall",
+  "permalink": "/docs/tutorials/gcegnn-tmall",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gcegnn-tmall.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gce-gnn",
+    "permalink": "/docs/tutorials/gce-gnn"
+  },
+  "next": {
+    "title": "gcn-message-passing",
+    "permalink": "/docs/tutorials/gcn-message-passing"
+  }
+}

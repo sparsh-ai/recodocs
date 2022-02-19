@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/incremental-stochastic-gradient-descent",
+  "id": "tutorials/incremental-stochastic-gradient-descent",
+  "title": "incremental-stochastic-gradient-descent",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/incremental-stochastic-gradient-descent.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/incremental-stochastic-gradient-descent",
+  "permalink": "/docs/tutorials/incremental-stochastic-gradient-descent",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/incremental-stochastic-gradient-descent.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "incremental-mf-river",
+    "permalink": "/docs/tutorials/incremental-mf-river"
+  },
+  "next": {
+    "title": "incremental-update-retraining-on-sobazaar-dataset",
+    "permalink": "/docs/tutorials/incremental-update-retraining-on-sobazaar-dataset"
+  }
+}

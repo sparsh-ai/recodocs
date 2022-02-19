@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/assessing-online-ad-clicks-for-significance",
+  "id": "tutorials/assessing-online-ad-clicks-for-significance",
+  "title": "assessing-online-ad-clicks-for-significance",
+  "description": "Fred is a loyal friend, and he needs your help. Fred just launched a burger bistro in the city of Brisbane. The bistro is open for business, but business is slow. Fred wants to entice new customers to come and try his tasty burgers. To do this, Fred will run an online advertising campaign directed at Brisbane residents. Every weekday, between 1100 p.m., Fred will purchase 3,000 ads aimed at hungry locals. Every ad will be viewed by a single Brisbane resident. The text of every ad will read, “Hungry? Try the Best Burger in Brisbane. Come to Fred’s.” Clicking the text will take potential customers to Fred’s site. Each displayed ad will cost our friend one cent, but Fred believes the investment will be worth it.",
+  "source": "@site/docs/tutorials/assessing-online-ad-clicks-for-significance.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/assessing-online-ad-clicks-for-significance",
+  "permalink": "/docs/tutorials/assessing-online-ad-clicks-for-significance",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/assessing-online-ad-clicks-for-significance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "asr",
+    "permalink": "/docs/tutorials/asr"
+  },
+  "next": {
+    "title": "attention-gnn",
+    "permalink": "/docs/tutorials/attention-gnn"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mountaincar-a-c",
+  "id": "tutorials/mountaincar-a-c",
+  "title": "mountaincar-a-c",
+  "description": "---",
+  "source": "@site/docs/tutorials/mountaincar-a-c.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mountaincar-a-c",
+  "permalink": "/docs/tutorials/mountaincar-a-c",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mountaincar-a-c.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mot",
+    "permalink": "/docs/tutorials/mot"
+  },
+  "next": {
+    "title": "movie-eda",
+    "permalink": "/docs/tutorials/movie-eda"
+  }
+}

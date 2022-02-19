@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/bookcrossing",
+  "id": "tutorials/bookcrossing",
+  "title": "bookcrossing",
+  "description": "EDA",
+  "source": "@site/docs/tutorials/bookcrossing.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/bookcrossing",
+  "permalink": "/docs/tutorials/bookcrossing",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/bookcrossing.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "book-recommender-kubeflow",
+    "permalink": "/docs/tutorials/book-recommender-kubeflow"
+  },
+  "next": {
+    "title": "Booking.com trip recommendation part 1 - baseline model",
+    "permalink": "/docs/tutorials/booking-dot-com-trip-recommendations-baseline"
+  }
+}

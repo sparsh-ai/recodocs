@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/data-science-bookcamp",
+  "id": "tutorials/data-science-bookcamp",
+  "title": "Data Science Bookcamp",
+  "description": "Key points",
+  "source": "@site/docs/tutorials/data-science-bookcamp.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/data-science-bookcamp",
+  "permalink": "/docs/tutorials/data-science-bookcamp",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/data-science-bookcamp.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MovieLens 100K Data Preparation",
+    "permalink": "/docs/tutorials/data-prep"
+  },
+  "next": {
+    "title": "databricks-collaborative-filtering-data-preparation",
+    "permalink": "/docs/tutorials/databricks-collaborative-filtering-data-preparation"
+  }
+}

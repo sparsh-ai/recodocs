@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/pixellink",
+  "id": "tutorials/pixellink",
+  "title": "pixellink",
+  "description": "This notebook uses PixelLink to detect text areas on a given image",
+  "source": "@site/docs/tutorials/pixellink.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pixellink",
+  "permalink": "/docs/tutorials/pixellink",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pixellink.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 2",
+        "name": "python2"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pinsage-graph-movielens-m",
+    "permalink": "/docs/tutorials/pinsage-graph-movielens-m"
+  },
+  "next": {
+    "title": "pnn-criteo",
+    "permalink": "/docs/tutorials/pnn-criteo"
+  }
+}

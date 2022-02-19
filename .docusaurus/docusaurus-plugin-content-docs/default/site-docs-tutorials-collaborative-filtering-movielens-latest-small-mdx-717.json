@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/collaborative-filtering-movielens-latest-small",
+  "id": "tutorials/collaborative-filtering-movielens-latest-small",
+  "title": "collaborative-filtering-movielens-latest-small",
+  "description": "Collaborative Filtering on MovieLens Latest-small Part 7 - Finding recommendations using model based explainable matrix factorization method",
+  "source": "@site/docs/tutorials/collaborative-filtering-movielens-latest-small.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/collaborative-filtering-movielens-latest-small",
+  "permalink": "/docs/tutorials/collaborative-filtering-movielens-latest-small",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/collaborative-filtering-movielens-latest-small.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "code-driven-introduction-to-reinforcement-learning",
+    "permalink": "/docs/tutorials/code-driven-introduction-to-reinforcement-learning"
+  },
+  "next": {
+    "title": "comparing-simple-exploration-techniques-greedy-annealing-and-ucb",
+    "permalink": "/docs/tutorials/comparing-simple-exploration-techniques-greedy-annealing-and-ucb"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/pytorch-profiler",
+  "id": "tutorials/pytorch-profiler",
+  "title": "pytorch-profiler",
+  "description": "PyTorch Profiler",
+  "source": "@site/docs/tutorials/pytorch-profiler.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pytorch-profiler",
+  "permalink": "/docs/tutorials/pytorch-profiler",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pytorch-profiler.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pytorch-production",
+    "permalink": "/docs/tutorials/pytorch-production"
+  },
+  "next": {
+    "title": "pytorch",
+    "permalink": "/docs/tutorials/pytorch"
+  }
+}

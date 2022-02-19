@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/content-based-and-collaborative-movielens",
+  "id": "tutorials/content-based-and-collaborative-movielens",
+  "title": "content-based-and-collaborative-movielens",
+  "description": "Applying content-based and collaborative filtering method on MovieLens dataset",
+  "source": "@site/docs/tutorials/content-based-and-collaborative-movielens.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/content-based-and-collaborative-movielens",
+  "permalink": "/docs/tutorials/content-based-and-collaborative-movielens",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/content-based-and-collaborative-movielens.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "conet-model",
+    "permalink": "/docs/tutorials/conet-model"
+  },
+  "next": {
+    "title": "content-based-music-recommender-lyricsfreak",
+    "permalink": "/docs/tutorials/content-based-music-recommender-lyricsfreak"
+  }
+}

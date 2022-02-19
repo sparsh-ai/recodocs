@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/fm-on-dota-in-pytorch",
+  "id": "tutorials/fm-on-dota-in-pytorch",
+  "title": "fm-on-dota-in-pytorch",
+  "description": "---",
+  "source": "@site/docs/tutorials/fm-on-dota-in-pytorch.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/fm-on-dota-in-pytorch",
+  "permalink": "/docs/tutorials/fm-on-dota-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/fm-on-dota-in-pytorch.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fm-ml",
+    "permalink": "/docs/tutorials/fm-ml"
+  },
+  "next": {
+    "title": "fm-torch",
+    "permalink": "/docs/tutorials/fm-torch"
+  }
+}

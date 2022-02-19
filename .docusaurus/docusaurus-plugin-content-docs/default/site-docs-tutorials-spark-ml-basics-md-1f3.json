@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/spark-ml-basics",
+  "id": "tutorials/spark-ml-basics",
+  "title": "spark-ml-basics",
+  "description": "Basics of PySpark ML Lib module",
+  "source": "@site/docs/tutorials/spark-ml-basics.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/spark-ml-basics",
+  "permalink": "/docs/tutorials/spark-ml-basics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/spark-ml-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spark-de",
+    "permalink": "/docs/tutorials/spark-de"
+  },
+  "next": {
+    "title": "spark-movie-recommender",
+    "permalink": "/docs/tutorials/spark-movie-recommender"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/amazon-women-apparel-tfidf-word-vec",
+  "id": "tutorials/amazon-women-apparel-tfidf-word-vec",
+  "title": "amazon-women-apparel-tfidf-word-vec",
+  "description": "Applying product title descriptions based text semantic methods to recommend similar products",
+  "source": "@site/docs/tutorials/amazon-women-apparel-tfidf-word-vec.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/amazon-women-apparel-tfidf-word-vec",
+  "permalink": "/docs/tutorials/amazon-women-apparel-tfidf-word-vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-women-apparel-tfidf-word-vec.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "amazon-personalize-workshop",
+    "permalink": "/docs/tutorials/amazon-personalize-workshop"
+  },
+  "next": {
+    "title": "analytics-zoo-ncf-goodreads",
+    "permalink": "/docs/tutorials/analytics-zoo-ncf-goodreads"
+  }
+}

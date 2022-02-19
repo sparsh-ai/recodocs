@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tutorial-external-bookcrossing",
+  "id": "tutorials/reco-tutorial-external-bookcrossing",
+  "title": "reco-tutorial-external-bookcrossing",
+  "description": "During the last few decades, with the rise of Youtube, Amazon, Netflix, and many other such",
+  "source": "@site/docs/tutorials/reco-tutorial-external-bookcrossing.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tutorial-external-bookcrossing",
+  "permalink": "/docs/tutorials/reco-tutorial-external-bookcrossing",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tutorial-external-bookcrossing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-yvr-collaborative-automl-turicreate",
+    "permalink": "/docs/tutorials/reco-tut-yvr-collaborative-automl-turicreate"
+  },
+  "next": {
+    "title": "reco-tutorials-dev-amazon-music",
+    "permalink": "/docs/tutorials/reco-tutorials-dev-amazon-music"
+  }
+}

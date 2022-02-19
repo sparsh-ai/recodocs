@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/food-preference-recommender-on-wweia-dataset",
+  "id": "tutorials/food-preference-recommender-on-wweia-dataset",
+  "title": "food-preference-recommender-on-wweia-dataset",
+  "description": "Background",
+  "source": "@site/docs/tutorials/food-preference-recommender-on-wweia-dataset.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/food-preference-recommender-on-wweia-dataset",
+  "permalink": "/docs/tutorials/food-preference-recommender-on-wweia-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/food-preference-recommender-on-wweia-dataset.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fm-torch",
+    "permalink": "/docs/tutorials/fm-torch"
+  },
+  "next": {
+    "title": "frozenlake-crossentropy",
+    "permalink": "/docs/tutorials/frozenlake-crossentropy"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ipl-player-recommendation-knn",
+  "id": "tutorials/ipl-player-recommendation-knn",
+  "title": "ipl-player-recommendation-knn",
+  "description": "Build a Player Recommendation System For Cricket Using K-Nearest Neighbor Algorithm",
+  "source": "@site/docs/tutorials/ipl-player-recommendation-knn.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ipl-player-recommendation-knn",
+  "permalink": "/docs/tutorials/ipl-player-recommendation-knn",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ipl-player-recommendation-knn.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "introduction-to-gym-toolkit",
+    "permalink": "/docs/tutorials/introduction-to-gym-toolkit"
+  },
+  "next": {
+    "title": "itemcf-movie",
+    "permalink": "/docs/tutorials/itemcf-movie"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/wikipedia-recsys",
+  "id": "tutorials/wikipedia-recsys",
+  "title": "wikipedia-recsys",
+  "description": "For fun and learning, I am building a recommender system for Wikipedia editors (aka Wikipedians) to suggest what article they should edit next, called WikiRecs. I’m especially interested in the interplay of timing and sequence of actions to predict what someone will do next in an app or on a website. There are several cutting edge AI techniques I am exploring to fully use all those sources of information, but from my background in science I knew that the first priority is trustworthy measurements, in this case via offline evaluation.",
+  "source": "@site/docs/tutorials/wikipedia-recsys.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wikipedia-recsys",
+  "permalink": "/docs/tutorials/wikipedia-recsys",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/wikipedia-recsys.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wikidatarecs",
+    "permalink": "/docs/tutorials/wikidatarecs"
+  },
+  "next": {
+    "title": "wikirecs-data-ingestion",
+    "permalink": "/docs/tutorials/wikirecs-data-ingestion"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/yet-another-movie-recommender-pytorch",
+  "id": "tutorials/yet-another-movie-recommender-pytorch",
+  "title": "yet-another-movie-recommender-pytorch",
+  "description": "Building and training Item-popularity and MLP model on movielens dataset in pure pytorch",
+  "source": "@site/docs/tutorials/yet-another-movie-recommender-pytorch.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/yet-another-movie-recommender-pytorch",
+  "permalink": "/docs/tutorials/yet-another-movie-recommender-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/yet-another-movie-recommender-pytorch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "yahoo-finance-scraping",
+    "permalink": "/docs/tutorials/yahoo-finance-scraping"
+  },
+  "next": {
+    "title": "yolo-pretrained",
+    "permalink": "/docs/tutorials/yolo-pretrained"
+  }
+}

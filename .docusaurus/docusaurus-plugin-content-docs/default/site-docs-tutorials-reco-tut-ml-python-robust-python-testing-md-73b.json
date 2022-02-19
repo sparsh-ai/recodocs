@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-ml-python-robust-python-testing",
+  "id": "tutorials/reco-tut-ml-python-robust-python-testing",
+  "title": "reco-tut-ml-python-robust-python-testing",
+  "description": "Acceptance Testing",
+  "source": "@site/docs/tutorials/reco-tut-ml-python-robust-python-testing.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-ml-python-robust-python-testing",
+  "permalink": "/docs/tutorials/reco-tut-ml-python-robust-python-testing",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-ml-python-robust-python-testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-ml-python-robust-python-data-classes",
+    "permalink": "/docs/tutorials/reco-tut-ml-python-robust-python-data-classes"
+  },
+  "next": {
+    "title": "reco-tut-ml-pytorch-deep-learning-basics",
+    "permalink": "/docs/tutorials/reco-tut-ml-pytorch-deep-learning-basics"
+  }
+}

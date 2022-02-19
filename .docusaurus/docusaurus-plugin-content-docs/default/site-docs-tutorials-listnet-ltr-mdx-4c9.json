@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/listnet-ltr",
+  "id": "tutorials/listnet-ltr",
+  "title": "listnet-ltr",
+  "description": "Training ListNet on synthetic data in pytorch",
+  "source": "@site/docs/tutorials/listnet-ltr.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/listnet-ltr",
+  "permalink": "/docs/tutorials/listnet-ltr",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/listnet-ltr.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "linear-optimization-with-or-tools",
+    "permalink": "/docs/tutorials/linear-optimization-with-or-tools"
+  },
+  "next": {
+    "title": "listwise-ml",
+    "permalink": "/docs/tutorials/listwise-ml"
+  }
+}

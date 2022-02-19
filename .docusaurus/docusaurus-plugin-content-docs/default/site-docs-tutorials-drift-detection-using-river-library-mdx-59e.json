@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/drift-detection-using-river-library",
+  "id": "tutorials/drift-detection-using-river-library",
+  "title": "drift-detection-using-river-library",
+  "description": "In the context of data streams, it is assumed that data can change over time. The change in the relationship between the data (features) and the target to learn is known as Concept Drift. As examples we can mention, the electricity demand across the year, the stock market, and the likelihood of a new movie to be successful. Let's consider the movie example: Two movies can have similar features such as popular actors/directors, storyline, production budget, marketing campaigns, etc. yet it is not certain that both will be similarly successful. What the target audience considers worth watching (and their money) is constantly changing and production companies must adapt accordingly to avoid \"box office flops\".",
+  "source": "@site/docs/tutorials/drift-detection-using-river-library.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/drift-detection-using-river-library",
+  "permalink": "/docs/tutorials/drift-detection-using-river-library",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/drift-detection-using-river-library.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dqn-playing-pong",
+    "permalink": "/docs/tutorials/dqn-playing-pong"
+  },
+  "next": {
+    "title": "drl-for-movie-recommendation-embeddings",
+    "permalink": "/docs/tutorials/drl-for-movie-recommendation-embeddings"
+  }
+}

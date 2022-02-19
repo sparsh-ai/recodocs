@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/twitter-pulse-checker",
+  "id": "tutorials/twitter-pulse-checker",
+  "title": "twitter-pulse-checker",
+  "description": "- toc: true",
+  "source": "@site/docs/tutorials/twitter-pulse-checker.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/twitter-pulse-checker",
+  "permalink": "/docs/tutorials/twitter-pulse-checker",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/twitter-pulse-checker.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tv-recommender-sweettv",
+    "permalink": "/docs/tutorials/tv-recommender-sweettv"
+  },
+  "next": {
+    "title": "twitter-sentiment-analysis-with-bert",
+    "permalink": "/docs/tutorials/twitter-sentiment-analysis-with-bert"
+  }
+}

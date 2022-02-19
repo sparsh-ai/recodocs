@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mab",
+  "id": "tutorials/mab",
+  "title": "mab",
+  "description": "We will focus on how to solve the multi-armed bandit problem using four strategies, including epsilon-greedy, softmax exploration, upper confidence bound, and Thompson sampling. We will see how they deal with the exploration-exploitation dilemma in their own unique ways. We will also work on a billion-dollar problem, online advertising, and demonstrate how to solve it using a multi-armed bandit algorithm. Finally, we will solve the contextual advertising problem using contextual bandits to make more informed decisions in ad optimization.",
+  "source": "@site/docs/tutorials/mab.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mab",
+  "permalink": "/docs/tutorials/mab",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mab.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mab-product",
+    "permalink": "/docs/tutorials/mab-product"
+  },
+  "next": {
+    "title": "mamo-framework",
+    "permalink": "/docs/tutorials/mamo-framework"
+  }
+}

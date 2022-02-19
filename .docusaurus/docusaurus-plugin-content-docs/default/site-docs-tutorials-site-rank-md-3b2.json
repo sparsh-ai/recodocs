@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/site-rank",
+  "id": "tutorials/site-rank",
+  "title": "site-rank",
+  "description": "There are many data science websites on the internet. Some sites are more popular than others. Suppose you wish to estimate the most popular data science website using data that is publicly available. This precludes privately tracked traffic data. What should you do? Network theory offers us a simple way of ranking websites based on their public links. To see how, let’s build a simple network composed of two data science websites: a NumPy tutorial and a SciPy tutorial. In graph theory, these websites are referred to as the nodes in the graph. Nodes are network points that can form connections with each other; these connections are called edges. Our two website nodes will form an edge if one site links to the other or vice versa.",
+  "source": "@site/docs/tutorials/site-rank.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/site-rank",
+  "permalink": "/docs/tutorials/site-rank",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/site-rank.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "siren",
+    "permalink": "/docs/tutorials/siren"
+  },
+  "next": {
+    "title": "slist-yoochoose",
+    "permalink": "/docs/tutorials/slist-yoochoose"
+  }
+}

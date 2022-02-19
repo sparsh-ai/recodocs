@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/efficient-frontier",
+  "id": "tutorials/efficient-frontier",
+  "title": "efficient-frontier",
+  "description": "Scenario: Portfolio optimization",
+  "source": "@site/docs/tutorials/efficient-frontier.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/efficient-frontier",
+  "permalink": "/docs/tutorials/efficient-frontier",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/efficient-frontier.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eda-ml-latest",
+    "permalink": "/docs/tutorials/eda-ml-latest"
+  },
+  "next": {
+    "title": "electronics-product-recommender",
+    "permalink": "/docs/tutorials/electronics-product-recommender"
+  }
+}

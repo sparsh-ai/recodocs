@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/torchvisiondeeplabv",
+  "id": "tutorials/torchvisiondeeplabv",
+  "title": "torchvisiondeeplabv",
+  "description": "This is a DeepLabV3 colab notebook using torchvision.",
+  "source": "@site/docs/tutorials/torchvisiondeeplabv.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/torchvisiondeeplabv",
+  "permalink": "/docs/tutorials/torchvisiondeeplabv",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/torchvisiondeeplabv.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "torch",
+    "permalink": "/docs/tutorials/torch"
+  },
+  "next": {
+    "title": "toy-example-car-recommender-knn",
+    "permalink": "/docs/tutorials/toy-example-car-recommender-knn"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/apple-podcast-recommender",
+  "id": "tutorials/apple-podcast-recommender",
+  "title": "apple-podcast-recommender",
+  "description": "Scraping, cleaning, exploring and building content-based recommender system to recommend podcasts",
+  "source": "@site/docs/tutorials/apple-podcast-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/apple-podcast-recommender",
+  "permalink": "/docs/tutorials/apple-podcast-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/apple-podcast-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apache Airflow",
+    "permalink": "/docs/tutorials/apache-airflow"
+  },
+  "next": {
+    "title": "applying-gradient-descent-on-a-simple-function-from-scratch",
+    "permalink": "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch"
+  }
+}

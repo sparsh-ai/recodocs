@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "TensorFlow 2 Reinforcement Learning Cookbook",
-    "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+    "title": "reco-tut-sjr-data-ingestion",
+    "permalink": "/docs/tutorials/reco-tut-sjr-data-ingestion"
   },
   "next": {
     "title": "OBP",

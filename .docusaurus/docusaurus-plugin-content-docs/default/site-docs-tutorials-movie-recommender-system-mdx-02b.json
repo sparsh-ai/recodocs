@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/movie-recommender-system",
+  "id": "tutorials/movie-recommender-system",
+  "title": "movie-recommender-system",
+  "description": "Content-based and collaborative recommendation methods on MovieLens",
+  "source": "@site/docs/tutorials/movie-recommender-system.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/movie-recommender-system",
+  "permalink": "/docs/tutorials/movie-recommender-system",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/movie-recommender-system.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "movie-recommender-retrieval-pytorch-lightning",
+    "permalink": "/docs/tutorials/movie-recommender-retrieval-pytorch-lightning"
+  },
+  "next": {
+    "title": "movie-recommender-tensorflow-sagemaker",
+    "permalink": "/docs/tutorials/movie-recommender-tensorflow-sagemaker"
+  }
+}

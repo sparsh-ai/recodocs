@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/timeseries-playground-gluon",
+  "id": "tutorials/timeseries-playground-gluon",
+  "title": "timeseries-playground-gluon",
+  "description": "Example: In this example we will use the volume of tweets mentioning the AMZN ticker symbol.",
+  "source": "@site/docs/tutorials/timeseries-playground-gluon.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/timeseries-playground-gluon",
+  "permalink": "/docs/tutorials/timeseries-playground-gluon",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/timeseries-playground-gluon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thompson-sampling-simulation",
+    "permalink": "/docs/tutorials/thompson-sampling-simulation"
+  },
+  "next": {
+    "title": "timeseries-playground-weather-wip",
+    "permalink": "/docs/tutorials/timeseries-playground-weather-wip"
+  }
+}

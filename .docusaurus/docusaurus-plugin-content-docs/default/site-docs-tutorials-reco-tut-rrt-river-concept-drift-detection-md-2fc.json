@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-rrt-river-concept-drift-detection",
+  "id": "tutorials/reco-tut-rrt-river-concept-drift-detection",
+  "title": "reco-tut-rrt-river-concept-drift-detection",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-rrt-river-concept-drift-detection.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-rrt-river-concept-drift-detection",
+  "permalink": "/docs/tutorials/reco-tut-rrt-river-concept-drift-detection",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-rrt-river-concept-drift-detection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-rrt-data-ingestion-yelp",
+    "permalink": "/docs/tutorials/reco-tut-rrt-data-ingestion-yelp"
+  },
+  "next": {
+    "title": "reco-tut-rrt-river-matrix-factorization-movielens-k",
+    "permalink": "/docs/tutorials/reco-tut-rrt-river-matrix-factorization-movielens-k"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mc",
+  "id": "tutorials/mc",
+  "title": "mc",
+  "description": "Calculating Pi using the Monte Carlo method",
+  "source": "@site/docs/tutorials/mc.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mc",
+  "permalink": "/docs/tutorials/mc",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mbgmn-beibei",
+    "permalink": "/docs/tutorials/mbgmn-beibei"
+  },
+  "next": {
+    "title": "mdp-dynamic",
+    "permalink": "/docs/tutorials/mdp-dynamic"
+  }
+}

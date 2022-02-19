@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ml-pytorch-aws",
+  "id": "tutorials/ml-pytorch-aws",
+  "title": "ml-pytorch-aws",
+  "description": "Note//learning.oreilly.com/library/view/mlops-engineering-at/9781617297762/OEBPS/Text/07.htm#sigiltocid_83",
+  "source": "@site/docs/tutorials/ml-pytorch-aws.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ml-pytorch-aws",
+  "permalink": "/docs/tutorials/ml-pytorch-aws",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ml-pytorch-aws.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ml-m",
+    "permalink": "/docs/tutorials/ml-m"
+  },
+  "next": {
+    "title": "MLFlow Part 3",
+    "permalink": "/docs/tutorials/mlflow-part"
+  }
+}

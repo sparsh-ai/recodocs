@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/tv-recommender-sweettv",
+  "id": "tutorials/tv-recommender-sweettv",
+  "title": "tv-recommender-sweettv",
+  "description": "building a tv-show and movie recommender system using lightfm and lightgbm models on sweet.tv's streaming dataset",
+  "source": "@site/docs/tutorials/tv-recommender-sweettv.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tv-recommender-sweettv",
+  "permalink": "/docs/tutorials/tv-recommender-sweettv",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tv-recommender-sweettv.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tutorial-on-behavioral-evaluation-of-recommender-systems",
+    "permalink": "/docs/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems"
+  },
+  "next": {
+    "title": "twitter-pulse-checker",
+    "permalink": "/docs/tutorials/twitter-pulse-checker"
+  }
+}

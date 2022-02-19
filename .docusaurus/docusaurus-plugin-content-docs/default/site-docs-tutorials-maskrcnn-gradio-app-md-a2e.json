@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/maskrcnn-gradio-app",
+  "id": "tutorials/maskrcnn-gradio-app",
+  "title": "maskrcnn-gradio-app",
+  "description": "---",
+  "source": "@site/docs/tutorials/maskrcnn-gradio-app.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/maskrcnn-gradio-app",
+  "permalink": "/docs/tutorials/maskrcnn-gradio-app",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/maskrcnn-gradio-app.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mars-gym",
+    "permalink": "/docs/tutorials/mars-gym"
+  },
+  "next": {
+    "title": "Matching and Ranking models in Tensorflow",
+    "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
+  }
+}

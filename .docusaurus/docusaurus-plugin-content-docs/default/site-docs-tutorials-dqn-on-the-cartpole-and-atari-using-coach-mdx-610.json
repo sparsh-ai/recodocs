@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dqn-on-the-cartpole-and-atari-using-coach",
+  "id": "tutorials/dqn-on-the-cartpole-and-atari-using-coach",
+  "title": "dqn-on-the-cartpole-and-atari-using-coach",
+  "description": "The Cartpole environment is a popular simple environment with a continuous state space and a discrete action space. Nervana Systems coach provides a simple interface to experiment with a variety of algorithms and environments. In this workshop you will use coach to train an agent to balance a pole.",
+  "source": "@site/docs/tutorials/dqn-on-the-cartpole-and-atari-using-coach.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dqn-on-the-cartpole-and-atari-using-coach",
+  "permalink": "/docs/tutorials/dqn-on-the-cartpole-and-atari-using-coach",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dqn-on-the-cartpole-and-atari-using-coach.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dqn-ieee",
+    "permalink": "/docs/tutorials/dqn-ieee"
+  },
+  "next": {
+    "title": "dqn-playing-pong",
+    "permalink": "/docs/tutorials/dqn-playing-pong"
+  }
+}

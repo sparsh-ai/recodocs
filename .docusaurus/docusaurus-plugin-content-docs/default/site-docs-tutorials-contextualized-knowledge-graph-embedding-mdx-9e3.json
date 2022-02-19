@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/contextualized-knowledge-graph-embedding",
+  "id": "tutorials/contextualized-knowledge-graph-embedding",
+  "title": "contextualized-knowledge-graph-embedding",
+  "description": "",
+  "source": "@site/docs/tutorials/contextualized-knowledge-graph-embedding.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/contextualized-knowledge-graph-embedding",
+  "permalink": "/docs/tutorials/contextualized-knowledge-graph-embedding",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/contextualized-knowledge-graph-embedding.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contextual-online-advertising-with-synthetic-user-data",
+    "permalink": "/docs/tutorials/contextual-online-advertising-with-synthetic-user-data"
+  },
+  "next": {
+    "title": "cornac-examples",
+    "permalink": "/docs/tutorials/cornac-examples"
+  }
+}

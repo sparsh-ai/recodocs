@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+  "id": "tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+  "title": "afm-on-criteo-ad-dataset-in-tf-x",
+  "description": "",
+  "source": "@site/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+  "permalink": "/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ae-ml",
+    "permalink": "/docs/tutorials/ae-ml"
+  },
+  "next": {
+    "title": "agnn",
+    "permalink": "/docs/tutorials/agnn"
+  }
+}

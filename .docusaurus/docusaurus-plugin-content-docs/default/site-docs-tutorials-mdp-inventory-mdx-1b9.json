@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mdp-inventory",
+  "id": "tutorials/mdp-inventory",
+  "title": "mdp-inventory",
+  "description": "An industrial example of using Markov decision processes for inventory control.",
+  "source": "@site/docs/tutorials/mdp-inventory.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mdp-inventory",
+  "permalink": "/docs/tutorials/mdp-inventory",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mdp-inventory.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mdp-dynamic",
+    "permalink": "/docs/tutorials/mdp-dynamic"
+  },
+  "next": {
+    "title": "melu-on-ml-m",
+    "permalink": "/docs/tutorials/melu-on-ml-m"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/recostep-kafka-consumer-mongodb",
+  "id": "tutorials/recostep-kafka-consumer-mongodb",
+  "title": "recostep-kafka-consumer-mongodb",
+  "description": "Listening from kafka topic in real-time and storing in mongodb",
+  "source": "@site/docs/tutorials/recostep-kafka-consumer-mongodb.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-kafka-consumer-mongodb",
+  "permalink": "/docs/tutorials/recostep-kafka-consumer-mongodb",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-kafka-consumer-mongodb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-ecommerce-recommender-olist",
+    "permalink": "/docs/tutorials/recostep-ecommerce-recommender-olist"
+  },
+  "next": {
+    "title": "recostep-kafka-producer",
+    "permalink": "/docs/tutorials/recostep-kafka-producer"
+  }
+}

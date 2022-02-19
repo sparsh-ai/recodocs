@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/shallow-embedding-methods",
+  "id": "tutorials/shallow-embedding-methods",
+  "title": "shallow-embedding-methods",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/shallow-embedding-methods.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/shallow-embedding-methods",
+  "permalink": "/docs/tutorials/shallow-embedding-methods",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/shallow-embedding-methods.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supervised Graph Learning",
+    "permalink": "/docs/tutorials/sgl"
+  },
+  "next": {
+    "title": "shared-bottom-in-tensorflow",
+    "permalink": "/docs/tutorials/shared-bottom-in-tensorflow"
+  }
+}

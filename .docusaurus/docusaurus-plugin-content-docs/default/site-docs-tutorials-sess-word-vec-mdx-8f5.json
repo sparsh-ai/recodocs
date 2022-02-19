@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/sess-word-vec",
+  "id": "tutorials/sess-word-vec",
+  "title": "sess-word-vec",
+  "description": "Executive summary",
+  "source": "@site/docs/tutorials/sess-word-vec.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sess-word-vec",
+  "permalink": "/docs/tutorials/sess-word-vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sess-word-vec.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sess-sample",
+    "permalink": "/docs/tutorials/sess-sample"
+  },
+  "next": {
+    "title": "session-based-prod-vec-coveo",
+    "permalink": "/docs/tutorials/session-based-prod-vec-coveo"
+  }
+}

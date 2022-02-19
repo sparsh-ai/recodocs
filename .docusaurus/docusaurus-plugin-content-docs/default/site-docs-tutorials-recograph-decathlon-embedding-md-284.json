@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recograph-decathlon-embedding",
+  "id": "tutorials/recograph-decathlon-embedding",
+  "title": "recograph-decathlon-embedding",
+  "description": "",
+  "source": "@site/docs/tutorials/recograph-decathlon-embedding.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recograph-decathlon-embedding",
+  "permalink": "/docs/tutorials/recograph-decathlon-embedding",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recograph-decathlon-embedding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recobook-us-v",
+    "permalink": "/docs/tutorials/recobook-us-v"
+  },
+  "next": {
+    "title": "recograph-movielens-network-visualization",
+    "permalink": "/docs/tutorials/recograph-movielens-network-visualization"
+  }
+}

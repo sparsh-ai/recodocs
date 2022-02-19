@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/apache-airflow",
+  "id": "tutorials/apache-airflow",
+  "title": "Apache Airflow",
+  "description": "Airflow uses a relational database as a backend to store configuration data. By default, this is a SQLite database, which will be stored in ~/airflow/airflow.db. You initialize the database in your environment by running the following command in the terminal:",
+  "source": "@site/docs/tutorials/apache-airflow.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/apache-airflow",
+  "permalink": "/docs/tutorials/apache-airflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/apache-airflow.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anime-recommender",
+    "permalink": "/docs/tutorials/anime-recommender"
+  },
+  "next": {
+    "title": "apple-podcast-recommender",
+    "permalink": "/docs/tutorials/apple-podcast-recommender"
+  }
+}

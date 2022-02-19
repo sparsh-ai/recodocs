@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/emcdr-on-movielens-netflix-dataset",
+  "id": "tutorials/emcdr-on-movielens-netflix-dataset",
+  "title": "emcdr-on-movielens-netflix-dataset",
+  "description": "Theory",
+  "source": "@site/docs/tutorials/emcdr-on-movielens-netflix-dataset.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/emcdr-on-movielens-netflix-dataset",
+  "permalink": "/docs/tutorials/emcdr-on-movielens-netflix-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/emcdr-on-movielens-netflix-dataset.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "embedding-pytorch-geometric",
+    "permalink": "/docs/tutorials/embedding-pytorch-geometric"
+  },
+  "next": {
+    "title": "emde",
+    "permalink": "/docs/tutorials/emde"
+  }
+}

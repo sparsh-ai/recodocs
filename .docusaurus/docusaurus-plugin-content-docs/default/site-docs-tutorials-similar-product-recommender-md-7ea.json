@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/similar-product-recommender",
+  "id": "tutorials/similar-product-recommender",
+  "title": "similar-product-recommender",
+  "description": "A tutorial on building a recommender that will allow users to select a specific type of shirt and search for similar pattern of shirts from the inventory",
+  "source": "@site/docs/tutorials/similar-product-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/similar-product-recommender",
+  "permalink": "/docs/tutorials/similar-product-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/similar-product-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sign-aware-recommendation-using-graph-neural-networks-on-amazon-books-dataset-in-pytorch",
+    "permalink": "/docs/tutorials/sign-aware-recommendation-using-graph-neural-networks-on-amazon-books-dataset-in-pytorch"
+  },
+  "next": {
+    "title": "simple-analysis",
+    "permalink": "/docs/tutorials/simple-analysis"
+  }
+}

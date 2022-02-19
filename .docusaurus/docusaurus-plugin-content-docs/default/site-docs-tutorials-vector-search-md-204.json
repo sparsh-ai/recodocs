@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/vector-search",
+  "id": "tutorials/vector-search",
+  "title": "vector-search",
+  "description": "Note) Don't forget to change your runtime type to GPU!",
+  "source": "@site/docs/tutorials/vector-search.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/vector-search",
+  "permalink": "/docs/tutorials/vector-search",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/vector-search.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python [conda env:myenv]",
+        "language": "python",
+        "name": "conda-env-myenv-py"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "various-models-on-ml-m-in-tensorflow",
+    "permalink": "/docs/tutorials/various-models-on-ml-m-in-tensorflow"
+  },
+  "next": {
+    "title": "vehicle-detection",
+    "permalink": "/docs/tutorials/vehicle-detection"
+  }
+}

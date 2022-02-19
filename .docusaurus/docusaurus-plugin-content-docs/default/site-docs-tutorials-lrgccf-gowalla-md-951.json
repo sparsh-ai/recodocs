@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/lrgccf-gowalla",
+  "id": "tutorials/lrgccf-gowalla",
+  "title": "lrgccf-gowalla",
+  "description": "Executive summary",
+  "source": "@site/docs/tutorials/lrgccf-gowalla.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/lrgccf-gowalla",
+  "permalink": "/docs/tutorials/lrgccf-gowalla",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/lrgccf-gowalla.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "live-streamer-recommender",
+    "permalink": "/docs/tutorials/live-streamer-recommender"
+  },
+  "next": {
+    "title": "mab-product",
+    "permalink": "/docs/tutorials/mab-product"
+  }
+}

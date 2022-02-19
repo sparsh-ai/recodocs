@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/transformers-rec-session-based-recommender-on-yoochoose",
+  "id": "tutorials/transformers-rec-session-based-recommender-on-yoochoose",
+  "title": "transformers-rec-session-based-recommender-on-yoochoose",
+  "description": "In recent years, several deep learning-based algorithms have been proposed for recommendation systems while its adoption in industry deployments have been steeply growing. In particular, NLP inspired approaches have been successfully adapted for sequential and session-based recommendation problems, which are important for many domains like e-commerce, news and streaming media. Session-Based Recommender Systems (SBRS) have been proposed to model the sequence of interactions within the current user session, where a session is a short sequence of user interactions typically bounded by user inactivity. They have recently gained popularity due to their ability to capture short-term or contextual user preferences towards items.",
+  "source": "@site/docs/tutorials/transformers-rec-session-based-recommender-on-yoochoose.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/transformers-rec-session-based-recommender-on-yoochoose",
+  "permalink": "/docs/tutorials/transformers-rec-session-based-recommender-on-yoochoose",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/transformers-rec-session-based-recommender-on-yoochoose.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3 (ipykernel)",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transformers-rec-session-based-recommender-on-rees",
+    "permalink": "/docs/tutorials/transformers-rec-session-based-recommender-on-rees"
+  },
+  "next": {
+    "title": "NLP Transformers Search and Sampling",
+    "permalink": "/docs/tutorials/transformers"
+  }
+}

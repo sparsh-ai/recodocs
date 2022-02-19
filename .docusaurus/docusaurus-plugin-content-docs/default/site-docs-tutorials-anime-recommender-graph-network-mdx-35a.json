@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/anime-recommender-graph-network",
+  "id": "tutorials/anime-recommender-graph-network",
+  "title": "anime-recommender-graph-network",
+  "description": "Loading Anime dataset from Kaggle and building bipartite graph using NetworkX, then finding similar users and recommending animes to the target user",
+  "source": "@site/docs/tutorials/anime-recommender-graph-network.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/anime-recommender-graph-network",
+  "permalink": "/docs/tutorials/anime-recommender-graph-network",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/anime-recommender-graph-network.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "animations-with-matplotlib-and-plotly",
+    "permalink": "/docs/tutorials/animations-with-matplotlib-and-plotly"
+  },
+  "next": {
+    "title": "anime-recommender",
+    "permalink": "/docs/tutorials/anime-recommender"
+  }
+}

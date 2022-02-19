@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/attention-gnn",
+  "id": "tutorials/attention-gnn",
+  "title": "attention-gnn",
+  "description": "",
+  "source": "@site/docs/tutorials/attention-gnn.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/attention-gnn",
+  "permalink": "/docs/tutorials/attention-gnn",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/attention-gnn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "assessing-online-ad-clicks-for-significance",
+    "permalink": "/docs/tutorials/assessing-online-ad-clicks-for-significance"
+  },
+  "next": {
+    "title": "attention-mechanisms",
+    "permalink": "/docs/tutorials/attention-mechanisms"
+  }
+}

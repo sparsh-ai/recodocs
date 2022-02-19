@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/vowpal-wabbit-contextual-recommender",
+  "id": "tutorials/vowpal-wabbit-contextual-recommender",
+  "title": "vowpal-wabbit-contextual-recommender",
+  "description": "A tutorial to understand the process of building a contextual recommender system using vowpalwabbit",
+  "source": "@site/docs/tutorials/vowpal-wabbit-contextual-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/vowpal-wabbit-contextual-recommender",
+  "permalink": "/docs/tutorials/vowpal-wabbit-contextual-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/vowpal-wabbit-contextual-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "visualizing-the-non-linearity-of-neural-networks-using-tensorflow",
+    "permalink": "/docs/tutorials/visualizing-the-non-linearity-of-neural-networks-using-tensorflow"
+  },
+  "next": {
+    "title": "vowpalwabbit-changing-context-part",
+    "permalink": "/docs/tutorials/vowpalwabbit-changing-context-part"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/implicit-hybrid-movie-recommender-using-collie-library",
+  "id": "tutorials/implicit-hybrid-movie-recommender-using-collie-library",
+  "title": "implicit-hybrid-movie-recommender-using-collie-library",
+  "description": "Testing out the features of Collie Recs library on MovieLens-100K. Training Factorization and Hybrid models with Pytorch Lightning.",
+  "source": "@site/docs/tutorials/implicit-hybrid-movie-recommender-using-collie-library.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/implicit-hybrid-movie-recommender-using-collie-library",
+  "permalink": "/docs/tutorials/implicit-hybrid-movie-recommender-using-collie-library",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/implicit-hybrid-movie-recommender-using-collie-library.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "imgsim-bandit",
+    "permalink": "/docs/tutorials/imgsim-bandit"
+  },
+  "next": {
+    "title": "implicit-hybrid-movie-recommender",
+    "permalink": "/docs/tutorials/implicit-hybrid-movie-recommender"
+  }
+}

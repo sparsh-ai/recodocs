@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/node-vec-on-ml-latest-in-keras",
+  "id": "tutorials/node-vec-on-ml-latest-in-keras",
+  "title": "node-vec-on-ml-latest-in-keras",
+  "description": "Implementing the node2vec model to generate embeddings for movies from the MovieLens dataset.",
+  "source": "@site/docs/tutorials/node-vec-on-ml-latest-in-keras.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/node-vec-on-ml-latest-in-keras",
+  "permalink": "/docs/tutorials/node-vec-on-ml-latest-in-keras",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/node-vec-on-ml-latest-in-keras.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "node-vec-on-karateclub",
+    "permalink": "/docs/tutorials/node-vec-on-karateclub"
+  },
+  "next": {
+    "title": "node-vec-tf",
+    "permalink": "/docs/tutorials/node-vec-tf"
+  }
+}

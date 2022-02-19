@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-frontend-dash",
+  "id": "tutorials/reco-frontend-dash",
+  "title": "reco-frontend-dash",
+  "description": "",
+  "source": "@site/docs/tutorials/reco-frontend-dash.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-frontend-dash",
+  "permalink": "/docs/tutorials/reco-frontend-dash",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-frontend-dash.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-dvbpr-not-working",
+    "permalink": "/docs/tutorials/reco-dvbpr-not-working"
+  },
+  "next": {
+    "title": "reco-inprogress-elective-course-recommender",
+    "permalink": "/docs/tutorials/reco-inprogress-elective-course-recommender"
+  }
+}

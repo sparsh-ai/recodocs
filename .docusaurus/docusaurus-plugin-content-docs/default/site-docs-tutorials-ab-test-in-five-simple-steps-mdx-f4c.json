@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ab-test-in-five-simple-steps",
+  "id": "tutorials/ab-test-in-five-simple-steps",
+  "title": "ab-test-in-five-simple-steps",
+  "description": "A-B test and plots with explanations to understand the basics",
+  "source": "@site/docs/tutorials/ab-test-in-five-simple-steps.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ab-test-in-five-simple-steps",
+  "permalink": "/docs/tutorials/ab-test-in-five-simple-steps",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ab-test-in-five-simple-steps.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/docs/tutorials/"
+  },
+  "next": {
+    "title": "ac",
+    "permalink": "/docs/tutorials/ac"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recsys-evaluation-metrics",
+  "id": "tutorials/recsys-evaluation-metrics",
+  "title": "recsys-evaluation-metrics",
+  "description": "Understanding evaluation metrics, splitting methods",
+  "source": "@site/docs/tutorials/recsys-evaluation-metrics.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recsys-evaluation-metrics",
+  "permalink": "/docs/tutorials/recsys-evaluation-metrics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recsys-evaluation-metrics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recsys-evaluation-metrics-part",
+    "permalink": "/docs/tutorials/recsys-evaluation-metrics-part"
+  },
+  "next": {
+    "title": "recsys-gym-simulation",
+    "permalink": "/docs/tutorials/recsys-gym-simulation"
+  }
+}

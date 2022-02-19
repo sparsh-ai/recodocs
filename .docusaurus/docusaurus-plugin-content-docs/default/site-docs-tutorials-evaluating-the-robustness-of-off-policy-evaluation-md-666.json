@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/evaluating-the-robustness-of-off-policy-evaluation",
+  "id": "tutorials/evaluating-the-robustness-of-off-policy-evaluation",
+  "title": "evaluating-the-robustness-of-off-policy-evaluation",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/evaluating-the-robustness-of-off-policy-evaluation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/evaluating-the-robustness-of-off-policy-evaluation",
+  "permalink": "/docs/tutorials/evaluating-the-robustness-of-off-policy-evaluation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/evaluating-the-robustness-of-off-policy-evaluation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+    "permalink": "/docs/tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset"
+  },
+  "next": {
+    "title": "evaluation-metrics-basics",
+    "permalink": "/docs/tutorials/evaluation-metrics-basics"
+  }
+}

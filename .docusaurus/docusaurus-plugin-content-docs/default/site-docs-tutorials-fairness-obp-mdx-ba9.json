@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/fairness-obp",
+  "id": "tutorials/fairness-obp",
+  "title": "fairness-obp",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/fairness-obp.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/fairness-obp",
+  "permalink": "/docs/tutorials/fairness-obp",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/fairness-obp.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Face Recognition",
+    "permalink": "/docs/tutorials/face-recognition"
+  },
+  "next": {
+    "title": "fairness",
+    "permalink": "/docs/tutorials/fairness"
+  }
+}

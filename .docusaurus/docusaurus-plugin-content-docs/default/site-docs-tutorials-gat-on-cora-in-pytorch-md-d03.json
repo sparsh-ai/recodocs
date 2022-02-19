@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/gat-on-cora-in-pytorch",
+  "id": "tutorials/gat-on-cora-in-pytorch",
+  "title": "gat-on-cora-in-pytorch",
+  "description": "---",
+  "source": "@site/docs/tutorials/gat-on-cora-in-pytorch.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gat-on-cora-in-pytorch",
+  "permalink": "/docs/tutorials/gat-on-cora-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gat-on-cora-in-pytorch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gat-in-tensorflow-x",
+    "permalink": "/docs/tutorials/gat-in-tensorflow-x"
+  },
+  "next": {
+    "title": "gc-san-in-pytorch",
+    "permalink": "/docs/tutorials/gc-san-in-pytorch"
+  }
+}

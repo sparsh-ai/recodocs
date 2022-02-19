@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/finding-the-winning-strategy-in-a-sum-card-game",
+  "id": "tutorials/finding-the-winning-strategy-in-a-sum-card-game",
+  "title": "finding-the-winning-strategy-in-a-sum-card-game",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/finding-the-winning-strategy-in-a-sum-card-game.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/finding-the-winning-strategy-in-a-sum-card-game",
+  "permalink": "/docs/tutorials/finding-the-winning-strategy-in-a-sum-card-game",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/finding-the-winning-strategy-in-a-sum-card-game.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "finding-the-winning-strategy-in-a-red-color-win-card-game",
+    "permalink": "/docs/tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game"
+  },
+  "next": {
+    "title": "fitsuit-cv",
+    "permalink": "/docs/tutorials/fitsuit-cv"
+  }
+}

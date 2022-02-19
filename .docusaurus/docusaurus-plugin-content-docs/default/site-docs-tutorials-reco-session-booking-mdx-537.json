@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-session-booking",
+  "id": "tutorials/reco-session-booking",
+  "title": "reco-session-booking",
+  "description": "",
+  "source": "@site/docs/tutorials/reco-session-booking.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-session-booking",
+  "permalink": "/docs/tutorials/reco-session-booking",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-session-booking.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-megafon-data-ingestion",
+    "permalink": "/docs/tutorials/reco-megafon-data-ingestion"
+  },
+  "next": {
+    "title": "reco-session-diginetica",
+    "permalink": "/docs/tutorials/reco-session-diginetica"
+  }
+}

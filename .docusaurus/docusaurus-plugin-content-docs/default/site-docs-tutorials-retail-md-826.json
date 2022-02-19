@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/retail",
+  "id": "tutorials/retail",
+  "title": "retail",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/retail.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/retail",
+  "permalink": "/docs/tutorials/retail",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/retail.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "retail-products-knn",
+    "permalink": "/docs/tutorials/retail-products-knn"
+  },
+  "next": {
+    "title": "retailrocket",
+    "permalink": "/docs/tutorials/retailrocket"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/pnn-criteo",
+  "id": "tutorials/pnn-criteo",
+  "title": "pnn-criteo",
+  "description": "",
+  "source": "@site/docs/tutorials/pnn-criteo.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pnn-criteo",
+  "permalink": "/docs/tutorials/pnn-criteo",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pnn-criteo.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pixellink",
+    "permalink": "/docs/tutorials/pixellink"
+  },
+  "next": {
+    "title": "poison-attack",
+    "permalink": "/docs/tutorials/poison-attack"
+  }
+}

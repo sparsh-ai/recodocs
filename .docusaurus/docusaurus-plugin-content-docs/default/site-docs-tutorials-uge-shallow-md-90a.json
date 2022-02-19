@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/uge-shallow",
+  "id": "tutorials/uge-shallow",
+  "title": "Unsupervised Graph Embeddings - Shallow methods",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/uge-shallow.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/uge-shallow",
+  "permalink": "/docs/tutorials/uge-shallow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/uge-shallow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unsupervised Graph Embeddings - Neural methods",
+    "permalink": "/docs/tutorials/uge-neural"
+  },
+  "next": {
+    "title": "ultragcn-on-ml-k",
+    "permalink": "/docs/tutorials/ultragcn-on-ml-k"
+  }
+}

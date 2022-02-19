@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/als",
+  "id": "tutorials/als",
+  "title": "Alternating Least Square model for recommendation",
+  "description": "Embeddings visualization",
+  "source": "@site/docs/tutorials/als.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/als",
+  "permalink": "/docs/tutorials/als",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/als.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "als-on-retail-product-data",
+    "permalink": "/docs/tutorials/als-on-retail-product-data"
+  },
+  "next": {
+    "title": "altair-plot-part",
+    "permalink": "/docs/tutorials/altair-plot-part"
+  }
+}

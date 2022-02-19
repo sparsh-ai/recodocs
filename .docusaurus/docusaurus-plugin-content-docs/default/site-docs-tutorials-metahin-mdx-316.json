@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/metahin",
+  "id": "tutorials/metahin",
+  "title": "metahin",
+  "description": "",
+  "source": "@site/docs/tutorials/metahin.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/metahin",
+  "permalink": "/docs/tutorials/metahin",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/metahin.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "melu-on-ml-m",
+    "permalink": "/docs/tutorials/melu-on-ml-m"
+  },
+  "next": {
+    "title": "metatl-for-cold-start-users-on-amazon-electronics-dataset",
+    "permalink": "/docs/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sse-pt-on-ml-m-in-tensorflow-x",
+  "id": "tutorials/sse-pt-on-ml-m-in-tensorflow-x",
+  "title": "sse-pt-on-ml-m-in-tensorflow-x",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/sse-pt-on-ml-m-in-tensorflow-x.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sse-pt-on-ml-m-in-tensorflow-x",
+  "permalink": "/docs/tutorials/sse-pt-on-ml-m-in-tensorflow-x",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sse-pt-on-ml-m-in-tensorflow-x.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sr-san-on-yoochoose-and-diginetica-in-pytorch",
+    "permalink": "/docs/tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch"
+  },
+  "next": {
+    "title": "stamp-diginetica",
+    "permalink": "/docs/tutorials/stamp-diginetica"
+  }
+}

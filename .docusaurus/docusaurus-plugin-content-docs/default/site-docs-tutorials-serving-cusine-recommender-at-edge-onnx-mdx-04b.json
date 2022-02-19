@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/serving-cusine-recommender-at-edge-onnx",
+  "id": "tutorials/serving-cusine-recommender-at-edge-onnx",
+  "title": "serving-cusine-recommender-at-edge-onnx",
+  "description": "Train a simple cusine recommender model, convert into ONNX and wrap into javascript/html to serve at edge",
+  "source": "@site/docs/tutorials/serving-cusine-recommender-at-edge-onnx.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/serving-cusine-recommender-at-edge-onnx",
+  "permalink": "/docs/tutorials/serving-cusine-recommender-at-edge-onnx",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/serving-cusine-recommender-at-edge-onnx.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "serverless-ml",
+    "permalink": "/docs/tutorials/serverless-ml"
+  },
+  "next": {
+    "title": "sess-retailrocket",
+    "permalink": "/docs/tutorials/sess-retailrocket"
+  }
+}

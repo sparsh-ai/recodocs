@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/febr-framework",
+  "id": "tutorials/febr-framework",
+  "title": "febr-framework",
+  "description": "Expert Environment Test",
+  "source": "@site/docs/tutorials/febr-framework.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/febr-framework",
+  "permalink": "/docs/tutorials/febr-framework",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/febr-framework.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "feature-selection-on-quantum-computer",
+    "permalink": "/docs/tutorials/feature-selection-on-quantum-computer"
+  },
+  "next": {
+    "title": "ffm-on-criteo-ad-dataset-in-tf-x",
+    "permalink": "/docs/tutorials/ffm-on-criteo-ad-dataset-in-tf-x"
+  }
+}

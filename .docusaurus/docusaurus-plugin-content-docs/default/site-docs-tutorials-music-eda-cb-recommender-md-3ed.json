@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/music-eda-cb-recommender",
+  "id": "tutorials/music-eda-cb-recommender",
+  "title": "music-eda-cb-recommender",
+  "description": "In this notebook we will go through an in depth analysis of sound and how we can visualize, classify, understand it, and ultimately recommend similar sounding music.",
+  "source": "@site/docs/tutorials/music-eda-cb-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/music-eda-cb-recommender",
+  "permalink": "/docs/tutorials/music-eda-cb-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/music-eda-cb-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multiprocessing",
+    "permalink": "/docs/tutorials/multiprocessing"
+  },
+  "next": {
+    "title": "music-seq-data",
+    "permalink": "/docs/tutorials/music-seq-data"
+  }
+}

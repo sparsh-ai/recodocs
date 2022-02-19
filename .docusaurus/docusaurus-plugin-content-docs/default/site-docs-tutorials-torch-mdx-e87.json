@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/torch",
+  "id": "tutorials/torch",
+  "title": "torch",
+  "description": "Tensors",
+  "source": "@site/docs/tutorials/torch.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/torch",
+  "permalink": "/docs/tutorials/torch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/torch.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "topk-reinforce",
+    "permalink": "/docs/tutorials/topk-reinforce"
+  },
+  "next": {
+    "title": "torchvisiondeeplabv",
+    "permalink": "/docs/tutorials/torchvisiondeeplabv"
+  }
+}

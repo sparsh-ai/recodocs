@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ieee",
+  "id": "tutorials/ieee",
+  "title": "ieee",
+  "description": "",
+  "source": "@site/docs/tutorials/ieee.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ieee",
+  "permalink": "/docs/tutorials/ieee",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ieee.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee-transformer",
+    "permalink": "/docs/tutorials/ieee-transformer"
+  },
+  "next": {
+    "title": "image-analytics-tensorflow",
+    "permalink": "/docs/tutorials/image-analytics-tensorflow"
+  }
+}

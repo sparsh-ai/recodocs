@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-ml-python-from-scratch-gradient-descent",
+  "id": "tutorials/reco-tut-ml-python-from-scratch-gradient-descent",
+  "title": "reco-tut-ml-python-from-scratch-gradient-descent",
+  "description": "we'll implement the basic functions of the Gradient Descent algorithm to find the boundary in a small dataset. First, we'll start with some functions that will help us plot and visualize the data.",
+  "source": "@site/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-ml-python-from-scratch-gradient-descent",
+  "permalink": "/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-ml-python-from-scratch-gradient-descent-student-admissions",
+    "permalink": "/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent-student-admissions"
+  },
+  "next": {
+    "title": "reco-tut-ml-python-lists-dicts",
+    "permalink": "/docs/tutorials/reco-tut-ml-python-lists-dicts"
+  }
+}

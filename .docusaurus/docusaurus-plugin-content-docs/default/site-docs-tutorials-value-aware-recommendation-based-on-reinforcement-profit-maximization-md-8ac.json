@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization",
+  "id": "tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization",
+  "title": "value-aware-recommendation-based-on-reinforcement-profit-maximization",
+  "description": "In our recommendation platform, items are shown in cascade on a mobile App one by one. Each time the user initiates a request, 50 items are recommended to him/her. As user scrolls down the list and have seen all 50 items, a new request is triggered. �is process is repeated until the user leaves the App or return the top of the cascade, labelled as ”exit” in Figure 2. We use a metric called ”pageid” to distinguish diferent requests in this interaction, similar to the concept of ”page” to a search engine. As the user and the system interact with each other, the system learns how to respond to the state to obtain an optimized accumulative reward.",
+  "source": "@site/docs/tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization",
+  "permalink": "/docs/tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unit-test-jaccard-recommender",
+    "permalink": "/docs/tutorials/unit-test-jaccard-recommender"
+  },
+  "next": {
+    "title": "various-models-on-ml-m-in-tensorflow",
+    "permalink": "/docs/tutorials/various-models-on-ml-m-in-tensorflow"
+  }
+}

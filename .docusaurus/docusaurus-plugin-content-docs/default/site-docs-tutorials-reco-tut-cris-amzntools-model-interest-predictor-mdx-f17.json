@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-cris-amzntools-model-interest-predictor",
+  "id": "tutorials/reco-tut-cris-amzntools-model-interest-predictor",
+  "title": "reco-tut-cris-amzntools-model-interest-predictor",
+  "description": "",
+  "source": "@site/docs/tutorials/reco-tut-cris-amzntools-model-interest-predictor.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-cris-amzntools-model-interest-predictor",
+  "permalink": "/docs/tutorials/reco-tut-cris-amzntools-model-interest-predictor",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-cris-amzntools-model-interest-predictor.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-cris-amzntools-launchpad",
+    "permalink": "/docs/tutorials/reco-tut-cris-amzntools-launchpad"
+  },
+  "next": {
+    "title": "reco-tut-cris-amzntools-model-recommender",
+    "permalink": "/docs/tutorials/reco-tut-cris-amzntools-model-recommender"
+  }
+}

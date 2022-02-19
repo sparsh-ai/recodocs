@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+  "id": "tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+  "title": "evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+  "description": "Overview",
+  "source": "@site/docs/tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+  "permalink": "/docs/tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evaluating-a-new-fraud-policy-with-dm-ipw-and-dr-methods",
+    "permalink": "/docs/tutorials/evaluating-a-new-fraud-policy-with-dm-ipw-and-dr-methods"
+  },
+  "next": {
+    "title": "evaluating-the-robustness-of-off-policy-evaluation",
+    "permalink": "/docs/tutorials/evaluating-the-robustness-of-off-policy-evaluation"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-similarity-metrics-for-cf",
+  "id": "tutorials/reco-tut-asr-similarity-metrics-for-cf",
+  "title": "Notes on Similarity Metrics",
+  "description": "The last notebook on this month in the domain of collaborative filtering (CF) is to take a look at the metrics that were used in the 2 previous notebooks about User User CF and Item Item (CF) and analyse their properties, such as how to interpret/visualise them, when they are good or bad and if we should make any assumptions when using them.",
+  "source": "@site/docs/tutorials/reco-tut-asr-similarity-metrics-for-cf.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-similarity-metrics-for-cf",
+  "permalink": "/docs/tutorials/reco-tut-asr-similarity-metrics-for-cf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-similarity-metrics-for-cf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-asr-recommendation-metrics-rating-evaluation",
+    "permalink": "/docs/tutorials/reco-tut-asr-recommendation-metrics-rating-evaluation"
+  },
+  "next": {
+    "title": "Collaborative Filtering (CF)",
+    "permalink": "/docs/tutorials/reco-tut-asr-user-user-cf"
+  }
+}

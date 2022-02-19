@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/image-seg-playground",
+  "id": "tutorials/image-seg-playground",
+  "title": "image-seg-playground",
+  "description": "MIT Driving Scene Segmentation",
+  "source": "@site/docs/tutorials/image-seg-playground.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/image-seg-playground",
+  "permalink": "/docs/tutorials/image-seg-playground",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/image-seg-playground.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "image-colorization",
+    "permalink": "/docs/tutorials/image-colorization"
+  },
+  "next": {
+    "title": "Image segmentation and Background removal",
+    "permalink": "/docs/tutorials/image-seg"
+  }
+}

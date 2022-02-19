@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/q-learning-vs-sarsa-and-q-learning-extensions",
+  "id": "tutorials/q-learning-vs-sarsa-and-q-learning-extensions",
+  "title": "q-learning-vs-sarsa-and-q-learning-extensions",
+  "description": "Temporal-difference (TD) learning is a combination of these two approaches. It learns directly from experience by sampling, but also bootstraps. This represents a breakthrough in capability that allows agents to learn optimal strategies in any environment. Prior to this point learning was so slow it made problems intractable or you needed a full model of the environment.",
+  "source": "@site/docs/tutorials/q-learning-vs-sarsa-and-q-learning-extensions.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/q-learning-vs-sarsa-and-q-learning-extensions",
+  "permalink": "/docs/tutorials/q-learning-vs-sarsa-and-q-learning-extensions",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/q-learning-vs-sarsa-and-q-learning-extensions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "q-learning-on-lunar-lander-and-frozen-lake",
+    "permalink": "/docs/tutorials/q-learning-on-lunar-lander-and-frozen-lake"
+  },
+  "next": {
+    "title": "random-forest-classifier-model",
+    "permalink": "/docs/tutorials/random-forest-classifier-model"
+  }
+}

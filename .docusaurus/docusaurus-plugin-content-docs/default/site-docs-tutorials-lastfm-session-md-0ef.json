@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/lastfm-session",
+  "id": "tutorials/lastfm-session",
+  "title": "lastfm-session",
+  "description": "---",
+  "source": "@site/docs/tutorials/lastfm-session.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/lastfm-session",
+  "permalink": "/docs/tutorials/lastfm-session",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/lastfm-session.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "language-modeling-with-nn-transformer-and-torchtext",
+    "permalink": "/docs/tutorials/language-modeling-with-nn-transformer-and-torchtext"
+  },
+  "next": {
+    "title": "lda-topic-content-recommender",
+    "permalink": "/docs/tutorials/lda-topic-content-recommender"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recostep-tutorial-paddlerec",
+  "id": "tutorials/recostep-tutorial-paddlerec",
+  "title": "recostep-tutorial-paddlerec",
+  "description": "Quick start",
+  "source": "@site/docs/tutorials/recostep-tutorial-paddlerec.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-tutorial-paddlerec",
+  "permalink": "/docs/tutorials/recostep-tutorial-paddlerec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-tutorial-paddlerec.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-tutorial-offline-replayer-eval-recogym",
+    "permalink": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym"
+  },
+  "next": {
+    "title": "recsim",
+    "permalink": "/docs/tutorials/recsim"
+  }
+}

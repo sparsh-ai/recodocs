@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/product-recommendation-context-rl",
+  "id": "tutorials/product-recommendation-context-rl",
+  "title": "product-recommendation-context-rl",
+  "description": "Contextual bandit based recommendation system modeling, and Dash app to simulate the contextual bandit environment",
+  "source": "@site/docs/tutorials/product-recommendation-context-rl.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/product-recommendation-context-rl",
+  "permalink": "/docs/tutorials/product-recommendation-context-rl",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/product-recommendation-context-rl.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "prod-vec-beh",
+    "permalink": "/docs/tutorials/prod-vec-beh"
+  },
+  "next": {
+    "title": "product-recommender",
+    "permalink": "/docs/tutorials/product-recommender"
+  }
+}

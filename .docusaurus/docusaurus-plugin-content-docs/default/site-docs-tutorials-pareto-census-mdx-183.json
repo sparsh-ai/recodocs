@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/pareto-census",
+  "id": "tutorials/pareto-census",
+  "title": "pareto-census",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/pareto-census.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pareto-census",
+  "permalink": "/docs/tutorials/pareto-census",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pareto-census.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optimal-off-policy-evaluation-from-multiple-logging-policies",
+    "permalink": "/docs/tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies"
+  },
+  "next": {
+    "title": "pareto-moo",
+    "permalink": "/docs/tutorials/pareto-moo"
+  }
+}

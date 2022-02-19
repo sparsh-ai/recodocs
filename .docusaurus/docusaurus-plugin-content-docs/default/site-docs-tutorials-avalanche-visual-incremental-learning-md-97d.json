@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/avalanche-visual-incremental-learning",
+  "id": "tutorials/avalanche-visual-incremental-learning",
+  "title": "avalanche-visual-incremental-learning",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/avalanche-visual-incremental-learning.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/avalanche-visual-incremental-learning",
+  "permalink": "/docs/tutorials/avalanche-visual-incremental-learning",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/avalanche-visual-incremental-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Auto Surprise Library",
+    "permalink": "/docs/tutorials/autosurprise"
+  },
+  "next": {
+    "title": "ayuhealth-food-recommender",
+    "permalink": "/docs/tutorials/ayuhealth-food-recommender"
+  }
+}

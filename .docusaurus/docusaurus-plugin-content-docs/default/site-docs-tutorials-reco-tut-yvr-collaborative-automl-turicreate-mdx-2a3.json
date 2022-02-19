@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-yvr-collaborative-automl-turicreate",
+  "id": "tutorials/reco-tut-yvr-collaborative-automl-turicreate",
+  "title": "reco-tut-yvr-collaborative-automl-turicreate",
+  "description": "",
+  "source": "@site/docs/tutorials/reco-tut-yvr-collaborative-automl-turicreate.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-yvr-collaborative-automl-turicreate",
+  "permalink": "/docs/tutorials/reco-tut-yvr-collaborative-automl-turicreate",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-yvr-collaborative-automl-turicreate.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-ysr-recommendations",
+    "permalink": "/docs/tutorials/reco-tut-ysr-recommendations"
+  },
+  "next": {
+    "title": "reco-tutorial-external-bookcrossing",
+    "permalink": "/docs/tutorials/reco-tutorial-external-bookcrossing"
+  }
+}

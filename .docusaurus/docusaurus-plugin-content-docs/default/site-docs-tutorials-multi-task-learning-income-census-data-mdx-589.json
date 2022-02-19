@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/multi-task-learning-income-census-data",
+  "id": "tutorials/multi-task-learning-income-census-data",
+  "title": "multi-task-learning-income-census-data",
+  "description": "Training 5 models on census data taking salary and marital status as proxies for CTR and CTCVR proxy. Objective is to learn about different models and how they work.",
+  "source": "@site/docs/tutorials/multi-task-learning-income-census-data.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/multi-task-learning-income-census-data",
+  "permalink": "/docs/tutorials/multi-task-learning-income-census-data",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/multi-task-learning-income-census-data.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multi-objective-ranking-using-constrained-optimization-in-gbts",
+    "permalink": "/docs/tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts"
+  },
+  "next": {
+    "title": "multi-task-learning-on-ml-k-in-tfrs",
+    "permalink": "/docs/tutorials/multi-task-learning-on-ml-k-in-tfrs"
+  }
+}

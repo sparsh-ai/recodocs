@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/glt-community",
+  "id": "tutorials/glt-community",
+  "title": "Graph Learning Tasks - Community Detection",
+  "description": "One common problem data scientists face when dealing with networks is how to identify clusters and communities within a graph. This often arises when graphs are derived from social networks and communities are known to exist. However, the underlying algorithms and methods can also be used in other contexts, representing another option to perform clustering and segmentation. For example, these methods can effectively be used in text mining to identify emerging topics and to cluster documents that refer to single events/topics. A community detection task consists of partitioning a graph such that nodes belonging to the same community are tightly connected with each other and are weakly connected with nodes from other communities.",
+  "source": "@site/docs/tutorials/glt-community.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/glt-community",
+  "permalink": "/docs/tutorials/glt-community",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/glt-community.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geographic-location-visualization-and-analysis",
+    "permalink": "/docs/tutorials/geographic-location-visualization-and-analysis"
+  },
+  "next": {
+    "title": "Graph Learning Tasks - Missing link prediction",
+    "permalink": "/docs/tutorials/glt-missing-link"
+  }
+}

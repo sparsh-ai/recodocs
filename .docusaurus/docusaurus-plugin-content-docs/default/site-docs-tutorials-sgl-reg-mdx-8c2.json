@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sgl-reg",
+  "id": "tutorials/sgl-reg",
+  "title": "Supervised Graph Learning Regularization",
+  "description": "We will be creating a graph regularized version for a topic classification task. The task is to classify paper depending on their content. However in order to do so, we will also use the information encoded in the citation network that relates documents among each other. Of course, we do know that this kind of information is indeed powerful as papers belonging to the same subject tend to reference each other. For this task, we will be using the Cora dataset available in the stellargraph library.",
+  "source": "@site/docs/tutorials/sgl-reg.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sgl-reg",
+  "permalink": "/docs/tutorials/sgl-reg",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sgl-reg.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "session-retail-trendyol",
+    "permalink": "/docs/tutorials/session-retail-trendyol"
+  },
+  "next": {
+    "title": "Supervised Graph Learning - Shallow Embeddings",
+    "permalink": "/docs/tutorials/sgl-shallow-embedding"
+  }
+}

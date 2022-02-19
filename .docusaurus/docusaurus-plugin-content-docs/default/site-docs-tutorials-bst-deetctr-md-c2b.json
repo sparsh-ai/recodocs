@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/bst-deetctr",
+  "id": "tutorials/bst-deetctr",
+  "title": "bst-deetctr",
+  "description": "Installation",
+  "source": "@site/docs/tutorials/bst-deetctr.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/bst-deetctr",
+  "permalink": "/docs/tutorials/bst-deetctr",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/bst-deetctr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bpr-triplet-on-ml-m-in-tensorflow",
+    "permalink": "/docs/tutorials/bpr-triplet-on-ml-m-in-tensorflow"
+  },
+  "next": {
+    "title": "bst-in-pytorch",
+    "permalink": "/docs/tutorials/bst-in-pytorch"
+  }
+}

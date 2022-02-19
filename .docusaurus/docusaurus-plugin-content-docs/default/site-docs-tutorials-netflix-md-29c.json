@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/netflix",
+  "id": "tutorials/netflix",
+  "title": "netflix",
+  "description": "Business Problem",
+  "source": "@site/docs/tutorials/netflix.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/netflix",
+  "permalink": "/docs/tutorials/netflix",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/netflix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/docs/tutorials/ner"
+  },
+  "next": {
+    "title": "networkx",
+    "permalink": "/docs/tutorials/networkx"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/graph-sdne",
+  "id": "tutorials/graph-sdne",
+  "title": "graph-sdne",
+  "description": "",
+  "source": "@site/docs/tutorials/graph-sdne.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/graph-sdne",
+  "permalink": "/docs/tutorials/graph-sdne",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph-sdne.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "graph-properties",
+    "permalink": "/docs/tutorials/graph-properties"
+  },
+  "next": {
+    "title": "gridworld-mc",
+    "permalink": "/docs/tutorials/gridworld-mc"
+  }
+}

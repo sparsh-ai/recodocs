@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/lambda-learner",
+  "id": "tutorials/lambda-learner",
+  "title": "lambda-learner",
+  "description": "A framework for incremental learning for personalization at scale.",
+  "source": "@site/docs/tutorials/lambda-learner.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/lambda-learner",
+  "permalink": "/docs/tutorials/lambda-learner",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/lambda-learner.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kullback-leibler-divergence",
+    "permalink": "/docs/tutorials/kullback-leibler-divergence"
+  },
+  "next": {
+    "title": "language-modeling-with-nn-transformer-and-torchtext",
+    "permalink": "/docs/tutorials/language-modeling-with-nn-transformer-and-torchtext"
+  }
+}

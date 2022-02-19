@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/data-prep",
+  "id": "tutorials/data-prep",
+  "title": "MovieLens 100K Data Preparation",
+  "description": "Read dataset",
+  "source": "@site/docs/tutorials/data-prep.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/data-prep",
+  "permalink": "/docs/tutorials/data-prep",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/data-prep.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "data-poisoning-attack-using-lfm-and-itemae-on-synthetic-dataset",
+    "permalink": "/docs/tutorials/data-poisoning-attack-using-lfm-and-itemae-on-synthetic-dataset"
+  },
+  "next": {
+    "title": "Data Science Bookcamp",
+    "permalink": "/docs/tutorials/data-science-bookcamp"
+  }
+}

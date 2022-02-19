@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/embedding-pytorch-geometric",
+  "id": "tutorials/embedding-pytorch-geometric",
+  "title": "embedding-pytorch-geometric",
+  "description": "In this notebook, we will train a Graph convolutional model to learn the embeddings of Karateclub dataset, using pytorch geometric library",
+  "source": "@site/docs/tutorials/embedding-pytorch-geometric.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/embedding-pytorch-geometric",
+  "permalink": "/docs/tutorials/embedding-pytorch-geometric",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/embedding-pytorch-geometric.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "email-classification",
+    "permalink": "/docs/tutorials/email-classification"
+  },
+  "next": {
+    "title": "emcdr-on-movielens-netflix-dataset",
+    "permalink": "/docs/tutorials/emcdr-on-movielens-netflix-dataset"
+  }
+}

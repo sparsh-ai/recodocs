@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recostep-tutorial-multi-armed-bandit-product-recommender",
+  "id": "tutorials/recostep-tutorial-multi-armed-bandit-product-recommender",
+  "title": "recostep-tutorial-multi-armed-bandit-product-recommender",
+  "description": "",
+  "source": "@site/docs/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender",
+  "permalink": "/docs/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-session-based-recommender-using-word-vec",
+    "permalink": "/docs/tutorials/recostep-session-based-recommender-using-word-vec"
+  },
+  "next": {
+    "title": "recostep-tutorial-notebook-movielens-exploration",
+    "permalink": "/docs/tutorials/recostep-tutorial-notebook-movielens-exploration"
+  }
+}

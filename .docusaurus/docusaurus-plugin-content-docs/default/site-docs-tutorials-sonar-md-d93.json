@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sonar",
+  "id": "tutorials/sonar",
+  "title": "sonar",
+  "description": "Building a Classifier to detect SONAR signal on Sonar Dataset in Keras",
+  "source": "@site/docs/tutorials/sonar.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sonar",
+  "permalink": "/docs/tutorials/sonar",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sonar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "solving-moo-with-smt-toolkit",
+    "permalink": "/docs/tutorials/solving-moo-with-smt-toolkit"
+  },
+  "next": {
+    "title": "song-recommender-knn-svd-millionsongs",
+    "permalink": "/docs/tutorials/song-recommender-knn-svd-millionsongs"
+  }
+}

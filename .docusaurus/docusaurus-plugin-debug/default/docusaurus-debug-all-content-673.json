@@ -3831,8 +3831,8 @@
                 "permalink": "/docs/models/word2vec"
               },
               "next": {
-                "title": "Tutorials",
-                "permalink": "/docs/tutorials/"
+                "title": "ab-test-in-five-simple-steps",
+                "permalink": "/docs/tutorials/ab-test-in-five-simple-steps"
               }
             },
             {
@@ -3873,6 +3873,29 @@
                 "permalink": "/docs/tools/"
               },
               "next": {
+                "title": "PySpark",
+                "permalink": "/docs/tools/pyspark"
+              }
+            },
+            {
+              "unversionedId": "tools/pyspark",
+              "id": "tools/pyspark",
+              "title": "PySpark",
+              "description": "",
+              "source": "@site/docs/tools/pyspark.mdx",
+              "sourceDirName": "tools",
+              "slug": "/tools/pyspark",
+              "permalink": "/docs/tools/pyspark",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tools/pyspark.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OBP",
+                "permalink": "/docs/tools/obp"
+              },
+              "next": {
                 "title": "River",
                 "permalink": "/docs/tools/river"
               }
@@ -3892,8 +3915,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "OBP",
-                "permalink": "/docs/tools/obp"
+                "title": "PySpark",
+                "permalink": "/docs/tools/pyspark"
               },
               "next": {
                 "title": "Datasets",
@@ -3915,8 +3938,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "TensorFlow 2 Reinforcement Learning Cookbook",
-                "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+                "title": "reco-tut-sjr-data-ingestion",
+                "permalink": "/docs/tutorials/reco-tut-sjr-data-ingestion"
               },
               "next": {
                 "title": "OBP",
@@ -3924,141 +3947,2023 @@
               }
             },
             {
-              "unversionedId": "tutorials/data-science-bookcamp",
-              "id": "tutorials/data-science-bookcamp",
-              "title": "Data Science Bookcamp",
-              "description": "Key points",
-              "source": "@site/docs/tutorials/data-science-bookcamp.md",
+              "unversionedId": "tutorials/ab-test-in-five-simple-steps",
+              "id": "tutorials/ab-test-in-five-simple-steps",
+              "title": "ab-test-in-five-simple-steps",
+              "description": "A-B test and plots with explanations to understand the basics",
+              "source": "@site/docs/tutorials/ab-test-in-five-simple-steps.md",
               "sourceDirName": "tutorials",
-              "slug": "/tutorials/data-science-bookcamp",
-              "permalink": "/docs/tutorials/data-science-bookcamp",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/data-science-bookcamp.md",
+              "slug": "/tutorials/ab-test-in-five-simple-steps",
+              "permalink": "/docs/tutorials/ab-test-in-five-simple-steps",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ab-test-in-five-simple-steps.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorials",
-                "permalink": "/docs/tutorials/"
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
               },
-              "next": {
-                "title": "Matching and Ranking models in Tensorflow",
-                "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
-              }
-            },
-            {
-              "unversionedId": "tutorials/matching-and-ranking-models-in-tensorflow",
-              "id": "tutorials/matching-and-ranking-models-in-tensorflow",
-              "title": "Matching and Ranking models in Tensorflow",
-              "description": "Matching models on ML-1m and ranking models on Criteo (sample) dataset in TF v2.5",
-              "source": "@site/docs/tutorials/matching-and-ranking-models-in-tensorflow.mdx",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/matching-and-ranking-models-in-tensorflow",
-              "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/matching-and-ranking-models-in-tensorflow.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Data Science Bookcamp",
-                "permalink": "/docs/tutorials/data-science-bookcamp"
-              },
-              "next": {
-                "title": "Real-time event capturing with Kafka and MongoDB",
-                "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
-              }
-            },
-            {
-              "unversionedId": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
-              "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
-              "title": "Real-time event capturing with Kafka and MongoDB",
-              "description": "| | |",
-              "source": "@site/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
-              "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Matching and Ranking models in Tensorflow",
-                "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
-              },
-              "next": {
-                "title": "Session-based Recommendation with Graph Neural Networks",
-                "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
-              }
-            },
-            {
-              "unversionedId": "tutorials/session-based-recommendation-with-graph-neural-net",
-              "id": "tutorials/session-based-recommendation-with-graph-neural-net",
-              "title": "Session-based Recommendation with Graph Neural Networks",
-              "description": "Session-based recommendation tasks are performed based on the user's anonymous historical behavior sequence and implicit feedback data, such as clicks, browsing, purchasing, etc., rather than rating or comment data. The primary aim is to predict the next behavior based on a sequence of the historical sequence of the session. Session-based recommendation aims to predict which item a user will click next, solely based on the user’s current sequential session data without access to the long-term preference profile.",
-              "source": "@site/docs/tutorials/session-based-recommendation-with-graph-neural-net.mdx",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/session-based-recommendation-with-graph-neural-net",
-              "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/session-based-recommendation-with-graph-neural-net.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Real-time event capturing with Kafka and MongoDB",
-                "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
-              },
-              "next": {
-                "title": "TensorFlow 2 Reinforcement Learning Cookbook",
-                "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
-              }
-            },
-            {
-              "unversionedId": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
-              "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
-              "title": "TensorFlow 2 Reinforcement Learning Cookbook",
-              "description": "Process flow",
-              "source": "@site/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook.mdx",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/tensorflow-2-reinforcement-learning-cookbook",
-              "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Session-based Recommendation with Graph Neural Networks",
-                "permalink": "/docs/tutorials/session-based-recommendation-with-graph-neural-net"
-              },
-              "next": {
-                "title": "Tools",
-                "permalink": "/docs/tools/"
-              }
-            },
-            {
-              "unversionedId": "tutorials/tutorials",
-              "id": "tutorials/tutorials",
-              "title": "Tutorials",
-              "description": "In the following sections, we will more systematically introduce the following tutorials:",
-              "source": "@site/docs/tutorials/tutorials.mdx",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/",
-              "permalink": "/docs/tutorials/",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tutorials.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "xDeepFM",
                 "permalink": "/docs/models/xdeepfm"
               },
               "next": {
-                "title": "Data Science Bookcamp",
-                "permalink": "/docs/tutorials/data-science-bookcamp"
+                "title": "ac",
+                "permalink": "/docs/tutorials/ac"
+              }
+            },
+            {
+              "unversionedId": "tutorials/ac",
+              "id": "tutorials/ac",
+              "title": "ac",
+              "description": "---",
+              "source": "@site/docs/tutorials/ac.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/ac",
+              "permalink": "/docs/tutorials/ac",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ac.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ab-test-in-five-simple-steps",
+                "permalink": "/docs/tutorials/ab-test-in-five-simple-steps"
+              },
+              "next": {
+                "title": "Finetune the pretrained R(2+1)D model",
+                "permalink": "/docs/tutorials/action-recog-finetune"
+              }
+            },
+            {
+              "unversionedId": "tutorials/action-recog-finetune",
+              "id": "tutorials/action-recog-finetune",
+              "title": "Finetune the pretrained R(2+1)D model",
+              "description": "Objective - to finetune the pretrained R(2+1)D model",
+              "source": "@site/docs/tutorials/action-recog-finetune.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/action-recog-finetune",
+              "permalink": "/docs/tutorials/action-recog-finetune",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/action-recog-finetune.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ac",
+                "permalink": "/docs/tutorials/ac"
+              },
+              "next": {
+                "title": "ad-conversion-simple-ab-testing",
+                "permalink": "/docs/tutorials/ad-conversion-simple-ab-testing"
+              }
+            },
+            {
+              "unversionedId": "tutorials/ad-conversion-simple-ab-testing",
+              "id": "tutorials/ad-conversion-simple-ab-testing",
+              "title": "ad-conversion-simple-ab-testing",
+              "description": "Simple T-test to compare 2 samples of ad-conversions",
+              "source": "@site/docs/tutorials/ad-conversion-simple-ab-testing.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/ad-conversion-simple-ab-testing",
+              "permalink": "/docs/tutorials/ad-conversion-simple-ab-testing",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ad-conversion-simple-ab-testing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Finetune the pretrained R(2+1)D model",
+                "permalink": "/docs/tutorials/action-recog-finetune"
+              },
+              "next": {
+                "title": "adaptive-estimator-selection-for-off-policy-evaluation",
+                "permalink": "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation"
+              }
+            },
+            {
+              "unversionedId": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+              "id": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+              "title": "adaptive-estimator-selection-for-off-policy-evaluation",
+              "description": "Imports",
+              "source": "@site/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+              "permalink": "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ad-conversion-simple-ab-testing",
+                "permalink": "/docs/tutorials/ad-conversion-simple-ab-testing"
+              },
+              "next": {
+                "title": "ads-selection-using-bandits",
+                "permalink": "/docs/tutorials/ads-selection-using-bandits"
+              }
+            },
+            {
+              "unversionedId": "tutorials/ads-selection-using-bandits",
+              "id": "tutorials/ads-selection-using-bandits",
+              "title": "ads-selection-using-bandits",
+              "description": "Multi-armed Bandit for Banner Ad and 4 Exploration Strategies",
+              "source": "@site/docs/tutorials/ads-selection-using-bandits.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/ads-selection-using-bandits",
+              "permalink": "/docs/tutorials/ads-selection-using-bandits",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ads-selection-using-bandits.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "adaptive-estimator-selection-for-off-policy-evaluation",
+                "permalink": "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation"
+              },
+              "next": {
+                "title": "adversarial",
+                "permalink": "/docs/tutorials/adversarial"
+              }
+            },
+            {
+              "unversionedId": "tutorials/adversarial",
+              "id": "tutorials/adversarial",
+              "title": "adversarial",
+              "description": "Adversarial training (also adversarial regularization) is a defense strategy against adversarial perturbations. The main intuition is to increase the robustness of a recommender system on minimal adversarial perturbation of model parameters by adding further training iterations that takes into account the application of such perturbations.",
+              "source": "@site/docs/tutorials/adversarial.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/adversarial",
+              "permalink": "/docs/tutorials/adversarial",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/adversarial.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ads-selection-using-bandits",
+                "permalink": "/docs/tutorials/ads-selection-using-bandits"
+              },
+              "next": {
+                "title": "advertising",
+                "permalink": "/docs/tutorials/advertising"
+              }
+            },
+            {
+              "unversionedId": "tutorials/advertising",
+              "id": "tutorials/advertising",
+              "title": "advertising",
+              "description": "Contrary to sponsored advertising, where advertisers set fixed bids, in real-time bid‐ ding (RTB) you can set a bid for every individual impression. When a user visits a website that supports ads, this triggers an auction where advertisers bid for an impres‐ sion. Advertisers must submit bids within a period of time, where 100 ms is a com‐ mon limit.",
+              "source": "@site/docs/tutorials/advertising.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/advertising",
+              "permalink": "/docs/tutorials/advertising",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/advertising.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "adversarial",
+                "permalink": "/docs/tutorials/adversarial"
+              },
+              "next": {
+                "title": "ae-ml",
+                "permalink": "/docs/tutorials/ae-ml"
+              }
+            },
+            {
+              "unversionedId": "tutorials/ae-ml",
+              "id": "tutorials/ae-ml",
+              "title": "ae-ml",
+              "description": "Setup",
+              "source": "@site/docs/tutorials/ae-ml.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/ae-ml",
+              "permalink": "/docs/tutorials/ae-ml",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ae-ml.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "advertising",
+                "permalink": "/docs/tutorials/advertising"
+              },
+              "next": {
+                "title": "afm-on-criteo-ad-dataset-in-tf-x",
+                "permalink": "/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x"
+              }
+            },
+            {
+              "unversionedId": "tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+              "id": "tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+              "title": "afm-on-criteo-ad-dataset-in-tf-x",
+              "description": "",
+              "source": "@site/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+              "permalink": "/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ae-ml",
+                "permalink": "/docs/tutorials/ae-ml"
+              },
+              "next": {
+                "title": "agnn",
+                "permalink": "/docs/tutorials/agnn"
+              }
+            },
+            {
+              "unversionedId": "tutorials/agnn",
+              "id": "tutorials/agnn",
+              "title": "agnn",
+              "description": "Introduction",
+              "source": "@site/docs/tutorials/agnn.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/agnn",
+              "permalink": "/docs/tutorials/agnn",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/agnn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "afm-on-criteo-ad-dataset-in-tf-x",
+                "permalink": "/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x"
+              },
+              "next": {
+                "title": "agriculture-image-segmentation",
+                "permalink": "/docs/tutorials/agriculture-image-segmentation"
+              }
+            },
+            {
+              "unversionedId": "tutorials/agriculture-image-segmentation",
+              "id": "tutorials/agriculture-image-segmentation",
+              "title": "agriculture-image-segmentation",
+              "description": "Classifying each pixel of an agricultural satellite image",
+              "source": "@site/docs/tutorials/agriculture-image-segmentation.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/agriculture-image-segmentation",
+              "permalink": "/docs/tutorials/agriculture-image-segmentation",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/agriculture-image-segmentation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "language": "python",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "agnn",
+                "permalink": "/docs/tutorials/agnn"
+              },
+              "next": {
+                "title": "airbnb-fair-valuation",
+                "permalink": "/docs/tutorials/airbnb-fair-valuation"
+              }
+            },
+            {
+              "unversionedId": "tutorials/airbnb-fair-valuation",
+              "id": "tutorials/airbnb-fair-valuation",
+              "title": "airbnb-fair-valuation",
+              "description": "Welcome to Airbnb Analysis Corp.! Your task is to set the competitive daily accomodation rate for a client's house in Bondi Beach. The owner currently charges $500. We have been tasked to estimate a fair value that the owner should be charging. The house has the following characteristics and constraints. While developing this model you came to realise that Airbnb can use your model to estimate the fair value of any property on their database, your are effectively creating a recommendation model for all prospective hosts!",
+              "source": "@site/docs/tutorials/airbnb-fair-valuation.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/airbnb-fair-valuation",
+              "permalink": "/docs/tutorials/airbnb-fair-valuation",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/airbnb-fair-valuation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "agriculture-image-segmentation",
+                "permalink": "/docs/tutorials/agriculture-image-segmentation"
+              },
+              "next": {
+                "title": "als-ml-m",
+                "permalink": "/docs/tutorials/als-ml-m"
+              }
+            },
+            {
+              "unversionedId": "tutorials/als",
+              "id": "tutorials/als",
+              "title": "Alternating Least Square model for recommendation",
+              "description": "Embeddings visualization",
+              "source": "@site/docs/tutorials/als.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/als",
+              "permalink": "/docs/tutorials/als",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/als.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "als-on-retail-product-data",
+                "permalink": "/docs/tutorials/als-on-retail-product-data"
+              },
+              "next": {
+                "title": "altair-plot-part",
+                "permalink": "/docs/tutorials/altair-plot-part"
+              }
+            },
+            {
+              "unversionedId": "tutorials/als-ml-m",
+              "id": "tutorials/als-ml-m",
+              "title": "als-ml-m",
+              "description": "---",
+              "source": "@site/docs/tutorials/als-ml-m.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/als-ml-m",
+              "permalink": "/docs/tutorials/als-ml-m",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/als-ml-m.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "airbnb-fair-valuation",
+                "permalink": "/docs/tutorials/airbnb-fair-valuation"
+              },
+              "next": {
+                "title": "als-on-retail-product-data",
+                "permalink": "/docs/tutorials/als-on-retail-product-data"
+              }
+            },
+            {
+              "unversionedId": "tutorials/als-on-retail-product-data",
+              "id": "tutorials/als-on-retail-product-data",
+              "title": "als-on-retail-product-data",
+              "description": "Setup",
+              "source": "@site/docs/tutorials/als-on-retail-product-data.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/als-on-retail-product-data",
+              "permalink": "/docs/tutorials/als-on-retail-product-data",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/als-on-retail-product-data.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "als-ml-m",
+                "permalink": "/docs/tutorials/als-ml-m"
+              },
+              "next": {
+                "title": "Alternating Least Square model for recommendation",
+                "permalink": "/docs/tutorials/als"
+              }
+            },
+            {
+              "unversionedId": "tutorials/altair-plot-part",
+              "id": "tutorials/altair-plot-part",
+              "title": "altair-plot-part",
+              "description": "A series of Altair plot examples",
+              "source": "@site/docs/tutorials/altair-plot-part.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/altair-plot-part",
+              "permalink": "/docs/tutorials/altair-plot-part",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/altair-plot-part.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "language": "python",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Alternating Least Square model for recommendation",
+                "permalink": "/docs/tutorials/als"
+              },
+              "next": {
+                "title": "amazon-crossdomain",
+                "permalink": "/docs/tutorials/amazon-crossdomain"
+              }
+            },
+            {
+              "unversionedId": "tutorials/amazon-crossdomain",
+              "id": "tutorials/amazon-crossdomain",
+              "title": "amazon-crossdomain",
+              "description": "Dataset",
+              "source": "@site/docs/tutorials/amazon-crossdomain.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-crossdomain",
+              "permalink": "/docs/tutorials/amazon-crossdomain",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-crossdomain.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "language": "python",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "altair-plot-part",
+                "permalink": "/docs/tutorials/altair-plot-part"
+              },
+              "next": {
+                "title": "amazon-personalize-batch-job",
+                "permalink": "/docs/tutorials/amazon-personalize-batch-job"
+              }
+            },
+            {
+              "unversionedId": "tutorials/amazon-personalize-batch-job",
+              "id": "tutorials/amazon-personalize-batch-job",
+              "title": "amazon-personalize-batch-job",
+              "description": "Train and create batch recommendations using Amazon Personalize. Expected completion time is 1.5-2 hours",
+              "source": "@site/docs/tutorials/amazon-personalize-batch-job.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-personalize-batch-job",
+              "permalink": "/docs/tutorials/amazon-personalize-batch-job",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-batch-job.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "conda_python3",
+                    "language": "python",
+                    "name": "conda_python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "amazon-crossdomain",
+                "permalink": "/docs/tutorials/amazon-crossdomain"
+              },
+              "next": {
+                "title": "amazon-personalize-batch-recommendations-lab",
+                "permalink": "/docs/tutorials/amazon-personalize-batch-recommendations-lab"
+              }
+            },
+            {
+              "unversionedId": "tutorials/amazon-personalize-batch-recommendations-lab",
+              "id": "tutorials/amazon-personalize-batch-recommendations-lab",
+              "title": "amazon-personalize-batch-recommendations-lab",
+              "description": "This lab will walk you through on how to train and create batch recommendations using Amazon Personalize. For example, you might want to generate recommendations for a large number of users to be later used for batch-oriented workflows such as sending emails or notifications.",
+              "source": "@site/docs/tutorials/amazon-personalize-batch-recommendations-lab.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-personalize-batch-recommendations-lab",
+              "permalink": "/docs/tutorials/amazon-personalize-batch-recommendations-lab",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-batch-recommendations-lab.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "amazon-personalize-batch-job",
+                "permalink": "/docs/tutorials/amazon-personalize-batch-job"
+              },
+              "next": {
+                "title": "amazon-personalize-poc-in-a-box",
+                "permalink": "/docs/tutorials/amazon-personalize-poc-in-a-box"
+              }
+            },
+            {
+              "unversionedId": "tutorials/amazon-personalize-poc-in-a-box",
+              "id": "tutorials/amazon-personalize-poc-in-a-box",
+              "title": "amazon-personalize-poc-in-a-box",
+              "description": "In this workshop you will build your very own recommendation model that will recommend movies to users based on their past preferences. You will further improve the recommendation model to take into account a user’s interactions with movie items to provide accurate recommendations. This workshop will use the publicly available movie lens dataset.",
+              "source": "@site/docs/tutorials/amazon-personalize-poc-in-a-box.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-personalize-poc-in-a-box",
+              "permalink": "/docs/tutorials/amazon-personalize-poc-in-a-box",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-poc-in-a-box.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "amazon-personalize-batch-recommendations-lab",
+                "permalink": "/docs/tutorials/amazon-personalize-batch-recommendations-lab"
+              },
+              "next": {
+                "title": "Amazon Personalize Workshop Part 4 - Security best practices (optional)",
+                "permalink": "/docs/tutorials/amazon-personalize-workshop-part"
+              }
+            },
+            {
+              "unversionedId": "tutorials/amazon-personalize-workshop",
+              "id": "tutorials/amazon-personalize-workshop",
+              "title": "amazon-personalize-workshop",
+              "description": "In this workshop you will build your very own recommendation model that will recommend movies to users based on their past preferences. You will further improve the recommendation model to take into account a user’s interactions with movie items to provide accurate recommendations. This workshop will use the publicly available movie lens dataset.",
+              "source": "@site/docs/tutorials/amazon-personalize-workshop.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-personalize-workshop",
+              "permalink": "/docs/tutorials/amazon-personalize-workshop",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-workshop.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Amazon Personalize Workshop Part 4 - Security best practices (optional)",
+                "permalink": "/docs/tutorials/amazon-personalize-workshop-part"
+              },
+              "next": {
+                "title": "amazon-women-apparel-tfidf-word-vec",
+                "permalink": "/docs/tutorials/amazon-women-apparel-tfidf-word-vec"
+              }
+            },
+            {
+              "unversionedId": "tutorials/amazon-personalize-workshop-part",
+              "id": "tutorials/amazon-personalize-workshop-part",
+              "title": "Amazon Personalize Workshop Part 4 - Security best practices (optional)",
+              "description": "We are using a pre-made dataset that hasn't been encrypted so there is no need to decrypt this dataset. However, it would be a good security practice to store your datasets encrypted.",
+              "source": "@site/docs/tutorials/amazon-personalize-workshop-part.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-personalize-workshop-part",
+              "permalink": "/docs/tutorials/amazon-personalize-workshop-part",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-workshop-part.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "language": "python",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "amazon-personalize-poc-in-a-box",
+                "permalink": "/docs/tutorials/amazon-personalize-poc-in-a-box"
+              },
+              "next": {
+                "title": "amazon-personalize-workshop",
+                "permalink": "/docs/tutorials/amazon-personalize-workshop"
+              }
+            },
+            {
+              "unversionedId": "tutorials/amazon-women-apparel-tfidf-word-vec",
+              "id": "tutorials/amazon-women-apparel-tfidf-word-vec",
+              "title": "amazon-women-apparel-tfidf-word-vec",
+              "description": "Applying product title descriptions based text semantic methods to recommend similar products",
+              "source": "@site/docs/tutorials/amazon-women-apparel-tfidf-word-vec.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-women-apparel-tfidf-word-vec",
+              "permalink": "/docs/tutorials/amazon-women-apparel-tfidf-word-vec",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-women-apparel-tfidf-word-vec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "language": "python",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "amazon-personalize-workshop",
+                "permalink": "/docs/tutorials/amazon-personalize-workshop"
+              },
+              "next": {
+                "title": "analytics-zoo-ncf-goodreads",
+                "permalink": "/docs/tutorials/analytics-zoo-ncf-goodreads"
+              }
+            },
+            {
+              "unversionedId": "tutorials/analytics-zoo-ncf-goodreads",
+              "id": "tutorials/analytics-zoo-ncf-goodreads",
+              "title": "analytics-zoo-ncf-goodreads",
+              "description": "Applying NCF on Goodreads using Analytics Zoo library",
+              "source": "@site/docs/tutorials/analytics-zoo-ncf-goodreads.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/analytics-zoo-ncf-goodreads",
+              "permalink": "/docs/tutorials/analytics-zoo-ncf-goodreads",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/analytics-zoo-ncf-goodreads.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "amazon-women-apparel-tfidf-word-vec",
+                "permalink": "/docs/tutorials/amazon-women-apparel-tfidf-word-vec"
+              },
+              "next": {
+                "title": "analytics-zoo-ncf-movielens",
+                "permalink": "/docs/tutorials/analytics-zoo-ncf-movielens"
+              }
+            },
+            {
+              "unversionedId": "tutorials/analytics-zoo-ncf-movielens",
+              "id": "tutorials/analytics-zoo-ncf-movielens",
+              "title": "analytics-zoo-ncf-movielens",
+              "description": "Applying NCF on Movielens using Analytics Zoo library",
+              "source": "@site/docs/tutorials/analytics-zoo-ncf-movielens.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/analytics-zoo-ncf-movielens",
+              "permalink": "/docs/tutorials/analytics-zoo-ncf-movielens",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/analytics-zoo-ncf-movielens.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "analytics-zoo-ncf-goodreads",
+                "permalink": "/docs/tutorials/analytics-zoo-ncf-goodreads"
+              },
+              "next": {
+                "title": "analytics-zoo-wideanddeep-movielens",
+                "permalink": "/docs/tutorials/analytics-zoo-wideanddeep-movielens"
+              }
+            },
+            {
+              "unversionedId": "tutorials/analytics-zoo-wideanddeep-movielens",
+              "id": "tutorials/analytics-zoo-wideanddeep-movielens",
+              "title": "analytics-zoo-wideanddeep-movielens",
+              "description": "Applying Wide&Deep on MovieLens using Analytics Zoo library",
+              "source": "@site/docs/tutorials/analytics-zoo-wideanddeep-movielens.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/analytics-zoo-wideanddeep-movielens",
+              "permalink": "/docs/tutorials/analytics-zoo-wideanddeep-movielens",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/analytics-zoo-wideanddeep-movielens.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "analytics-zoo-ncf-movielens",
+                "permalink": "/docs/tutorials/analytics-zoo-ncf-movielens"
+              },
+              "next": {
+                "title": "animations-with-manim-quickstart",
+                "permalink": "/docs/tutorials/animations-with-manim-quickstart"
+              }
+            },
+            {
+              "unversionedId": "tutorials/animations-with-manim-quickstart",
+              "id": "tutorials/animations-with-manim-quickstart",
+              "title": "animations-with-manim-quickstart",
+              "description": "We have encountered the .next_to method, one of many (!) methods that modify Mobjects in one way or the other. But what if we wanted to animate how a Mobject changes when one of these methods is applied, say, when we .shift something around, or .rotate a Mobject, or maybe .scale it? The .animate syntax is the answer to this question, let us look at an example",
+              "source": "@site/docs/tutorials/animations-with-manim-quickstart.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/animations-with-manim-quickstart",
+              "permalink": "/docs/tutorials/animations-with-manim-quickstart",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/animations-with-manim-quickstart.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "analytics-zoo-wideanddeep-movielens",
+                "permalink": "/docs/tutorials/analytics-zoo-wideanddeep-movielens"
+              },
+              "next": {
+                "title": "animations-with-matplotlib-and-plotly",
+                "permalink": "/docs/tutorials/animations-with-matplotlib-and-plotly"
+              }
+            },
+            {
+              "unversionedId": "tutorials/animations-with-matplotlib-and-plotly",
+              "id": "tutorials/animations-with-matplotlib-and-plotly",
+              "title": "animations-with-matplotlib-and-plotly",
+              "description": "",
+              "source": "@site/docs/tutorials/animations-with-matplotlib-and-plotly.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/animations-with-matplotlib-and-plotly",
+              "permalink": "/docs/tutorials/animations-with-matplotlib-and-plotly",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/animations-with-matplotlib-and-plotly.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "animations-with-manim-quickstart",
+                "permalink": "/docs/tutorials/animations-with-manim-quickstart"
+              },
+              "next": {
+                "title": "anime-recommender-graph-network",
+                "permalink": "/docs/tutorials/anime-recommender-graph-network"
+              }
+            },
+            {
+              "unversionedId": "tutorials/anime-recommender",
+              "id": "tutorials/anime-recommender",
+              "title": "anime-recommender",
+              "description": "The data crawled from the popular anime website MyAnimeList.net, and cleaned of duplicates as well as missing values and false data. Following that, autoencoders used to learn embeddings of all the anime titles present in the dataset, which were then used to cluster the same.",
+              "source": "@site/docs/tutorials/anime-recommender.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/anime-recommender",
+              "permalink": "/docs/tutorials/anime-recommender",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/anime-recommender.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "anime-recommender-graph-network",
+                "permalink": "/docs/tutorials/anime-recommender-graph-network"
+              },
+              "next": {
+                "title": "Apache Airflow",
+                "permalink": "/docs/tutorials/apache-airflow"
+              }
+            },
+            {
+              "unversionedId": "tutorials/anime-recommender-graph-network",
+              "id": "tutorials/anime-recommender-graph-network",
+              "title": "anime-recommender-graph-network",
+              "description": "Loading Anime dataset from Kaggle and building bipartite graph using NetworkX, then finding similar users and recommending animes to the target user",
+              "source": "@site/docs/tutorials/anime-recommender-graph-network.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/anime-recommender-graph-network",
+              "permalink": "/docs/tutorials/anime-recommender-graph-network",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/anime-recommender-graph-network.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "animations-with-matplotlib-and-plotly",
+                "permalink": "/docs/tutorials/animations-with-matplotlib-and-plotly"
+              },
+              "next": {
+                "title": "anime-recommender",
+                "permalink": "/docs/tutorials/anime-recommender"
+              }
+            },
+            {
+              "unversionedId": "tutorials/apache-airflow",
+              "id": "tutorials/apache-airflow",
+              "title": "Apache Airflow",
+              "description": "Airflow uses a relational database as a backend to store configuration data. By default, this is a SQLite database, which will be stored in ~/airflow/airflow.db. You initialize the database in your environment by running the following command in the terminal:",
+              "source": "@site/docs/tutorials/apache-airflow.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/apache-airflow",
+              "permalink": "/docs/tutorials/apache-airflow",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/apache-airflow.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "anime-recommender",
+                "permalink": "/docs/tutorials/anime-recommender"
+              },
+              "next": {
+                "title": "apple-podcast-recommender",
+                "permalink": "/docs/tutorials/apple-podcast-recommender"
+              }
+            },
+            {
+              "unversionedId": "tutorials/apple-podcast-recommender",
+              "id": "tutorials/apple-podcast-recommender",
+              "title": "apple-podcast-recommender",
+              "description": "Scraping, cleaning, exploring and building content-based recommender system to recommend podcasts",
+              "source": "@site/docs/tutorials/apple-podcast-recommender.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/apple-podcast-recommender",
+              "permalink": "/docs/tutorials/apple-podcast-recommender",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/apple-podcast-recommender.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Apache Airflow",
+                "permalink": "/docs/tutorials/apache-airflow"
+              },
+              "next": {
+                "title": "applying-gradient-descent-on-a-simple-function-from-scratch",
+                "permalink": "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch"
+              }
+            },
+            {
+              "unversionedId": "tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+              "id": "tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+              "title": "applying-gradient-descent-on-a-simple-function-from-scratch",
+              "description": "Gradient descent, also known as steepest descent, is an optimization algorithm for finding the local minimum of a function. To find a local minimum, the function \"steps\" in the  direction of the negative of the gradient. Gradient ascent is the same as gradient descent, except that it steps in the direction of the positive of the gradient and therefore finds local maximums instead of minimums. The algorithm of gradient descent can be outlined as follows:",
+              "source": "@site/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+              "permalink": "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "apple-podcast-recommender",
+                "permalink": "/docs/tutorials/apple-podcast-recommender"
+              },
+              "next": {
+                "title": "apprentice-mountaincar",
+                "permalink": "/docs/tutorials/apprentice-mountaincar"
+              }
+            },
+            {
+              "unversionedId": "tutorials/apprentice-mountaincar",
+              "id": "tutorials/apprentice-mountaincar",
+              "title": "apprentice-mountaincar",
+              "description": "Setup",
+              "source": "@site/docs/tutorials/apprentice-mountaincar.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/apprentice-mountaincar",
+              "permalink": "/docs/tutorials/apprentice-mountaincar",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/apprentice-mountaincar.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "applying-gradient-descent-on-a-simple-function-from-scratch",
+                "permalink": "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch"
+              },
+              "next": {
+                "title": "archived-deep-reinforcement-learning-based-group-recommender-system",
+                "permalink": "/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system"
+              }
+            },
+            {
+              "unversionedId": "tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+              "id": "tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+              "title": "archived-deep-reinforcement-learning-based-group-recommender-system",
+              "description": "ActorCriticNetwork, DDPG, GroupRecommendation, MovieLens1M, PyTorch, ReplayMemory",
+              "source": "@site/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+              "permalink": "/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "apprentice-mountaincar",
+                "permalink": "/docs/tutorials/apprentice-mountaincar"
+              },
+              "next": {
+                "title": "artist-free-song-recommender",
+                "permalink": "/docs/tutorials/artist-free-song-recommender"
+              }
+            },
+            {
+              "unversionedId": "tutorials/artist-free-song-recommender",
+              "id": "tutorials/artist-free-song-recommender",
+              "title": "artist-free-song-recommender",
+              "description": "In this tutorial, we will first fetch the data from Spotify API, then preprocess it and perform EDA. After that we will train a genre predictor model and replace the Spotify's predicted genre with our predicted values. We are doing this replacement because Spotify uses artist's information also in predicting genres but we are building a song recommender that find similar songs purely on the basis of song features because using artist's info adds a fairness bias to the recommendations. Spotify gets higher accuracy but at the cost of fairness to the artists. After building genre classification model, we will train a KNN model, a non-personalized memory-based model, to find top-k similar songs.",
+              "source": "@site/docs/tutorials/artist-free-song-recommender.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/artist-free-song-recommender",
+              "permalink": "/docs/tutorials/artist-free-song-recommender",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/artist-free-song-recommender.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "archived-deep-reinforcement-learning-based-group-recommender-system",
+                "permalink": "/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system"
+              },
+              "next": {
+                "title": "asmg-retraining-model-on-sobazaar-dataset",
+                "permalink": "/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset"
+              }
+            },
+            {
+              "unversionedId": "tutorials/asmg-retraining-model-on-sobazaar-dataset",
+              "id": "tutorials/asmg-retraining-model-on-sobazaar-dataset",
+              "title": "asmg-retraining-model-on-sobazaar-dataset",
+              "description": "Setup",
+              "source": "@site/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/asmg-retraining-model-on-sobazaar-dataset",
+              "permalink": "/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "artist-free-song-recommender",
+                "permalink": "/docs/tutorials/artist-free-song-recommender"
+              },
+              "next": {
+                "title": "asr",
+                "permalink": "/docs/tutorials/asr"
+              }
+            },
+            {
+              "unversionedId": "tutorials/asr",
+              "id": "tutorials/asr",
+              "title": "asr",
+              "description": "Loading Libraries",
+              "source": "@site/docs/tutorials/asr.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/asr",
+              "permalink": "/docs/tutorials/asr",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/asr.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "asmg-retraining-model-on-sobazaar-dataset",
+                "permalink": "/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset"
+              },
+              "next": {
+                "title": "assessing-online-ad-clicks-for-significance",
+                "permalink": "/docs/tutorials/assessing-online-ad-clicks-for-significance"
+              }
+            },
+            {
+              "unversionedId": "tutorials/assessing-online-ad-clicks-for-significance",
+              "id": "tutorials/assessing-online-ad-clicks-for-significance",
+              "title": "assessing-online-ad-clicks-for-significance",
+              "description": "Fred is a loyal friend, and he needs your help. Fred just launched a burger bistro in the city of Brisbane. The bistro is open for business, but business is slow. Fred wants to entice new customers to come and try his tasty burgers. To do this, Fred will run an online advertising campaign directed at Brisbane residents. Every weekday, between 1100 p.m., Fred will purchase 3,000 ads aimed at hungry locals. Every ad will be viewed by a single Brisbane resident. The text of every ad will read, “Hungry? Try the Best Burger in Brisbane. Come to Fred’s.” Clicking the text will take potential customers to Fred’s site. Each displayed ad will cost our friend one cent, but Fred believes the investment will be worth it.",
+              "source": "@site/docs/tutorials/assessing-online-ad-clicks-for-significance.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/assessing-online-ad-clicks-for-significance",
+              "permalink": "/docs/tutorials/assessing-online-ad-clicks-for-significance",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/assessing-online-ad-clicks-for-significance.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "asr",
+                "permalink": "/docs/tutorials/asr"
+              },
+              "next": {
+                "title": "attention-gnn",
+                "permalink": "/docs/tutorials/attention-gnn"
+              }
+            },
+            {
+              "unversionedId": "tutorials/attention-gnn",
+              "id": "tutorials/attention-gnn",
+              "title": "attention-gnn",
+              "description": "",
+              "source": "@site/docs/tutorials/attention-gnn.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/attention-gnn",
+              "permalink": "/docs/tutorials/attention-gnn",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/attention-gnn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "assessing-online-ad-clicks-for-significance",
+                "permalink": "/docs/tutorials/assessing-online-ad-clicks-for-significance"
+              },
+              "next": {
+                "title": "attention-mechanisms",
+                "permalink": "/docs/tutorials/attention-mechanisms"
+              }
+            },
+            {
+              "unversionedId": "tutorials/attention-mechanisms",
+              "id": "tutorials/attention-mechanisms",
+              "title": "attention-mechanisms",
+              "description": "Imports",
+              "source": "@site/docs/tutorials/attention-mechanisms.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/attention-mechanisms",
+              "permalink": "/docs/tutorials/attention-mechanisms",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/attention-mechanisms.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "attention-gnn",
+                "permalink": "/docs/tutorials/attention-gnn"
+              },
+              "next": {
+                "title": "attrec-on-ml-m-in-tf-x",
+                "permalink": "/docs/tutorials/attrec-on-ml-m-in-tf-x"
+              }
+            },
+            {
+              "unversionedId": "tutorials/attrec-on-ml-m-in-tf-x",
+              "id": "tutorials/attrec-on-ml-m-in-tf-x",
+              "title": "attrec-on-ml-m-in-tf-x",
+              "description": "",
+              "source": "@site/docs/tutorials/attrec-on-ml-m-in-tf-x.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/attrec-on-ml-m-in-tf-x",
+              "permalink": "/docs/tutorials/attrec-on-ml-m-in-tf-x",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/attrec-on-ml-m-in-tf-x.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "attention-mechanisms",
+                "permalink": "/docs/tutorials/attention-mechanisms"
+              },
+              "next": {
+                "title": "attribute-to-feature-mappings-for-cold-start-recommendations",
+                "permalink": "/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations"
+              }
+            },
+            {
+              "unversionedId": "tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+              "id": "tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+              "title": "attribute-to-feature-mappings-for-cold-start-recommendations",
+              "description": "Datasets",
+              "source": "@site/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+              "permalink": "/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "attrec-on-ml-m-in-tf-x",
+                "permalink": "/docs/tutorials/attrec-on-ml-m-in-tf-x"
+              },
+              "next": {
+                "title": "audible-audiobook-recommender",
+                "permalink": "/docs/tutorials/audible-audiobook-recommender"
+              }
+            },
+            {
+              "unversionedId": "tutorials/audible-audiobook-recommender",
+              "id": "tutorials/audible-audiobook-recommender",
+              "title": "audible-audiobook-recommender",
+              "description": "Finding similar books using simple text countvectorizer model on audible dataset",
+              "source": "@site/docs/tutorials/audible-audiobook-recommender.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/audible-audiobook-recommender",
+              "permalink": "/docs/tutorials/audible-audiobook-recommender",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/audible-audiobook-recommender.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "attribute-to-feature-mappings-for-cold-start-recommendations",
+                "permalink": "/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations"
+              },
+              "next": {
+                "title": "augmented-shilling-attack-aush",
+                "permalink": "/docs/tutorials/augmented-shilling-attack-aush"
+              }
+            },
+            {
+              "unversionedId": "tutorials/augmented-shilling-attack-aush",
+              "id": "tutorials/augmented-shilling-attack-aush",
+              "title": "augmented-shilling-attack-aush",
+              "description": "",
+              "source": "@site/docs/tutorials/augmented-shilling-attack-aush.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/augmented-shilling-attack-aush",
+              "permalink": "/docs/tutorials/augmented-shilling-attack-aush",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/augmented-shilling-attack-aush.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "audible-audiobook-recommender",
+                "permalink": "/docs/tutorials/audible-audiobook-recommender"
+              },
+              "next": {
+                "title": "automatically-adding-products-to-a-user-s-shopping-cart",
+                "permalink": "/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart"
+              }
+            },
+            {
+              "unversionedId": "tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+              "id": "tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+              "title": "automatically-adding-products-to-a-user-s-shopping-cart",
+              "description": "A recent business model trend is to automatically deliver products to customers and allow them to return those that they are not interested in. Stitch Fix is one of the most famous of the subscription box model businesses. After submitting a smorgasbord of initial information about body type and personal preferences, a Stitch Fix customer will be sent a package full of new clothes. The customer is then free to send back any clothes they don’t like and they are charged for the items they keep (plus a service fee).",
+              "source": "@site/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+              "permalink": "/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "augmented-shilling-attack-aush",
+                "permalink": "/docs/tutorials/augmented-shilling-attack-aush"
+              },
+              "next": {
+                "title": "autorec-movielens",
+                "permalink": "/docs/tutorials/autorec-movielens"
+              }
+            },
+            {
+              "unversionedId": "tutorials/autorec-movielens",
+              "id": "tutorials/autorec-movielens",
+              "title": "autorec-movielens",
+              "description": "Training AutoRec and DeepAutoRec based simple and hybrid models on movielens-1m",
+              "source": "@site/docs/tutorials/autorec-movielens.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/autorec-movielens",
+              "permalink": "/docs/tutorials/autorec-movielens",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/autorec-movielens.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "automatically-adding-products-to-a-user-s-shopping-cart",
+                "permalink": "/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart"
+              },
+              "next": {
+                "title": "autorec-on-ml-m",
+                "permalink": "/docs/tutorials/autorec-on-ml-m"
+              }
+            },
+            {
+              "unversionedId": "tutorials/autorec-on-ml-m",
+              "id": "tutorials/autorec-on-ml-m",
+              "title": "autorec-on-ml-m",
+              "description": "---",
+              "source": "@site/docs/tutorials/autorec-on-ml-m.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/autorec-on-ml-m",
+              "permalink": "/docs/tutorials/autorec-on-ml-m",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/autorec-on-ml-m.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "autorec-movielens",
+                "permalink": "/docs/tutorials/autorec-movielens"
+              },
+              "next": {
+                "title": "Auto Surprise Library",
+                "permalink": "/docs/tutorials/autosurprise"
+              }
+            },
+            {
+              "unversionedId": "tutorials/autosurprise",
+              "id": "tutorials/autosurprise",
+              "title": "Auto Surprise Library",
+              "description": "Quick start",
+              "source": "@site/docs/tutorials/autosurprise.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/autosurprise",
+              "permalink": "/docs/tutorials/autosurprise",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/autosurprise.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "autorec-on-ml-m",
+                "permalink": "/docs/tutorials/autorec-on-ml-m"
+              },
+              "next": {
+                "title": "avalanche-visual-incremental-learning",
+                "permalink": "/docs/tutorials/avalanche-visual-incremental-learning"
+              }
+            },
+            {
+              "unversionedId": "tutorials/avalanche-visual-incremental-learning",
+              "id": "tutorials/avalanche-visual-incremental-learning",
+              "title": "avalanche-visual-incremental-learning",
+              "description": "Setup",
+              "source": "@site/docs/tutorials/avalanche-visual-incremental-learning.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/avalanche-visual-incremental-learning",
+              "permalink": "/docs/tutorials/avalanche-visual-incremental-learning",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/avalanche-visual-incremental-learning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Auto Surprise Library",
+                "permalink": "/docs/tutorials/autosurprise"
+              },
+              "next": {
+                "title": "ayuhealth-food-recommender",
+                "permalink": "/docs/tutorials/ayuhealth-food-recommender"
+              }
+            },
+            {
+              "unversionedId": "tutorials/ayuhealth-food-recommender",
+              "id": "tutorials/ayuhealth-food-recommender",
+              "title": "ayuhealth-food-recommender",
+              "description": "Healthy Food Recommendation System using Content Based (KNN) & Collaborative Filtering (matrix-factorization) Method",
+              "source": "@site/docs/tutorials/ayuhealth-food-recommender.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/ayuhealth-food-recommender",
+              "permalink": "/docs/tutorials/ayuhealth-food-recommender",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ayuhealth-food-recommender.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "avalanche-visual-incremental-learning",
+                "permalink": "/docs/tutorials/avalanche-visual-incremental-learning"
+              },
+              "next": {
+                "title": "reco-tut-sjr-data-ingestion",
+                "permalink": "/docs/tutorials/reco-tut-sjr-data-ingestion"
+              }
+            },
+            {
+              "unversionedId": "tutorials/reco-tut-sjr-data-ingestion",
+              "id": "tutorials/reco-tut-sjr-data-ingestion",
+              "title": "reco-tut-sjr-data-ingestion",
+              "description": "",
+              "source": "@site/docs/tutorials/reco-tut-sjr-data-ingestion.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/reco-tut-sjr-data-ingestion",
+              "permalink": "/docs/tutorials/reco-tut-sjr-data-ingestion",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-sjr-data-ingestion.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "jupyter": {
+                  "jupytext": {
+                    "text_representation": {
+                      "extension": ".md",
+                      "format_name": "markdown",
+                      "format_version": "1.3",
+                      "jupytext_version": "1.13.7"
+                    }
+                  },
+                  "kernelspec": {
+                    "display_name": "Python 3",
+                    "name": "python3"
+                  }
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ayuhealth-food-recommender",
+                "permalink": "/docs/tutorials/ayuhealth-food-recommender"
+              },
+              "next": {
+                "title": "Tools",
+                "permalink": "/docs/tools/"
               }
             }
           ],
@@ -4780,29 +6685,217 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorials/data-science-bookcamp"
+                    "id": "tutorials/ab-test-in-five-simple-steps"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorials/matching-and-ranking-models-in-tensorflow"
+                    "id": "tutorials/ac"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+                    "id": "tutorials/action-recog-finetune"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorials/session-based-recommendation-with-graph-neural-net"
+                    "id": "tutorials/ad-conversion-simple-ab-testing"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook"
+                    "id": "tutorials/adaptive-estimator-selection-for-off-policy-evaluation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/ads-selection-using-bandits"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/adversarial"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/advertising"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/ae-ml"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/afm-on-criteo-ad-dataset-in-tf-x"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/agnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/agriculture-image-segmentation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/airbnb-fair-valuation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/als-ml-m"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/als-on-retail-product-data"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/als"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/altair-plot-part"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/amazon-crossdomain"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/amazon-personalize-batch-job"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/amazon-personalize-batch-recommendations-lab"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/amazon-personalize-poc-in-a-box"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/amazon-personalize-workshop-part"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/amazon-personalize-workshop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/amazon-women-apparel-tfidf-word-vec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/analytics-zoo-ncf-goodreads"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/analytics-zoo-ncf-movielens"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/analytics-zoo-wideanddeep-movielens"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/animations-with-manim-quickstart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/animations-with-matplotlib-and-plotly"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/anime-recommender-graph-network"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/anime-recommender"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/apache-airflow"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/apple-podcast-recommender"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/applying-gradient-descent-on-a-simple-function-from-scratch"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/apprentice-mountaincar"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/archived-deep-reinforcement-learning-based-group-recommender-system"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/artist-free-song-recommender"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/asmg-retraining-model-on-sobazaar-dataset"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/asr"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/assessing-online-ad-clicks-for-significance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/attention-gnn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/attention-mechanisms"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/attrec-on-ml-m-in-tf-x"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/attribute-to-feature-mappings-for-cold-start-recommendations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/audible-audiobook-recommender"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/augmented-shilling-attack-aush"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/automatically-adding-products-to-a-user-s-shopping-cart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/autorec-movielens"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/autorec-on-ml-m"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/autosurprise"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/avalanche-visual-incremental-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/ayuhealth-food-recommender"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/reco-tut-sjr-data-ingestion"
                   }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "tutorials/tutorials"
-                }
+                ]
               },
               {
                 "type": "category",
@@ -4813,6 +6906,10 @@
                   {
                     "type": "doc",
                     "id": "tools/obp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/pyspark"
                   },
                   {
                     "type": "doc",
@@ -6377,6 +8474,9 @@
     "default": null
   },
   "docusaurus-theme-classic": {
+    "default": null
+  },
+  "@cmfcmf/docusaurus-search-local": {
     "default": null
   }
 }

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/causal-inference",
+  "id": "tutorials/causal-inference",
+  "title": "causal-inference",
+  "description": "Concepts of causal inferencing with code",
+  "source": "@site/docs/tutorials/causal-inference.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/causal-inference",
+  "permalink": "/docs/tutorials/causal-inference",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/causal-inference.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "caser-on-ml-m-in-tf-x",
+    "permalink": "/docs/tutorials/caser-on-ml-m-in-tf-x"
+  },
+  "next": {
+    "title": "cdl",
+    "permalink": "/docs/tutorials/cdl"
+  }
+}

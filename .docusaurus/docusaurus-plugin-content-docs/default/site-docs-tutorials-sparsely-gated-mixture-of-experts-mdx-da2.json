@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sparsely-gated-mixture-of-experts",
+  "id": "tutorials/sparsely-gated-mixture-of-experts",
+  "title": "sparsely-gated-mixture-of-experts",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/sparsely-gated-mixture-of-experts.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sparsely-gated-mixture-of-experts",
+  "permalink": "/docs/tutorials/sparsely-gated-mixture-of-experts",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sparsely-gated-mixture-of-experts.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spark-on-colab",
+    "permalink": "/docs/tutorials/spark-on-colab"
+  },
+  "next": {
+    "title": "sphinx",
+    "permalink": "/docs/tutorials/sphinx"
+  }
+}

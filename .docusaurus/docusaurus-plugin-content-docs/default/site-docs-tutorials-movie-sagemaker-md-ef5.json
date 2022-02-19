@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/movie-sagemaker",
+  "id": "tutorials/movie-sagemaker",
+  "title": "movie-sagemaker",
+  "description": "Recommender systems have been used to tailor customer experience on online platforms. Amazon Personalize is a fully-managed service that makes it easy to develop recommender system solutions; it automatically examines the data, performs feature and algorithm selection, optimizes the model based on your data, and deploys and hosts the model for real-time recommendation inference. However, due to unique constraints in some domains, sometimes recommender systems need to be custom-built.",
+  "source": "@site/docs/tutorials/movie-sagemaker.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/movie-sagemaker",
+  "permalink": "/docs/tutorials/movie-sagemaker",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/movie-sagemaker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "movie-recsys",
+    "permalink": "/docs/tutorials/movie-recsys"
+  },
+  "next": {
+    "title": "movie-tf",
+    "permalink": "/docs/tutorials/movie-tf"
+  }
+}

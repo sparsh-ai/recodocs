@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/apprentice-mountaincar",
+  "id": "tutorials/apprentice-mountaincar",
+  "title": "apprentice-mountaincar",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/apprentice-mountaincar.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/apprentice-mountaincar",
+  "permalink": "/docs/tutorials/apprentice-mountaincar",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/apprentice-mountaincar.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applying-gradient-descent-on-a-simple-function-from-scratch",
+    "permalink": "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch"
+  },
+  "next": {
+    "title": "archived-deep-reinforcement-learning-based-group-recommender-system",
+    "permalink": "/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system"
+  }
+}

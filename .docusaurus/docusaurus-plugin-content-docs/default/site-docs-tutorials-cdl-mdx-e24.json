@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/cdl",
+  "id": "tutorials/cdl",
+  "title": "cdl",
+  "description": "---",
+  "source": "@site/docs/tutorials/cdl.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cdl",
+  "permalink": "/docs/tutorials/cdl",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/cdl.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "causal-inference",
+    "permalink": "/docs/tutorials/causal-inference"
+  },
+  "next": {
+    "title": "cicd-docker-eks",
+    "permalink": "/docs/tutorials/cicd-docker-eks"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/fastai-vision-fastbook",
+  "id": "tutorials/fastai-vision-fastbook",
+  "title": "fastai-vision-fastbook",
+  "description": "How to determine if cattle are bulls, steers, cows or heifers",
+  "source": "@site/docs/tutorials/fastai-vision-fastbook.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/fastai-vision-fastbook",
+  "permalink": "/docs/tutorials/fastai-vision-fastbook",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/fastai-vision-fastbook.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fastai-collab-filtering",
+    "permalink": "/docs/tutorials/fastai-collab-filtering"
+  },
+  "next": {
+    "title": "Facebook Friend Recommender",
+    "permalink": "/docs/tutorials/fbfriend-recs"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/distributed-training",
+  "id": "tutorials/distributed-training",
+  "title": "distributed-training",
+  "description": "It took roughly 50 seconds to train for 1 epoch, which equates to 469 batches, each of which has 128 data points. The only exception is the last batch, which has 32 fewer data points than usual (as there are 60,000 data points in total).",
+  "source": "@site/docs/tutorials/distributed-training.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/distributed-training",
+  "permalink": "/docs/tutorials/distributed-training",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/distributed-training.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "discrete-bcq-model-on-ieee-recsys-dataset",
+    "permalink": "/docs/tutorials/discrete-bcq-model-on-ieee-recsys-dataset"
+  },
+  "next": {
+    "title": "dl-retrieval",
+    "permalink": "/docs/tutorials/dl-retrieval"
+  }
+}

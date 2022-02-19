@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/bandit-based-recommender-using-thompson-sampling",
+  "id": "tutorials/bandit-based-recommender-using-thompson-sampling",
+  "title": "bandit-based-recommender-using-thompson-sampling",
+  "description": "A proof-of-concept on using Thompson sampling for training a recommender model in real-time environment",
+  "source": "@site/docs/tutorials/bandit-based-recommender-using-thompson-sampling.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/bandit-based-recommender-using-thompson-sampling",
+  "permalink": "/docs/tutorials/bandit-based-recommender-using-thompson-sampling",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/bandit-based-recommender-using-thompson-sampling.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bandit-based-recommender-using-thompson-sampling-app",
+    "permalink": "/docs/tutorials/bandit-based-recommender-using-thompson-sampling-app"
+  },
+  "next": {
+    "title": "baseliness-yoochoose",
+    "permalink": "/docs/tutorials/baseliness-yoochoose"
+  }
+}

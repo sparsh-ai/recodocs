@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems",
+  "id": "tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems",
+  "title": "tutorial-on-behavioral-evaluation-of-recommender-systems",
+  "description": "Installation",
+  "source": "@site/docs/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems",
+  "permalink": "/docs/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text to Speech",
+    "permalink": "/docs/tutorials/tts"
+  },
+  "next": {
+    "title": "tv-recommender-sweettv",
+    "permalink": "/docs/tutorials/tv-recommender-sweettv"
+  }
+}

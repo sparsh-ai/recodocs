@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-mlh-svd",
+  "id": "tutorials/reco-tut-mlh-svd",
+  "title": "reco-tut-mlh-svd",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-mlh-svd.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-mlh-svd",
+  "permalink": "/docs/tutorials/reco-tut-mlh-svd",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-mlh-svd.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-mlh-svae",
+    "permalink": "/docs/tutorials/reco-tut-mlh-svae"
+  },
+  "next": {
+    "title": "reco-tut-mlh-t-als",
+    "permalink": "/docs/tutorials/reco-tut-mlh-t-als"
+  }
+}

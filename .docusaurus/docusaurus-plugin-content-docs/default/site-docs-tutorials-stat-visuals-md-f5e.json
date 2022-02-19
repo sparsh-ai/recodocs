@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/stat-visuals",
+  "id": "tutorials/stat-visuals",
+  "title": "stat-visuals",
+  "description": "Confidence Intervals",
+  "source": "@site/docs/tutorials/stat-visuals.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/stat-visuals",
+  "permalink": "/docs/tutorials/stat-visuals",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/stat-visuals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stamp-diginetica",
+    "permalink": "/docs/tutorials/stamp-diginetica"
+  },
+  "next": {
+    "title": "statistical-analysis",
+    "permalink": "/docs/tutorials/statistical-analysis"
+  }
+}

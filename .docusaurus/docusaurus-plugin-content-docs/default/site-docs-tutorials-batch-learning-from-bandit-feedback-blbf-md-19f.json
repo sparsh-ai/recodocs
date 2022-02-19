@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/batch-learning-from-bandit-feedback-blbf",
+  "id": "tutorials/batch-learning-from-bandit-feedback-blbf",
+  "title": "batch-learning-from-bandit-feedback-blbf",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/batch-learning-from-bandit-feedback-blbf.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/batch-learning-from-bandit-feedback-blbf",
+  "permalink": "/docs/tutorials/batch-learning-from-bandit-feedback-blbf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/batch-learning-from-bandit-feedback-blbf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "batch-constrained-deep-q-learning",
+    "permalink": "/docs/tutorials/batch-constrained-deep-q-learning"
+  },
+  "next": {
+    "title": "Graph Benchmarks",
+    "permalink": "/docs/tutorials/benchmark"
+  }
+}

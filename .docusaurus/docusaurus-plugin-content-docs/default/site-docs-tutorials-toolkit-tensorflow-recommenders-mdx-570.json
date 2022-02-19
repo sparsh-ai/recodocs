@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/toolkit-tensorflow-recommenders",
+  "id": "tutorials/toolkit-tensorflow-recommenders",
+  "title": "toolkit-tensorflow-recommenders",
+  "description": "Build the model",
+  "source": "@site/docs/tutorials/toolkit-tensorflow-recommenders.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/toolkit-tensorflow-recommenders",
+  "permalink": "/docs/tutorials/toolkit-tensorflow-recommenders",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/toolkit-tensorflow-recommenders.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "timeseries-playground-weather-wip",
+    "permalink": "/docs/tutorials/timeseries-playground-weather-wip"
+  },
+  "next": {
+    "title": "topicmodel",
+    "permalink": "/docs/tutorials/topicmodel"
+  }
+}

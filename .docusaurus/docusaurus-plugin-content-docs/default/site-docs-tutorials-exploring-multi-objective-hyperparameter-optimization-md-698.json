@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/exploring-multi-objective-hyperparameter-optimization",
+  "id": "tutorials/exploring-multi-objective-hyperparameter-optimization",
+  "title": "exploring-multi-objective-hyperparameter-optimization",
+  "description": "To get to grips with Ax and see multi-output Bayesian optimization in action, in section 1, we will tackle a totally synthetic problem Ax on synthetic data.",
+  "source": "@site/docs/tutorials/exploring-multi-objective-hyperparameter-optimization.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/exploring-multi-objective-hyperparameter-optimization",
+  "permalink": "/docs/tutorials/exploring-multi-objective-hyperparameter-optimization",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/exploring-multi-objective-hyperparameter-optimization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "explainable-bpr-lastfm",
+    "permalink": "/docs/tutorials/explainable-bpr-lastfm"
+  },
+  "next": {
+    "title": "Face Analytics",
+    "permalink": "/docs/tutorials/face-analytics"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/fake-voice-detection",
+  "id": "tutorials/fake-voice-detection",
+  "title": "fake-voice-detection",
+  "description": "Temporal Convolutional Model",
+  "source": "@site/docs/tutorials/fake-voice-detection.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/fake-voice-detection",
+  "permalink": "/docs/tutorials/fake-voice-detection",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/fake-voice-detection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fairness",
+    "permalink": "/docs/tutorials/fairness"
+  },
+  "next": {
+    "title": "fastai-collab-filtering",
+    "permalink": "/docs/tutorials/fastai-collab-filtering"
+  }
+}

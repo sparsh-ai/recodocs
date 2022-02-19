@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mf-mlp-movielens-in-pytorch",
+  "id": "tutorials/mf-mlp-movielens-in-pytorch",
+  "title": "mf-mlp-movielens-in-pytorch",
+  "description": "Training MF, MF+bias, and MLP model on movielens-100k dataset in PyTorch",
+  "source": "@site/docs/tutorials/mf-mlp-movielens-in-pytorch.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mf-mlp-movielens-in-pytorch",
+  "permalink": "/docs/tutorials/mf-mlp-movielens-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mf-mlp-movielens-in-pytorch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mf-ml",
+    "permalink": "/docs/tutorials/mf-ml"
+  },
+  "next": {
+    "title": "mf-movielens-pytorch",
+    "permalink": "/docs/tutorials/mf-movielens-pytorch"
+  }
+}

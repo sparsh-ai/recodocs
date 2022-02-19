@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/wip-v-data-ss",
+  "id": "tutorials/wip-v-data-ss",
+  "title": "wip-v-data-ss",
+  "description": "",
+  "source": "@site/docs/tutorials/wip-v-data-ss.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wip-v-data-ss",
+  "permalink": "/docs/tutorials/wip-v-data-ss",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/wip-v-data-ss.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3.8.5 64-bit ('venv': venv)",
+        "name": "python_defaultSpec_1600126418091"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wikirecs-worker",
+    "permalink": "/docs/tutorials/wikirecs-worker"
+  },
+  "next": {
+    "title": "word-vec-recsys-on-ml-m",
+    "permalink": "/docs/tutorials/word-vec-recsys-on-ml-m"
+  }
+}

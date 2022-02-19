@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/serverless-ml",
+  "id": "tutorials/serverless-ml",
+  "title": "serverless-ml",
+  "description": "Note//livebook.manning.com/book/serverless-machine-learning-in-action/chapter-2?aaid=osipov&abid=fa913283&",
+  "source": "@site/docs/tutorials/serverless-ml.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/serverless-ml",
+  "permalink": "/docs/tutorials/serverless-ml",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/serverless-ml.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sequential-recommendation-using-ptgcn",
+    "permalink": "/docs/tutorials/sequential-recommendation-using-ptgcn"
+  },
+  "next": {
+    "title": "serving-cusine-recommender-at-edge-onnx",
+    "permalink": "/docs/tutorials/serving-cusine-recommender-at-edge-onnx"
+  }
+}

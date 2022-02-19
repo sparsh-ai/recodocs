@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/autosurprise",
+  "id": "tutorials/autosurprise",
+  "title": "Auto Surprise Library",
+  "description": "Quick start",
+  "source": "@site/docs/tutorials/autosurprise.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/autosurprise",
+  "permalink": "/docs/tutorials/autosurprise",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/autosurprise.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "autorec-on-ml-m",
+    "permalink": "/docs/tutorials/autorec-on-ml-m"
+  },
+  "next": {
+    "title": "avalanche-visual-incremental-learning",
+    "permalink": "/docs/tutorials/avalanche-visual-incremental-learning"
+  }
+}

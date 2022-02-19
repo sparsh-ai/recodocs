@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-user-user-cf",
+  "id": "tutorials/reco-tut-asr-user-user-cf",
+  "title": "Collaborative Filtering (CF)",
+  "description": "In month 1, we learn about some commom techniques to recommend items to a user.",
+  "source": "@site/docs/tutorials/reco-tut-asr-user-user-cf.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-user-user-cf",
+  "permalink": "/docs/tutorials/reco-tut-asr-user-user-cf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-user-user-cf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notes on Similarity Metrics",
+    "permalink": "/docs/tutorials/reco-tut-asr-similarity-metrics-for-cf"
+  },
+  "next": {
+    "title": "reco-tut-bfr-launchpad",
+    "permalink": "/docs/tutorials/reco-tut-bfr-launchpad"
+  }
+}

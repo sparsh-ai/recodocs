@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/seq-seq-mapping",
+  "id": "tutorials/seq-seq-mapping",
+  "title": "seq-seq-mapping",
+  "description": "Summary",
+  "source": "@site/docs/tutorials/seq-seq-mapping.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/seq-seq-mapping",
+  "permalink": "/docs/tutorials/seq-seq-mapping",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/seq-seq-mapping.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seq-mab-mushroom",
+    "permalink": "/docs/tutorials/seq-mab-mushroom"
+  },
+  "next": {
+    "title": "sequence-aware-recommenders-music",
+    "permalink": "/docs/tutorials/sequence-aware-recommenders-music"
+  }
+}

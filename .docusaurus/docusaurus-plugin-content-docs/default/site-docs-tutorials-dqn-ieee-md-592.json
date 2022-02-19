@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/dqn-ieee",
+  "id": "tutorials/dqn-ieee",
+  "title": "dqn-ieee",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/dqn-ieee.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/dqn-ieee",
+  "permalink": "/docs/tutorials/dqn-ieee",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/dqn-ieee.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "double-domain-recommendations-on-ml-m",
+    "permalink": "/docs/tutorials/double-domain-recommendations-on-ml-m"
+  },
+  "next": {
+    "title": "dqn-on-the-cartpole-and-atari-using-coach",
+    "permalink": "/docs/tutorials/dqn-on-the-cartpole-and-atari-using-coach"
+  }
+}

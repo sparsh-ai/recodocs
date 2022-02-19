@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/simple-movie-recommender",
+  "id": "tutorials/simple-movie-recommender",
+  "title": "simple-movie-recommender",
+  "description": "Applying data cleaning, exploration, explicit KNN model, implicit ALS model, and cold-start scenario on movielens dataset",
+  "source": "@site/docs/tutorials/simple-movie-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/simple-movie-recommender",
+  "permalink": "/docs/tutorials/simple-movie-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/simple-movie-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "simple-movie-recommender-app-streamlit",
+    "permalink": "/docs/tutorials/simple-movie-recommender-app-streamlit"
+  },
+  "next": {
+    "title": "Basic Movie Recommenders",
+    "permalink": "/docs/tutorials/simple-recsys"
+  }
+}

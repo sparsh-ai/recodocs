@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/visualizing-embeddings-tsne",
+  "id": "tutorials/visualizing-embeddings-tsne",
+  "title": "visualizing-embeddings-tsne",
+  "description": "This notebook demostrates visualization of embeddings using TSNE.",
+  "source": "@site/docs/tutorials/visualizing-embeddings-tsne.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/visualizing-embeddings-tsne",
+  "permalink": "/docs/tutorials/visualizing-embeddings-tsne",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/visualizing-embeddings-tsne.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "video-action",
+    "permalink": "/docs/tutorials/video-action"
+  },
+  "next": {
+    "title": "visualizing-the-non-linearity-of-neural-networks-using-tensorflow",
+    "permalink": "/docs/tutorials/visualizing-the-non-linearity-of-neural-networks-using-tensorflow"
+  }
+}

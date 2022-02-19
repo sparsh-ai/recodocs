@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/rl-in-action",
+  "id": "tutorials/rl-in-action",
+  "title": "rl-in-action",
+  "description": "Chapter 18 – Reinforcement Learning",
+  "source": "@site/docs/tutorials/rl-in-action.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/rl-in-action",
+  "permalink": "/docs/tutorials/rl-in-action",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/rl-in-action.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rl-basics",
+    "permalink": "/docs/tutorials/rl-basics"
+  },
+  "next": {
+    "title": "rl-sac",
+    "permalink": "/docs/tutorials/rl-sac"
+  }
+}

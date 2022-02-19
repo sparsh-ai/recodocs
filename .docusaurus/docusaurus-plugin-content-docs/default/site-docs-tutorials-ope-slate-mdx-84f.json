@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ope-slate",
+  "id": "tutorials/ope-slate",
+  "title": "ope-slate",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/ope-slate.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ope-slate",
+  "permalink": "/docs/tutorials/ope-slate",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ope-slate.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "online-learning-concept",
+    "permalink": "/docs/tutorials/online-learning-concept"
+  },
+  "next": {
+    "title": "ope-vw",
+    "permalink": "/docs/tutorials/ope-vw"
+  }
+}

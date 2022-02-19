@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-item-item-cf",
+  "id": "tutorials/reco-tut-asr-item-item-cf",
+  "title": "reco-tut-asr-item-item-cf",
+  "description": "In the last notebook, we took a look at the Nearest Neighboor User User CF, a form of recommender system that looked at the similarity between users to define which item should be suggested to a new customer.",
+  "source": "@site/docs/tutorials/reco-tut-asr-item-item-cf.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-item-item-cf",
+  "permalink": "/docs/tutorials/reco-tut-asr-item-item-cf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-item-item-cf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-asr-hybrid-recommendations",
+    "permalink": "/docs/tutorials/reco-tut-asr-hybrid-recommendations"
+  },
+  "next": {
+    "title": "reco-tut-asr-launchpad",
+    "permalink": "/docs/tutorials/reco-tut-asr-launchpad"
+  }
+}

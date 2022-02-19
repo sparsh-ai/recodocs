@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/q-learning-on-lunar-lander-and-frozen-lake",
+  "id": "tutorials/q-learning-on-lunar-lander-and-frozen-lake",
+  "title": "q-learning-on-lunar-lander-and-frozen-lake",
+  "description": "Frozen Lake",
+  "source": "@site/docs/tutorials/q-learning-on-lunar-lander-and-frozen-lake.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/q-learning-on-lunar-lander-and-frozen-lake",
+  "permalink": "/docs/tutorials/q-learning-on-lunar-lander-and-frozen-lake",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/q-learning-on-lunar-lander-and-frozen-lake.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pytorch",
+    "permalink": "/docs/tutorials/pytorch"
+  },
+  "next": {
+    "title": "q-learning-vs-sarsa-and-q-learning-extensions",
+    "permalink": "/docs/tutorials/q-learning-vs-sarsa-and-q-learning-extensions"
+  }
+}

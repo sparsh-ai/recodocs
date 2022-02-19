@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/kafka-colab",
+  "id": "tutorials/kafka-colab",
+  "title": "kafka-colab",
+  "description": "Download and setup Kafka and Zookeeper instances",
+  "source": "@site/docs/tutorials/kafka-colab.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/kafka-colab",
+  "permalink": "/docs/tutorials/kafka-colab",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/kafka-colab.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jobs-resume",
+    "permalink": "/docs/tutorials/jobs-resume"
+  },
+  "next": {
+    "title": "kafka-spark-streaming-colab",
+    "permalink": "/docs/tutorials/kafka-spark-streaming-colab"
+  }
+}

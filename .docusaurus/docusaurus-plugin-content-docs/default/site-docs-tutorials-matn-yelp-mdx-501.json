@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/matn-yelp",
+  "id": "tutorials/matn-yelp",
+  "title": "matn-yelp",
+  "description": "Multiplex Behavioral Relation Learning for Recommendation via Memory Augmented Transformer Network",
+  "source": "@site/docs/tutorials/matn-yelp.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/matn-yelp",
+  "permalink": "/docs/tutorials/matn-yelp",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/matn-yelp.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Matching and Ranking models in Tensorflow",
+    "permalink": "/docs/tutorials/matching-and-ranking-models-in-tensorflow"
+  },
+  "next": {
+    "title": "matplotlib",
+    "permalink": "/docs/tutorials/matplotlib"
+  }
+}

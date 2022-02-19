@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-session-yoochoose",
+  "id": "tutorials/reco-session-yoochoose",
+  "title": "reco-session-yoochoose",
+  "description": "Feature Engineering",
+  "source": "@site/docs/tutorials/reco-session-yoochoose.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-session-yoochoose",
+  "permalink": "/docs/tutorials/reco-session-yoochoose",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-session-yoochoose.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-session-diginetica",
+    "permalink": "/docs/tutorials/reco-session-diginetica"
+  },
+  "next": {
+    "title": "reco-tut-aml-tpt-ml-m-quickstart",
+    "permalink": "/docs/tutorials/reco-tut-aml-tpt-ml-m-quickstart"
+  }
+}

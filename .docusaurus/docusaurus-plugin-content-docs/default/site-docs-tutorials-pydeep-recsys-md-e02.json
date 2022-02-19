@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/pydeep-recsys",
+  "id": "tutorials/pydeep-recsys",
+  "title": "pydeep-recsys",
+  "description": "The ReinforcementLearning abstract class defines what functions agents are expected to have. Namely, to predict the next action to be taken on a given state, the next k best actions (for slate environments), and to store a particular experience (i.e., a state, action, reward, done, next observed state) tuple.",
+  "source": "@site/docs/tutorials/pydeep-recsys.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pydeep-recsys",
+  "permalink": "/docs/tutorials/pydeep-recsys",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/pydeep-recsys.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pyanime",
+    "permalink": "/docs/tutorials/pyanime"
+  },
+  "next": {
+    "title": "pyg-gnn",
+    "permalink": "/docs/tutorials/pyg-gnn"
+  }
+}

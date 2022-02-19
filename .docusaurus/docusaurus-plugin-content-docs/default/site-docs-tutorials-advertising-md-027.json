@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/advertising",
+  "id": "tutorials/advertising",
+  "title": "advertising",
+  "description": "Contrary to sponsored advertising, where advertisers set fixed bids, in real-time bid‐ ding (RTB) you can set a bid for every individual impression. When a user visits a website that supports ads, this triggers an auction where advertisers bid for an impres‐ sion. Advertisers must submit bids within a period of time, where 100 ms is a com‐ mon limit.",
+  "source": "@site/docs/tutorials/advertising.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/advertising",
+  "permalink": "/docs/tutorials/advertising",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/advertising.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "adversarial",
+    "permalink": "/docs/tutorials/adversarial"
+  },
+  "next": {
+    "title": "ae-ml",
+    "permalink": "/docs/tutorials/ae-ml"
+  }
+}

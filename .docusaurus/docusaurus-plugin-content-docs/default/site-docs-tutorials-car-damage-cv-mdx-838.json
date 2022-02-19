@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/car-damage-cv",
+  "id": "tutorials/car-damage-cv",
+  "title": "car-damage-cv",
+  "description": "Note: This jupyter notebook contains data visualization of car damage images and automated car damage detection example. First we need to import all the packages including custom functions of Matterport Mask R-CNN’ repository",
+  "source": "@site/docs/tutorials/car-damage-cv.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/car-damage-cv",
+  "permalink": "/docs/tutorials/car-damage-cv",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/car-damage-cv.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "capture-realtime-kafka-mongodb",
+    "permalink": "/docs/tutorials/capture-realtime-kafka-mongodb"
+  },
+  "next": {
+    "title": "career-village",
+    "permalink": "/docs/tutorials/career-village"
+  }
+}

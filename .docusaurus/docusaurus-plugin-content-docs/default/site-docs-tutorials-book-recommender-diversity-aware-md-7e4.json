@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/book-recommender-diversity-aware",
+  "id": "tutorials/book-recommender-diversity-aware",
+  "title": "book-recommender-diversity-aware",
+  "description": "How can we build a better recommender system that enables consumer diversity and increases customer lifetime value? We can approach this problem through the customer lens. Let’s take Elon Musk as a model world citizen, who publicly stated he loved fantasy books growing up and Lord of the Rings having a large impact on him. But if Elon continued to follow the recommendations of today’s most visible machine learning algorithm on Amazon, he would continue down the path of fantasy, fantasy, and more fantasy. Elon has also stated that business books shaped his worldview, with Zero to One as his recommendation.",
+  "source": "@site/docs/tutorials/book-recommender-diversity-aware.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/book-recommender-diversity-aware",
+  "permalink": "/docs/tutorials/book-recommender-diversity-aware",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/book-recommender-diversity-aware.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "book-recommender-api",
+    "permalink": "/docs/tutorials/book-recommender-api"
+  },
+  "next": {
+    "title": "book-recommender-kubeflow",
+    "permalink": "/docs/tutorials/book-recommender-kubeflow"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml",
+  "id": "tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml",
+  "title": "reco-tut-bok-us-grokking-ai-algorithms-ml",
+  "description": "---",
+  "source": "@site/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml",
+  "permalink": "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-bok-us-grokking-ai-algorithms-ann",
+    "permalink": "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ann"
+  },
+  "next": {
+    "title": "reco-tut-bok-us-grokking-ai-algorithms-rl",
+    "permalink": "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-rl"
+  }
+}

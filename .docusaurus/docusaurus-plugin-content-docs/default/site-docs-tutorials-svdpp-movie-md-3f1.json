@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/svdpp-movie",
+  "id": "tutorials/svdpp-movie",
+  "title": "svdpp-movie",
+  "description": "---",
+  "source": "@site/docs/tutorials/svdpp-movie.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/svdpp-movie",
+  "permalink": "/docs/tutorials/svdpp-movie",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/svdpp-movie.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "struc-vec-on-airports-graph",
+    "permalink": "/docs/tutorials/struc-vec-on-airports-graph"
+  },
+  "next": {
+    "title": "t",
+    "permalink": "/docs/tutorials/t"
+  }
+}

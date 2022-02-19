@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/web-scraping-tutorial",
+  "id": "tutorials/web-scraping-tutorial",
+  "title": "web-scraping-tutorial",
+  "description": "Structure",
+  "source": "@site/docs/tutorials/web-scraping-tutorial.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/web-scraping-tutorial",
+  "permalink": "/docs/tutorials/web-scraping-tutorial",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/web-scraping-tutorial.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python [conda env:py36]",
+        "language": "python",
+        "name": "conda-env-py36-py"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "warm-start-model-retraining",
+    "permalink": "/docs/tutorials/warm-start-model-retraining"
+  },
+  "next": {
+    "title": "wellness-tracker-bot",
+    "permalink": "/docs/tutorials/wellness-tracker-bot"
+  }
+}

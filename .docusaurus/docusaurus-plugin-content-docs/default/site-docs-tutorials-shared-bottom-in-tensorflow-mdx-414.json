@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/shared-bottom-in-tensorflow",
+  "id": "tutorials/shared-bottom-in-tensorflow",
+  "title": "shared-bottom-in-tensorflow",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/shared-bottom-in-tensorflow.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/shared-bottom-in-tensorflow",
+  "permalink": "/docs/tutorials/shared-bottom-in-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/shared-bottom-in-tensorflow.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "shallow-embedding-methods",
+    "permalink": "/docs/tutorials/shallow-embedding-methods"
+  },
+  "next": {
+    "title": "sign-aware-recommendation-using-graph-neural-networks-on-amazon-books-dataset-in-pytorch",
+    "permalink": "/docs/tutorials/sign-aware-recommendation-using-graph-neural-networks-on-amazon-books-dataset-in-pytorch"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/graph-embeddings-using-convnet-stellargraph",
+  "id": "tutorials/graph-embeddings-using-convnet-stellargraph",
+  "title": "graph-embeddings-using-convnet-stellargraph",
+  "description": "In this notebook we will be performing unsupervised graph representation learning using Graph ConvNet as encoder.",
+  "source": "@site/docs/tutorials/graph-embeddings-using-convnet-stellargraph.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/graph-embeddings-using-convnet-stellargraph",
+  "permalink": "/docs/tutorials/graph-embeddings-using-convnet-stellargraph",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph-embeddings-using-convnet-stellargraph.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Embeddings",
+    "permalink": "/docs/tutorials/graph-embedding"
+  },
+  "next": {
+    "title": "graph-embeddings",
+    "permalink": "/docs/tutorials/graph-embeddings"
+  }
+}

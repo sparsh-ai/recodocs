@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-offline-evaluation",
+  "id": "tutorials/reco-tut-asr-offline-evaluation",
+  "title": "reco-tut-asr-offline-evaluation",
+  "description": "After having learned some possible recommender systems (RS) - Non Personalised, Content Based, User User and Item Item Collaborative Filtering - you're going to see that we never asked one possible question: Which one is better for me?",
+  "source": "@site/docs/tutorials/reco-tut-asr-offline-evaluation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-offline-evaluation",
+  "permalink": "/docs/tutorials/reco-tut-asr-offline-evaluation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-offline-evaluation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recommender Systems - Introduction",
+    "permalink": "/docs/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation"
+  },
+  "next": {
+    "title": "reco-tut-asr-recommendation-metrics-rating-evaluation",
+    "permalink": "/docs/tutorials/reco-tut-asr-recommendation-metrics-rating-evaluation"
+  }
+}

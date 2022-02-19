@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sng-egonet-link",
+  "id": "tutorials/sng-egonet-link",
+  "title": "Social Network Graph EgoNet Link Prediction",
+  "description": "Social media represents, nowadays, one of the most interesting and rich sources of information. Every day, thousands of new connections arise, new users join communities, and billions of posts are shared. Graphs mathematically represent all those interactions, helping to make order of all such spontaneous and unstructured traffic.",
+  "source": "@site/docs/tutorials/sng-egonet-link.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sng-egonet-link",
+  "permalink": "/docs/tutorials/sng-egonet-link",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sng-egonet-link.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Social Network Graph EgoNet EDA",
+    "permalink": "/docs/tutorials/sng-egonet-eda"
+  },
+  "next": {
+    "title": "SNP Data Analysis and Modeling",
+    "permalink": "/docs/tutorials/snp"
+  }
+}

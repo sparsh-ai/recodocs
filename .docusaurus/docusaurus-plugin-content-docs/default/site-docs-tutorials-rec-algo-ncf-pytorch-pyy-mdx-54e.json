@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/rec-algo-ncf-pytorch-pyy",
+  "id": "tutorials/rec-algo-ncf-pytorch-pyy",
+  "title": "rec-algo-ncf-pytorch-pyy",
+  "description": "A tutorial to understand the process of building a Neural Matrix Factorization model from scratch in PyTorch on MovieLens-1M dataset.",
+  "source": "@site/docs/tutorials/rec-algo-ncf-pytorch-pyy.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/rec-algo-ncf-pytorch-pyy",
+  "permalink": "/docs/tutorials/rec-algo-ncf-pytorch-pyy",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/rec-algo-ncf-pytorch-pyy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "real-time-in-session-personalization",
+    "permalink": "/docs/tutorials/real-time-in-session-personalization"
+  },
+  "next": {
+    "title": "rec-medium-word-vec",
+    "permalink": "/docs/tutorials/rec-medium-word-vec"
+  }
+}

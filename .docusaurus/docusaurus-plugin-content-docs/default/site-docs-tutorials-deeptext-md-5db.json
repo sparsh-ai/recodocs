@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/deeptext",
+  "id": "tutorials/deeptext",
+  "title": "deeptext",
+  "description": "",
+  "source": "@site/docs/tutorials/deeptext.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/deeptext",
+  "permalink": "/docs/tutorials/deeptext",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/deeptext.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DeepLab",
+    "permalink": "/docs/tutorials/deeplab"
+  },
+  "next": {
+    "title": "deepwalk-line-and-metapath-on-citeseer-in-pytorch",
+    "permalink": "/docs/tutorials/deepwalk-line-and-metapath-on-citeseer-in-pytorch"
+  }
+}

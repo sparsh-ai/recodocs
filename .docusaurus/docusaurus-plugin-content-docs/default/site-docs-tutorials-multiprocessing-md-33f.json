@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/multiprocessing",
+  "id": "tutorials/multiprocessing",
+  "title": "multiprocessing",
+  "description": "Threads",
+  "source": "@site/docs/tutorials/multiprocessing.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/multiprocessing",
+  "permalink": "/docs/tutorials/multiprocessing",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/multiprocessing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multiple-retraining-models-on-sobazaar-dataset",
+    "permalink": "/docs/tutorials/multiple-retraining-models-on-sobazaar-dataset"
+  },
+  "next": {
+    "title": "music-eda-cb-recommender",
+    "permalink": "/docs/tutorials/music-eda-cb-recommender"
+  }
+}

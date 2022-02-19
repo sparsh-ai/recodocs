@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/data-mining-similarity-measures",
+  "id": "tutorials/data-mining-similarity-measures",
+  "title": "data-mining-similarity-measures",
+  "description": "Understanding basic data science concepts - euclidean distance, pearson correlation, clustering, PCA dimension reduction, supervised learning",
+  "source": "@site/docs/tutorials/data-mining-similarity-measures.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/data-mining-similarity-measures",
+  "permalink": "/docs/tutorials/data-mining-similarity-measures",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/data-mining-similarity-measures.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dask-incremental-wrapper",
+    "permalink": "/docs/tutorials/dask-incremental-wrapper"
+  },
+  "next": {
+    "title": "data-poisoning-attack-using-lfm-and-itemae-on-synthetic-dataset",
+    "permalink": "/docs/tutorials/data-poisoning-attack-using-lfm-and-itemae-on-synthetic-dataset"
+  }
+}

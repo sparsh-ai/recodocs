@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-ml-pytorch-deep-learning-basics",
+  "id": "tutorials/reco-tut-ml-pytorch-deep-learning-basics",
+  "title": "reco-tut-ml-pytorch-deep-learning-basics",
+  "description": "You’ll build a deep learning model and train the model using a common training loop structure. Then, you’ll test your model’s performance and tweak hyperparameters to improve your results and training speed. Finally, we’ll explore ways to deploy your model to prototype systems or production.",
+  "source": "@site/docs/tutorials/reco-tut-ml-pytorch-deep-learning-basics.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-ml-pytorch-deep-learning-basics",
+  "permalink": "/docs/tutorials/reco-tut-ml-pytorch-deep-learning-basics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-ml-pytorch-deep-learning-basics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-ml-python-robust-python-testing",
+    "permalink": "/docs/tutorials/reco-tut-ml-python-robust-python-testing"
+  },
+  "next": {
+    "title": "reco-tut-ml-pytorch-fundamentals-tensors",
+    "permalink": "/docs/tutorials/reco-tut-ml-pytorch-fundamentals-tensors"
+  }
+}

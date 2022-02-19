@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies",
+  "id": "tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies",
+  "title": "optimal-off-policy-evaluation-from-multiple-logging-policies",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies",
+  "permalink": "/docs/tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "opl",
+    "permalink": "/docs/tutorials/opl"
+  },
+  "next": {
+    "title": "pareto-census",
+    "permalink": "/docs/tutorials/pareto-census"
+  }
+}

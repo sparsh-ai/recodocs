@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/image-captioning-tf",
+  "id": "tutorials/image-captioning-tf",
+  "title": "image-captioning-tf",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/image-captioning-tf.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/image-captioning-tf",
+  "permalink": "/docs/tutorials/image-captioning-tf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/image-captioning-tf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "image-analytics-tensorflow",
+    "permalink": "/docs/tutorials/image-analytics-tensorflow"
+  },
+  "next": {
+    "title": "image-classification-scikit",
+    "permalink": "/docs/tutorials/image-classification-scikit"
+  }
+}

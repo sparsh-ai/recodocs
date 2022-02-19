@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/drug-recommender",
+  "id": "tutorials/drug-recommender",
+  "title": "drug-recommender",
+  "description": "Recommending top-k drugs for the given medical condition based on historical feedbacks, using Neural Collaborative Filtering model",
+  "source": "@site/docs/tutorials/drug-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/drug-recommender",
+  "permalink": "/docs/tutorials/drug-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/drug-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+    "permalink": "/docs/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset"
+  },
+  "next": {
+    "title": "dynamicrec-session-next-item-prediction",
+    "permalink": "/docs/tutorials/dynamicrec-session-next-item-prediction"
+  }
+}

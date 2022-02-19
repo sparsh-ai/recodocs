@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/scene-text-recognition",
+  "id": "tutorials/scene-text-recognition",
+  "title": "scene-text-recognition",
+  "description": "Detecting and comprehending text in images using EAST and Tesseract models",
+  "source": "@site/docs/tutorials/scene-text-recognition.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/scene-text-recognition",
+  "permalink": "/docs/tutorials/scene-text-recognition",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/scene-text-recognition.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sasrec-paddlepaddle",
+    "permalink": "/docs/tutorials/sasrec-paddlepaddle"
+  },
+  "next": {
+    "title": "scikit-multiflow",
+    "permalink": "/docs/tutorials/scikit-multiflow"
+  }
+}

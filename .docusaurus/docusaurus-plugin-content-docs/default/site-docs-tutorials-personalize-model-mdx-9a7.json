@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/personalize-model",
+  "id": "tutorials/personalize-model",
+  "title": "personalize-model",
+  "description": "In Amazon Personalize, a specific variation of an algorithm is called a recipe. Different recipes are suitable for different situations. A trained model is called a solution, and each solution can have many versions that relate to a given volume of data when the model was trained.",
+  "source": "@site/docs/tutorials/personalize-model.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/personalize-model",
+  "permalink": "/docs/tutorials/personalize-model",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/personalize-model.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "personalize-inference",
+    "permalink": "/docs/tutorials/personalize-inference"
+  },
+  "next": {
+    "title": "personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+    "permalink": "/docs/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation"
+  }
+}

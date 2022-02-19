@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/probability",
+  "id": "tutorials/probability",
+  "title": "probability",
+  "description": "Few things in life are certain; most things are driven by chance. Whenever we cheer for our favorite sports team, or purchase a lottery ticket, or make an investment in the stock market, we hope for some particular outcome, but that outcome cannot ever be guaranteed. Randomness permeates our day-to-day experiences. Fortunately, that randomness can still be mitigated and controlled. We know that some unpredictable events occur more rarely than others and that certain decisions carry less uncertainty than other much-riskier choices. Driving to work in a car is safer than riding a motorcycle. Investing part of your savings in a retirement account is safer than betting it all on a single hand of blackjack. We can intrinsically sense these trade-offs in certainty because even the most unpredictable systems still show some predictable behaviors. These behaviors have been rigorously studied using probability theory. Probability theory is an inherently complex branch of math. However, aspects of the theory can be understood without knowing the mathematical underpinnings. In fact, difficult probability problems can be solved in Python without needing to know a single math equation. Such an equation-free approach to probability requires a baseline understanding of what mathematicians call a sample space.",
+  "source": "@site/docs/tutorials/probability.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/probability",
+  "permalink": "/docs/tutorials/probability",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/probability.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "preprocessing-of-retailrocket-dataset",
+    "permalink": "/docs/tutorials/preprocessing-of-retailrocket-dataset"
+  },
+  "next": {
+    "title": "prod-vec-beh",
+    "permalink": "/docs/tutorials/prod-vec-beh"
+  }
+}

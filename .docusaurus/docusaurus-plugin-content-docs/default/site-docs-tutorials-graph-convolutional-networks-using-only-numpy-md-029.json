@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/graph-convolutional-networks-using-only-numpy",
+  "id": "tutorials/graph-convolutional-networks-using-only-numpy",
+  "title": "graph-convolutional-networks-using-only-numpy",
+  "description": "Great resource for handling matrices/vectors/dots/transposes when deriving gradient equations:  Stanford CS224n Gradient Notes",
+  "source": "@site/docs/tutorials/graph-convolutional-networks-using-only-numpy.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/graph-convolutional-networks-using-only-numpy",
+  "permalink": "/docs/tutorials/graph-convolutional-networks-using-only-numpy",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph-convolutional-networks-using-only-numpy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "py3modeling",
+        "language": "python",
+        "name": "py3modeling"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "graph-benchmarks",
+    "permalink": "/docs/tutorials/graph-benchmarks"
+  },
+  "next": {
+    "title": "Graph Embeddings",
+    "permalink": "/docs/tutorials/graph-embedding"
+  }
+}

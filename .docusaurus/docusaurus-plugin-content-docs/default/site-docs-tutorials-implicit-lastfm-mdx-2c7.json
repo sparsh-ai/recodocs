@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/implicit-lastfm",
+  "id": "tutorials/implicit-lastfm",
+  "title": "implicit-lastfm",
+  "description": "Fitting ALS, BPR, PoissonMF, and HPFRec models on LastFM-250K music dataset",
+  "source": "@site/docs/tutorials/implicit-lastfm.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/implicit-lastfm",
+  "permalink": "/docs/tutorials/implicit-lastfm",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/implicit-lastfm.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "implicit-hybrid-movie-recommender",
+    "permalink": "/docs/tutorials/implicit-hybrid-movie-recommender"
+  },
+  "next": {
+    "title": "implicit-pairwise-losses",
+    "permalink": "/docs/tutorials/implicit-pairwise-losses"
+  }
+}

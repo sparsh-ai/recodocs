@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/baseliness-yoochoose",
+  "id": "tutorials/baseliness-yoochoose",
+  "title": "baseliness-yoochoose",
+  "description": "Yoochoose Dataset",
+  "source": "@site/docs/tutorials/baseliness-yoochoose.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/baseliness-yoochoose",
+  "permalink": "/docs/tutorials/baseliness-yoochoose",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/baseliness-yoochoose.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bandit-based-recommender-using-thompson-sampling",
+    "permalink": "/docs/tutorials/bandit-based-recommender-using-thompson-sampling"
+  },
+  "next": {
+    "title": "batch-constrained-deep-q-learning",
+    "permalink": "/docs/tutorials/batch-constrained-deep-q-learning"
+  }
+}

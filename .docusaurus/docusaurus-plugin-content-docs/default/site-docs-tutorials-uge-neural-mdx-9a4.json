@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/uge-neural",
+  "id": "tutorials/uge-neural",
+  "title": "Unsupervised Graph Embeddings - Neural methods",
+  "description": "In this notebook we will be performing unsupervised graph representation learning using Graph ConvNet as encoder.",
+  "source": "@site/docs/tutorials/uge-neural.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/uge-neural",
+  "permalink": "/docs/tutorials/uge-neural",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/uge-neural.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "udemy-course-recommender",
+    "permalink": "/docs/tutorials/udemy-course-recommender"
+  },
+  "next": {
+    "title": "Unsupervised Graph Embeddings - Shallow methods",
+    "permalink": "/docs/tutorials/uge-shallow"
+  }
+}

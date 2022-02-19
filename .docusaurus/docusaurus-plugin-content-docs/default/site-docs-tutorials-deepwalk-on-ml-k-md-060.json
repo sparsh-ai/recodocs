@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/deepwalk-on-ml-k",
+  "id": "tutorials/deepwalk-on-ml-k",
+  "title": "deepwalk-on-ml-k",
+  "description": "A tutorial on building a movie recommender system that will learn user-item representation using graph embedding and comparing performance with other methods like matrix factorization.",
+  "source": "@site/docs/tutorials/deepwalk-on-ml-k.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/deepwalk-on-ml-k",
+  "permalink": "/docs/tutorials/deepwalk-on-ml-k",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/deepwalk-on-ml-k.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deepwalk-line-and-metapath-on-citeseer-in-pytorch",
+    "permalink": "/docs/tutorials/deepwalk-line-and-metapath-on-citeseer-in-pytorch"
+  },
+  "next": {
+    "title": "deepwalk",
+    "permalink": "/docs/tutorials/deepwalk"
+  }
+}

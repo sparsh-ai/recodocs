@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/concept-embedding-nlp",
+  "id": "tutorials/concept-embedding-nlp",
+  "title": "concept-embedding-nlp",
+  "description": "Embeddings are important now-a-days in recommender systems. In this notebook, we'll look at trained word embeddings. We'll plot the embeddings so we can attempt to visually compare embeddings. We'll then look at analogies and word similarities. We'll use the Gensim library which makes it easy to work with embeddings.",
+  "source": "@site/docs/tutorials/concept-embedding-nlp.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/concept-embedding-nlp",
+  "permalink": "/docs/tutorials/concept-embedding-nlp",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/concept-embedding-nlp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concept-embedding-gensim-fasttext",
+    "permalink": "/docs/tutorials/concept-embedding-gensim-fasttext"
+  },
+  "next": {
+    "title": "concept-neural-net",
+    "permalink": "/docs/tutorials/concept-neural-net"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/songs-embedding-skipgram-recommender",
+  "id": "tutorials/songs-embedding-skipgram-recommender",
+  "title": "songs-embedding-skipgram-recommender",
+  "description": "In this notebook, we'll use human-made music playlists to learn song embeddings. We'll treat a playlist as if it's a sentence and the songs it contains as words. We feed that to the word2vec algorithm which then learns embeddings for every song we have. These embeddings can then be used to recommend similar songs.",
+  "source": "@site/docs/tutorials/songs-embedding-skipgram-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/songs-embedding-skipgram-recommender",
+  "permalink": "/docs/tutorials/songs-embedding-skipgram-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/songs-embedding-skipgram-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Song Recommender",
+    "permalink": "/docs/tutorials/songrec"
+  },
+  "next": {
+    "title": "sorec-on-sample-data-in-pytorch",
+    "permalink": "/docs/tutorials/sorec-on-sample-data-in-pytorch"
+  }
+}

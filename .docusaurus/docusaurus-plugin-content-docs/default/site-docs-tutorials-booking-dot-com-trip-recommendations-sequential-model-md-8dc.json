@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/booking-dot-com-trip-recommendations-sequential-model",
+  "id": "tutorials/booking-dot-com-trip-recommendations-sequential-model",
+  "title": "booking-dot-com-trip-recommendations-sequential-model",
+  "description": "",
+  "source": "@site/docs/tutorials/booking-dot-com-trip-recommendations-sequential-model.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/booking-dot-com-trip-recommendations-sequential-model",
+  "permalink": "/docs/tutorials/booking-dot-com-trip-recommendations-sequential-model",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/booking-dot-com-trip-recommendations-sequential-model.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking.com trip recommendation part 2 - EDA",
+    "permalink": "/docs/tutorials/booking-dot-com-trip-recommendations-eda"
+  },
+  "next": {
+    "title": "Booking Popularity-based RecSys",
+    "permalink": "/docs/tutorials/booking-itempop"
+  }
+}

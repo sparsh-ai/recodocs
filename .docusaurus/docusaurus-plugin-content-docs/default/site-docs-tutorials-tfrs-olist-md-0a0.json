@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/tfrs-olist",
+  "id": "tutorials/tfrs-olist",
+  "title": "tfrs-olist",
+  "description": "TFRS Retrieval, ranking, time and text feature embeddings, and multi-task modeling on Olist retail dataset.",
+  "source": "@site/docs/tutorials/tfrs-olist.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tfrs-olist",
+  "permalink": "/docs/tutorials/tfrs-olist",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tfrs-olist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tfrs-ml-m",
+    "permalink": "/docs/tutorials/tfrs-ml-m"
+  },
+  "next": {
+    "title": "tfrs-recommenders-olist",
+    "permalink": "/docs/tutorials/tfrs-recommenders-olist"
+  }
+}

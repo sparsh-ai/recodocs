@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/content-based-music-recommender-lyricsfreak",
+  "id": "tutorials/content-based-music-recommender-lyricsfreak",
+  "title": "content-based-music-recommender-lyricsfreak",
+  "description": "Applying TF-IDF on song lyrics to find the similar songs for users using LyricsFreak dataset",
+  "source": "@site/docs/tutorials/content-based-music-recommender-lyricsfreak.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/content-based-music-recommender-lyricsfreak",
+  "permalink": "/docs/tutorials/content-based-music-recommender-lyricsfreak",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/content-based-music-recommender-lyricsfreak.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "content-based-and-collaborative-movielens",
+    "permalink": "/docs/tutorials/content-based-and-collaborative-movielens"
+  },
+  "next": {
+    "title": "Contextual bandit dash app",
+    "permalink": "/docs/tutorials/contextual-bandit-dash-app"
+  }
+}

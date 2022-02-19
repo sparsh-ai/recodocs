@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/recostep-movielens-neural-mf",
+  "id": "tutorials/recostep-movielens-neural-mf",
+  "title": "recostep-movielens-neural-mf",
+  "description": "Experiments with different variations of Neural matrix factorization model in PyTorch on movielens dataset",
+  "source": "@site/docs/tutorials/recostep-movielens-neural-mf.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-movielens-neural-mf",
+  "permalink": "/docs/tutorials/recostep-movielens-neural-mf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-movielens-neural-mf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-mongodb-listener",
+    "permalink": "/docs/tutorials/recostep-mongodb-listener"
+  },
+  "next": {
+    "title": "recostep-session-based-recommender-using-word-vec",
+    "permalink": "/docs/tutorials/recostep-session-based-recommender-using-word-vec"
+  }
+}

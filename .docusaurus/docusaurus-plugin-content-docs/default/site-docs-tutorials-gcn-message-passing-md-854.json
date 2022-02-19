@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/gcn-message-passing",
+  "id": "tutorials/gcn-message-passing",
+  "title": "gcn-message-passing",
+  "description": "Scale neighborhood sum by neighborhood size (i.e. average values)",
+  "source": "@site/docs/tutorials/gcn-message-passing.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gcn-message-passing",
+  "permalink": "/docs/tutorials/gcn-message-passing",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gcn-message-passing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "py3modeling",
+        "language": "python",
+        "name": "py3modeling"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gcegnn-tmall",
+    "permalink": "/docs/tutorials/gcegnn-tmall"
+  },
+  "next": {
+    "title": "gcn-on-cora-in-pytorch",
+    "permalink": "/docs/tutorials/gcn-on-cora-in-pytorch"
+  }
+}

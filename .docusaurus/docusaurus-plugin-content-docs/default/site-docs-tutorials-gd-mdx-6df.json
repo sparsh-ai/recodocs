@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/gd",
+  "id": "tutorials/gd",
+  "title": "gd",
+  "description": "Frequently when doing data science, we’ll be trying to the find the best model for a certain situation. And usually “best” will mean something like “minimizes the error of its predictions” or “maximizes the likelihood of the data.” In other words, it will represent the solution to some sort of optimization problem.",
+  "source": "@site/docs/tutorials/gd.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gd",
+  "permalink": "/docs/tutorials/gd",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gd.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gcn-on-cora-in-pytorch",
+    "permalink": "/docs/tutorials/gcn-on-cora-in-pytorch"
+  },
+  "next": {
+    "title": "Running Great Expectations Pipeline in Airflow",
+    "permalink": "/docs/tutorials/ge-airflow"
+  }
+}

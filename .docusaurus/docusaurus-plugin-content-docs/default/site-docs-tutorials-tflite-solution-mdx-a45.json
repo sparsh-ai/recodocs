@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/tflite-solution",
+  "id": "tutorials/tflite-solution",
+  "title": "tflite-solution",
+  "description": "Copyright 2018 The TensorFlow Authors.",
+  "source": "@site/docs/tutorials/tflite-solution.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tflite-solution",
+  "permalink": "/docs/tutorials/tflite-solution",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tflite-solution.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tflite-exercise",
+    "permalink": "/docs/tutorials/tflite-exercise"
+  },
+  "next": {
+    "title": "tflite",
+    "permalink": "/docs/tutorials/tflite"
+  }
+}

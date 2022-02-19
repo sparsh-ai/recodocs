@@ -1,0 +1,34 @@
+{
+  "unversionedId": "tutorials/databricks-collaborative-filtering-data-preparation",
+  "id": "tutorials/databricks-collaborative-filtering-data-preparation",
+  "title": "databricks-collaborative-filtering-data-preparation",
+  "description": "Preparing data for an end to end collaborative filtering based recommender system",
+  "source": "@site/docs/tutorials/databricks-collaborative-filtering-data-preparation.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/databricks-collaborative-filtering-data-preparation",
+  "permalink": "/docs/tutorials/databricks-collaborative-filtering-data-preparation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/databricks-collaborative-filtering-data-preparation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Science Bookcamp",
+    "permalink": "/docs/tutorials/data-science-bookcamp"
+  },
+  "next": {
+    "title": "dbt Postgres Data Pipeline",
+    "permalink": "/docs/tutorials/dbt"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game",
+  "id": "tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game",
+  "title": "finding-the-winning-strategy-in-a-red-color-win-card-game",
+  "description": "Would you like to win a bit of money? Let’s wager on a card game for minor stakes. In front of you is a shuffled deck of cards. All 52 cards lie face down. Half the cards are red, and half are black. I will proceed to flip over the cards one by one. If the last card I flip over is red, you’ll win a dollar. Otherwise, you’ll lose a dollar.",
+  "source": "@site/docs/tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game",
+  "permalink": "/docs/tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FinBERT QA",
+    "permalink": "/docs/tutorials/finbert"
+  },
+  "next": {
+    "title": "finding-the-winning-strategy-in-a-sum-card-game",
+    "permalink": "/docs/tutorials/finding-the-winning-strategy-in-a-sum-card-game"
+  }
+}

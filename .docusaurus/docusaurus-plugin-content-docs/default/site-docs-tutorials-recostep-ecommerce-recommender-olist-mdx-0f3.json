@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/recostep-ecommerce-recommender-olist",
+  "id": "tutorials/recostep-ecommerce-recommender-olist",
+  "title": "recostep-ecommerce-recommender-olist",
+  "description": "Olist e-commerce dataset to build simple recommender systems",
+  "source": "@site/docs/tutorials/recostep-ecommerce-recommender-olist.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-ecommerce-recommender-olist",
+  "permalink": "/docs/tutorials/recostep-ecommerce-recommender-olist",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-ecommerce-recommender-olist.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recommender-sagemaker",
+    "permalink": "/docs/tutorials/recommender-sagemaker"
+  },
+  "next": {
+    "title": "recostep-kafka-consumer-mongodb",
+    "permalink": "/docs/tutorials/recostep-kafka-consumer-mongodb"
+  }
+}

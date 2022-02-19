@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/hierarchical-rl-on-ml-k",
+  "id": "tutorials/hierarchical-rl-on-ml-k",
+  "title": "hierarchical-rl-on-ml-k",
+  "description": "",
+  "source": "@site/docs/tutorials/hierarchical-rl-on-ml-k.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/hierarchical-rl-on-ml-k",
+  "permalink": "/docs/tutorials/hierarchical-rl-on-ml-k",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/hierarchical-rl-on-ml-k.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hers",
+    "permalink": "/docs/tutorials/hers"
+  },
+  "next": {
+    "title": "how-to-install-dask-in-colab",
+    "permalink": "/docs/tutorials/how-to-install-dask-in-colab"
+  }
+}

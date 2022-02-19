@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/sequence-aware-recommenders-music",
+  "id": "tutorials/sequence-aware-recommenders-music",
+  "title": "sequence-aware-recommenders-music",
+  "description": "A tutorial on Sequence-Aware Recommender Systems",
+  "source": "@site/docs/tutorials/sequence-aware-recommenders-music.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sequence-aware-recommenders-music",
+  "permalink": "/docs/tutorials/sequence-aware-recommenders-music",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sequence-aware-recommenders-music.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seq-seq-mapping",
+    "permalink": "/docs/tutorials/seq-seq-mapping"
+  },
+  "next": {
+    "title": "sequential-recommendation-using-ptgcn",
+    "permalink": "/docs/tutorials/sequential-recommendation-using-ptgcn"
+  }
+}

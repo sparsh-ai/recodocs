@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/methods-for-effective-online-testing",
+  "id": "tutorials/methods-for-effective-online-testing",
+  "title": "methods-for-effective-online-testing",
+  "description": "Testing out different bandit methods for effective online testing methods",
+  "source": "@site/docs/tutorials/methods-for-effective-online-testing.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/methods-for-effective-online-testing",
+  "permalink": "/docs/tutorials/methods-for-effective-online-testing",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/methods-for-effective-online-testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metatl-for-cold-start-users-on-amazon-electronics-dataset",
+    "permalink": "/docs/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset"
+  },
+  "next": {
+    "title": "mf-ml",
+    "permalink": "/docs/tutorials/mf-ml"
+  }
+}

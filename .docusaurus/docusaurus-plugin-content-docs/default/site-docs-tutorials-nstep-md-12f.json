@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/nstep",
+  "id": "tutorials/nstep",
+  "title": "nstep",
+  "description": "For some applications it makes sense to look several steps ahead before making a choice. In the grid example, if the agent can see that the current trajectory is leading the agent to fall off the cliff, the agent can take avoiding action now, before it becomes too late. In a sense, the agent is looking further into the future.",
+  "source": "@site/docs/tutorials/nstep.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/nstep",
+  "permalink": "/docs/tutorials/nstep",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/nstep.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "node-vec",
+    "permalink": "/docs/tutorials/node-vec"
+  },
+  "next": {
+    "title": "Object Detection using TF Hub",
+    "permalink": "/docs/tutorials/obj-det"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recommender-sagemaker",
+  "id": "tutorials/recommender-sagemaker",
+  "title": "recommender-sagemaker",
+  "description": "In this tutorial, we show you how to improve the personalized ranking of an online retail use case using Implicit BPR, available in AWS Marketplace, and Amazon SageMaker. We further show you how to use SageMaker to collect, analyze, clean, prepare, train, and deploy the model to perform both batch and real-time inferences on the trained model.",
+  "source": "@site/docs/tutorials/recommender-sagemaker.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recommender-sagemaker",
+  "permalink": "/docs/tutorials/recommender-sagemaker",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recommender-sagemaker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recommender-playground-packt",
+    "permalink": "/docs/tutorials/recommender-playground-packt"
+  },
+  "next": {
+    "title": "recostep-ecommerce-recommender-olist",
+    "permalink": "/docs/tutorials/recostep-ecommerce-recommender-olist"
+  }
+}

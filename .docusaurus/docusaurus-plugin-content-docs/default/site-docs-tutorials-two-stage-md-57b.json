@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/two-stage",
+  "id": "tutorials/two-stage",
+  "title": "Two-Stage Recommendation System",
+  "description": "Why 2 levels?",
+  "source": "@site/docs/tutorials/two-stage.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/two-stage",
+  "permalink": "/docs/tutorials/two-stage",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/two-stage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "twitter-sentiment-analysis-with-bert",
+    "permalink": "/docs/tutorials/twitter-sentiment-analysis-with-bert"
+  },
+  "next": {
+    "title": "twostage-retail",
+    "permalink": "/docs/tutorials/twostage-retail"
+  }
+}

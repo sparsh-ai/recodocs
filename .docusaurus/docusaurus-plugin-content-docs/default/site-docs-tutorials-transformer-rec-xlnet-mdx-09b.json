@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/transformer-rec-xlnet",
+  "id": "tutorials/transformer-rec-xlnet",
+  "title": "transformer-rec-xlnet",
+  "description": "In this tutorial we introduce the Transformers4Rec library for sequential and session-based recommendation. This tutorial uses the PyTorch API, but a TensorFlow API is also available. Transformers4Rec integrates with the popular HuggingFace’s Transformers and make it possible to experiment with cutting-edge implementation of the latest NLP Transformer architectures.",
+  "source": "@site/docs/tutorials/transformer-rec-xlnet.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/transformer-rec-xlnet",
+  "permalink": "/docs/tutorials/transformer-rec-xlnet",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/transformer-rec-xlnet.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3 (ipykernel)",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transformer-from-scratch-in-pytorch",
+    "permalink": "/docs/tutorials/transformer-from-scratch-in-pytorch"
+  },
+  "next": {
+    "title": "transformers-rec-session-based-recommender-on-rees",
+    "permalink": "/docs/tutorials/transformers-rec-session-based-recommender-on-rees"
+  }
+}

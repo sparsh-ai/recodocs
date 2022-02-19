@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/tensorboard",
+  "id": "tutorials/tensorboard",
+  "title": "tensorboard",
+  "description": "How to use TensorBoard with PyTorch",
+  "source": "@site/docs/tutorials/tensorboard.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/tensorboard",
+  "permalink": "/docs/tutorials/tensorboard",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tensorboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "teacher-recommender",
+    "permalink": "/docs/tutorials/teacher-recommender"
+  },
+  "next": {
+    "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+    "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
+  }
+}

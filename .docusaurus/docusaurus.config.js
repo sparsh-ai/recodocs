@@ -8,6 +8,9 @@ export default {
   "favicon": "img/logo.svg",
   "organizationName": "recohut",
   "projectName": "docs",
+  "plugins": [
+    "/content/docs/node_modules/@cmfcmf/docusaurus-search-local/lib/server/index.js"
+  ],
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -343,7 +346,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "titleDelimiter": "|",
   "noIndex": false

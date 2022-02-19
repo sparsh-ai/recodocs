@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/replay-library-experiments-on-ml-m-part",
+  "id": "tutorials/replay-library-experiments-on-ml-m-part",
+  "title": "replay-library-experiments-on-ml-m-part",
+  "description": "Setup",
+  "source": "@site/docs/tutorials/replay-library-experiments-on-ml-m-part.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/replay-library-experiments-on-ml-m-part",
+  "permalink": "/docs/tutorials/replay-library-experiments-on-ml-m-part",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/replay-library-experiments-on-ml-m-part.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reinforce",
+    "permalink": "/docs/tutorials/reinforce"
+  },
+  "next": {
+    "title": "resale-prediction",
+    "permalink": "/docs/tutorials/resale-prediction"
+  }
+}

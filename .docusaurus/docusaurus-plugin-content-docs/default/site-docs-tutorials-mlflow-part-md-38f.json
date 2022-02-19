@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/mlflow-part",
+  "id": "tutorials/mlflow-part",
+  "title": "MLFlow Part 3",
+  "description": "Environment setup",
+  "source": "@site/docs/tutorials/mlflow-part.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mlflow-part",
+  "permalink": "/docs/tutorials/mlflow-part",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mlflow-part.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ml-pytorch-aws",
+    "permalink": "/docs/tutorials/ml-pytorch-aws"
+  },
+  "next": {
+    "title": "mlops-optimus",
+    "permalink": "/docs/tutorials/mlops-optimus"
+  }
+}

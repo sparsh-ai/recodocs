@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/graph-benchmarks",
+  "id": "tutorials/graph-benchmarks",
+  "title": "graph-benchmarks",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/graph-benchmarks.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/graph-benchmarks",
+  "permalink": "/docs/tutorials/graph-benchmarks",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph-benchmarks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Embeddings using Autoencoder",
+    "permalink": "/docs/tutorials/graph-ae"
+  },
+  "next": {
+    "title": "graph-convolutional-networks-using-only-numpy",
+    "permalink": "/docs/tutorials/graph-convolutional-networks-using-only-numpy"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/concept-nlp-basics",
+  "id": "tutorials/concept-nlp-basics",
+  "title": "concept-nlp-basics",
+  "description": "Understand the basic process of pattern recognition that is needed to work with text data. This approach can be used for a large number of basic operations on text data like Document Classification (e.g. topic of an article),Sequence to Sequence Learning (e.g. translations), and Sentiment Analysis",
+  "source": "@site/docs/tutorials/concept-nlp-basics.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/concept-nlp-basics",
+  "permalink": "/docs/tutorials/concept-nlp-basics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/concept-nlp-basics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concept-neural-net",
+    "permalink": "/docs/tutorials/concept-neural-net"
+  },
+  "next": {
+    "title": "concept-normalization",
+    "permalink": "/docs/tutorials/concept-normalization"
+  }
+}

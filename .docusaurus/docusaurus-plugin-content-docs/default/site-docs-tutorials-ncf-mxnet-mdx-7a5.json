@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ncf-mxnet",
+  "id": "tutorials/ncf-mxnet",
+  "title": "Neural Collaborative Filtering for Personalized Ranking",
+  "description": "The following additional libraries are needed to run this",
+  "source": "@site/docs/tutorials/ncf-mxnet.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ncf-mxnet",
+  "permalink": "/docs/tutorials/ncf-mxnet",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ncf-mxnet.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ncf-movielens-tensorflow",
+    "permalink": "/docs/tutorials/ncf-movielens-tensorflow"
+  },
+  "next": {
+    "title": "ncf-on-ml-m-in-tf-x",
+    "permalink": "/docs/tutorials/ncf-on-ml-m-in-tf-x"
+  }
+}

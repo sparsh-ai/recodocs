@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/implicit-pairwise-losses",
+  "id": "tutorials/implicit-pairwise-losses",
+  "title": "implicit-pairwise-losses",
+  "description": "Learn about bpr, hinge, and warp losses and their adpative versions. Also learning partial credit adjustment in losses.",
+  "source": "@site/docs/tutorials/implicit-pairwise-losses.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/implicit-pairwise-losses",
+  "permalink": "/docs/tutorials/implicit-pairwise-losses",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/implicit-pairwise-losses.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "implicit-lastfm",
+    "permalink": "/docs/tutorials/implicit-lastfm"
+  },
+  "next": {
+    "title": "implicit-recommendation",
+    "permalink": "/docs/tutorials/implicit-recommendation"
+  }
+}

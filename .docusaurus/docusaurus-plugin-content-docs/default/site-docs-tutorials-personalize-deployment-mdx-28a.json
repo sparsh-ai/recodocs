@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/personalize-deployment",
+  "id": "tutorials/personalize-deployment",
+  "title": "personalize-deployment",
+  "description": "1. Introduction",
+  "source": "@site/docs/tutorials/personalize-deployment.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/personalize-deployment",
+  "permalink": "/docs/tutorials/personalize-deployment",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/personalize-deployment.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "personalize-datalayer",
+    "permalink": "/docs/tutorials/personalize-datalayer"
+  },
+  "next": {
+    "title": "personalize-inference",
+    "permalink": "/docs/tutorials/personalize-inference"
+  }
+}

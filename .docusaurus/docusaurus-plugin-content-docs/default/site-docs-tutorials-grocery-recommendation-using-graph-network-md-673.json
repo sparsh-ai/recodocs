@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/grocery-recommendation-using-graph-network",
+  "id": "tutorials/grocery-recommendation-using-graph-network",
+  "title": "grocery-recommendation-using-graph-network",
+  "description": "Building word2vec based Graph network using Instacart dataset and finding similar as well as neighbourhood items, and building a dash app",
+  "source": "@site/docs/tutorials/grocery-recommendation-using-graph-network.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/grocery-recommendation-using-graph-network",
+  "permalink": "/docs/tutorials/grocery-recommendation-using-graph-network",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/grocery-recommendation-using-graph-network.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gridworld-v",
+    "permalink": "/docs/tutorials/gridworld-v"
+  },
+  "next": {
+    "title": "Grokking AI Algorithms - Maze",
+    "permalink": "/docs/tutorials/grokking-maze"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/real-time-in-session-personalization",
+  "id": "tutorials/real-time-in-session-personalization",
+  "title": "real-time-in-session-personalization",
+  "description": "Personalization with deep learning in 100 lines of code using Elasticsearch, Redis and Word2vec",
+  "source": "@site/docs/tutorials/real-time-in-session-personalization.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/real-time-in-session-personalization",
+  "permalink": "/docs/tutorials/real-time-in-session-personalization",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/real-time-in-session-personalization.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Real-time event capturing with Kafka and MongoDB",
+    "permalink": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb"
+  },
+  "next": {
+    "title": "rec-algo-ncf-pytorch-pyy",
+    "permalink": "/docs/tutorials/rec-algo-ncf-pytorch-pyy"
+  }
+}

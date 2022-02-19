@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/live-streamer-recommender",
+  "id": "tutorials/live-streamer-recommender",
+  "title": "live-streamer-recommender",
+  "description": "A recommendation system based on implicit data (watch duration) of users to different streamers. Contains also clustering of these users based from the behavior/relationship to the different streamers",
+  "source": "@site/docs/tutorials/live-streamer-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/live-streamer-recommender",
+  "permalink": "/docs/tutorials/live-streamer-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/live-streamer-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "listwise-retail",
+    "permalink": "/docs/tutorials/listwise-retail"
+  },
+  "next": {
+    "title": "lrgccf-gowalla",
+    "permalink": "/docs/tutorials/lrgccf-gowalla"
+  }
+}

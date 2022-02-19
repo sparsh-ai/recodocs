@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation",
+  "id": "tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation",
+  "title": "Recommender Systems - Introduction",
+  "description": "Today, recommender systems (RS) are all around us, directing, or inducing, us to make our decisions on whether we buy that shirt, listen to Aerosmith or Coldplay or even suggesting past diseases diagnosis giving a patient's condition.",
+  "source": "@site/docs/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation",
+  "permalink": "/docs/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Import libraries and data",
+    "permalink": "/docs/tutorials/reco-tut-asr-metrics-calculation"
+  },
+  "next": {
+    "title": "reco-tut-asr-offline-evaluation",
+    "permalink": "/docs/tutorials/reco-tut-asr-offline-evaluation"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/sess-retailrocket",
+  "id": "tutorials/sess-retailrocket",
+  "title": "sess-retailrocket",
+  "description": "Estimate the predictability limits due to randomness and due to algorithm design in some methods of session-based recommendation.",
+  "source": "@site/docs/tutorials/sess-retailrocket.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sess-retailrocket",
+  "permalink": "/docs/tutorials/sess-retailrocket",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/sess-retailrocket.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "serving-cusine-recommender-at-edge-onnx",
+    "permalink": "/docs/tutorials/serving-cusine-recommender-at-edge-onnx"
+  },
+  "next": {
+    "title": "sess-sample",
+    "permalink": "/docs/tutorials/sess-sample"
+  }
+}

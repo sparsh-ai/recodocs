@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ayuhealth-food-recommender",
+  "id": "tutorials/ayuhealth-food-recommender",
+  "title": "ayuhealth-food-recommender",
+  "description": "Healthy Food Recommendation System using Content Based (KNN) & Collaborative Filtering (matrix-factorization) Method",
+  "source": "@site/docs/tutorials/ayuhealth-food-recommender.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ayuhealth-food-recommender",
+  "permalink": "/docs/tutorials/ayuhealth-food-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ayuhealth-food-recommender.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "avalanche-visual-incremental-learning",
+    "permalink": "/docs/tutorials/avalanche-visual-incremental-learning"
+  },
+  "next": {
+    "title": "bandit-based-online-learning-thompson-sampling",
+    "permalink": "/docs/tutorials/bandit-based-online-learning-thompson-sampling"
+  }
+}

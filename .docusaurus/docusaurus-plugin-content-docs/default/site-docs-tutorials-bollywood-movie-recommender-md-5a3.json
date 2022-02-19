@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/bollywood-movie-recommender",
+  "id": "tutorials/bollywood-movie-recommender",
+  "title": "bollywood-movie-recommender",
+  "description": "Applying TFIDF and Cosine similarity techniques on bollywood IMDB movie dataset to build a simple content-based recommender and wrapping into an app",
+  "source": "@site/docs/tutorials/bollywood-movie-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/bollywood-movie-recommender",
+  "permalink": "/docs/tutorials/bollywood-movie-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/bollywood-movie-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "black-box-attack-model-dvc-training-pipeline",
+    "permalink": "/docs/tutorials/black-box-attack-model-dvc-training-pipeline"
+  },
+  "next": {
+    "title": "book-crossing-surprise-svd-nmf",
+    "permalink": "/docs/tutorials/book-crossing-surprise-svd-nmf"
+  }
+}

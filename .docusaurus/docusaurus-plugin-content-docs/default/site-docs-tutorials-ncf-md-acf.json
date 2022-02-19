@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ncf",
+  "id": "tutorials/ncf",
+  "title": "ncf",
+  "description": "NCF with PyTorch Lightning on ML-25m",
+  "source": "@site/docs/tutorials/ncf.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ncf",
+  "permalink": "/docs/tutorials/ncf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ncf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NCF Torch",
+    "permalink": "/docs/tutorials/ncf-torch"
+  },
+  "next": {
+    "title": "negative-sampling",
+    "permalink": "/docs/tutorials/negative-sampling"
+  }
+}

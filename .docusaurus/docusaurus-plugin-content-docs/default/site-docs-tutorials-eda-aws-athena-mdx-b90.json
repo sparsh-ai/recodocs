@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/eda-aws-athena",
+  "id": "tutorials/eda-aws-athena",
+  "title": "eda-aws-athena",
+  "description": "Note//learning.oreilly.com/library/view/mlops-engineering-at/9781617297762/OEBPS/Text/03.htm",
+  "source": "@site/docs/tutorials/eda-aws-athena.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/eda-aws-athena",
+  "permalink": "/docs/tutorials/eda-aws-athena",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/eda-aws-athena.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "easyocr",
+    "permalink": "/docs/tutorials/easyocr"
+  },
+  "next": {
+    "title": "eda-ml-latest",
+    "permalink": "/docs/tutorials/eda-ml-latest"
+  }
+}

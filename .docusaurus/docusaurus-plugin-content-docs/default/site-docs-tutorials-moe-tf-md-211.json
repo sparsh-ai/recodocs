@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/moe-tf",
+  "id": "tutorials/moe-tf",
+  "title": "moe-tf",
+  "description": "Multi-task",
+  "source": "@site/docs/tutorials/moe-tf.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/moe-tf",
+  "permalink": "/docs/tutorials/moe-tf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/moe-tf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mmoe-on-census-income-data-in-tensorflow",
+    "permalink": "/docs/tutorials/mmoe-on-census-income-data-in-tensorflow"
+  },
+  "next": {
+    "title": "mongodb-to-csv-conversion",
+    "permalink": "/docs/tutorials/mongodb-to-csv-conversion"
+  }
+}

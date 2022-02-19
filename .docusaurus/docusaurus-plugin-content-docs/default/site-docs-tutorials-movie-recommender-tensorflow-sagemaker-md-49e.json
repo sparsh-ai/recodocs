@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/movie-recommender-tensorflow-sagemaker",
+  "id": "tutorials/movie-recommender-tensorflow-sagemaker",
+  "title": "movie-recommender-tensorflow-sagemaker",
+  "description": "Tutorial on ow to build and deploy a customized recommender system using Neural Collaborative Filtering model in TensorFlow 2.0 on Amazon SageMaker, based on which you can customize further accordingly.",
+  "source": "@site/docs/tutorials/movie-recommender-tensorflow-sagemaker.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/movie-recommender-tensorflow-sagemaker",
+  "permalink": "/docs/tutorials/movie-recommender-tensorflow-sagemaker",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/movie-recommender-tensorflow-sagemaker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "movie-recommender-system",
+    "permalink": "/docs/tutorials/movie-recommender-system"
+  },
+  "next": {
+    "title": "movie-recommender-tensorflow",
+    "permalink": "/docs/tutorials/movie-recommender-tensorflow"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/cmf",
+  "id": "tutorials/cmf",
+  "title": "cmf",
+  "description": "CMF on dummy dataset using PyCMF library",
+  "source": "@site/docs/tutorials/cmf.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cmf",
+  "permalink": "/docs/tutorials/cmf",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/cmf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clustering-data-into-groups-using-k-means-and-dbscan",
+    "permalink": "/docs/tutorials/clustering-data-into-groups-using-k-means-and-dbscan"
+  },
+  "next": {
+    "title": "cml-on-ml-m",
+    "permalink": "/docs/tutorials/cml-on-ml-m"
+  }
+}

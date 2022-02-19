@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/bst-in-pytorch",
+  "id": "tutorials/bst-in-pytorch",
+  "title": "bst-in-pytorch",
+  "description": "BST Model Implementation in PyTorch. Main purpose is to get familier with BST model, so only code is available upto trainer module. Inference and dataset runs will be added in future possibly.",
+  "source": "@site/docs/tutorials/bst-in-pytorch.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/bst-in-pytorch",
+  "permalink": "/docs/tutorials/bst-in-pytorch",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/bst-in-pytorch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bst-deetctr",
+    "permalink": "/docs/tutorials/bst-deetctr"
+  },
+  "next": {
+    "title": "bst-mxnet",
+    "permalink": "/docs/tutorials/bst-mxnet"
+  }
+}

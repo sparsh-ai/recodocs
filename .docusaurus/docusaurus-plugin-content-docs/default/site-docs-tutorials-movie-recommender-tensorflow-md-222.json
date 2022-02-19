@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/movie-recommender-tensorflow",
+  "id": "tutorials/movie-recommender-tensorflow",
+  "title": "movie-recommender-tensorflow",
+  "description": "This notebook complements the course on Recommendation Systems. Specifically, we'll be using matrix factorization to learn user and movie embeddings.",
+  "source": "@site/docs/tutorials/movie-recommender-tensorflow.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/movie-recommender-tensorflow",
+  "permalink": "/docs/tutorials/movie-recommender-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/movie-recommender-tensorflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "movie-recommender-tensorflow-sagemaker",
+    "permalink": "/docs/tutorials/movie-recommender-tensorflow-sagemaker"
+  },
+  "next": {
+    "title": "movie-recsys",
+    "permalink": "/docs/tutorials/movie-recsys"
+  }
+}

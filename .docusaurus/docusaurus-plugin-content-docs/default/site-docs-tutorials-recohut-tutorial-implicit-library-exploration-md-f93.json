@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recohut-tutorial-implicit-library-exploration",
+  "id": "tutorials/recohut-tutorial-implicit-library-exploration",
+  "title": "recohut-tutorial-implicit-library-exploration",
+  "description": "",
+  "source": "@site/docs/tutorials/recohut-tutorial-implicit-library-exploration.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recohut-tutorial-implicit-library-exploration",
+  "permalink": "/docs/tutorials/recohut-tutorial-implicit-library-exploration",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recohut-tutorial-implicit-library-exploration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recograph-word-vec-amazon-electronics",
+    "permalink": "/docs/tutorials/recograph-word-vec-amazon-electronics"
+  },
+  "next": {
+    "title": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
+    "permalink": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow"
+  }
+}

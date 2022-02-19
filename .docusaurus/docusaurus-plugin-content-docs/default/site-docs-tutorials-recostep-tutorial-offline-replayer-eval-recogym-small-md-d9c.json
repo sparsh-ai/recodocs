@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/recostep-tutorial-offline-replayer-eval-recogym-small",
+  "id": "tutorials/recostep-tutorial-offline-replayer-eval-recogym-small",
+  "title": "recostep-tutorial-offline-replayer-eval-recogym-small",
+  "description": "Running recogym for offline simulation and evaluation with small number of users and items",
+  "source": "@site/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym-small.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recostep-tutorial-offline-replayer-eval-recogym-small",
+  "permalink": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym-small",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym-small.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recostep-tutorial-offline-replayer-eval-movielens",
+    "permalink": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-movielens"
+  },
+  "next": {
+    "title": "recostep-tutorial-offline-replayer-eval-recogym",
+    "permalink": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym"
+  }
+}

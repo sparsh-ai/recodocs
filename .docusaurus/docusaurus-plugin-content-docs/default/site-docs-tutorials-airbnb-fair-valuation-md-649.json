@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/airbnb-fair-valuation",
+  "id": "tutorials/airbnb-fair-valuation",
+  "title": "airbnb-fair-valuation",
+  "description": "Welcome to Airbnb Analysis Corp.! Your task is to set the competitive daily accomodation rate for a client's house in Bondi Beach. The owner currently charges $500. We have been tasked to estimate a fair value that the owner should be charging. The house has the following characteristics and constraints. While developing this model you came to realise that Airbnb can use your model to estimate the fair value of any property on their database, your are effectively creating a recommendation model for all prospective hosts!",
+  "source": "@site/docs/tutorials/airbnb-fair-valuation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/airbnb-fair-valuation",
+  "permalink": "/docs/tutorials/airbnb-fair-valuation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/airbnb-fair-valuation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "agriculture-image-segmentation",
+    "permalink": "/docs/tutorials/agriculture-image-segmentation"
+  },
+  "next": {
+    "title": "als-ml-m",
+    "permalink": "/docs/tutorials/als-ml-m"
+  }
+}

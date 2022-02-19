@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/how-to-setup-and-run-jenkins",
+  "id": "tutorials/how-to-setup-and-run-jenkins",
+  "title": "how-to-setup-and-run-jenkins",
+  "description": "Jenkins is a specialised tool that is designed to provide software teams from all sorts of backgrounds with the necessary capabilities to build and refine their source code in the best possible way.",
+  "source": "@site/docs/tutorials/how-to-setup-and-run-jenkins.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/how-to-setup-and-run-jenkins",
+  "permalink": "/docs/tutorials/how-to-setup-and-run-jenkins",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/how-to-setup-and-run-jenkins.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "how-to-install-dask-in-colab",
+    "permalink": "/docs/tutorials/how-to-install-dask-in-colab"
+  },
+  "next": {
+    "title": "huggingface",
+    "permalink": "/docs/tutorials/huggingface"
+  }
+}

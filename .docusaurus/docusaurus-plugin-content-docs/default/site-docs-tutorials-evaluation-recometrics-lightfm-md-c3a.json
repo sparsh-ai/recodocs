@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/evaluation-recometrics-lightfm",
+  "id": "tutorials/evaluation-recometrics-lightfm",
+  "title": "evaluation-recometrics-lightfm",
+  "description": "Comparing iALS, BPR, ItemPop, and Random baseline models on LastFM-250K music dataset",
+  "source": "@site/docs/tutorials/evaluation-recometrics-lightfm.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/evaluation-recometrics-lightfm",
+  "permalink": "/docs/tutorials/evaluation-recometrics-lightfm",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/evaluation-recometrics-lightfm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evaluation-of-multiple-off-policy-estimators-on-synthetic-dataset",
+    "permalink": "/docs/tutorials/evaluation-of-multiple-off-policy-estimators-on-synthetic-dataset"
+  },
+  "next": {
+    "title": "explainable-bpr-lastfm",
+    "permalink": "/docs/tutorials/explainable-bpr-lastfm"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/vw",
+  "id": "tutorials/vw",
+  "title": "vw",
+  "description": "We will simulate the scenario of personalizing news content on a site, using CB, to users. The goal is to maximize user engagement quantified by measuring click through rate (CTR).",
+  "source": "@site/docs/tutorials/vw.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/vw",
+  "permalink": "/docs/tutorials/vw",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/vw.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vw-contextual-mod",
+    "permalink": "/docs/tutorials/vw-contextual-mod"
+  },
+  "next": {
+    "title": "warm-start-model-retraining",
+    "permalink": "/docs/tutorials/warm-start-model-retraining"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/simple-movie-recommender-app-streamlit",
+  "id": "tutorials/simple-movie-recommender-app-streamlit",
+  "title": "simple-movie-recommender-app-streamlit",
+  "description": "Simple end-to-end content-based movie recommender app built using streamlit and TMDB data",
+  "source": "@site/docs/tutorials/simple-movie-recommender-app-streamlit.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/simple-movie-recommender-app-streamlit",
+  "permalink": "/docs/tutorials/simple-movie-recommender-app-streamlit",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/simple-movie-recommender-app-streamlit.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simple Recommender Models",
+    "permalink": "/docs/tutorials/simple-models"
+  },
+  "next": {
+    "title": "simple-movie-recommender",
+    "permalink": "/docs/tutorials/simple-movie-recommender"
+  }
+}

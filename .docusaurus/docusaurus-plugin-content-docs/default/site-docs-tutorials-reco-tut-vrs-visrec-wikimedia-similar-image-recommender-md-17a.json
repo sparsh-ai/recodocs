@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender",
+  "id": "tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender",
+  "title": "reco-tut-vrs-visrec-wikimedia-similar-image-recommender",
+  "description": "Download the dataset",
+  "source": "@site/docs/tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender",
+  "permalink": "/docs/tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reco-tut-vrr-recommendations",
+    "permalink": "/docs/tutorials/reco-tut-vrr-recommendations"
+  },
+  "next": {
+    "title": "reco-tut-ypr",
+    "permalink": "/docs/tutorials/reco-tut-ypr"
+  }
+}

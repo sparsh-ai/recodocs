@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/trend-news",
+  "id": "tutorials/trend-news",
+  "title": "trend-news",
+  "description": "Congratulations! You have just been hired by the American Institute of Health. The Institute monitors disease epidemics in both foreign and domestic lands. A critical component of the monitoring process is analyzing published news data. Each day, the Institute receives hundreds of news headlines describing disease outbreaks in various locations. The news headlines are too numerous to be analyzed by hand.",
+  "source": "@site/docs/tutorials/trend-news.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/trend-news",
+  "permalink": "/docs/tutorials/trend-news",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/trend-news.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "travel-optim",
+    "permalink": "/docs/tutorials/travel-optim"
+  },
+  "next": {
+    "title": "trivago-popular-destination-recommender",
+    "permalink": "/docs/tutorials/trivago-popular-destination-recommender"
+  }
+}

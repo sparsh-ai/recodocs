@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/objectworld",
+  "id": "tutorials/objectworld",
+  "title": "objectworld",
+  "description": "Gridworld",
+  "source": "@site/docs/tutorials/objectworld.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/objectworld",
+  "permalink": "/docs/tutorials/objectworld",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/objectworld.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "object-detection",
+    "permalink": "/docs/tutorials/object-detection"
+  },
+  "next": {
+    "title": "obp-library-workshop-tutorials",
+    "permalink": "/docs/tutorials/obp-library-workshop-tutorials"
+  }
+}

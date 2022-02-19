@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/gat-cora",
+  "id": "tutorials/gat-cora",
+  "title": "gat-cora",
+  "description": "Imports",
+  "source": "@site/docs/tutorials/gat-cora.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gat-cora",
+  "permalink": "/docs/tutorials/gat-cora",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/gat-cora.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gan-user-model-for-rl-based-recommendation-system",
+    "permalink": "/docs/tutorials/gan-user-model-for-rl-based-recommendation-system"
+  },
+  "next": {
+    "title": "gat-in-tensorflow-x",
+    "permalink": "/docs/tutorials/gat-in-tensorflow-x"
+  }
+}

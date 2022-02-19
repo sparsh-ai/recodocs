@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/wellness-tracker-bot",
+  "id": "tutorials/wellness-tracker-bot",
+  "title": "wellness-tracker-bot",
+  "description": "A bot that logs daily wellness data to a spreadsheet (using the Airtable API), to help the user keep track of their health goals. Connect the assistant to a messaging channel—Twilio—so users can talk to the assistant via text message and Whatsapp.",
+  "source": "@site/docs/tutorials/wellness-tracker-bot.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wellness-tracker-bot",
+  "permalink": "/docs/tutorials/wellness-tracker-bot",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/wellness-tracker-bot.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "web-scraping-tutorial",
+    "permalink": "/docs/tutorials/web-scraping-tutorial"
+  },
+  "next": {
+    "title": "wide-and-deep-criteo",
+    "permalink": "/docs/tutorials/wide-and-deep-criteo"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/maxent-gridworld",
+  "id": "tutorials/maxent-gridworld",
+  "title": "maxent-gridworld",
+  "description": "Implementation of MaxEnt-IRL model for FBER recommendation system, based on the approach of Ziebart et al. 2008 paper: Maximum Entropy Inverse Reinforcement Learning.",
+  "source": "@site/docs/tutorials/maxent-gridworld.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/maxent-gridworld",
+  "permalink": "/docs/tutorials/maxent-gridworld",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/maxent-gridworld.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "matrix-factorization-with-sgd-and-als-on-ml-m",
+    "permalink": "/docs/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m"
+  },
+  "next": {
+    "title": "maxent-in-mountaincar-environment",
+    "permalink": "/docs/tutorials/maxent-in-mountaincar-environment"
+  }
+}

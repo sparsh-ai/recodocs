@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/building-deploying-asos-fashion-recommender-tensorflow",
+  "id": "tutorials/building-deploying-asos-fashion-recommender-tensorflow",
+  "title": "building-deploying-asos-fashion-recommender-tensorflow",
+  "description": "Building a fashion recommender using tensorflow and deploying using tensorflow serving",
+  "source": "@site/docs/tutorials/building-deploying-asos-fashion-recommender-tensorflow.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/building-deploying-asos-fashion-recommender-tensorflow",
+  "permalink": "/docs/tutorials/building-deploying-asos-fashion-recommender-tensorflow",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/building-deploying-asos-fashion-recommender-tensorflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "language": "python",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "building-an-rl-agent-to-manage-emails-on-the-web",
+    "permalink": "/docs/tutorials/building-an-rl-agent-to-manage-emails-on-the-web"
+  },
+  "next": {
+    "title": "building-logger-along-with-unit-testing-and-scripting",
+    "permalink": "/docs/tutorials/building-logger-along-with-unit-testing-and-scripting"
+  }
+}

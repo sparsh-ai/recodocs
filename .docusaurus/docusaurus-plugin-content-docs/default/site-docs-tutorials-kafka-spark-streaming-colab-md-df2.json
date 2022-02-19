@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/kafka-spark-streaming-colab",
+  "id": "tutorials/kafka-spark-streaming-colab",
+  "title": "kafka-spark-streaming-colab",
+  "description": "Installing Kafka and Spark streaming in colab and streaming movielens dataset",
+  "source": "@site/docs/tutorials/kafka-spark-streaming-colab.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/kafka-spark-streaming-colab",
+  "permalink": "/docs/tutorials/kafka-spark-streaming-colab",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/kafka-spark-streaming-colab.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kafka-colab",
+    "permalink": "/docs/tutorials/kafka-colab"
+  },
+  "next": {
+    "title": "karateclub-deepwalk",
+    "permalink": "/docs/tutorials/karateclub-deepwalk"
+  }
+}

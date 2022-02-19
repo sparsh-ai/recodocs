@@ -1,0 +1,39 @@
+{
+  "unversionedId": "tutorials/amazon-personalize-batch-job",
+  "id": "tutorials/amazon-personalize-batch-job",
+  "title": "amazon-personalize-batch-job",
+  "description": "Train and create batch recommendations using Amazon Personalize. Expected completion time is 1.5-2 hours",
+  "source": "@site/docs/tutorials/amazon-personalize-batch-job.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/amazon-personalize-batch-job",
+  "permalink": "/docs/tutorials/amazon-personalize-batch-job",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize-batch-job.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "conda_python3",
+        "language": "python",
+        "name": "conda_python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "amazon-crossdomain",
+    "permalink": "/docs/tutorials/amazon-crossdomain"
+  },
+  "next": {
+    "title": "amazon-personalize-batch-recommendations-lab",
+    "permalink": "/docs/tutorials/amazon-personalize-batch-recommendations-lab"
+  }
+}

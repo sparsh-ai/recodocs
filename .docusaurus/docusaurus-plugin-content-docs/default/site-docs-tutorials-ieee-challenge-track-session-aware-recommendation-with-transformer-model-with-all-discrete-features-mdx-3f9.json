@@ -1,0 +1,38 @@
+{
+  "unversionedId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
+  "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
+  "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
+  "description": "We will implement a model to predict which session the user has purchased (using FM). The feature layer of item is added, because when history was originally considered, all feats were directly averaged, which is unreasonable for features such as price. We will first make a model that discretizes all continuous features (bucketing), and then try FM to see the effect.",
+  "source": "@site/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
+  "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "jupyter": {
+      "jupytext": {
+        "text_representation": {
+          "extension": ".md",
+          "format_name": "markdown",
+          "format_version": "1.3",
+          "jupytext_version": "1.13.7"
+        }
+      },
+      "kernelspec": {
+        "display_name": "Python 3",
+        "name": "python3"
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
+    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model"
+  },
+  "next": {
+    "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
+    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction"
+  }
+}
