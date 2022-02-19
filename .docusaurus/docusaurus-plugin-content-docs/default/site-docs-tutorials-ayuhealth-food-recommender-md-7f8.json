@@ -32,7 +32,7 @@
     "permalink": "/docs/tutorials/avalanche-visual-incremental-learning"
   },
   "next": {
-    "title": "reco-tut-sjr-data-ingestion",
-    "permalink": "/docs/tutorials/reco-tut-sjr-data-ingestion"
+    "title": "bandit-based-online-learning-thompson-sampling",
+    "permalink": "/docs/tutorials/bandit-based-online-learning-thompson-sampling"
   }
 }

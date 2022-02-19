@@ -1134,8 +1134,4328 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/bandit-based-online-learning-thompson-sampling",
+              "path": "/docs/tutorials/bandit-based-online-learning-thompson-sampling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bandit-based-recommender-using-thompson-sampling",
+              "path": "/docs/tutorials/bandit-based-recommender-using-thompson-sampling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bandit-based-recommender-using-thompson-sampling-app",
+              "path": "/docs/tutorials/bandit-based-recommender-using-thompson-sampling-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/baseliness-yoochoose",
+              "path": "/docs/tutorials/baseliness-yoochoose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/batch-constrained-deep-q-learning",
+              "path": "/docs/tutorials/batch-constrained-deep-q-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/batch-learning-from-bandit-feedback-blbf",
+              "path": "/docs/tutorials/batch-learning-from-bandit-feedback-blbf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/benchmark",
+              "path": "/docs/tutorials/benchmark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bert-bert-seq-attack",
+              "path": "/docs/tutorials/bert-bert-seq-attack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bert-rec-movie",
+              "path": "/docs/tutorials/bert-rec-movie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bert-rec-on-ml-m-in-pytorch-lightning",
+              "path": "/docs/tutorials/bert-rec-on-ml-m-in-pytorch-lightning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/biasedcoin",
+              "path": "/docs/tutorials/biasedcoin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bitcoin-rl-agent",
+              "path": "/docs/tutorials/bitcoin-rl-agent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/black-box-attack-api",
+              "path": "/docs/tutorials/black-box-attack-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/black-box-attack-model-dvc-data-loader-pipeline-on-ml-m",
+              "path": "/docs/tutorials/black-box-attack-model-dvc-data-loader-pipeline-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/black-box-attack-model-dvc-negative-sampling-pipeline-on-ml-m",
+              "path": "/docs/tutorials/black-box-attack-model-dvc-negative-sampling-pipeline-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m",
+              "path": "/docs/tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/black-box-attack-model-dvc-training-pipeline",
+              "path": "/docs/tutorials/black-box-attack-model-dvc-training-pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bollywood-movie-recommender",
+              "path": "/docs/tutorials/bollywood-movie-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/book-crossing-surprise-svd-nmf",
+              "path": "/docs/tutorials/book-crossing-surprise-svd-nmf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/book-recommender-api",
+              "path": "/docs/tutorials/book-recommender-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/book-recommender-diversity-aware",
+              "path": "/docs/tutorials/book-recommender-diversity-aware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/book-recommender-kubeflow",
+              "path": "/docs/tutorials/book-recommender-kubeflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bookcrossing",
+              "path": "/docs/tutorials/bookcrossing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/booking-dot-com-trip-recommendations-baseline",
+              "path": "/docs/tutorials/booking-dot-com-trip-recommendations-baseline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/booking-dot-com-trip-recommendations-eda",
+              "path": "/docs/tutorials/booking-dot-com-trip-recommendations-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/booking-dot-com-trip-recommendations-sequential-model",
+              "path": "/docs/tutorials/booking-dot-com-trip-recommendations-sequential-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/booking-itempop",
+              "path": "/docs/tutorials/booking-itempop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bookingnet",
+              "path": "/docs/tutorials/bookingnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bpr-from-scratch-in-pytorch",
+              "path": "/docs/tutorials/bpr-from-scratch-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bpr-knn-on-ml-m",
+              "path": "/docs/tutorials/bpr-knn-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bpr-mf-on-ml-m",
+              "path": "/docs/tutorials/bpr-mf-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bpr-movie",
+              "path": "/docs/tutorials/bpr-movie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bpr-on-movielens-k",
+              "path": "/docs/tutorials/bpr-on-movielens-k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bpr-recbole",
+              "path": "/docs/tutorials/bpr-recbole",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bpr-triplet-on-ml-m-in-tensorflow",
+              "path": "/docs/tutorials/bpr-triplet-on-ml-m-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bst",
+              "path": "/docs/tutorials/bst",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bst-deetctr",
+              "path": "/docs/tutorials/bst-deetctr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bst-in-pytorch",
+              "path": "/docs/tutorials/bst-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bst-mxnet",
+              "path": "/docs/tutorials/bst-mxnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/bst-on-ml-m-in-pytorch",
+              "path": "/docs/tutorials/bst-on-ml-m-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/build-a-kubeflow-pipeline",
+              "path": "/docs/tutorials/build-a-kubeflow-pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/build-a-simple-movie-recommender-with-tensorflow",
+              "path": "/docs/tutorials/build-a-simple-movie-recommender-with-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-a-simple-gridworld-environment",
+              "path": "/docs/tutorials/building-a-simple-gridworld-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-a-stochastic-maze-gridworld-environment",
+              "path": "/docs/tutorials/building-a-stochastic-maze-gridworld-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-an-rl-agent-to-auto-login-on-the-web",
+              "path": "/docs/tutorials/building-an-rl-agent-to-auto-login-on-the-web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-an-rl-agent-to-book-flights-on-the-web",
+              "path": "/docs/tutorials/building-an-rl-agent-to-book-flights-on-the-web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
+              "path": "/docs/tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
+              "path": "/docs/tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-deploying-asos-fashion-recommender-tensorflow",
+              "path": "/docs/tutorials/building-deploying-asos-fashion-recommender-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-logger-along-with-unit-testing-and-scripting",
+              "path": "/docs/tutorials/building-logger-along-with-unit-testing-and-scripting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/building-models-from-scratch",
+              "path": "/docs/tutorials/building-models-from-scratch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cab-mind",
+              "path": "/docs/tutorials/cab-mind",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cancer-cv",
+              "path": "/docs/tutorials/cancer-cv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+              "path": "/docs/tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/capture-realtime-kafka-mongodb",
+              "path": "/docs/tutorials/capture-realtime-kafka-mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/car-damage-cv",
+              "path": "/docs/tutorials/car-damage-cv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/career-village",
+              "path": "/docs/tutorials/career-village",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cartpole-drqn",
+              "path": "/docs/tutorials/cartpole-drqn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cartpole-torch",
+              "path": "/docs/tutorials/cartpole-torch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cartpole-using-cross-entropy",
+              "path": "/docs/tutorials/cartpole-using-cross-entropy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cartpole-using-reinforce-in-pytorch",
+              "path": "/docs/tutorials/cartpole-using-reinforce-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/caser-on-ml-m-in-tf-x",
+              "path": "/docs/tutorials/caser-on-ml-m-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/causal-inference",
+              "path": "/docs/tutorials/causal-inference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cdl",
+              "path": "/docs/tutorials/cdl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cicd-docker-eks",
+              "path": "/docs/tutorials/cicd-docker-eks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cloth-parsing",
+              "path": "/docs/tutorials/cloth-parsing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/clustering-data-into-groups-using-k-means-and-dbscan",
+              "path": "/docs/tutorials/clustering-data-into-groups-using-k-means-and-dbscan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cmf",
+              "path": "/docs/tutorials/cmf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cml-on-ml-m",
+              "path": "/docs/tutorials/cml-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/code-driven-introduction-to-reinforcement-learning",
+              "path": "/docs/tutorials/code-driven-introduction-to-reinforcement-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/collaborative-filtering-movielens-latest-small",
+              "path": "/docs/tutorials/collaborative-filtering-movielens-latest-small",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/comparing-simple-exploration-techniques-greedy-annealing-and-ucb",
+              "path": "/docs/tutorials/comparing-simple-exploration-techniques-greedy-annealing-and-ucb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-drift-concept",
+              "path": "/docs/tutorials/concept-drift-concept",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-embedding-gensim-fasttext",
+              "path": "/docs/tutorials/concept-embedding-gensim-fasttext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-embedding-nlp",
+              "path": "/docs/tutorials/concept-embedding-nlp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-neural-net",
+              "path": "/docs/tutorials/concept-neural-net",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-nlp-basics",
+              "path": "/docs/tutorials/concept-nlp-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-normalization",
+              "path": "/docs/tutorials/concept-normalization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-self-attention",
+              "path": "/docs/tutorials/concept-self-attention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/concept-transformer-lm",
+              "path": "/docs/tutorials/concept-transformer-lm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/conet-model",
+              "path": "/docs/tutorials/conet-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/content-based-and-collaborative-movielens",
+              "path": "/docs/tutorials/content-based-and-collaborative-movielens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/content-based-music-recommender-lyricsfreak",
+              "path": "/docs/tutorials/content-based-music-recommender-lyricsfreak",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/contextual-bandit-dash-app",
+              "path": "/docs/tutorials/contextual-bandit-dash-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/contextual-mab",
+              "path": "/docs/tutorials/contextual-mab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/contextual-online-advertising-with-synthetic-user-data",
+              "path": "/docs/tutorials/contextual-online-advertising-with-synthetic-user-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/contextualized-knowledge-graph-embedding",
+              "path": "/docs/tutorials/contextualized-knowledge-graph-embedding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cornac-examples",
+              "path": "/docs/tutorials/cornac-examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cornac-item-popularity",
+              "path": "/docs/tutorials/cornac-item-popularity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cotrec-sess-retailrocket",
+              "path": "/docs/tutorials/cotrec-sess-retailrocket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/course-recommender-svd-flask",
+              "path": "/docs/tutorials/course-recommender-svd-flask",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/coveo-baseline-model",
+              "path": "/docs/tutorials/coveo-baseline-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/coveo-dataset-loading-and-eda",
+              "path": "/docs/tutorials/coveo-dataset-loading-and-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes",
+              "path": "/docs/tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m",
+              "path": "/docs/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cv",
+              "path": "/docs/tutorials/cv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/cyber-insurance",
+              "path": "/docs/tutorials/cyber-insurance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/d-optimal-online-experiment-design-for-recommender-selection",
+              "path": "/docs/tutorials/d-optimal-online-experiment-design-for-recommender-selection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset",
+              "path": "/docs/tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dask-incremental-wrapper",
+              "path": "/docs/tutorials/dask-incremental-wrapper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/data-mining-similarity-measures",
+              "path": "/docs/tutorials/data-mining-similarity-measures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/data-poisoning-attack-using-lfm-and-itemae-on-synthetic-dataset",
+              "path": "/docs/tutorials/data-poisoning-attack-using-lfm-and-itemae-on-synthetic-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/data-prep",
+              "path": "/docs/tutorials/data-prep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/data-science-bookcamp",
+              "path": "/docs/tutorials/data-science-bookcamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/databricks-collaborative-filtering-data-preparation",
+              "path": "/docs/tutorials/databricks-collaborative-filtering-data-preparation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dbt",
+              "path": "/docs/tutorials/dbt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dcn",
+              "path": "/docs/tutorials/dcn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dcn-criteo",
+              "path": "/docs/tutorials/dcn-criteo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ddpg-pendulum",
+              "path": "/docs/tutorials/ddpg-pendulum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces",
+              "path": "/docs/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+              "path": "/docs/tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deep-variational-models-on-filmtrust-ml-m-and-myanimelist-dataset-in-tensorflow",
+              "path": "/docs/tutorials/deep-variational-models-on-filmtrust-ml-m-and-myanimelist-dataset-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deepconn",
+              "path": "/docs/tutorials/deepconn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deepcross",
+              "path": "/docs/tutorials/deepcross",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deepfm-criteo",
+              "path": "/docs/tutorials/deepfm-criteo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deepfm-on-criteo-ad-dataset-in-tf-x",
+              "path": "/docs/tutorials/deepfm-on-criteo-ad-dataset-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deeplab",
+              "path": "/docs/tutorials/deeplab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deeptext",
+              "path": "/docs/tutorials/deeptext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deepwalk",
+              "path": "/docs/tutorials/deepwalk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deepwalk-line-and-metapath-on-citeseer-in-pytorch",
+              "path": "/docs/tutorials/deepwalk-line-and-metapath-on-citeseer-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/deepwalk-on-ml-k",
+              "path": "/docs/tutorials/deepwalk-on-ml-k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/defect-detection",
+              "path": "/docs/tutorials/defect-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dgtn-on-sample-data-in-pytorch",
+              "path": "/docs/tutorials/dgtn-on-sample-data-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dgtn-yoochoose",
+              "path": "/docs/tutorials/dgtn-yoochoose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/diabetes",
+              "path": "/docs/tutorials/diabetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/diginetica-baseline",
+              "path": "/docs/tutorials/diginetica-baseline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/din-on-amazon-electronics-dataset-in-tf-x",
+              "path": "/docs/tutorials/din-on-amazon-electronics-dataset-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/discrete-bcq-model-on-ieee-recsys-dataset",
+              "path": "/docs/tutorials/discrete-bcq-model-on-ieee-recsys-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/distributed-training",
+              "path": "/docs/tutorials/distributed-training",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dl-retrieval",
+              "path": "/docs/tutorials/dl-retrieval",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/double-domain-recommendations-on-ml-m",
+              "path": "/docs/tutorials/double-domain-recommendations-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dqn-ieee",
+              "path": "/docs/tutorials/dqn-ieee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dqn-on-the-cartpole-and-atari-using-coach",
+              "path": "/docs/tutorials/dqn-on-the-cartpole-and-atari-using-coach",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dqn-playing-pong",
+              "path": "/docs/tutorials/dqn-playing-pong",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/drift-detection-using-river-library",
+              "path": "/docs/tutorials/drift-detection-using-river-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/drl-for-movie-recommendation-embeddings",
+              "path": "/docs/tutorials/drl-for-movie-recommendation-embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/drl-for-movie-recommendation-model",
+              "path": "/docs/tutorials/drl-for-movie-recommendation-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/drl-for-restaurant-recommendation",
+              "path": "/docs/tutorials/drl-for-restaurant-recommendation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+              "path": "/docs/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/drug-recommender",
+              "path": "/docs/tutorials/drug-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/dynamicrec-session-next-item-prediction",
+              "path": "/docs/tutorials/dynamicrec-session-next-item-prediction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/easyocr",
+              "path": "/docs/tutorials/easyocr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/eda-aws-athena",
+              "path": "/docs/tutorials/eda-aws-athena",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/eda-ml-latest",
+              "path": "/docs/tutorials/eda-ml-latest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/efficient-frontier",
+              "path": "/docs/tutorials/efficient-frontier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/electronics-product-recommender",
+              "path": "/docs/tutorials/electronics-product-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/email-classification",
+              "path": "/docs/tutorials/email-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/embedding-pytorch-geometric",
+              "path": "/docs/tutorials/embedding-pytorch-geometric",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/emcdr-on-movielens-netflix-dataset",
+              "path": "/docs/tutorials/emcdr-on-movielens-netflix-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/emde",
+              "path": "/docs/tutorials/emde",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/epinions",
+              "path": "/docs/tutorials/epinions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/equal-experience",
+              "path": "/docs/tutorials/equal-experience",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/eval-replay",
+              "path": "/docs/tutorials/eval-replay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/evaluating-a-new-fraud-policy-with-dm-ipw-and-dr-methods",
+              "path": "/docs/tutorials/evaluating-a-new-fraud-policy-with-dm-ipw-and-dr-methods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+              "path": "/docs/tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/evaluating-the-robustness-of-off-policy-evaluation",
+              "path": "/docs/tutorials/evaluating-the-robustness-of-off-policy-evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/evaluation-metrics-basics",
+              "path": "/docs/tutorials/evaluation-metrics-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/evaluation-of-multiple-off-policy-estimators-on-synthetic-dataset",
+              "path": "/docs/tutorials/evaluation-of-multiple-off-policy-estimators-on-synthetic-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/evaluation-recometrics-lightfm",
+              "path": "/docs/tutorials/evaluation-recometrics-lightfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/explainable-bpr-lastfm",
+              "path": "/docs/tutorials/explainable-bpr-lastfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/exploring-multi-objective-hyperparameter-optimization",
+              "path": "/docs/tutorials/exploring-multi-objective-hyperparameter-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/face-analytics",
+              "path": "/docs/tutorials/face-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/face-detection-dlib-mtcnn",
+              "path": "/docs/tutorials/face-detection-dlib-mtcnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/face-landmarks",
+              "path": "/docs/tutorials/face-landmarks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/face-recognition",
+              "path": "/docs/tutorials/face-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fairness",
+              "path": "/docs/tutorials/fairness",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fairness-obp",
+              "path": "/docs/tutorials/fairness-obp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fake-voice-detection",
+              "path": "/docs/tutorials/fake-voice-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fastai-collab-filtering",
+              "path": "/docs/tutorials/fastai-collab-filtering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fastai-vision-fastbook",
+              "path": "/docs/tutorials/fastai-vision-fastbook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fbfriend-recs",
+              "path": "/docs/tutorials/fbfriend-recs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/feast",
+              "path": "/docs/tutorials/feast",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/feature-selection-on-quantum-computer",
+              "path": "/docs/tutorials/feature-selection-on-quantum-computer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/febr-framework",
+              "path": "/docs/tutorials/febr-framework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ffm-on-criteo-ad-dataset-in-tf-x",
+              "path": "/docs/tutorials/ffm-on-criteo-ad-dataset-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fgnn",
+              "path": "/docs/tutorials/fgnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/finance",
+              "path": "/docs/tutorials/finance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/finbert",
+              "path": "/docs/tutorials/finbert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game",
+              "path": "/docs/tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/finding-the-winning-strategy-in-a-sum-card-game",
+              "path": "/docs/tutorials/finding-the-winning-strategy-in-a-sum-card-game",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fitsuit-cv",
+              "path": "/docs/tutorials/fitsuit-cv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/flower-classification",
+              "path": "/docs/tutorials/flower-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/flowrec",
+              "path": "/docs/tutorials/flowrec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fm-criteo",
+              "path": "/docs/tutorials/fm-criteo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fm-ml",
+              "path": "/docs/tutorials/fm-ml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fm-on-dota-in-pytorch",
+              "path": "/docs/tutorials/fm-on-dota-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/fm-torch",
+              "path": "/docs/tutorials/fm-torch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/food-preference-recommender-on-wweia-dataset",
+              "path": "/docs/tutorials/food-preference-recommender-on-wweia-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/frozenlake-crossentropy",
+              "path": "/docs/tutorials/frozenlake-crossentropy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/frozenlake-using-q-learning",
+              "path": "/docs/tutorials/frozenlake-using-q-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/frozenlake-using-value-iteration",
+              "path": "/docs/tutorials/frozenlake-using-value-iteration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gan-user-model-for-rl-based-recommendation-system",
+              "path": "/docs/tutorials/gan-user-model-for-rl-based-recommendation-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gat-cora",
+              "path": "/docs/tutorials/gat-cora",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gat-in-tensorflow-x",
+              "path": "/docs/tutorials/gat-in-tensorflow-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gat-on-cora-in-pytorch",
+              "path": "/docs/tutorials/gat-on-cora-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gc-san-in-pytorch",
+              "path": "/docs/tutorials/gc-san-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gce-gnn",
+              "path": "/docs/tutorials/gce-gnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gce-gnn-session-recommender-on-diginetica-in-pytorch",
+              "path": "/docs/tutorials/gce-gnn-session-recommender-on-diginetica-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gcegnn-tmall",
+              "path": "/docs/tutorials/gcegnn-tmall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gcn-message-passing",
+              "path": "/docs/tutorials/gcn-message-passing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gcn-on-cora-in-pytorch",
+              "path": "/docs/tutorials/gcn-on-cora-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gd",
+              "path": "/docs/tutorials/gd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ge",
+              "path": "/docs/tutorials/ge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ge-airflow",
+              "path": "/docs/tutorials/ge-airflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gem-on-karateclub",
+              "path": "/docs/tutorials/gem-on-karateclub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/geographic-location-visualization-and-analysis",
+              "path": "/docs/tutorials/geographic-location-visualization-and-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/glt-community",
+              "path": "/docs/tutorials/glt-community",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/glt-missing-link",
+              "path": "/docs/tutorials/glt-missing-link",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gmf",
+              "path": "/docs/tutorials/gmf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gmf-yelp",
+              "path": "/docs/tutorials/gmf-yelp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-ae",
+              "path": "/docs/tutorials/graph-ae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-benchmarks",
+              "path": "/docs/tutorials/graph-benchmarks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-convolutional-networks-using-only-numpy",
+              "path": "/docs/tutorials/graph-convolutional-networks-using-only-numpy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-embedding",
+              "path": "/docs/tutorials/graph-embedding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-embeddings",
+              "path": "/docs/tutorials/graph-embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-embeddings-using-convnet-stellargraph",
+              "path": "/docs/tutorials/graph-embeddings-using-convnet-stellargraph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-encoder",
+              "path": "/docs/tutorials/graph-encoder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-network-learn-embeddings",
+              "path": "/docs/tutorials/graph-network-learn-embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-properties",
+              "path": "/docs/tutorials/graph-properties",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph-sdne",
+              "path": "/docs/tutorials/graph-sdne",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gridworld-mc",
+              "path": "/docs/tutorials/gridworld-mc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gridworld-td",
+              "path": "/docs/tutorials/gridworld-td",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gridworld-v",
+              "path": "/docs/tutorials/gridworld-v",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/grocery-recommendation-using-graph-network",
+              "path": "/docs/tutorials/grocery-recommendation-using-graph-network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/grokking-maze",
+              "path": "/docs/tutorials/grokking-maze",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/group-data",
+              "path": "/docs/tutorials/group-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/group-recommendations-with-actor-critic-rl-agent-in-mdp-environment-on-ml-m-dataset",
+              "path": "/docs/tutorials/group-recommendations-with-actor-critic-rl-agent-in-mdp-environment-on-ml-m-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/groupby-ecommerce-implicit-recommender",
+              "path": "/docs/tutorials/groupby-ecommerce-implicit-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/groupim-weeplaces",
+              "path": "/docs/tutorials/groupim-weeplaces",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/grouprec",
+              "path": "/docs/tutorials/grouprec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/heater",
+              "path": "/docs/tutorials/heater",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/hers",
+              "path": "/docs/tutorials/hers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/hierarchical-rl-on-ml-k",
+              "path": "/docs/tutorials/hierarchical-rl-on-ml-k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/how-to-install-dask-in-colab",
+              "path": "/docs/tutorials/how-to-install-dask-in-colab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/how-to-setup-and-run-jenkins",
+              "path": "/docs/tutorials/how-to-setup-and-run-jenkins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/huggingface",
+              "path": "/docs/tutorials/huggingface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/hydra",
+              "path": "/docs/tutorials/hydra",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee",
+              "path": "/docs/tutorials/ieee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-bigdata-recsys-comfor-rl-model",
+              "path": "/docs/tutorials/ieee-bigdata-recsys-comfor-rl-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-bigdata-recsys-dataset-wrangling-and-eda",
+              "path": "/docs/tutorials/ieee-bigdata-recsys-dataset-wrangling-and-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction",
+              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
+              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
+              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
+              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
+              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-two-headed-transformer-and-loss-reweighting",
+              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-two-headed-transformer-and-loss-reweighting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ieee-transformer",
+              "path": "/docs/tutorials/ieee-transformer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-analytics-tensorflow",
+              "path": "/docs/tutorials/image-analytics-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-captioning-tf",
+              "path": "/docs/tutorials/image-captioning-tf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-classification-scikit",
+              "path": "/docs/tutorials/image-classification-scikit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-colorization",
+              "path": "/docs/tutorials/image-colorization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-seg",
+              "path": "/docs/tutorials/image-seg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-seg-playground",
+              "path": "/docs/tutorials/image-seg-playground",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-similarity-recommendations",
+              "path": "/docs/tutorials/image-similarity-recommendations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/image-similarity-system",
+              "path": "/docs/tutorials/image-similarity-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/img-seg",
+              "path": "/docs/tutorials/img-seg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/imgsim-bandit",
+              "path": "/docs/tutorials/imgsim-bandit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/implicit-hybrid-movie-recommender",
+              "path": "/docs/tutorials/implicit-hybrid-movie-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/implicit-hybrid-movie-recommender-using-collie-library",
+              "path": "/docs/tutorials/implicit-hybrid-movie-recommender-using-collie-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/implicit-lastfm",
+              "path": "/docs/tutorials/implicit-lastfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/implicit-pairwise-losses",
+              "path": "/docs/tutorials/implicit-pairwise-losses",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/implicit-recommendation",
+              "path": "/docs/tutorials/implicit-recommendation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/implicit-synthetic",
+              "path": "/docs/tutorials/implicit-synthetic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/importance-sampling",
+              "path": "/docs/tutorials/importance-sampling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+              "path": "/docs/tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/incremental-collaborative-filtering",
+              "path": "/docs/tutorials/incremental-collaborative-filtering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/incremental-mf-river",
+              "path": "/docs/tutorials/incremental-mf-river",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/incremental-stochastic-gradient-descent",
+              "path": "/docs/tutorials/incremental-stochastic-gradient-descent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/incremental-update-retraining-on-sobazaar-dataset",
+              "path": "/docs/tutorials/incremental-update-retraining-on-sobazaar-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/infersent",
+              "path": "/docs/tutorials/infersent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/information-aggregation",
+              "path": "/docs/tutorials/information-aggregation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/integrated-svd-on-ml-m",
+              "path": "/docs/tutorials/integrated-svd-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/introduction-to-gym-toolkit",
+              "path": "/docs/tutorials/introduction-to-gym-toolkit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ipl-player-recommendation-knn",
+              "path": "/docs/tutorials/ipl-player-recommendation-knn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/itemcf-movie",
+              "path": "/docs/tutorials/itemcf-movie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/job-scraping",
+              "path": "/docs/tutorials/job-scraping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/jobs-resume",
+              "path": "/docs/tutorials/jobs-resume",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/kafka-colab",
+              "path": "/docs/tutorials/kafka-colab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/kafka-spark-streaming-colab",
+              "path": "/docs/tutorials/kafka-spark-streaming-colab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/karateclub-deepwalk",
+              "path": "/docs/tutorials/karateclub-deepwalk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/keras-ocr",
+              "path": "/docs/tutorials/keras-ocr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/kernelized-matrix-factorization-on-ml-m",
+              "path": "/docs/tutorials/kernelized-matrix-factorization-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/keypoint-rcnn-torchvision",
+              "path": "/docs/tutorials/keypoint-rcnn-torchvision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/keyword-extraction",
+              "path": "/docs/tutorials/keyword-extraction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/khgt-knowledge-graph-embeddings",
+              "path": "/docs/tutorials/khgt-knowledge-graph-embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/kullback-leibler-divergence",
+              "path": "/docs/tutorials/kullback-leibler-divergence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lambda-learner",
+              "path": "/docs/tutorials/lambda-learner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/language-modeling-with-nn-transformer-and-torchtext",
+              "path": "/docs/tutorials/language-modeling-with-nn-transformer-and-torchtext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lastfm-session",
+              "path": "/docs/tutorials/lastfm-session",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lda-topic-content-recommender",
+              "path": "/docs/tutorials/lda-topic-content-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/learn-embeddings-using-graph-networks",
+              "path": "/docs/tutorials/learn-embeddings-using-graph-networks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/learning-graph-embeddings-of-gowalla-dataset-using-hmlet-model",
+              "path": "/docs/tutorials/learning-graph-embeddings-of-gowalla-dataset-using-hmlet-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/learning-node-representations-from-multiple-social-contexts",
+              "path": "/docs/tutorials/learning-node-representations-from-multiple-social-contexts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lenet-mnist-cv",
+              "path": "/docs/tutorials/lenet-mnist-cv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lessr",
+              "path": "/docs/tutorials/lessr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/license-plate-detection",
+              "path": "/docs/tutorials/license-plate-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lightfm",
+              "path": "/docs/tutorials/lightfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lightfm-cold-start-on-ml-m",
+              "path": "/docs/tutorials/lightfm-cold-start-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library",
+              "path": "/docs/tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lightfm-hybrid-recommender-on-retail-product-data",
+              "path": "/docs/tutorials/lightfm-hybrid-recommender-on-retail-product-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset",
+              "path": "/docs/tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/line-on-wiki-network",
+              "path": "/docs/tutorials/line-on-wiki-network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/linear-optimization-with-or-tools",
+              "path": "/docs/tutorials/linear-optimization-with-or-tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/listnet-ltr",
+              "path": "/docs/tutorials/listnet-ltr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/listwise-ml",
+              "path": "/docs/tutorials/listwise-ml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/listwise-movie-recommendations-using-rl-methods",
+              "path": "/docs/tutorials/listwise-movie-recommendations-using-rl-methods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/listwise-retail",
+              "path": "/docs/tutorials/listwise-retail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/live-streamer-recommender",
+              "path": "/docs/tutorials/live-streamer-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/lrgccf-gowalla",
+              "path": "/docs/tutorials/lrgccf-gowalla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mab",
+              "path": "/docs/tutorials/mab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mab-product",
+              "path": "/docs/tutorials/mab-product",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mamo-framework",
+              "path": "/docs/tutorials/mamo-framework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mars-gym",
+              "path": "/docs/tutorials/mars-gym",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/maskrcnn-gradio-app",
+              "path": "/docs/tutorials/maskrcnn-gradio-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matching-and-ranking-models-in-tensorflow",
+              "path": "/docs/tutorials/matching-and-ranking-models-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matn-yelp",
+              "path": "/docs/tutorials/matn-yelp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matplotlib",
+              "path": "/docs/tutorials/matplotlib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matrix-factorization-model-with-loss-functions-on-epinions",
+              "path": "/docs/tutorials/matrix-factorization-model-with-loss-functions-on-epinions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matrix-factorization-with-sgd-and-als-on-ml-m",
+              "path": "/docs/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/maxent",
+              "path": "/docs/tutorials/maxent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/maxent-gridworld",
+              "path": "/docs/tutorials/maxent-gridworld",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/maxent-in-mountaincar-environment",
+              "path": "/docs/tutorials/maxent-in-mountaincar-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/maxent-pendulum",
+              "path": "/docs/tutorials/maxent-pendulum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mbgmn-beibei",
+              "path": "/docs/tutorials/mbgmn-beibei",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mc",
+              "path": "/docs/tutorials/mc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mdp-dynamic",
+              "path": "/docs/tutorials/mdp-dynamic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mdp-inventory",
+              "path": "/docs/tutorials/mdp-inventory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/melu-on-ml-m",
+              "path": "/docs/tutorials/melu-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/metahin",
+              "path": "/docs/tutorials/metahin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset",
+              "path": "/docs/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/methods-for-effective-online-testing",
+              "path": "/docs/tutorials/methods-for-effective-online-testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mf-ml",
+              "path": "/docs/tutorials/mf-ml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mf-mlp-movielens-in-pytorch",
+              "path": "/docs/tutorials/mf-mlp-movielens-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mf-movielens-pytorch",
+              "path": "/docs/tutorials/mf-movielens-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mkr",
+              "path": "/docs/tutorials/mkr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ml-m",
+              "path": "/docs/tutorials/ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ml-pytorch-aws",
+              "path": "/docs/tutorials/ml-pytorch-aws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mlflow-part",
+              "path": "/docs/tutorials/mlflow-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mlops",
+              "path": "/docs/tutorials/mlops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mlops-optimus",
+              "path": "/docs/tutorials/mlops-optimus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mlops-tfx",
+              "path": "/docs/tutorials/mlops-tfx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mlp-on-ml-m",
+              "path": "/docs/tutorials/mlp-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mmoe-on-census-income-data-in-tensorflow",
+              "path": "/docs/tutorials/mmoe-on-census-income-data-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/moe-tf",
+              "path": "/docs/tutorials/moe-tf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mongodb-to-csv-conversion",
+              "path": "/docs/tutorials/mongodb-to-csv-conversion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mooccube-course-recommender",
+              "path": "/docs/tutorials/mooccube-course-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mot",
+              "path": "/docs/tutorials/mot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mountaincar-a-c",
+              "path": "/docs/tutorials/mountaincar-a-c",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-eda",
+              "path": "/docs/tutorials/movie-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-mf-torch",
+              "path": "/docs/tutorials/movie-mf-torch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-recommender-keras",
+              "path": "/docs/tutorials/movie-recommender-keras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-recommender-pytorch-embedding",
+              "path": "/docs/tutorials/movie-recommender-pytorch-embedding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-recommender-retrieval-pytorch-lightning",
+              "path": "/docs/tutorials/movie-recommender-retrieval-pytorch-lightning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-recommender-system",
+              "path": "/docs/tutorials/movie-recommender-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-recommender-tensorflow",
+              "path": "/docs/tutorials/movie-recommender-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-recommender-tensorflow-sagemaker",
+              "path": "/docs/tutorials/movie-recommender-tensorflow-sagemaker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-recsys",
+              "path": "/docs/tutorials/movie-recsys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-sagemaker",
+              "path": "/docs/tutorials/movie-sagemaker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-tf",
+              "path": "/docs/tutorials/movie-tf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movie-transformer",
+              "path": "/docs/tutorials/movie-transformer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movielens-data-split",
+              "path": "/docs/tutorials/movielens-data-split",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movielens-eda-modeling",
+              "path": "/docs/tutorials/movielens-eda-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movielens-milvus-redis",
+              "path": "/docs/tutorials/movielens-milvus-redis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movielens-milvus-redis-efficient-retrieval",
+              "path": "/docs/tutorials/movielens-milvus-redis-efficient-retrieval",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/movierec",
+              "path": "/docs/tutorials/movierec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mpm",
+              "path": "/docs/tutorials/mpm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mta",
+              "path": "/docs/tutorials/mta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mts",
+              "path": "/docs/tutorials/mts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts",
+              "path": "/docs/tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multi-task-learning",
+              "path": "/docs/tutorials/multi-task-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multi-task-learning-income-census-data",
+              "path": "/docs/tutorials/multi-task-learning-income-census-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multi-task-learning-on-ml-k-in-tfrs",
+              "path": "/docs/tutorials/multi-task-learning-on-ml-k-in-tfrs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multiple-retraining-models-on-sobazaar-dataset",
+              "path": "/docs/tutorials/multiple-retraining-models-on-sobazaar-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multiprocessing",
+              "path": "/docs/tutorials/multiprocessing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/music-eda-cb-recommender",
+              "path": "/docs/tutorials/music-eda-cb-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/music-seq-data",
+              "path": "/docs/tutorials/music-seq-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/music-session-preprocess",
+              "path": "/docs/tutorials/music-session-preprocess",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/music-spark",
+              "path": "/docs/tutorials/music-spark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/name-address-parsing",
+              "path": "/docs/tutorials/name-address-parsing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ncf",
+              "path": "/docs/tutorials/ncf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ncf-from-scratch-pytorch",
+              "path": "/docs/tutorials/ncf-from-scratch-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ncf-movielens-tensorflow",
+              "path": "/docs/tutorials/ncf-movielens-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ncf-mxnet",
+              "path": "/docs/tutorials/ncf-mxnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ncf-on-ml-m-in-tf-x",
+              "path": "/docs/tutorials/ncf-on-ml-m-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ncf-tf",
+              "path": "/docs/tutorials/ncf-tf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ncf-torch",
+              "path": "/docs/tutorials/ncf-torch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/negative-sampling",
+              "path": "/docs/tutorials/negative-sampling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ner",
+              "path": "/docs/tutorials/ner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/netflix",
+              "path": "/docs/tutorials/netflix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/networkx",
+              "path": "/docs/tutorials/networkx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/neumf-on-ml-m",
+              "path": "/docs/tutorials/neumf-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/neural-network-from-scratch",
+              "path": "/docs/tutorials/neural-network-from-scratch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/news-recommender-mind-pytorch-lightning",
+              "path": "/docs/tutorials/news-recommender-mind-pytorch-lightning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/nfm",
+              "path": "/docs/tutorials/nfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/nfm-criteo",
+              "path": "/docs/tutorials/nfm-criteo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ngcf",
+              "path": "/docs/tutorials/ngcf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ngcf-movielens",
+              "path": "/docs/tutorials/ngcf-movielens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/nicf",
+              "path": "/docs/tutorials/nicf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/nlp",
+              "path": "/docs/tutorials/nlp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/nms",
+              "path": "/docs/tutorials/nms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/node-vec",
+              "path": "/docs/tutorials/node-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/node-vec-edge-vec-and-graph-vec",
+              "path": "/docs/tutorials/node-vec-edge-vec-and-graph-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/node-vec-in-pytorch-geometric-on-cora-dataset",
+              "path": "/docs/tutorials/node-vec-in-pytorch-geometric-on-cora-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/node-vec-on-karateclub",
+              "path": "/docs/tutorials/node-vec-on-karateclub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/node-vec-on-ml-latest-in-keras",
+              "path": "/docs/tutorials/node-vec-on-ml-latest-in-keras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/node-vec-tf",
+              "path": "/docs/tutorials/node-vec-tf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/nstep",
+              "path": "/docs/tutorials/nstep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/obj-det",
+              "path": "/docs/tutorials/obj-det",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/object-detection",
+              "path": "/docs/tutorials/object-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/objectworld",
+              "path": "/docs/tutorials/objectworld",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/obp-library-workshop-tutorials",
+              "path": "/docs/tutorials/obp-library-workshop-tutorials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ocr-python",
+              "path": "/docs/tutorials/ocr-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/offline-rl-replay",
+              "path": "/docs/tutorials/offline-rl-replay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/olx-baselines",
+              "path": "/docs/tutorials/olx-baselines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/online-learning-concept",
+              "path": "/docs/tutorials/online-learning-concept",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ope-slate",
+              "path": "/docs/tutorials/ope-slate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ope-vw",
+              "path": "/docs/tutorials/ope-vw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/opencv-video",
+              "path": "/docs/tutorials/opencv-video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/opl",
+              "path": "/docs/tutorials/opl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies",
+              "path": "/docs/tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pareto-census",
+              "path": "/docs/tutorials/pareto-census",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pareto-moo",
+              "path": "/docs/tutorials/pareto-moo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pde",
+              "path": "/docs/tutorials/pde",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pdf-to-wordcloud-mail",
+              "path": "/docs/tutorials/pdf-to-wordcloud-mail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pedidos",
+              "path": "/docs/tutorials/pedidos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/perform-feature-engineering-recsys",
+              "path": "/docs/tutorials/perform-feature-engineering-recsys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/personalize-cleanup",
+              "path": "/docs/tutorials/personalize-cleanup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/personalize-datalayer",
+              "path": "/docs/tutorials/personalize-datalayer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/personalize-deployment",
+              "path": "/docs/tutorials/personalize-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/personalize-inference",
+              "path": "/docs/tutorials/personalize-inference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/personalize-model",
+              "path": "/docs/tutorials/personalize-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+              "path": "/docs/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pifpaf-pose-estimation",
+              "path": "/docs/tutorials/pifpaf-pose-estimation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pinsage-graph-movielens-m",
+              "path": "/docs/tutorials/pinsage-graph-movielens-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pixellink",
+              "path": "/docs/tutorials/pixellink",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pnn-criteo",
+              "path": "/docs/tutorials/pnn-criteo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/poison-attack",
+              "path": "/docs/tutorials/poison-attack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/post-estimation",
+              "path": "/docs/tutorials/post-estimation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/predicting-rewards-with-the-state-value-and-action-value-function",
+              "path": "/docs/tutorials/predicting-rewards-with-the-state-value-and-action-value-function",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/preprocessing-of-diginetica-session-dataset",
+              "path": "/docs/tutorials/preprocessing-of-diginetica-session-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/preprocessing-of-retailrocket-dataset",
+              "path": "/docs/tutorials/preprocessing-of-retailrocket-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/probability",
+              "path": "/docs/tutorials/probability",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/prod-vec-beh",
+              "path": "/docs/tutorials/prod-vec-beh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/product-recommendation-context-rl",
+              "path": "/docs/tutorials/product-recommendation-context-rl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/product-recommender",
+              "path": "/docs/tutorials/product-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/profiling",
+              "path": "/docs/tutorials/profiling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pyanime",
+              "path": "/docs/tutorials/pyanime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pydeep-recsys",
+              "path": "/docs/tutorials/pydeep-recsys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pyg-gnn",
+              "path": "/docs/tutorials/pyg-gnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pymoo",
+              "path": "/docs/tutorials/pymoo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/python-diagrams",
+              "path": "/docs/tutorials/python-diagrams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pytorch",
+              "path": "/docs/tutorials/pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pytorch-automl-with-autopytorch",
+              "path": "/docs/tutorials/pytorch-automl-with-autopytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pytorch-fundamentals-part",
+              "path": "/docs/tutorials/pytorch-fundamentals-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pytorch-production",
+              "path": "/docs/tutorials/pytorch-production",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pytorch-profiler",
+              "path": "/docs/tutorials/pytorch-profiler",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/q-learning-on-lunar-lander-and-frozen-lake",
+              "path": "/docs/tutorials/q-learning-on-lunar-lander-and-frozen-lake",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/q-learning-vs-sarsa-and-q-learning-extensions",
+              "path": "/docs/tutorials/q-learning-vs-sarsa-and-q-learning-extensions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/random-forest-classifier-model",
+              "path": "/docs/tutorials/random-forest-classifier-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rasa-colab",
+              "path": "/docs/tutorials/rasa-colab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rating-predictions-tfrs",
+              "path": "/docs/tutorials/rating-predictions-tfrs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ravelry-pattern-recommender",
+              "path": "/docs/tutorials/ravelry-pattern-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/read-data-from-cassandra-into-pandas",
+              "path": "/docs/tutorials/read-data-from-cassandra-into-pandas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+              "path": "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/real-time-in-session-personalization",
+              "path": "/docs/tutorials/real-time-in-session-personalization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rec-algo-ncf-pytorch-pyy",
+              "path": "/docs/tutorials/rec-algo-ncf-pytorch-pyy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rec-medium-word-vec",
+              "path": "/docs/tutorials/rec-medium-word-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rec-ml-m",
+              "path": "/docs/tutorials/rec-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-chef-music-data-layer-pipeline",
+              "path": "/docs/tutorials/reco-chef-music-data-layer-pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-chef-music-data-layer-scripting",
+              "path": "/docs/tutorials/reco-chef-music-data-layer-scripting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-chef-music-train-eval-pipeline-itempop",
+              "path": "/docs/tutorials/reco-chef-music-train-eval-pipeline-itempop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-chef-music-training-evaluation-scripting-itempop-model",
+              "path": "/docs/tutorials/reco-chef-music-training-evaluation-scripting-itempop-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-chef-music-training-evaluation-scripting-knn",
+              "path": "/docs/tutorials/reco-chef-music-training-evaluation-scripting-knn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-dvbpr-not-working",
+              "path": "/docs/tutorials/reco-dvbpr-not-working",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-frontend-dash",
+              "path": "/docs/tutorials/reco-frontend-dash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-inprogress-elective-course-recommender",
+              "path": "/docs/tutorials/reco-inprogress-elective-course-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-megafon-data-ingestion",
+              "path": "/docs/tutorials/reco-megafon-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-session-booking",
+              "path": "/docs/tutorials/reco-session-booking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-session-diginetica",
+              "path": "/docs/tutorials/reco-session-diginetica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-session-yoochoose",
+              "path": "/docs/tutorials/reco-session-yoochoose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-aml-tpt-ml-m-quickstart",
+              "path": "/docs/tutorials/reco-tut-aml-tpt-ml-m-quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-arr-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-arr-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-arr-eda",
+              "path": "/docs/tutorials/reco-tut-arr-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-arr-eda-part",
+              "path": "/docs/tutorials/reco-tut-arr-eda-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-arr-modeling-baseline",
+              "path": "/docs/tutorials/reco-tut-arr-modeling-baseline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-arr-preprocessing-for-baseline",
+              "path": "/docs/tutorials/reco-tut-arr-preprocessing-for-baseline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-arr-preprocessing-variant-ii",
+              "path": "/docs/tutorials/reco-tut-arr-preprocessing-variant-ii",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-arr-t-eda-and-data-cleaning",
+              "path": "/docs/tutorials/reco-tut-arr-t-eda-and-data-cleaning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-content-based-recommendations",
+              "path": "/docs/tutorials/reco-tut-asr-content-based-recommendations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-evaluation-version",
+              "path": "/docs/tutorials/reco-tut-asr-evaluation-version",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-hybrid-recommendations",
+              "path": "/docs/tutorials/reco-tut-asr-hybrid-recommendations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-item-item-cf",
+              "path": "/docs/tutorials/reco-tut-asr-item-item-cf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-launchpad",
+              "path": "/docs/tutorials/reco-tut-asr-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-matrix-factorization",
+              "path": "/docs/tutorials/reco-tut-asr-matrix-factorization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-metrics-calculation",
+              "path": "/docs/tutorials/reco-tut-asr-metrics-calculation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation",
+              "path": "/docs/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-offline-evaluation",
+              "path": "/docs/tutorials/reco-tut-asr-offline-evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-recommendation-metrics-rating-evaluation",
+              "path": "/docs/tutorials/reco-tut-asr-recommendation-metrics-rating-evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-similarity-metrics-for-cf",
+              "path": "/docs/tutorials/reco-tut-asr-similarity-metrics-for-cf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-asr-user-user-cf",
+              "path": "/docs/tutorials/reco-tut-asr-user-user-cf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-bfr-launchpad",
+              "path": "/docs/tutorials/reco-tut-bfr-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-bok-launchpad",
+              "path": "/docs/tutorials/reco-tut-bok-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-bok-us-grokking-ai-algorithms-ann",
+              "path": "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ann",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml",
+              "path": "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-bok-us-grokking-ai-algorithms-rl",
+              "path": "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-rl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-data-preprocessing",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-data-preprocessing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-data-wrangling",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-data-wrangling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-dataloaders",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-dataloaders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-eda",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-launchpad",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-model-interest-predictor",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-model-interest-predictor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-cris-amzntools-model-recommender",
+              "path": "/docs/tutorials/reco-tut-cris-amzntools-model-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-csr-htr-lastfm",
+              "path": "/docs/tutorials/reco-tut-csr-htr-lastfm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-csr-htr-lastfm-data-preprocessing",
+              "path": "/docs/tutorials/reco-tut-csr-htr-lastfm-data-preprocessing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ehr-eda-and-data-cleaning",
+              "path": "/docs/tutorials/reco-tut-ehr-eda-and-data-cleaning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-elf-launchpad",
+              "path": "/docs/tutorials/reco-tut-elf-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-elf-ml-k-data-preparation",
+              "path": "/docs/tutorials/reco-tut-elf-ml-k-data-preparation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-elf-notebook",
+              "path": "/docs/tutorials/reco-tut-elf-notebook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ffr-etl",
+              "path": "/docs/tutorials/reco-tut-ffr-etl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ffr-feature-engineering",
+              "path": "/docs/tutorials/reco-tut-ffr-feature-engineering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ffr-ingestion",
+              "path": "/docs/tutorials/reco-tut-ffr-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ffr-launchpad",
+              "path": "/docs/tutorials/reco-tut-ffr-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ffr-modeling",
+              "path": "/docs/tutorials/reco-tut-ffr-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ffr-preprocessing",
+              "path": "/docs/tutorials/reco-tut-ffr-preprocessing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-fp-data-model",
+              "path": "/docs/tutorials/reco-tut-fp-data-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+              "path": "/docs/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-itr-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-itr-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-itr-eda",
+              "path": "/docs/tutorials/reco-tut-itr-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-itr-launchpad",
+              "path": "/docs/tutorials/reco-tut-itr-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-itr-modeling-collaborative-knn",
+              "path": "/docs/tutorials/reco-tut-itr-modeling-collaborative-knn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mal-launchpad",
+              "path": "/docs/tutorials/reco-tut-mal-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mal-t-data-extraction",
+              "path": "/docs/tutorials/reco-tut-mal-t-data-extraction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mal-t-recommendation",
+              "path": "/docs/tutorials/reco-tut-mal-t-recommendation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mba-grocery-apriori-simple",
+              "path": "/docs/tutorials/reco-tut-mba-grocery-apriori-simple",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mba-grocery-launchpad",
+              "path": "/docs/tutorials/reco-tut-mba-grocery-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mcp-contextual-simulation-user-small",
+              "path": "/docs/tutorials/reco-tut-mcp-contextual-simulation-user-small",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mcp-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-mcp-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mcp-eda",
+              "path": "/docs/tutorials/reco-tut-mcp-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mcp-launchpad",
+              "path": "/docs/tutorials/reco-tut-mcp-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-from-scratch-deep-learning",
+              "path": "/docs/tutorials/reco-tut-ml-from-scratch-deep-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-pytest",
+              "path": "/docs/tutorials/reco-tut-ml-pytest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-python-from-scratch-gradient-descent",
+              "path": "/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-python-from-scratch-gradient-descent-student-admissions",
+              "path": "/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent-student-admissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-python-lists-dicts",
+              "path": "/docs/tutorials/reco-tut-ml-python-lists-dicts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-python-pakaging",
+              "path": "/docs/tutorials/reco-tut-ml-python-pakaging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-python-robust-python-data-classes",
+              "path": "/docs/tutorials/reco-tut-ml-python-robust-python-data-classes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-python-robust-python-testing",
+              "path": "/docs/tutorials/reco-tut-ml-python-robust-python-testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-pytorch-deep-learning-basics",
+              "path": "/docs/tutorials/reco-tut-ml-pytorch-deep-learning-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ml-pytorch-fundamentals-tensors",
+              "path": "/docs/tutorials/reco-tut-ml-pytorch-fundamentals-tensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-eda",
+              "path": "/docs/tutorials/reco-tut-mlh-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-lightgcn",
+              "path": "/docs/tutorials/reco-tut-mlh-lightgcn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-model-comparison",
+              "path": "/docs/tutorials/reco-tut-mlh-model-comparison",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-ngcf",
+              "path": "/docs/tutorials/reco-tut-mlh-ngcf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-svae",
+              "path": "/docs/tutorials/reco-tut-mlh-svae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-svd",
+              "path": "/docs/tutorials/reco-tut-mlh-svd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-t-als",
+              "path": "/docs/tutorials/reco-tut-mlh-t-als",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-t-implicit-als-bpr",
+              "path": "/docs/tutorials/reco-tut-mlh-t-implicit-als-bpr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-t-pyreclab-library",
+              "path": "/docs/tutorials/reco-tut-mlh-t-pyreclab-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-t-rbm",
+              "path": "/docs/tutorials/reco-tut-mlh-t-rbm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mlh-t-sae",
+              "path": "/docs/tutorials/reco-tut-mlh-t-sae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mll-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-mll-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mll-data-wrangling",
+              "path": "/docs/tutorials/reco-tut-mll-data-wrangling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mll-eda",
+              "path": "/docs/tutorials/reco-tut-mll-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mll-knn-with-bins-decay",
+              "path": "/docs/tutorials/reco-tut-mll-knn-with-bins-decay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mll-launchpad",
+              "path": "/docs/tutorials/reco-tut-mll-launchpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mll-naive-movie-similarity",
+              "path": "/docs/tutorials/reco-tut-mll-naive-movie-similarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-mve",
+              "path": "/docs/tutorials/reco-tut-mve",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-nlpt-t-text-classification",
+              "path": "/docs/tutorials/reco-tut-nlpt-t-text-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-poc-t-dvc",
+              "path": "/docs/tutorials/reco-tut-poc-t-dvc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-poc-t-streamlit-ebs",
+              "path": "/docs/tutorials/reco-tut-poc-t-streamlit-ebs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-rec-olx-data-analysis",
+              "path": "/docs/tutorials/reco-tut-rec-olx-data-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-rrt-data-ingestion-yelp",
+              "path": "/docs/tutorials/reco-tut-rrt-data-ingestion-yelp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-rrt-river-concept-drift-detection",
+              "path": "/docs/tutorials/reco-tut-rrt-river-concept-drift-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-rrt-river-matrix-factorization-movielens-k",
+              "path": "/docs/tutorials/reco-tut-rrt-river-matrix-factorization-movielens-k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/reco-tut-sjr-data-ingestion",
               "path": "/docs/tutorials/reco-tut-sjr-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-sjr-eda-and-preprocessing",
+              "path": "/docs/tutorials/reco-tut-sjr-eda-and-preprocessing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-sjr-modeling",
+              "path": "/docs/tutorials/reco-tut-sjr-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-sor-recommender-model",
+              "path": "/docs/tutorials/reco-tut-sor-recommender-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-sor-t-baseline",
+              "path": "/docs/tutorials/reco-tut-sor-t-baseline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-sor-t-eda",
+              "path": "/docs/tutorials/reco-tut-sor-t-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-sor-xgboost",
+              "path": "/docs/tutorials/reco-tut-sor-xgboost",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-spr-eda",
+              "path": "/docs/tutorials/reco-tut-spr-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-spr-etl",
+              "path": "/docs/tutorials/reco-tut-spr-etl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-srr-basics",
+              "path": "/docs/tutorials/reco-tut-srr-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-tf-us-tf-datasets",
+              "path": "/docs/tutorials/reco-tut-tf-us-tf-datasets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ttr-t-preprocessing",
+              "path": "/docs/tutorials/reco-tut-ttr-t-preprocessing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-vrr-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-vrr-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-vrr-predictions",
+              "path": "/docs/tutorials/reco-tut-vrr-predictions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-vrr-recommendations",
+              "path": "/docs/tutorials/reco-tut-vrr-recommendations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender",
+              "path": "/docs/tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ypr",
+              "path": "/docs/tutorials/reco-tut-ypr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ysr-data-ingestion",
+              "path": "/docs/tutorials/reco-tut-ysr-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ysr-modeling",
+              "path": "/docs/tutorials/reco-tut-ysr-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ysr-preprocessing",
+              "path": "/docs/tutorials/reco-tut-ysr-preprocessing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-ysr-recommendations",
+              "path": "/docs/tutorials/reco-tut-ysr-recommendations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tut-yvr-collaborative-automl-turicreate",
+              "path": "/docs/tutorials/reco-tut-yvr-collaborative-automl-turicreate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tutorial-external-bookcrossing",
+              "path": "/docs/tutorials/reco-tutorial-external-bookcrossing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tutorials-dev-amazon-music",
+              "path": "/docs/tutorials/reco-tutorials-dev-amazon-music",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tutorials-dev-deskdrop",
+              "path": "/docs/tutorials/reco-tutorials-dev-deskdrop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tutorials-dev-how-to-create-large-scale-retrieval-system-using-elasticsearch",
+              "path": "/docs/tutorials/reco-tutorials-dev-how-to-create-large-scale-retrieval-system-using-elasticsearch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tutorials-dev-template",
+              "path": "/docs/tutorials/reco-tutorials-dev-template",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tutorials-dev-template-old",
+              "path": "/docs/tutorials/reco-tutorials-dev-template-old",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch",
+              "path": "/docs/tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recobase",
+              "path": "/docs/tutorials/recobase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recobase-us-neural-graph-matching",
+              "path": "/docs/tutorials/recobase-us-neural-graph-matching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recobase-us-runner",
+              "path": "/docs/tutorials/recobase-us-runner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recobase-us-trivago-prototype",
+              "path": "/docs/tutorials/recobase-us-trivago-prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recobook-dive-aware-book-recommender",
+              "path": "/docs/tutorials/recobook-dive-aware-book-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recobook-goodreads-book-recommender",
+              "path": "/docs/tutorials/recobook-goodreads-book-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recobook-us-v",
+              "path": "/docs/tutorials/recobook-us-v",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recograph-decathlon-embedding",
+              "path": "/docs/tutorials/recograph-decathlon-embedding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recograph-movielens-network-visualization",
+              "path": "/docs/tutorials/recograph-movielens-network-visualization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recograph-ngcf-gowalla",
+              "path": "/docs/tutorials/recograph-ngcf-gowalla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recograph-node-vec-movielens-k",
+              "path": "/docs/tutorials/recograph-node-vec-movielens-k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recograph-pinsage-graph-movielens-m",
+              "path": "/docs/tutorials/recograph-pinsage-graph-movielens-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recograph-pinsage-nowplaying-rs",
+              "path": "/docs/tutorials/recograph-pinsage-nowplaying-rs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recograph-word-vec-amazon-electronics",
+              "path": "/docs/tutorials/recograph-word-vec-amazon-electronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recohut-tutorial-implicit-library-exploration",
+              "path": "/docs/tutorials/recohut-tutorial-implicit-library-exploration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
+              "path": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
+              "path": "/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recommend-vendors-to-local-agencies-ipynb",
+              "path": "/docs/tutorials/recommend-vendors-to-local-agencies-ipynb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recommendation-node-vec",
+              "path": "/docs/tutorials/recommendation-node-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recommender-implicit-negative-feedback",
+              "path": "/docs/tutorials/recommender-implicit-negative-feedback",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recommender-playground-packt",
+              "path": "/docs/tutorials/recommender-playground-packt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recommender-sagemaker",
+              "path": "/docs/tutorials/recommender-sagemaker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-ecommerce-recommender-olist",
+              "path": "/docs/tutorials/recostep-ecommerce-recommender-olist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-kafka-consumer-mongodb",
+              "path": "/docs/tutorials/recostep-kafka-consumer-mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-kafka-producer",
+              "path": "/docs/tutorials/recostep-kafka-producer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-mongodb-listener",
+              "path": "/docs/tutorials/recostep-mongodb-listener",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-movielens-neural-mf",
+              "path": "/docs/tutorials/recostep-movielens-neural-mf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-session-based-recommender-using-word-vec",
+              "path": "/docs/tutorials/recostep-session-based-recommender-using-word-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-tutorial-multi-armed-bandit-product-recommender",
+              "path": "/docs/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-tutorial-notebook-movielens-exploration",
+              "path": "/docs/tutorials/recostep-tutorial-notebook-movielens-exploration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics",
+              "path": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-tutorial-offline-replayer-eval-movielens",
+              "path": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-movielens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-tutorial-offline-replayer-eval-recogym",
+              "path": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-tutorial-offline-replayer-eval-recogym-small",
+              "path": "/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym-small",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recostep-tutorial-paddlerec",
+              "path": "/docs/tutorials/recostep-tutorial-paddlerec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recsim",
+              "path": "/docs/tutorials/recsim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recsys-evaluation-metrics",
+              "path": "/docs/tutorials/recsys-evaluation-metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recsys-evaluation-metrics-part",
+              "path": "/docs/tutorials/recsys-evaluation-metrics-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recsys-gym-simulation",
+              "path": "/docs/tutorials/recsys-gym-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recsys-retail",
+              "path": "/docs/tutorials/recsys-retail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recsys-tutorial-feature-engineering-part",
+              "path": "/docs/tutorials/recsys-tutorial-feature-engineering-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/reinforce",
+              "path": "/docs/tutorials/reinforce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/replay-library-experiments-on-ml-m-part",
+              "path": "/docs/tutorials/replay-library-experiments-on-ml-m-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/resale-prediction",
+              "path": "/docs/tutorials/resale-prediction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/resistant-gene-recommender",
+              "path": "/docs/tutorials/resistant-gene-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/resnet",
+              "path": "/docs/tutorials/resnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/retail",
+              "path": "/docs/tutorials/retail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/retail-products-knn",
+              "path": "/docs/tutorials/retail-products-knn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/retailrocket",
+              "path": "/docs/tutorials/retailrocket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/retrieval-preferredai",
+              "path": "/docs/tutorials/retrieval-preferredai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/revisiting-the-performance-of-ials-on-item-recommendation-benchmarks",
+              "path": "/docs/tutorials/revisiting-the-performance-of-ials-on-item-recommendation-benchmarks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rl-basics",
+              "path": "/docs/tutorials/rl-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rl-in-action",
+              "path": "/docs/tutorials/rl-in-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rl-sac",
+              "path": "/docs/tutorials/rl-sac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rl-social",
+              "path": "/docs/tutorials/rl-social",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rl-tictactoe",
+              "path": "/docs/tutorials/rl-tictactoe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/rnn-cnn-basics",
+              "path": "/docs/tutorials/rnn-cnn-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sageconv",
+              "path": "/docs/tutorials/sageconv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sarcasm-tf",
+              "path": "/docs/tutorials/sarcasm-tf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sasrec-in-pytorch",
+              "path": "/docs/tutorials/sasrec-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sasrec-on-ml-m-in-tf-x",
+              "path": "/docs/tutorials/sasrec-on-ml-m-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sasrec-paddlepaddle",
+              "path": "/docs/tutorials/sasrec-paddlepaddle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/scene-text-recognition",
+              "path": "/docs/tutorials/scene-text-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/scikit-multiflow",
+              "path": "/docs/tutorials/scikit-multiflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sdlib",
+              "path": "/docs/tutorials/sdlib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sentence-classification",
+              "path": "/docs/tutorials/sentence-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sentiment-lstm",
+              "path": "/docs/tutorials/sentiment-lstm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/seq-mab-mushroom",
+              "path": "/docs/tutorials/seq-mab-mushroom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/seq-seq-mapping",
+              "path": "/docs/tutorials/seq-seq-mapping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sequence-aware-recommenders-music",
+              "path": "/docs/tutorials/sequence-aware-recommenders-music",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sequential-recommendation-using-ptgcn",
+              "path": "/docs/tutorials/sequential-recommendation-using-ptgcn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/serverless-ml",
+              "path": "/docs/tutorials/serverless-ml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/serving-cusine-recommender-at-edge-onnx",
+              "path": "/docs/tutorials/serving-cusine-recommender-at-edge-onnx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sess-retailrocket",
+              "path": "/docs/tutorials/sess-retailrocket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sess-sample",
+              "path": "/docs/tutorials/sess-sample",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sess-word-vec",
+              "path": "/docs/tutorials/sess-word-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/session-based-prod-vec-coveo",
+              "path": "/docs/tutorials/session-based-prod-vec-coveo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/session-based-recommendation-with-graph-neural-net",
+              "path": "/docs/tutorials/session-based-recommendation-with-graph-neural-net",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/session-based-recommender-travel",
+              "path": "/docs/tutorials/session-based-recommender-travel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/session-based-word-vec",
+              "path": "/docs/tutorials/session-based-word-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/session-retail-trendyol",
+              "path": "/docs/tutorials/session-retail-trendyol",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sgl",
+              "path": "/docs/tutorials/sgl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sgl-reg",
+              "path": "/docs/tutorials/sgl-reg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sgl-shallow-embedding",
+              "path": "/docs/tutorials/sgl-shallow-embedding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/shallow-embedding-methods",
+              "path": "/docs/tutorials/shallow-embedding-methods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/shared-bottom-in-tensorflow",
+              "path": "/docs/tutorials/shared-bottom-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sign-aware-recommendation-using-graph-neural-networks-on-amazon-books-dataset-in-pytorch",
+              "path": "/docs/tutorials/sign-aware-recommendation-using-graph-neural-networks-on-amazon-books-dataset-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/similar-product-recommender",
+              "path": "/docs/tutorials/similar-product-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-analysis",
+              "path": "/docs/tutorials/simple-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-docker-flask-app",
+              "path": "/docs/tutorials/simple-docker-flask-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-models",
+              "path": "/docs/tutorials/simple-models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-movie-recommender",
+              "path": "/docs/tutorials/simple-movie-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-movie-recommender-app-streamlit",
+              "path": "/docs/tutorials/simple-movie-recommender-app-streamlit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-recsys",
+              "path": "/docs/tutorials/simple-recsys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-scraping-nlp-bs-distilbert",
+              "path": "/docs/tutorials/simple-scraping-nlp-bs-distilbert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simple-similarity-based-recommenders",
+              "path": "/docs/tutorials/simple-similarity-based-recommenders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simplex-amazon",
+              "path": "/docs/tutorials/simplex-amazon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simplex-mf",
+              "path": "/docs/tutorials/simplex-mf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/simulating-data-poisoning-attacks-against-twitter-recommender",
+              "path": "/docs/tutorials/simulating-data-poisoning-attacks-against-twitter-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/siren",
+              "path": "/docs/tutorials/siren",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/siren-on-ml-m-in-pytorch",
+              "path": "/docs/tutorials/siren-on-ml-m-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/siren-yelp",
+              "path": "/docs/tutorials/siren-yelp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/site-rank",
+              "path": "/docs/tutorials/site-rank",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/slist-yoochoose",
+              "path": "/docs/tutorials/slist-yoochoose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sms-spam-detection-using-fm-model",
+              "path": "/docs/tutorials/sms-spam-detection-using-fm-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sng-egonet-eda",
+              "path": "/docs/tutorials/sng-egonet-eda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sng-egonet-link",
+              "path": "/docs/tutorials/sng-egonet-link",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/snp",
+              "path": "/docs/tutorials/snp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/social",
+              "path": "/docs/tutorials/social",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/solving-moo-with-smt-toolkit",
+              "path": "/docs/tutorials/solving-moo-with-smt-toolkit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sonar",
+              "path": "/docs/tutorials/sonar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/song-recommender-knn-svd-millionsongs",
+              "path": "/docs/tutorials/song-recommender-knn-svd-millionsongs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/song-recommender-skipgram-word-vec",
+              "path": "/docs/tutorials/song-recommender-skipgram-word-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/songrec",
+              "path": "/docs/tutorials/songrec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/songs-embedding-skipgram-recommender",
+              "path": "/docs/tutorials/songs-embedding-skipgram-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sorec-on-sample-data-in-pytorch",
+              "path": "/docs/tutorials/sorec-on-sample-data-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/spark-de",
+              "path": "/docs/tutorials/spark-de",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/spark-ml-basics",
+              "path": "/docs/tutorials/spark-ml-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/spark-movie-recommender",
+              "path": "/docs/tutorials/spark-movie-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/spark-on-colab",
+              "path": "/docs/tutorials/spark-on-colab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sparsely-gated-mixture-of-experts",
+              "path": "/docs/tutorials/sparsely-gated-mixture-of-experts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sphinx",
+              "path": "/docs/tutorials/sphinx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/spotify-knn",
+              "path": "/docs/tutorials/spotify-knn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/spotify-music-recommender",
+              "path": "/docs/tutorials/spotify-music-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sr-gnn-session-based-recommendation-on-sample-dataset",
+              "path": "/docs/tutorials/sr-gnn-session-based-recommendation-on-sample-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch",
+              "path": "/docs/tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sse-pt-on-ml-m-in-tensorflow-x",
+              "path": "/docs/tutorials/sse-pt-on-ml-m-in-tensorflow-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/stamp-diginetica",
+              "path": "/docs/tutorials/stamp-diginetica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/stat-visuals",
+              "path": "/docs/tutorials/stat-visuals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/statistical-analysis",
+              "path": "/docs/tutorials/statistical-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/statistics",
+              "path": "/docs/tutorials/statistics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/statistics-fundamentals",
+              "path": "/docs/tutorials/statistics-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/steam-game-recommender-lightfm-warp",
+              "path": "/docs/tutorials/steam-game-recommender-lightfm-warp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/stein",
+              "path": "/docs/tutorials/stein",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/step-by-step-ab-testing-guide",
+              "path": "/docs/tutorials/step-by-step-ab-testing-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/stock-agent",
+              "path": "/docs/tutorials/stock-agent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/storing-ml-features-using-feast",
+              "path": "/docs/tutorials/storing-ml-features-using-feast",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/stosa",
+              "path": "/docs/tutorials/stosa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/struc-vec-on-airports-graph",
+              "path": "/docs/tutorials/struc-vec-on-airports-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/svdpp-movie",
+              "path": "/docs/tutorials/svdpp-movie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/t",
+              "path": "/docs/tutorials/t",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tag-reuters",
+              "path": "/docs/tutorials/tag-reuters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tagnn",
+              "path": "/docs/tutorials/tagnn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tagnn-session-based-recommendations-on-yoochoose-dataset",
+              "path": "/docs/tutorials/tagnn-session-based-recommendations-on-yoochoose-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tagnnpp",
+              "path": "/docs/tutorials/tagnnpp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tanp-cold-start-recommender-on-lastfm-dataset",
+              "path": "/docs/tutorials/tanp-cold-start-recommender-on-lastfm-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/taxi-qlearning",
+              "path": "/docs/tutorials/taxi-qlearning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tdd",
+              "path": "/docs/tutorials/tdd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/teacher-recommender",
+              "path": "/docs/tutorials/teacher-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tensorboard",
+              "path": "/docs/tutorials/tensorboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
+              "path": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tensorflow-speaker-verification",
+              "path": "/docs/tutorials/tensorflow-speaker-verification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tesseract",
+              "path": "/docs/tutorials/tesseract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/test",
+              "path": "/docs/tutorials/test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/text-summarisation",
+              "path": "/docs/tutorials/text-summarisation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/text-summarization-bart-dashplotly",
+              "path": "/docs/tutorials/text-summarization-bart-dashplotly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/textsum-playground-enronemail",
+              "path": "/docs/tutorials/textsum-playground-enronemail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tf-serving-in-action",
+              "path": "/docs/tutorials/tf-serving-in-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tfjs",
+              "path": "/docs/tutorials/tfjs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tflite",
+              "path": "/docs/tutorials/tflite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tflite-exercise",
+              "path": "/docs/tutorials/tflite-exercise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tflite-solution",
+              "path": "/docs/tutorials/tflite-solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tfrs-electronics",
+              "path": "/docs/tutorials/tfrs-electronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tfrs-fi-deepcross",
+              "path": "/docs/tutorials/tfrs-fi-deepcross",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tfrs-ml-m",
+              "path": "/docs/tutorials/tfrs-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tfrs-olist",
+              "path": "/docs/tutorials/tfrs-olist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tfrs-recommenders-olist",
+              "path": "/docs/tutorials/tfrs-recommenders-olist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/the-incredible-pytorch",
+              "path": "/docs/tutorials/the-incredible-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/therapist-recommender-cancelled",
+              "path": "/docs/tutorials/therapist-recommender-cancelled",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/thompson-sampling-simulation",
+              "path": "/docs/tutorials/thompson-sampling-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/timeseries-playground-gluon",
+              "path": "/docs/tutorials/timeseries-playground-gluon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/timeseries-playground-weather-wip",
+              "path": "/docs/tutorials/timeseries-playground-weather-wip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/toolkit-tensorflow-recommenders",
+              "path": "/docs/tutorials/toolkit-tensorflow-recommenders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/topicmodel",
+              "path": "/docs/tutorials/topicmodel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/topk-reinforce",
+              "path": "/docs/tutorials/topk-reinforce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/torch",
+              "path": "/docs/tutorials/torch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/torchvisiondeeplabv",
+              "path": "/docs/tutorials/torchvisiondeeplabv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/toy-example-car-recommender-knn",
+              "path": "/docs/tutorials/toy-example-car-recommender-knn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/trading",
+              "path": "/docs/tutorials/trading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/traffic-cv",
+              "path": "/docs/tutorials/traffic-cv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-an-rl-agent-for-trading-cryptocurrencies-using-sac-method",
+              "path": "/docs/tutorials/training-an-rl-agent-for-trading-cryptocurrencies-using-sac-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-an-rl-agent-for-trading-stocks-using-sac-method",
+              "path": "/docs/tutorials/training-an-rl-agent-for-trading-stocks-using-sac-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-dcn-model-on-taobao-ctr-dataset",
+              "path": "/docs/tutorials/training-dcn-model-on-taobao-ctr-dataset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-indexing-movie-recommender",
+              "path": "/docs/tutorials/training-indexing-movie-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-prod-vec-model-on-coveo-dataset-in-keras",
+              "path": "/docs/tutorials/training-prod-vec-model-on-coveo-dataset-in-keras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-cartpole-environment-with-dqn-method",
+              "path": "/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dqn-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+              "path": "/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+              "path": "/docs/tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-gridworld-with-q-learning-method",
+              "path": "/docs/tutorials/training-rl-agent-in-gridworld-with-q-learning-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-gridworld-with-sarsa-method",
+              "path": "/docs/tutorials/training-rl-agent-in-gridworld-with-sarsa-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method",
+              "path": "/docs/tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-mountain-car-environment-with-policy-gradient-method",
+              "path": "/docs/tutorials/training-rl-agent-in-mountain-car-environment-with-policy-gradient-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-pendulum-environment-with-ddpg-method",
+              "path": "/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ddpg-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+              "path": "/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-tokenizers",
+              "path": "/docs/tutorials/training-tokenizers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/training-various-matrix-factorization-models-on-ml-k-in-pytorch-lightning-framework",
+              "path": "/docs/tutorials/training-various-matrix-factorization-models-on-ml-k-in-pytorch-lightning-framework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/transformer-from-scratch-in-pytorch",
+              "path": "/docs/tutorials/transformer-from-scratch-in-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/transformer-rec-xlnet",
+              "path": "/docs/tutorials/transformer-rec-xlnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/transformers",
+              "path": "/docs/tutorials/transformers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/transformers-rec-session-based-recommender-on-rees",
+              "path": "/docs/tutorials/transformers-rec-session-based-recommender-on-rees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/transformers-rec-session-based-recommender-on-yoochoose",
+              "path": "/docs/tutorials/transformers-rec-session-based-recommender-on-yoochoose",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/transforming-interactions-to-sequences",
+              "path": "/docs/tutorials/transforming-interactions-to-sequences",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/travel-optim",
+              "path": "/docs/tutorials/travel-optim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/trend-news",
+              "path": "/docs/tutorials/trend-news",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/trivago-popular-destination-recommender",
+              "path": "/docs/tutorials/trivago-popular-destination-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tts",
+              "path": "/docs/tutorials/tts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems",
+              "path": "/docs/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tutorials",
+              "path": "/docs/tutorials/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tv-recommender-sweettv",
+              "path": "/docs/tutorials/tv-recommender-sweettv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/twitter-pulse-checker",
+              "path": "/docs/tutorials/twitter-pulse-checker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/twitter-sentiment-analysis-with-bert",
+              "path": "/docs/tutorials/twitter-sentiment-analysis-with-bert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/two-stage",
+              "path": "/docs/tutorials/two-stage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/twostage-retail",
+              "path": "/docs/tutorials/twostage-retail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/txtsum-play-amazon-play",
+              "path": "/docs/tutorials/txtsum-play-amazon-play",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/udacity-abtest",
+              "path": "/docs/tutorials/udacity-abtest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/udacity-abtest-python",
+              "path": "/docs/tutorials/udacity-abtest-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/udemy-course-recommender",
+              "path": "/docs/tutorials/udemy-course-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/uge-neural",
+              "path": "/docs/tutorials/uge-neural",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/uge-shallow",
+              "path": "/docs/tutorials/uge-shallow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/ultragcn-on-ml-k",
+              "path": "/docs/tutorials/ultragcn-on-ml-k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/under-sampling",
+              "path": "/docs/tutorials/under-sampling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/unit-test-jaccard-recommender",
+              "path": "/docs/tutorials/unit-test-jaccard-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization",
+              "path": "/docs/tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/various-models-on-ml-m-in-tensorflow",
+              "path": "/docs/tutorials/various-models-on-ml-m-in-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vector-search",
+              "path": "/docs/tutorials/vector-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vehicle-detection",
+              "path": "/docs/tutorials/vehicle-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/video-action",
+              "path": "/docs/tutorials/video-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/visualizing-embeddings-tsne",
+              "path": "/docs/tutorials/visualizing-embeddings-tsne",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/visualizing-the-non-linearity-of-neural-networks-using-tensorflow",
+              "path": "/docs/tutorials/visualizing-the-non-linearity-of-neural-networks-using-tensorflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vowpal-wabbit-contextual-recommender",
+              "path": "/docs/tutorials/vowpal-wabbit-contextual-recommender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vowpalwabbit-changing-context",
+              "path": "/docs/tutorials/vowpalwabbit-changing-context",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vowpalwabbit-changing-context-part",
+              "path": "/docs/tutorials/vowpalwabbit-changing-context-part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vw",
+              "path": "/docs/tutorials/vw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vw-contextual-default",
+              "path": "/docs/tutorials/vw-contextual-default",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vw-contextual-mod",
+              "path": "/docs/tutorials/vw-contextual-mod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/warm-start-model-retraining",
+              "path": "/docs/tutorials/warm-start-model-retraining",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/web-scraping-tutorial",
+              "path": "/docs/tutorials/web-scraping-tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wellness-tracker-bot",
+              "path": "/docs/tutorials/wellness-tracker-bot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wide-and-deep-criteo",
+              "path": "/docs/tutorials/wide-and-deep-criteo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wide-deep-on-criteo-ad-dataset-in-tf-x",
+              "path": "/docs/tutorials/wide-deep-on-criteo-ad-dataset-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikidatarecs",
+              "path": "/docs/tutorials/wikidatarecs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikipedia-recsys",
+              "path": "/docs/tutorials/wikipedia-recsys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikirecs-data-ingestion",
+              "path": "/docs/tutorials/wikirecs-data-ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikirecs-data-storage",
+              "path": "/docs/tutorials/wikirecs-data-storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikirecs-data-transformation",
+              "path": "/docs/tutorials/wikirecs-data-transformation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikirecs-model-training-evaluation",
+              "path": "/docs/tutorials/wikirecs-model-training-evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikirecs-modeling",
+              "path": "/docs/tutorials/wikirecs-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikirecs-modeling-original",
+              "path": "/docs/tutorials/wikirecs-modeling-original",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wikirecs-worker",
+              "path": "/docs/tutorials/wikirecs-worker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/wip-v-data-ss",
+              "path": "/docs/tutorials/wip-v-data-ss",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/word-vec",
+              "path": "/docs/tutorials/word-vec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/word-vec-recsys-on-ml-m",
+              "path": "/docs/tutorials/word-vec-recsys-on-ml-m",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/xdeepfm-on-criteo-ad-dataset-in-tf-x",
+              "path": "/docs/tutorials/xdeepfm-on-criteo-ad-dataset-in-tf-x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/yahoo-finance-scraping",
+              "path": "/docs/tutorials/yahoo-finance-scraping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/yet-another-movie-recommender-pytorch",
+              "path": "/docs/tutorials/yet-another-movie-recommender-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/yolo",
+              "path": "/docs/tutorials/yolo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/yolo-pretrained",
+              "path": "/docs/tutorials/yolo-pretrained",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/yolov-pytorch",
+              "path": "/docs/tutorials/yolov-pytorch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/yoochoose-session-graph",
+              "path": "/docs/tutorials/yoochoose-session-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/youtube-personalized-recommender-api",
+              "path": "/docs/tutorials/youtube-personalized-recommender-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/youtube-video-speech-recognition-with-deepspeech",
+              "path": "/docs/tutorials/youtube-video-speech-recognition-with-deepspeech",
               "sidebar": "tutorialSidebar"
             }
           ]

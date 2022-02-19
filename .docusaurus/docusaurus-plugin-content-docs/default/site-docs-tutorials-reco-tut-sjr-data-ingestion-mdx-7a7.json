@@ -28,11 +28,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ayuhealth-food-recommender",
-    "permalink": "/docs/tutorials/ayuhealth-food-recommender"
+    "title": "reco-tut-rrt-river-matrix-factorization-movielens-k",
+    "permalink": "/docs/tutorials/reco-tut-rrt-river-matrix-factorization-movielens-k"
   },
   "next": {
-    "title": "Tools",
-    "permalink": "/docs/tools/"
+    "title": "reco-tut-sjr-eda-and-preprocessing",
+    "permalink": "/docs/tutorials/reco-tut-sjr-eda-and-preprocessing"
   }
 }
