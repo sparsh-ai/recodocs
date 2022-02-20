@@ -2,7 +2,7 @@
   "unversionedId": "tutorials/reco-dvbpr-not-working",
   "id": "tutorials/reco-dvbpr-not-working",
   "title": "reco-dvbpr-not-working",
-  "description": "image.png",
+  "description": "Building effective recommender systems for domains like fashion is challenging due to the high level of subjectivity and the semantic complexity of the features involved (i.e., fashion styles). Recent work has shown that approaches to ‘visual’ recommendation (e.g. clothing, art, etc.) can be made more accurate by incorporating visual signals directly into the recommendation objective, using ‘off-the-shelf’ feature representations derived from deep networks. Here, we seek to extend this contribution by showing that recommendation performance can be significantly improved by learning ‘fashion aware’ image representations directly, i.e., by training the image representation (from the pixel level) and the recommender system jointly; this contribution is related to recent work using Siamese CNNs, though we are able to show improvements over state-of-the-art recommendation techniques such as BPR and variants that make use of pretrained visual features.",
   "source": "@site/docs/tutorials/reco-dvbpr-not-working.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/reco-dvbpr-not-working",

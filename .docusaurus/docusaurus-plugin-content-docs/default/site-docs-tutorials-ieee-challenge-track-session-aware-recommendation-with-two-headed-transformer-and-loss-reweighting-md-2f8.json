@@ -28,8 +28,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction"
+    "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
+    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model"
   },
   "next": {
     "title": "ieee-transformer",

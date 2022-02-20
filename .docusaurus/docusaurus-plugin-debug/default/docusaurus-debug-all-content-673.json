@@ -7613,7 +7613,7 @@
               "unversionedId": "tutorials/building-an-rl-agent-to-auto-login-on-the-web",
               "id": "tutorials/building-an-rl-agent-to-auto-login-on-the-web",
               "title": "building-an-rl-agent-to-auto-login-on-the-web",
-              "description": "image.png",
+              "description": "---",
               "source": "@site/docs/tutorials/building-an-rl-agent-to-auto-login-on-the-web.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/building-an-rl-agent-to-auto-login-on-the-web",
@@ -7651,7 +7651,7 @@
               "unversionedId": "tutorials/building-an-rl-agent-to-book-flights-on-the-web",
               "id": "tutorials/building-an-rl-agent-to-book-flights-on-the-web",
               "title": "building-an-rl-agent-to-book-flights-on-the-web",
-              "description": "image.png",
+              "description": "---",
               "source": "@site/docs/tutorials/building-an-rl-agent-to-book-flights-on-the-web.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/building-an-rl-agent-to-book-flights-on-the-web",
@@ -7689,7 +7689,7 @@
               "unversionedId": "tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
               "id": "tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
               "title": "building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
-              "description": "image.png",
+              "description": "---",
               "source": "@site/docs/tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
@@ -7727,7 +7727,7 @@
               "unversionedId": "tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
               "id": "tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
               "title": "building-an-rl-agent-to-manage-emails-on-the-web",
-              "description": "image.png",
+              "description": "---",
               "source": "@site/docs/tutorials/building-an-rl-agent-to-manage-emails-on-the-web.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
@@ -12441,7 +12441,7 @@
               "unversionedId": "tutorials/feast",
               "id": "tutorials/feast",
               "title": "feast",
-              "description": "image.png",
+              "description": "Feast (Feature Store) is an operational data system for managing and serving machine learning features to models in production.",
               "source": "@site/docs/tutorials/feast.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/feast",
@@ -15097,44 +15097,6 @@
                 "permalink": "/docs/tutorials/ieee-bigdata-recsys-dataset-wrangling-and-eda"
               },
               "next": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model"
-              }
-            },
-            {
-              "unversionedId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-              "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-              "description": "Model 1:",
-              "source": "@site/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-              "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "jupyter": {
-                  "jupytext": {
-                    "text_representation": {
-                      "extension": ".md",
-                      "format_name": "markdown",
-                      "format_version": "1.3",
-                      "jupytext_version": "1.13.7"
-                    }
-                  },
-                  "kernelspec": {
-                    "display_name": "Python 3",
-                    "name": "python3"
-                  }
-                }
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction"
-              },
-              "next": {
                 "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
                 "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model"
               }
@@ -15169,84 +15131,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model"
-              },
-              "next": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features"
-              }
-            },
-            {
-              "unversionedId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-              "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-              "description": "We will implement a model to predict which session the user has purchased (using FM). The feature layer of item is added, because when history was originally considered, all feats were directly averaged, which is unreasonable for features such as price. We will first make a model that discretizes all continuous features (bucketing), and then try FM to see the effect.",
-              "source": "@site/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-              "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "jupyter": {
-                  "jupytext": {
-                    "text_representation": {
-                      "extension": ".md",
-                      "format_name": "markdown",
-                      "format_version": "1.3",
-                      "jupytext_version": "1.13.7"
-                    }
-                  },
-                  "kernelspec": {
-                    "display_name": "Python 3",
-                    "name": "python3"
-                  }
-                }
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model"
-              },
-              "next": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction"
-              }
-            },
-            {
-              "unversionedId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-              "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-              "description": "We will implement a model to predict which session the user has purchased. The feature layer of item is added, because when history was originally considered, all feats were directly averaged, which is unreasonable for features such as price.",
-              "source": "@site/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-              "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "jupyter": {
-                  "jupytext": {
-                    "text_representation": {
-                      "extension": ".md",
-                      "format_name": "markdown",
-                      "format_version": "1.3",
-                      "jupytext_version": "1.13.7"
-                    }
-                  },
-                  "kernelspec": {
-                    "display_name": "Python 3",
-                    "name": "python3"
-                  }
-                }
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features"
+                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction",
+                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction"
               },
               "next": {
                 "title": "ieee-challenge-track-session-aware-recommendation-with-two-headed-transformer-and-loss-reweighting",
@@ -15283,8 +15169,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction"
+                "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
+                "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model"
               },
               "next": {
                 "title": "ieee-transformer",
@@ -23910,7 +23796,7 @@
               "unversionedId": "tutorials/reco-dvbpr-not-working",
               "id": "tutorials/reco-dvbpr-not-working",
               "title": "reco-dvbpr-not-working",
-              "description": "image.png",
+              "description": "Building effective recommender systems for domains like fashion is challenging due to the high level of subjectivity and the semantic complexity of the features involved (i.e., fashion styles). Recent work has shown that approaches to ‘visual’ recommendation (e.g. clothing, art, etc.) can be made more accurate by incorporating visual signals directly into the recommendation objective, using ‘off-the-shelf’ feature representations derived from deep networks. Here, we seek to extend this contribution by showing that recommendation performance can be significantly improved by learning ‘fashion aware’ image representations directly, i.e., by training the image representation (from the pixel level) and the recommender system jointly; this contribution is related to recent work using Siamese CNNs, though we are able to show improvements over state-of-the-art recommendation techniques such as BPR and variants that make use of pretrained visual features.",
               "source": "@site/docs/tutorials/reco-dvbpr-not-working.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/reco-dvbpr-not-working",
@@ -29462,44 +29348,6 @@
                 "permalink": "/docs/tutorials/recograph-word-vec-amazon-electronics"
               },
               "next": {
-                "title": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-                "permalink": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow"
-              }
-            },
-            {
-              "unversionedId": "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-              "id": "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-              "title": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-              "description": "Sceme of the model",
-              "source": "@site/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-              "permalink": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "jupyter": {
-                  "jupytext": {
-                    "text_representation": {
-                      "extension": ".md",
-                      "format_name": "markdown",
-                      "format_version": "1.3",
-                      "jupytext_version": "1.13.7"
-                    }
-                  },
-                  "kernelspec": {
-                    "display_name": "Python 3",
-                    "name": "python3"
-                  }
-                }
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "recohut-tutorial-implicit-library-exploration",
-                "permalink": "/docs/tutorials/recohut-tutorial-implicit-library-exploration"
-              },
-              "next": {
                 "title": "recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
                 "permalink": "/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras"
               }
@@ -29534,8 +29382,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-                "permalink": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow"
+                "title": "recohut-tutorial-implicit-library-exploration",
+                "permalink": "/docs/tutorials/recohut-tutorial-implicit-library-exploration"
               },
               "next": {
                 "title": "recommend-vendors-to-local-agencies-ipynb",
@@ -30618,7 +30466,7 @@
               "unversionedId": "tutorials/resnet",
               "id": "tutorials/resnet",
               "title": "resnet",
-              "description": "image.png",
+              "description": "Loading and Processing Data",
               "source": "@site/docs/tutorials/resnet.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/resnet",
@@ -34559,45 +34407,6 @@
                 "permalink": "/docs/tutorials/tdd"
               },
               "next": {
-                "title": "tensorboard",
-                "permalink": "/docs/tutorials/tensorboard"
-              }
-            },
-            {
-              "unversionedId": "tutorials/tensorboard",
-              "id": "tutorials/tensorboard",
-              "title": "tensorboard",
-              "description": "How to use TensorBoard with PyTorch",
-              "source": "@site/docs/tutorials/tensorboard.md",
-              "sourceDirName": "tutorials",
-              "slug": "/tutorials/tensorboard",
-              "permalink": "/docs/tutorials/tensorboard",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/tensorboard.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "jupyter": {
-                  "jupytext": {
-                    "text_representation": {
-                      "extension": ".md",
-                      "format_name": "markdown",
-                      "format_version": "1.3",
-                      "jupytext_version": "1.13.7"
-                    }
-                  },
-                  "kernelspec": {
-                    "display_name": "Python 3",
-                    "language": "python",
-                    "name": "python3"
-                  }
-                }
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "teacher-recommender",
-                "permalink": "/docs/tutorials/teacher-recommender"
-              },
-              "next": {
                 "title": "TensorFlow 2 Reinforcement Learning Cookbook",
                 "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
               }
@@ -34617,8 +34426,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "tensorboard",
-                "permalink": "/docs/tutorials/tensorboard"
+                "title": "teacher-recommender",
+                "permalink": "/docs/tutorials/teacher-recommender"
               },
               "next": {
                 "title": "Speaker verification with GE2E loss (Text independent version)",
@@ -34706,7 +34515,7 @@
               "unversionedId": "tutorials/test",
               "id": "tutorials/test",
               "title": "test",
-              "description": "image.png",
+              "description": "",
               "source": "@site/docs/tutorials/test.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/test",
@@ -38394,12 +38203,12 @@
               "unversionedId": "tutorials/word-vec",
               "id": "tutorials/word-vec",
               "title": "word-vec",
-              "description": "image.png",
-              "source": "@site/docs/tutorials/word-vec.md",
+              "description": "Simple skip-gram model",
+              "source": "@site/docs/tutorials/word-vec.mdx",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/word-vec",
               "permalink": "/docs/tutorials/word-vec",
-              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/word-vec.md",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/word-vec.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -38698,7 +38507,7 @@
               "unversionedId": "tutorials/yoochoose-session-graph",
               "id": "tutorials/yoochoose-session-graph",
               "title": "yoochoose-session-graph",
-              "description": "image.png",
+              "description": "",
               "source": "@site/docs/tutorials/yoochoose-session-graph.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/yoochoose-session-graph",
@@ -40695,19 +40504,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model"
-                  },
-                  {
-                    "type": "doc",
                     "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction"
                   },
                   {
                     "type": "doc",
@@ -42211,10 +42008,6 @@
                   },
                   {
                     "type": "doc",
-                    "id": "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow"
-                  },
-                  {
-                    "type": "doc",
                     "id": "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras"
                   },
                   {
@@ -42744,10 +42537,6 @@
                   {
                     "type": "doc",
                     "id": "tutorials/teacher-recommender"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorials/tensorboard"
                   },
                   {
                     "type": "doc",

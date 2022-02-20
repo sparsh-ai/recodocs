@@ -28,11 +28,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model"
+    "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction",
+    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction"
   },
   "next": {
-    "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features"
+    "title": "ieee-challenge-track-session-aware-recommendation-with-two-headed-transformer-and-loss-reweighting",
+    "permalink": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-two-headed-transformer-and-loss-reweighting"
   }
 }

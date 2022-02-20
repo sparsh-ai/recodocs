@@ -32,7 +32,7 @@
     "permalink": "/docs/tutorials/tdd"
   },
   "next": {
-    "title": "tensorboard",
-    "permalink": "/docs/tutorials/tensorboard"
+    "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+    "permalink": "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook"
   }
 }

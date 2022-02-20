@@ -2,7 +2,7 @@
   "unversionedId": "tutorials/feast",
   "id": "tutorials/feast",
   "title": "feast",
-  "description": "image.png",
+  "description": "Feast (Feature Store) is an operational data system for managing and serving machine learning features to models in production.",
   "source": "@site/docs/tutorials/feast.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/feast",

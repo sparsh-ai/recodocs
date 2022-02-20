@@ -2791,27 +2791,9 @@
           },
           {
             "type": "link",
-            "label": "ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-            "href": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-            "docId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model"
-          },
-          {
-            "type": "link",
             "label": "ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
             "href": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
             "docId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model"
-          },
-          {
-            "type": "link",
-            "label": "ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-            "href": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-            "docId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features"
-          },
-          {
-            "type": "link",
-            "label": "ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-            "href": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-            "docId": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction"
           },
           {
             "type": "link",
@@ -5065,12 +5047,6 @@
           },
           {
             "type": "link",
-            "label": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-            "href": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-            "docId": "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow"
-          },
-          {
-            "type": "link",
             "label": "recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
             "href": "/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
             "docId": "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras"
@@ -5866,12 +5842,6 @@
             "label": "teacher-recommender",
             "href": "/docs/tutorials/teacher-recommender",
             "docId": "tutorials/teacher-recommender"
-          },
-          {
-            "type": "link",
-            "label": "tensorboard",
-            "href": "/docs/tutorials/tensorboard",
-            "docId": "tutorials/tensorboard"
           },
           {
             "type": "link",
@@ -8183,25 +8153,25 @@
     "tutorials/building-an-rl-agent-to-auto-login-on-the-web": {
       "id": "tutorials/building-an-rl-agent-to-auto-login-on-the-web",
       "title": "building-an-rl-agent-to-auto-login-on-the-web",
-      "description": "image.png",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/building-an-rl-agent-to-book-flights-on-the-web": {
       "id": "tutorials/building-an-rl-agent-to-book-flights-on-the-web",
       "title": "building-an-rl-agent-to-book-flights-on-the-web",
-      "description": "image.png",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action": {
       "id": "tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
       "title": "building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action",
-      "description": "image.png",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/building-an-rl-agent-to-manage-emails-on-the-web": {
       "id": "tutorials/building-an-rl-agent-to-manage-emails-on-the-web",
       "title": "building-an-rl-agent-to-manage-emails-on-the-web",
-      "description": "image.png",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/building-deploying-asos-fashion-recommender-tensorflow": {
@@ -8945,7 +8915,7 @@
     "tutorials/feast": {
       "id": "tutorials/feast",
       "title": "feast",
-      "description": "image.png",
+      "description": "Feast (Feature Store) is an operational data system for managing and serving machine learning features to models in production.",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/feature-selection-on-quantum-computer": {
@@ -9362,28 +9332,10 @@
       "description": "We will implement multitask model - buy and click.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model": {
-      "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-      "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-      "description": "Model 1:",
-      "sidebar": "tutorialSidebar"
-    },
     "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model": {
       "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
       "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
       "description": "Setup",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features": {
-      "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-      "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-      "description": "We will implement a model to predict which session the user has purchased (using FM). The feature layer of item is added, because when history was originally considered, all feats were directly averaged, which is unreasonable for features such as price. We will first make a model that discretizes all continuous features (bucketing), and then try FM to see the effect.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction": {
-      "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-      "title": "ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-      "description": "We will implement a model to predict which session the user has purchased. The feature layer of item is added, because when history was originally considered, all feats were directly averaged, which is unreasonable for features such as price.",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/ieee-challenge-track-session-aware-recommendation-with-two-headed-transformer-and-loss-reweighting": {
@@ -10757,7 +10709,7 @@
     "tutorials/reco-dvbpr-not-working": {
       "id": "tutorials/reco-dvbpr-not-working",
       "title": "reco-dvbpr-not-working",
-      "description": "image.png",
+      "description": "Building effective recommender systems for domains like fashion is challenging due to the high level of subjectivity and the semantic complexity of the features involved (i.e., fashion styles). Recent work has shown that approaches to ‘visual’ recommendation (e.g. clothing, art, etc.) can be made more accurate by incorporating visual signals directly into the recommendation objective, using ‘off-the-shelf’ feature representations derived from deep networks. Here, we seek to extend this contribution by showing that recommendation performance can be significantly improved by learning ‘fashion aware’ image representations directly, i.e., by training the image representation (from the pixel level) and the recommender system jointly; this contribution is related to recent work using Siamese CNNs, though we are able to show improvements over state-of-the-art recommendation techniques such as BPR and variants that make use of pretrained visual features.",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/reco-frontend-dash": {
@@ -11630,12 +11582,6 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow": {
-      "id": "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-      "title": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-      "description": "Sceme of the model",
-      "sidebar": "tutorialSidebar"
-    },
     "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras": {
       "id": "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
       "title": "recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
@@ -11813,7 +11759,7 @@
     "tutorials/resnet": {
       "id": "tutorials/resnet",
       "title": "resnet",
-      "description": "image.png",
+      "description": "Loading and Processing Data",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/retail": {
@@ -12434,12 +12380,6 @@
       "description": "Recommending Teachers to Students for the K-12 online one-on-one courses",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/tensorboard": {
-      "id": "tutorials/tensorboard",
-      "title": "tensorboard",
-      "description": "How to use TensorBoard with PyTorch",
-      "sidebar": "tutorialSidebar"
-    },
     "tutorials/tensorflow-2-reinforcement-learning-cookbook": {
       "id": "tutorials/tensorflow-2-reinforcement-learning-cookbook",
       "title": "TensorFlow 2 Reinforcement Learning Cookbook",
@@ -12461,7 +12401,7 @@
     "tutorials/test": {
       "id": "tutorials/test",
       "title": "test",
-      "description": "image.png",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/text-summarisation": {
@@ -13043,7 +12983,7 @@
     "tutorials/word-vec": {
       "id": "tutorials/word-vec",
       "title": "word-vec",
-      "description": "image.png",
+      "description": "Simple skip-gram model",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/word-vec-recsys-on-ml-m": {
@@ -13091,7 +13031,7 @@
     "tutorials/yoochoose-session-graph": {
       "id": "tutorials/yoochoose-session-graph",
       "title": "yoochoose-session-graph",
-      "description": "image.png",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/youtube-personalized-recommender-api": {

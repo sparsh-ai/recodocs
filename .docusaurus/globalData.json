@@ -2339,23 +2339,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
               "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
-              "path": "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -4229,11 +4214,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-              "path": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
               "path": "/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras",
               "sidebar": "tutorialSidebar"
@@ -4896,11 +4876,6 @@
             {
               "id": "tutorials/teacher-recommender",
               "path": "/docs/tutorials/teacher-recommender",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tensorboard",
-              "path": "/docs/tutorials/tensorboard",
               "sidebar": "tutorialSidebar"
             },
             {

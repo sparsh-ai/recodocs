@@ -28,8 +28,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow",
-    "permalink": "/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow"
+    "title": "recohut-tutorial-implicit-library-exploration",
+    "permalink": "/docs/tutorials/recohut-tutorial-implicit-library-exploration"
   },
   "next": {
     "title": "recommend-vendors-to-local-agencies-ipynb",

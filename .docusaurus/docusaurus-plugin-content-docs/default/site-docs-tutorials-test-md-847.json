@@ -2,7 +2,7 @@
   "unversionedId": "tutorials/test",
   "id": "tutorials/test",
   "title": "test",
-  "description": "image.png",
+  "description": "",
   "source": "@site/docs/tutorials/test.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/test",

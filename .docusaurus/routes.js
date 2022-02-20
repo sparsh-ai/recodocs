@@ -310,7 +310,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','cc8'),
+    component: ComponentCreator('/docs','4fe'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -3103,26 +3103,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model',
-        component: ComponentCreator('/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-final-model','404'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model',
         component: ComponentCreator('/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model','9b2'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features',
-        component: ComponentCreator('/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-model-with-all-discrete-features','b3e'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction',
-        component: ComponentCreator('/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-session-prediction-with-item-feature-extraction','699'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -5371,12 +5353,6 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow',
-        component: ComponentCreator('/docs/tutorials/recohut-tutorial-stage-build-a-simple-movie-recommender-with-tensorflow','478'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras',
         component: ComponentCreator('/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras','208'),
         exact: true,
@@ -6175,12 +6151,6 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/tensorboard',
-        component: ComponentCreator('/docs/tutorials/tensorboard','fb5'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook',
         component: ComponentCreator('/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook','9cc'),
         exact: true,
@@ -6776,7 +6746,7 @@ export default [
       },
       {
         path: '/docs/tutorials/word-vec',
-        component: ComponentCreator('/docs/tutorials/word-vec','59d'),
+        component: ComponentCreator('/docs/tutorials/word-vec','8f4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

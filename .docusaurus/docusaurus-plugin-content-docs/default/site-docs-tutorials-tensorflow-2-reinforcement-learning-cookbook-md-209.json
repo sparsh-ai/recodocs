@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "tensorboard",
-    "permalink": "/docs/tutorials/tensorboard"
+    "title": "teacher-recommender",
+    "permalink": "/docs/tutorials/teacher-recommender"
   },
   "next": {
     "title": "Speaker verification with GE2E loss (Text independent version)",

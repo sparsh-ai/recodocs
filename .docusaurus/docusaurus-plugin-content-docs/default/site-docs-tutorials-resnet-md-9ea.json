@@ -2,7 +2,7 @@
   "unversionedId": "tutorials/resnet",
   "id": "tutorials/resnet",
   "title": "resnet",
-  "description": "image.png",
+  "description": "Loading and Processing Data",
   "source": "@site/docs/tutorials/resnet.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/resnet",

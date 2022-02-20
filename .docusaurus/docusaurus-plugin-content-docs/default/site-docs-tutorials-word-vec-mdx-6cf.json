@@ -2,7 +2,7 @@
   "unversionedId": "tutorials/word-vec",
   "id": "tutorials/word-vec",
   "title": "word-vec",
-  "description": "image.png",
+  "description": "Simple skip-gram model",
   "source": "@site/docs/tutorials/word-vec.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/word-vec",
