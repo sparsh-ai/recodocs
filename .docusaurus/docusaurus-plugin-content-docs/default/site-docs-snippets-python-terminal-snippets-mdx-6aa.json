@@ -1,0 +1,23 @@
+{
+  "unversionedId": "snippets/python-terminal-snippets",
+  "id": "snippets/python-terminal-snippets",
+  "title": "Python terminal",
+  "description": "",
+  "source": "@site/docs/snippets/python-terminal-snippets.mdx",
+  "sourceDirName": "snippets",
+  "slug": "/snippets/python-terminal-snippets",
+  "permalink": "/docs/snippets/python-terminal-snippets",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/snippets/python-terminal-snippets.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python code",
+    "permalink": "/docs/snippets/python-snippets"
+  },
+  "next": {
+    "title": "Unix shell",
+    "permalink": "/docs/snippets/unix-shell-snippets"
+  }
+}

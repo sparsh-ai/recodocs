@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/mongodb-csv-conversion",
+  "id": "tutorials/mongodb-csv-conversion",
+  "title": "MongoDB to CSV conversion",
+  "description": "Pull a noSQL data from MongoDB and convert into Pandas dataframe",
+  "source": "@site/docs/tutorials/mongodb-csv-conversion.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mongodb-csv-conversion",
+  "permalink": "/docs/tutorials/mongodb-csv-conversion",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mongodb-csv-conversion.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
+  },
+  "next": {
+    "title": "Python code",
+    "permalink": "/docs/snippets/python-snippets"
+  }
+}

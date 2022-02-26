@@ -1,0 +1,23 @@
+{
+  "unversionedId": "snippets/python-snippets",
+  "id": "snippets/python-snippets",
+  "title": "Python code",
+  "description": "Clean filenames in a folder",
+  "source": "@site/docs/snippets/python-snippets.mdx",
+  "sourceDirName": "snippets",
+  "slug": "/snippets/python-snippets",
+  "permalink": "/docs/snippets/python-snippets",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/snippets/python-snippets.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MongoDB to CSV conversion",
+    "permalink": "/docs/tutorials/mongodb-csv-conversion"
+  },
+  "next": {
+    "title": "Unix shell",
+    "permalink": "/docs/snippets/unix-shell-snippets"
+  }
+}

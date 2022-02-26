@@ -1,4970 +1,1356 @@
 {
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
   "/blog-b52": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "185986ab"
+        "content": "content---blog-185-6a3"
       },
       {
-        "content": "02a5a6e0"
+        "content": "content---blog-02-a-4c0"
       },
       {
-        "content": "744cb713"
+        "content": "content---blog-744-7a9"
       },
       {
-        "content": "efed6fa0"
+        "content": "content---blogefe-40e"
       },
       {
-        "content": "0e3c1a88"
+        "content": "content---blog-0-e-3-056"
       },
       {
-        "content": "90386e86"
+        "content": "content---blog-903-b99"
       },
       {
-        "content": "194a13a6"
+        "content": "content---blog-194-80e"
       },
       {
-        "content": "d4ab1fbc"
+        "content": "content---blogd-4-a-a2d"
       },
       {
-        "content": "7cf6b45a"
+        "content": "content---blog-7-cf-594"
       },
       {
-        "content": "bafaae06"
+        "content": "content---blogbaf-e1f"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/2020/01/19/mobilenet-ssd-caffe-pre-trained-model-8e7": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "ae27c878"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2020-01-19-mobilenet-ssd-caffe-pre-trained-modelae-2-664"
   },
   "/blog/2021/01/23/object-detection-with-yolo3-334": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "f76e21a9"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-01-23-object-detection-with-yolo-3-f-76-267"
   },
   "/blog/2021/10/01/bytedance's-secret-sauce-of-recommendation-689": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "c15d490c"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-bytedances-secret-sauce-of-recommendationc-15-66f"
   },
   "/blog/2021/10/01/clinical-decision-making-b7f": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "7f20c9b3"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-clinical-decision-making-7-f-2-518"
   },
   "/blog/2021/10/01/detectron-2-ac0": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "3d93fce4"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-detectron-23-d-9-11d"
   },
   "/blog/2021/10/01/distributed-training-of-recommender-systems-024": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "0ada242c"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-distributed-training-of-recommender-systems-0-ad-c79"
   },
   "/blog/2021/10/01/document-recommendation-682": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "746b09f8"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-document-recommendation-746-a4e"
   },
   "/blog/2021/10/01/fake-voice-detection-3b3": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "ef4cd368"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-fake-voice-detectionef-4-094"
   },
   "/blog/2021/10/01/finding-hardware-parts-in-warehouse-2ea": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "af278104"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-finding-hardware-parts-in-warehouseaf-2-3f3"
   },
   "/blog/2021/10/01/image-similarity-system-64b": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "caa49cac"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-image-similarity-systemcaa-385"
   },
   "/blog/2021/10/01/insurance-personalization-c7e": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "f6af6df9"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-insurance-personalizationf-6-a-3bb"
   },
   "/blog/2021/10/01/name-&-address-parsing-d90": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "4f303f78"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-name-address-parsing-4-f-3-030"
   },
   "/blog/2021/10/01/object-detection-hands-on-exercises-099": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "2143c78b"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-object-detection-hands-on-exercises-214-fe0"
   },
   "/blog/2021/10/01/object-detection-with-opencv-8e4": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "bfe29135"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-object-detection-with-opencvbfe-cc8"
   },
   "/blog/2021/10/01/object-detection-with-yolo3-d54": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "41dadac5"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-object-detection-with-yolo-341-d-1bb"
   },
   "/blog/2021/10/01/ocr-experiments-23a": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "3ca4ffcb"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-ocr-experiments-3-ca-3cd"
   },
   "/blog/2021/10/01/pdf-to-wordcloud-via-mail-2e5": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "45f8179f"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-pdf-to-wordcloud-via-mail-45-f-b0b"
   },
   "/blog/2021/10/01/personalized-unexpectedness-in-recommender-systems-030": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "96e00020"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-personalized-unexpectedness-in-recommender-systems-96-e-d9d"
   },
   "/blog/2021/10/01/predicting-electronics-resale-price-5cf": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "7dca322b"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-predicting-electronics-resale-price-7-dc-e4b"
   },
   "/blog/2021/10/01/real-time-news-personalization-with-flink-d15": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "a999e6ba"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-real-time-news-personalization-with-flinka-99-9e5"
   },
   "/blog/2021/10/01/semantic-similarity-52a": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "84115211"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-semantic-similarity-841-095"
   },
   "/blog/2021/10/01/short-video-background-music-recommender-502": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "edbe2c02"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-short-video-background-music-recommenderedb-d71"
   },
   "/blog/2021/10/01/the-progression-of-analytics-in-enterprises-7d2": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "f66eeb44"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-the-progression-of-analytics-in-enterprisesf-66-23b"
   },
   "/blog/2021/10/01/tools-for-building-recommender-systems-cc7": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "f1450ef9"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-tools-for-building-recommender-systemsf-14-950"
   },
   "/blog/2021/10/01/vehicle-suggestions-702": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "03158ba3"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-vehicle-suggestions-031-04c"
   },
   "/blog/2021/10/01/web-scraping-using-scrapy-bs4-and-selenium-f0e": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "15f89aec"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-web-scraping-using-scrapy-bs-4-and-selenium-15-f-101"
   },
   "/blog/2021/10/01/web-scraping-with-gazpacho-41e": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "1125aadf"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-web-scraping-with-gazpacho-112-e1b"
   },
   "/blog/2021/10/01/wellness-tracker-chatbot-916": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "c6b8a14b"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-wellness-tracker-chatbotc-6-b-398"
   },
   "/blog/2021/10/01/what-is-livestream-ecommerce-313": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "14e07bbd"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-10-01-what-is-livestream-ecommerce-14-e-92e"
   },
   "/blog/archive-f4c": {
-    "component": "9e4087bc",
-    "archive": "b2f554cd"
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
   },
   "/blog/page/2-156": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ac98e55f"
+        "content": "content---blog-page-2-ac-9-aad"
       },
       {
-        "content": "edadaca9"
+        "content": "content---blog-page-2-eda-37f"
       },
       {
-        "content": "6208a5b7"
+        "content": "content---blog-page-2620-632"
       },
       {
-        "content": "0bcd0601"
+        "content": "content---blog-page-20-bc-18a"
       },
       {
-        "content": "3278e099"
+        "content": "content---blog-page-2327-7c6"
       },
       {
-        "content": "0c655d87"
+        "content": "content---blog-page-20-c-6-35c"
       },
       {
-        "content": "9cd79544"
+        "content": "content---blog-page-29-cd-b68"
       },
       {
-        "content": "8a789c15"
+        "content": "content---blog-page-28-a-7-66f"
       },
       {
-        "content": "630af974"
+        "content": "content---blog-page-2630-68e"
       },
       {
-        "content": "e4e8793a"
+        "content": "content---blog-page-2-e-4-e-e11"
       }
     ],
-    "metadata": "8eb4e46b"
+    "metadata": "metadata---blog-page-28-eb-625"
   },
   "/blog/page/3-35b": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "1c317916"
+        "content": "content---blog-page-31-c-3-b49"
       },
       {
-        "content": "7bd4c30f"
+        "content": "content---blog-page-37-bd-183"
       },
       {
-        "content": "defae8b4"
+        "content": "content---blog-page-3-def-3bc"
       },
       {
-        "content": "3a1b8b71"
+        "content": "content---blog-page-33-a-1-f6a"
       },
       {
-        "content": "28598ea0"
+        "content": "content---blog-page-3285-b7d"
       },
       {
-        "content": "9ea30017"
+        "content": "content---blog-page-39-ea-29d"
       },
       {
-        "content": "f4866862"
+        "content": "content---blog-page-3-f-48-436"
       },
       {
-        "content": "af0d3de2"
+        "content": "content---blog-page-3-af-0-85d"
       },
       {
-        "content": "0690447f"
+        "content": "content---blog-page-3069-d57"
       }
     ],
-    "metadata": "92999a1c"
+    "metadata": "metadata---blog-page-3929-7ba"
   },
   "/blog/tags-e13": {
-    "component": "01a85c17",
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/app-0e4": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "bafaae06"
+        "content": "content---blogbaf-e1f"
       },
       {
-        "content": "6208a5b7"
+        "content": "content---blog-page-2620-632"
       },
       {
-        "content": "af0d3de2"
+        "content": "content---blog-page-3-af-0-85d"
       },
       {
-        "content": "0690447f"
+        "content": "content---blog-page-3069-d57"
       }
     ],
-    "metadata": "03ee96e8"
+    "metadata": "metadata---blog-tags-app-03-e-251"
   },
   "/blog/tags/audio-9c1": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "90386e86"
+        "content": "content---blog-903-b99"
       }
     ],
-    "metadata": "6712406b"
+    "metadata": "metadata---blog-tags-audio-671-b71"
   },
   "/blog/tags/aws-beanstalk-173": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "d4ab1fbc"
+        "content": "content---blogd-4-a-a2d"
       }
     ],
-    "metadata": "f9046b55"
+    "metadata": "metadata---blog-tags-aws-beanstalkf-90-9be"
   },
   "/blog/tags/chatbot-3c0": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "9ea30017"
+        "content": "content---blog-page-39-ea-29d"
       }
     ],
-    "metadata": "bb0ed552"
+    "metadata": "metadata---blog-tags-chatbotbb-0-460"
   },
   "/blog/tags/classification-a16": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "02a5a6e0"
+        "content": "content---blog-02-a-4c0"
       }
     ],
-    "metadata": "739966d2"
+    "metadata": "metadata---blog-tags-classification-739-673"
   },
   "/blog/tags/deepfake-819": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "90386e86"
+        "content": "content---blog-903-b99"
       }
     ],
-    "metadata": "c4aea541"
+    "metadata": "metadata---blog-tags-deepfakec-4-a-810"
   },
   "/blog/tags/distributed-ae7": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "efed6fa0"
+        "content": "content---blogefe-40e"
       }
     ],
-    "metadata": "8b9f1315"
+    "metadata": "metadata---blog-tags-distributed-8-b-9-107"
   },
   "/blog/tags/flask-d82": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "d4ab1fbc"
+        "content": "content---blogd-4-a-a2d"
       },
       {
-        "content": "bafaae06"
+        "content": "content---blogbaf-e1f"
       }
     ],
-    "metadata": "65da7a06"
+    "metadata": "metadata---blog-tags-flask-65-d-52f"
   },
   "/blog/tags/healthcare-28a": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "02a5a6e0"
+        "content": "content---blog-02-a-4c0"
       },
       {
-        "content": "9ea30017"
+        "content": "content---blog-page-39-ea-29d"
       }
     ],
-    "metadata": "8fa4918e"
+    "metadata": "metadata---blog-tags-healthcare-8-fa-e25"
   },
   "/blog/tags/insight-ee0": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "1c317916"
+        "content": "content---blog-page-31-c-3-b49"
       }
     ],
-    "metadata": "db1b94d9"
+    "metadata": "metadata---blog-tags-insightdb-1-743"
   },
   "/blog/tags/insurance-452": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7cf6b45a"
+        "content": "content---blog-7-cf-594"
       }
     ],
-    "metadata": "5b04adc5"
+    "metadata": "metadata---blog-tags-insurance-5-b-0-acd"
   },
   "/blog/tags/ner-d12": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "bafaae06"
+        "content": "content---blogbaf-e1f"
       }
     ],
-    "metadata": "d03645fc"
+    "metadata": "metadata---blog-tags-nerd-03-3a6"
   },
   "/blog/tags/nlp-ba2": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "0e3c1a88"
+        "content": "content---blog-0-e-3-056"
       },
       {
-        "content": "194a13a6"
+        "content": "content---blog-194-80e"
       },
       {
-        "content": "bafaae06"
+        "content": "content---blogbaf-e1f"
       },
       {
-        "content": "630af974"
+        "content": "content---blog-page-2630-68e"
       },
       {
-        "content": "defae8b4"
+        "content": "content---blog-page-3-def-3bc"
       },
       {
-        "content": "9ea30017"
+        "content": "content---blog-page-39-ea-29d"
       }
     ],
-    "metadata": "fb1f3d53"
+    "metadata": "metadata---blog-tags-nlpfb-1-230"
   },
   "/blog/tags/object-detection-0ee": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ac98e55f"
+        "content": "content---blog-page-2-ac-9-aad"
       },
       {
-        "content": "edadaca9"
+        "content": "content---blog-page-2-eda-37f"
       }
     ],
-    "metadata": "89594076"
+    "metadata": "metadata---blog-tags-object-detection-895-c76"
   },
   "/blog/tags/ocr-e52": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "0bcd0601"
+        "content": "content---blog-page-20-bc-18a"
       }
     ],
-    "metadata": "c5c6dc34"
+    "metadata": "metadata---blog-tags-ocrc-5-c-5c2"
   },
   "/blog/tags/opencv-b57": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "edadaca9"
+        "content": "content---blog-page-2-eda-37f"
       }
     ],
-    "metadata": "2796da64"
+    "metadata": "metadata---blog-tags-opencv-279-82b"
   },
   "/blog/tags/personalization-82f": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7cf6b45a"
+        "content": "content---blog-7-cf-594"
       },
       {
-        "content": "0c655d87"
+        "content": "content---blog-page-20-c-6-35c"
       },
       {
-        "content": "8a789c15"
+        "content": "content---blog-page-28-a-7-66f"
       },
       {
-        "content": "f4866862"
+        "content": "content---blog-page-3-f-48-436"
       }
     ],
-    "metadata": "d73e75b6"
+    "metadata": "metadata---blog-tags-personalizationd-73-3d5"
   },
   "/blog/tags/realtime-b88": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "8a789c15"
+        "content": "content---blog-page-28-a-7-66f"
       }
     ],
-    "metadata": "b14e6d9a"
+    "metadata": "metadata---blog-tags-realtimeb-14-345"
   },
   "/blog/tags/recsys-64a": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "185986ab"
+        "content": "content---blog-185-6a3"
       },
       {
-        "content": "efed6fa0"
+        "content": "content---blogefe-40e"
       },
       {
-        "content": "e4e8793a"
+        "content": "content---blog-page-2-e-4-e-e11"
       },
       {
-        "content": "7bd4c30f"
+        "content": "content---blog-page-37-bd-183"
       }
     ],
-    "metadata": "a32b5cd8"
+    "metadata": "metadata---blog-tags-recsysa-32-c6f"
   },
   "/blog/tags/regression-884": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "9cd79544"
+        "content": "content---blog-page-29-cd-b68"
       }
     ],
-    "metadata": "d3c8c60b"
+    "metadata": "metadata---blog-tags-regressiond-3-c-558"
   },
   "/blog/tags/scraping-5f8": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "3a1b8b71"
+        "content": "content---blog-page-33-a-1-f6a"
       },
       {
-        "content": "28598ea0"
+        "content": "content---blog-page-3285-b7d"
       }
     ],
-    "metadata": "57e4dcf7"
+    "metadata": "metadata---blog-tags-scraping-57-e-f12"
   },
   "/blog/tags/similarity-50b": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "0e3c1a88"
+        "content": "content---blog-0-e-3-056"
       },
       {
-        "content": "194a13a6"
+        "content": "content---blog-194-80e"
       },
       {
-        "content": "d4ab1fbc"
+        "content": "content---blogd-4-a-a2d"
       },
       {
-        "content": "630af974"
+        "content": "content---blog-page-2630-68e"
       },
       {
-        "content": "defae8b4"
+        "content": "content---blog-page-3-def-3bc"
       }
     ],
-    "metadata": "2f39caf0"
+    "metadata": "metadata---blog-tags-similarity-2-f-3-d1b"
   },
   "/blog/tags/streamlit-a1d": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "6208a5b7"
+        "content": "content---blog-page-2620-632"
       },
       {
-        "content": "af0d3de2"
+        "content": "content---blog-page-3-af-0-85d"
       },
       {
-        "content": "0690447f"
+        "content": "content---blog-page-3069-d57"
       }
     ],
-    "metadata": "451a9aa3"
+    "metadata": "metadata---blog-tags-streamlit-451-386"
   },
   "/blog/tags/tool-a8d": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "185986ab"
+        "content": "content---blog-185-6a3"
       },
       {
-        "content": "744cb713"
+        "content": "content---blog-744-7a9"
       },
       {
-        "content": "7bd4c30f"
+        "content": "content---blog-page-37-bd-183"
       }
     ],
-    "metadata": "c1721191"
+    "metadata": "metadata---blog-tags-toolc-17-cc4"
   },
   "/blog/tags/trend-981": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "f4866862"
+        "content": "content---blog-page-3-f-48-436"
       }
     ],
-    "metadata": "553a85c6"
+    "metadata": "metadata---blog-tags-trend-553-c47"
   },
   "/blog/tags/vision-0ea": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "744cb713"
+        "content": "content---blog-744-7a9"
       },
       {
-        "content": "d4ab1fbc"
+        "content": "content---blogd-4-a-a2d"
       },
       {
-        "content": "ac98e55f"
+        "content": "content---blog-page-2-ac-9-aad"
       },
       {
-        "content": "edadaca9"
+        "content": "content---blog-page-2-eda-37f"
       },
       {
-        "content": "6208a5b7"
+        "content": "content---blog-page-2620-632"
       },
       {
-        "content": "0bcd0601"
+        "content": "content---blog-page-20-bc-18a"
       },
       {
-        "content": "defae8b4"
+        "content": "content---blog-page-3-def-3bc"
       },
       {
-        "content": "af0d3de2"
+        "content": "content---blog-page-3-af-0-85d"
       },
       {
-        "content": "0690447f"
+        "content": "content---blog-page-3069-d57"
       }
     ],
-    "metadata": "829ddb37"
+    "metadata": "metadata---blog-tags-vision-829-cb4"
   },
   "/markdown-page-0d8": {
-    "component": "1f391b9e",
-    "content": "4c678320"
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-4-c-6-c89"
   },
-  "/docs-4fe": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+  "/docs-c41": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/concept-basics/-54d": {
-    "component": "17896441",
-    "content": "d79f9bcf"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-d-79-b7a"
   },
   "/docs/concept-basics/challenges-3e1": {
-    "component": "17896441",
-    "content": "ddfb07d5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-challengesddf-7e9"
   },
   "/docs/concept-basics/evaluation-452": {
-    "component": "17896441",
-    "content": "e1cd180f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-evaluatione-1-c-c1b"
   },
   "/docs/concept-basics/implicit-feedback-c42": {
-    "component": "17896441",
-    "content": "b5427eb4"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-implicit-feedbackb-54-5e6"
   },
   "/docs/concept-basics/processes-2ec": {
-    "component": "17896441",
-    "content": "36a5d791"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-processes-36-a-3fe"
   },
   "/docs/concept-basics/session-based-recommenders-3e6": {
-    "component": "17896441",
-    "content": "44aba2af"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-session-based-recommenders-44-a-d96"
   },
   "/docs/concept-basics/tasks-482": {
-    "component": "17896441",
-    "content": "3893b702"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-tasks-389-6f1"
   },
   "/docs/concept-basics/types-of-recommender-systems-5b7": {
-    "component": "17896441",
-    "content": "cd7428df"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-basics-types-of-recommender-systemscd-7-f87"
   },
   "/docs/concept-extras/-035": {
-    "component": "17896441",
-    "content": "2eb401dd"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-2-eb-828"
   },
   "/docs/concept-extras/amazon-personalize-e9d": {
-    "component": "17896441",
-    "content": "b114af35"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-amazon-personalizeb-11-b88"
   },
   "/docs/concept-extras/apps-387": {
-    "component": "17896441",
-    "content": "3364a0a7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-apps-336-b78"
   },
   "/docs/concept-extras/bias-&-fairness-4a1": {
-    "component": "17896441",
-    "content": "38879a8f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-bias-fairness-388-ccd"
   },
   "/docs/concept-extras/causal-inference-025": {
-    "component": "17896441",
-    "content": "3d4242a1"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-causal-inference-3-d-4-a4c"
   },
   "/docs/concept-extras/cold-start-c66": {
-    "component": "17896441",
-    "content": "fd6d6020"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-cold-startfd-6-f08"
   },
   "/docs/concept-extras/cross-domain-65a": {
-    "component": "17896441",
-    "content": "4ddda5bd"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-cross-domain-4-dd-f87"
   },
   "/docs/concept-extras/data-science-cad": {
-    "component": "17896441",
-    "content": "ac30c77d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-data-scienceac-3-d8d"
   },
   "/docs/concept-extras/diversity-932": {
-    "component": "17896441",
-    "content": "997facb3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-diversity-997-e68"
   },
   "/docs/concept-extras/emerging-concepts-in-recommender-systems-60f": {
-    "component": "17896441",
-    "content": "b0339283"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-emerging-concepts-in-recommender-systemsb-03-e31"
   },
   "/docs/concept-extras/graph-embeddings-e65": {
-    "component": "17896441",
-    "content": "41fc1781"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-graph-embeddings-41-f-2d3"
   },
   "/docs/concept-extras/graph-networks-d44": {
-    "component": "17896441",
-    "content": "e1893f79"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-graph-networkse-18-138"
   },
   "/docs/concept-extras/incremental-learning-a40": {
-    "component": "17896441",
-    "content": "fd427ffe"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-incremental-learningfd-4-e36"
   },
   "/docs/concept-extras/jensen-shannon-divergence-caf": {
-    "component": "17896441",
-    "content": "2e7122d4"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-jensen-shannon-divergence-2-e-7-f62"
   },
   "/docs/concept-extras/meta-learning-3f0": {
-    "component": "17896441",
-    "content": "e2162060"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-meta-learninge-21-e8a"
   },
   "/docs/concept-extras/mlops-760": {
-    "component": "17896441",
-    "content": "e2ba42d3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-mlopse-2-b-726"
   },
   "/docs/concept-extras/model-deployment-e1f": {
-    "component": "17896441",
-    "content": "09d2840e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-model-deployment-09-d-978"
   },
   "/docs/concept-extras/model-retraining-0a2": {
-    "component": "17896441",
-    "content": "aa1576ad"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-model-retrainingaa-1-e46"
   },
   "/docs/concept-extras/multi-objective-optimization-b39": {
-    "component": "17896441",
-    "content": "b6bb8872"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-multi-objective-optimizationb-6-b-7ee"
   },
   "/docs/concept-extras/multi-task-learning-329": {
-    "component": "17896441",
-    "content": "86e8bda5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-multi-task-learning-86-e-5f2"
   },
   "/docs/concept-extras/multitask-learning-44d": {
-    "component": "17896441",
-    "content": "370b4b67"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-multitask-learning-370-124"
   },
   "/docs/concept-extras/nlp/chatbot-3b3": {
-    "component": "17896441",
-    "content": "1f45df2f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-chatbot-1-f-4-a13"
   },
   "/docs/concept-extras/nlp/language-modeling-67e": {
-    "component": "17896441",
-    "content": "ad1e313f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-language-modelingad-1-ebe"
   },
   "/docs/concept-extras/nlp/named-entity-recognition-679": {
-    "component": "17896441",
-    "content": "0b69bfbd"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-named-entity-recognition-0-b-6-767"
   },
   "/docs/concept-extras/nlp/text-analysis-df6": {
-    "component": "17896441",
-    "content": "9a16c49c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-text-analysis-9-a-1-d37"
   },
   "/docs/concept-extras/nlp/text-classification-000": {
-    "component": "17896441",
-    "content": "463d24a3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-text-classification-463-bfc"
   },
   "/docs/concept-extras/nlp/text-generation-8d0": {
-    "component": "17896441",
-    "content": "b7de7a80"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-text-generationb-7-d-6ab"
   },
   "/docs/concept-extras/nlp/text-similarity-a74": {
-    "component": "17896441",
-    "content": "a76264cd"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-text-similaritya-76-3f9"
   },
   "/docs/concept-extras/nlp/text-style-transfer-212": {
-    "component": "17896441",
-    "content": "62732856"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-text-style-transfer-627-0d1"
   },
   "/docs/concept-extras/nlp/text-summarization-a49": {
-    "component": "17896441",
-    "content": "986ac21d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-text-summarization-986-622"
   },
   "/docs/concept-extras/nlp/topic-modeling-1f2": {
-    "component": "17896441",
-    "content": "57ab7e8d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-topic-modeling-57-a-591"
   },
   "/docs/concept-extras/nlp/transformers-c82": {
-    "component": "17896441",
-    "content": "08e0249a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-nlp-transformers-08-e-b89"
   },
   "/docs/concept-extras/offline-learning-743": {
-    "component": "17896441",
-    "content": "daae9272"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-offline-learningdaa-e18"
   },
   "/docs/concept-extras/scalarization-561": {
-    "component": "17896441",
-    "content": "3f52bc8f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-scalarization-3-f-5-ed3"
   },
   "/docs/concept-extras/success-stories/1mg-prod2vec-9da": {
-    "component": "17896441",
-    "content": "ddf584a6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-1-mg-prod-2-vecddf-897"
   },
   "/docs/concept-extras/success-stories/airbnb-experiences-b95": {
-    "component": "17896441",
-    "content": "afe99cf3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-airbnb-experiencesafe-a87"
   },
   "/docs/concept-extras/success-stories/alipay-ctr-379": {
-    "component": "17896441",
-    "content": "2bc56b97"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-alipay-ctr-2-bc-d92"
   },
   "/docs/concept-extras/success-stories/doordash-contextual-bandit-f89": {
-    "component": "17896441",
-    "content": "8d95d61e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-doordash-contextual-bandit-8-d-9-dcf"
   },
   "/docs/concept-extras/success-stories/etsy-personalization-e71": {
-    "component": "17896441",
-    "content": "94e31a49"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-etsy-personalization-94-e-7e7"
   },
   "/docs/concept-extras/success-stories/huawei-appgallery-f65": {
-    "component": "17896441",
-    "content": "6c167341"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-huawei-appgallery-6-c-1-9e1"
   },
   "/docs/concept-extras/success-stories/linkedin-glmix-5aa": {
-    "component": "17896441",
-    "content": "c2f7ab3e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-linkedin-glmixc-2-f-57f"
   },
   "/docs/concept-extras/success-stories/marketcloud-real-time-2e8": {
-    "component": "17896441",
-    "content": "131ec613"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-marketcloud-real-time-131-d93"
   },
   "/docs/concept-extras/success-stories/netflix-personalize-images-c61": {
-    "component": "17896441",
-    "content": "baf28957"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-netflix-personalize-imagesbaf-538"
   },
   "/docs/concept-extras/success-stories/pinterest-multi-task-learning-634": {
-    "component": "17896441",
-    "content": "aa084b6c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-pinterest-multi-task-learningaa-0-f49"
   },
   "/docs/concept-extras/success-stories/santander-banking-products-58a": {
-    "component": "17896441",
-    "content": "54da09c6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-santander-banking-products-54-d-71e"
   },
   "/docs/concept-extras/success-stories/scribd-real-time-94b": {
-    "component": "17896441",
-    "content": "fec9a38a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-scribd-real-timefec-316"
   },
   "/docs/concept-extras/success-stories/spotify-contextual-bandits-eea": {
-    "component": "17896441",
-    "content": "3ea27344"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-spotify-contextual-bandits-3-ea-023"
   },
   "/docs/concept-extras/success-stories/spotify-rl-d07": {
-    "component": "17896441",
-    "content": "6c799552"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-spotify-rl-6-c-7-038"
   },
   "/docs/concept-extras/success-stories/stitchfix-multi-armed-bandit-9e2": {
-    "component": "17896441",
-    "content": "ea8c3f56"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-stitchfix-multi-armed-banditea-8-334"
   },
   "/docs/concept-extras/success-stories/taobao-bst-165": {
-    "component": "17896441",
-    "content": "454df2e4"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-taobao-bst-454-f4c"
   },
   "/docs/concept-extras/success-stories/the-long-tail-7cf": {
-    "component": "17896441",
-    "content": "5379b28c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-the-long-tail-537-17f"
   },
   "/docs/concept-extras/success-stories/ubereats-personalization-06d": {
-    "component": "17896441",
-    "content": "5cee3faa"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-ubereats-personalization-5-ce-6a8"
   },
   "/docs/concept-extras/success-stories/walmart-model-selection-b16": {
-    "component": "17896441",
-    "content": "fa1eb168"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-success-stories-walmart-model-selectionfa-1-722"
   },
   "/docs/concept-extras/vision/facial-analytics-60f": {
-    "component": "17896441",
-    "content": "98ad4284"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-facial-analytics-98-a-eea"
   },
   "/docs/concept-extras/vision/image-segmentation-37f": {
-    "component": "17896441",
-    "content": "8f67ec41"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-image-segmentation-8-f-6-ce4"
   },
   "/docs/concept-extras/vision/image-similarity-aa8": {
-    "component": "17896441",
-    "content": "46474ef2"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-image-similarity-464-6ab"
   },
   "/docs/concept-extras/vision/object-detection-d2f": {
-    "component": "17896441",
-    "content": "1662659e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-object-detection-166-def"
   },
   "/docs/concept-extras/vision/object-tracking-ba1": {
-    "component": "17896441",
-    "content": "45114f24"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-object-tracking-451-abe"
   },
   "/docs/concept-extras/vision/pose-estimation-135": {
-    "component": "17896441",
-    "content": "46bd159d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-pose-estimation-46-b-9ab"
   },
   "/docs/concept-extras/vision/scene-text-recognition-a62": {
-    "component": "17896441",
-    "content": "02e5d225"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-scene-text-recognition-02-e-3ec"
   },
   "/docs/concept-extras/vision/video-action-recognition-1a2": {
-    "component": "17896441",
-    "content": "fd2a5de5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-concept-extras-vision-video-action-recognitionfd-2-c37"
   },
   "/docs/datasets-9a1": {
-    "component": "17896441",
-    "content": "46d74525"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-datasets-46-d-b64"
   },
   "/docs/intro-99a": {
-    "component": "17896441",
-    "content": "f8409a7e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-introf-84-2b4"
   },
   "/docs/models/-cfa": {
-    "component": "17896441",
-    "content": "a6bb01ad"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-a-6-b-4a7"
   },
   "/docs/models/a3c-031": {
-    "component": "17896441",
-    "content": "028ac276"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-a-3-c-028-ef9"
   },
   "/docs/models/afm-45f": {
-    "component": "17896441",
-    "content": "4c3d31cd"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-afm-4-c-3-409"
   },
   "/docs/models/afn-f97": {
-    "component": "17896441",
-    "content": "24dbcdc6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-afn-24-d-628"
   },
   "/docs/models/ar-033": {
-    "component": "17896441",
-    "content": "04550df2"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-ar-045-3a3"
   },
   "/docs/models/asmg-7e3": {
-    "component": "17896441",
-    "content": "0c78a21b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-asmg-0-c-7-2a4"
   },
   "/docs/models/attrec-f97": {
-    "component": "17896441",
-    "content": "69be3988"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-attrec-69-b-b30"
   },
   "/docs/models/aush-8f4": {
-    "component": "17896441",
-    "content": "6b1ffc7a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-aush-6-b-1-482"
   },
   "/docs/models/autoint-6ef": {
-    "component": "17896441",
-    "content": "166c6a7f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-autoint-166-e14"
   },
   "/docs/models/basr-819": {
-    "component": "17896441",
-    "content": "6cbd66af"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-basr-6-cb-d6b"
   },
   "/docs/models/bcq-350": {
-    "component": "17896441",
-    "content": "59454cf7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-bcq-594-338"
   },
   "/docs/models/beh-prop-7c2": {
-    "component": "17896441",
-    "content": "34a7ace0"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-beh-prop-34-a-8fc"
   },
   "/docs/models/biasonly-227": {
-    "component": "17896441",
-    "content": "cf9a208c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-biasonlycf-9-e08"
   },
   "/docs/models/biggraph-14c": {
-    "component": "17896441",
-    "content": "b278daee"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-biggraphb-27-b0a"
   },
   "/docs/models/bpr-204": {
-    "component": "17896441",
-    "content": "38b66072"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-bpr-38-b-779"
   },
   "/docs/models/bst-1ff": {
-    "component": "17896441",
-    "content": "c2cf0978"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-bstc-2-c-2a5"
   },
   "/docs/models/caser-ab3": {
-    "component": "17896441",
-    "content": "45a566eb"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-caser-45-a-218"
   },
   "/docs/models/cigc-57d": {
-    "component": "17896441",
-    "content": "219bd67c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-cigc-219-bc7"
   },
   "/docs/models/coke-42f": {
-    "component": "17896441",
-    "content": "67f1fbd0"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-coke-67-f-8dc"
   },
   "/docs/models/dcn-bc7": {
-    "component": "17896441",
-    "content": "fe7548a4"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dcnfe-7-4d8"
   },
   "/docs/models/ddpg-5f5": {
-    "component": "17896441",
-    "content": "62b5206f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-ddpg-62-b-16d"
   },
   "/docs/models/deepcross-3b9": {
-    "component": "17896441",
-    "content": "fff5b552"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-deepcrossfff-763"
   },
   "/docs/models/deepfm-aca": {
-    "component": "17896441",
-    "content": "82257829"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-deepfm-822-994"
   },
   "/docs/models/deepwalk-843": {
-    "component": "17896441",
-    "content": "a87219ab"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-deepwalka-87-a16"
   },
   "/docs/models/dgtn-7f1": {
-    "component": "17896441",
-    "content": "34c245f9"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dgtn-34-c-2e6"
   },
   "/docs/models/dm-1bf": {
-    "component": "17896441",
-    "content": "8af5790f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dm-8-af-550"
   },
   "/docs/models/dmt-392": {
-    "component": "17896441",
-    "content": "e6333d4c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dmte-63-691"
   },
   "/docs/models/dpadl-85a": {
-    "component": "17896441",
-    "content": "a55b26af"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dpadla-55-a70"
   },
   "/docs/models/dqn-5a9": {
-    "component": "17896441",
-    "content": "fdd5b31f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dqnfdd-591"
   },
   "/docs/models/dr-c6b": {
-    "component": "17896441",
-    "content": "18695107"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dr-186-0a9"
   },
   "/docs/models/drqn-e87": {
-    "component": "17896441",
-    "content": "7ae1eb67"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-drqn-7-ae-940"
   },
   "/docs/models/drr-d43": {
-    "component": "17896441",
-    "content": "0ed8b9f8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-drr-0-ed-a31"
   },
   "/docs/models/dueling-dqn-ecd": {
-    "component": "17896441",
-    "content": "32116b5c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-dueling-dqn-321-e8c"
   },
   "/docs/models/ffm-5b3": {
-    "component": "17896441",
-    "content": "f1a0a79e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-ffmf-1-a-e4e"
   },
   "/docs/models/fgnn-f7d": {
-    "component": "17896441",
-    "content": "3703d50b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-fgnn-370-892"
   },
   "/docs/models/fm-1cf": {
-    "component": "17896441",
-    "content": "8129baa5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-fm-812-00b"
   },
   "/docs/models/gat-164": {
-    "component": "17896441",
-    "content": "0d382527"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-gat-0-d-3-d37"
   },
   "/docs/models/gc-san-9e6": {
-    "component": "17896441",
-    "content": "cf4e9014"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-gc-sancf-4-385"
   },
   "/docs/models/gce-gnn-c76": {
-    "component": "17896441",
-    "content": "955b016c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-gce-gnn-955-efd"
   },
   "/docs/models/glmix-655": {
-    "component": "17896441",
-    "content": "d99e01e6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-glmixd-99-27e"
   },
   "/docs/models/gru4rec-fe2": {
-    "component": "17896441",
-    "content": "ef60ccbb"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-gru-4-recef-6-d98"
   },
   "/docs/models/hmlet-6b4": {
-    "component": "17896441",
-    "content": "b0ac56d4"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-hmletb-0-a-bf5"
   },
   "/docs/models/incctr-c70": {
-    "component": "17896441",
-    "content": "582c9c41"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-incctr-582-40b"
   },
   "/docs/models/ipw-f29": {
-    "component": "17896441",
-    "content": "ae36fd55"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-ipwae-3-c62"
   },
   "/docs/models/itempop-e0a": {
-    "component": "17896441",
-    "content": "fc7a266e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-itempopfc-7-504"
   },
   "/docs/models/khgt-229": {
-    "component": "17896441",
-    "content": "b57cc83d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-khgtb-57-1fd"
   },
   "/docs/models/lessr-1a3": {
-    "component": "17896441",
-    "content": "1f900998"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-lessr-1-f-9-93d"
   },
   "/docs/models/lightfm-warp-810": {
-    "component": "17896441",
-    "content": "b5d80fb8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-lightfm-warpb-5-d-62a"
   },
   "/docs/models/lightgcn-9d0": {
-    "component": "17896441",
-    "content": "dcc8d722"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-lightgcndcc-c4e"
   },
   "/docs/models/line-24c": {
-    "component": "17896441",
-    "content": "c8ea734d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-linec-8-e-7bd"
   },
   "/docs/models/lird-556": {
-    "component": "17896441",
-    "content": "5c34d655"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-lird-5-c-3-c7d"
   },
   "/docs/models/markov-chains-645": {
-    "component": "17896441",
-    "content": "82771ff9"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-markov-chains-827-c81"
   },
   "/docs/models/matn-caf": {
-    "component": "17896441",
-    "content": "4ce58c5b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-matn-4-ce-c1f"
   },
   "/docs/models/mb-gmn-6c8": {
-    "component": "17896441",
-    "content": "9438f7c4"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mb-gmn-943-b33"
   },
   "/docs/models/mdp-db9": {
-    "component": "17896441",
-    "content": "1d903609"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mdp-1-d-9-296"
   },
   "/docs/models/mf-7cd": {
-    "component": "17896441",
-    "content": "b1f4f34b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mfb-1-f-895"
   },
   "/docs/models/mian-77e": {
-    "component": "17896441",
-    "content": "4d0e2452"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mian-4-d-0-05b"
   },
   "/docs/models/mmoe-895": {
-    "component": "17896441",
-    "content": "110ea8e0"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mmoe-110-1b5"
   },
   "/docs/models/mpnn-d2c": {
-    "component": "17896441",
-    "content": "5f5c06c1"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-mpnn-5-f-5-5d2"
   },
   "/docs/models/neumf-b00": {
-    "component": "17896441",
-    "content": "10a3d27e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-neumf-10-a-705"
   },
   "/docs/models/nfm-338": {
-    "component": "17896441",
-    "content": "16dd4b18"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-nfm-16-d-051"
   },
   "/docs/models/ngcf-c19": {
-    "component": "17896441",
-    "content": "5c2e3d73"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-ngcf-5-c-2-0cd"
   },
   "/docs/models/nmrn-f76": {
-    "component": "17896441",
-    "content": "aa47c92d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-nmrnaa-4-848"
   },
   "/docs/models/node2vec-07b": {
-    "component": "17896441",
-    "content": "393bbff6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-node-2-vec-393-dfb"
   },
   "/docs/models/pnn-87c": {
-    "component": "17896441",
-    "content": "330f61f2"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-pnn-330-9f6"
   },
   "/docs/models/ppo-043": {
-    "component": "17896441",
-    "content": "4208559d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-ppo-420-1c6"
   },
   "/docs/models/q-learning-00c": {
-    "component": "17896441",
-    "content": "68f1d7f3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-q-learning-68-f-37c"
   },
   "/docs/models/random_walk-f0a": {
-    "component": "17896441",
-    "content": "99248959"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-random-walk-992-593"
   },
   "/docs/models/rkmf-095": {
-    "component": "17896441",
-    "content": "54e17eb8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-rkmf-54-e-d42"
   },
   "/docs/models/sac-959": {
-    "component": "17896441",
-    "content": "aee97735"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sacaee-d6b"
   },
   "/docs/models/sarsa-00a": {
-    "component": "17896441",
-    "content": "92918cd3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sarsa-929-a8b"
   },
   "/docs/models/sasrec-613": {
-    "component": "17896441",
-    "content": "302b9db2"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sasrec-302-962"
   },
   "/docs/models/sdne-a69": {
-    "component": "17896441",
-    "content": "3de4afa3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sdne-3-de-b86"
   },
   "/docs/models/sgl-90e": {
-    "component": "17896441",
-    "content": "924986c7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sgl-924-82b"
   },
   "/docs/models/shared-bottom-720": {
-    "component": "17896441",
-    "content": "33e6adb8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-shared-bottom-33-e-287"
   },
   "/docs/models/siren-08f": {
-    "component": "17896441",
-    "content": "4abbe002"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-siren-4-ab-fe2"
   },
   "/docs/models/slist-8c2": {
-    "component": "17896441",
-    "content": "a045cb23"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-slista-04-78e"
   },
   "/docs/models/sml-88d": {
-    "component": "17896441",
-    "content": "f6076a3e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-smlf-60-ba8"
   },
   "/docs/models/spop-5ea": {
-    "component": "17896441",
-    "content": "ffd06d30"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-spopffd-7de"
   },
   "/docs/models/sr-47f": {
-    "component": "17896441",
-    "content": "1a440c37"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sr-1-a-4-00e"
   },
   "/docs/models/sr-gnn-2cf": {
-    "component": "17896441",
-    "content": "de82467d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sr-gnnde-8-078"
   },
   "/docs/models/sr-san-3cb": {
-    "component": "17896441",
-    "content": "b1cd8063"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sr-sanb-1-c-1e1"
   },
   "/docs/models/sse-pt-1f3": {
-    "component": "17896441",
-    "content": "95177047"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-sse-pt-951-945"
   },
   "/docs/models/stamp-13f": {
-    "component": "17896441",
-    "content": "ed5638c8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-stamped-5-a74"
   },
   "/docs/models/struc2vec-2b3": {
-    "component": "17896441",
-    "content": "0e5fcb63"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-struc-2-vec-0-e-5-1e7"
   },
   "/docs/models/svae-c85": {
-    "component": "17896441",
-    "content": "76b52ec7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-svae-76-b-960"
   },
   "/docs/models/taamr-5c6": {
-    "component": "17896441",
-    "content": "e7ee080c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-taamre-7-e-545"
   },
   "/docs/models/tagnn-f52": {
-    "component": "17896441",
-    "content": "1369e2cc"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-tagnn-136-40e"
   },
   "/docs/models/tagnn-pp-e79": {
-    "component": "17896441",
-    "content": "597206b0"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-tagnn-pp-597-397"
   },
   "/docs/models/tgin-a56": {
-    "component": "17896441",
-    "content": "28190081"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-tgin-281-6f8"
   },
   "/docs/models/vncf-381": {
-    "component": "17896441",
-    "content": "99315e44"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-vncf-993-945"
   },
   "/docs/models/vsknn-cd4": {
-    "component": "17896441",
-    "content": "9ccd5c6b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-vsknn-9-cc-26c"
   },
   "/docs/models/wide-and-deep-de0": {
-    "component": "17896441",
-    "content": "062eb12e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-wide-and-deep-062-0e6"
   },
   "/docs/models/word2vec-908": {
-    "component": "17896441",
-    "content": "525e4a90"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-word-2-vec-525-907"
   },
   "/docs/models/xdeepfm-8bf": {
-    "component": "17896441",
-    "content": "4313e232"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-models-xdeepfm-431-6cb"
   },
   "/docs/projects-c4a": {
-    "component": "17896441",
-    "content": "1dc2fafb"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-projects-1-dc-4e1"
+  },
+  "/docs/snippets/python-snippets-c1b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-snippets-python-snippetsc-65-a75"
+  },
+  "/docs/snippets/unix-shell-snippets-ac9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-snippets-unix-shell-snippetsf-32-922"
   },
   "/docs/tools/-7d4": {
-    "component": "17896441",
-    "content": "e7827875"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tools-e-78-d50"
   },
   "/docs/tools/obp-ef3": {
-    "component": "17896441",
-    "content": "1127d87b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tools-obp-112-39b"
   },
   "/docs/tools/pyspark-18f": {
-    "component": "17896441",
-    "content": "8bf4c400"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tools-pyspark-8-bf-51b"
   },
   "/docs/tools/river-a8f": {
-    "component": "17896441",
-    "content": "6a6646b2"
-  },
-  "/docs/tutorials/-684": {
-    "component": "17896441",
-    "content": "9f8f5e6c"
-  },
-  "/docs/tutorials/ab-test-in-five-simple-steps-137": {
-    "component": "17896441",
-    "content": "e350da4d"
-  },
-  "/docs/tutorials/ac-06b": {
-    "component": "17896441",
-    "content": "8ad8672e"
-  },
-  "/docs/tutorials/action-recog-finetune-044": {
-    "component": "17896441",
-    "content": "75e0714f"
-  },
-  "/docs/tutorials/ad-conversion-simple-ab-testing-533": {
-    "component": "17896441",
-    "content": "7639a2e5"
-  },
-  "/docs/tutorials/adaptive-estimator-selection-for-off-policy-evaluation-6f4": {
-    "component": "17896441",
-    "content": "9b107634"
-  },
-  "/docs/tutorials/ads-selection-using-bandits-371": {
-    "component": "17896441",
-    "content": "603f8493"
-  },
-  "/docs/tutorials/adversarial-508": {
-    "component": "17896441",
-    "content": "ea6963ba"
-  },
-  "/docs/tutorials/advertising-c9b": {
-    "component": "17896441",
-    "content": "027e1677"
-  },
-  "/docs/tutorials/ae-ml-8d5": {
-    "component": "17896441",
-    "content": "768e52f2"
-  },
-  "/docs/tutorials/afm-on-criteo-ad-dataset-in-tf-x-d36": {
-    "component": "17896441",
-    "content": "090223b5"
-  },
-  "/docs/tutorials/agnn-bd5": {
-    "component": "17896441",
-    "content": "e05fbb45"
-  },
-  "/docs/tutorials/agriculture-image-segmentation-a9d": {
-    "component": "17896441",
-    "content": "0d7b5038"
-  },
-  "/docs/tutorials/airbnb-fair-valuation-b07": {
-    "component": "17896441",
-    "content": "649fbf7f"
-  },
-  "/docs/tutorials/als-a02": {
-    "component": "17896441",
-    "content": "9829bd28"
-  },
-  "/docs/tutorials/als-ml-m-ba4": {
-    "component": "17896441",
-    "content": "9c3035c6"
-  },
-  "/docs/tutorials/als-on-retail-product-data-713": {
-    "component": "17896441",
-    "content": "551233b4"
-  },
-  "/docs/tutorials/altair-plot-part-8da": {
-    "component": "17896441",
-    "content": "2fee1a15"
-  },
-  "/docs/tutorials/amazon-crossdomain-0c4": {
-    "component": "17896441",
-    "content": "e9087ee1"
-  },
-  "/docs/tutorials/amazon-personalize-batch-job-58b": {
-    "component": "17896441",
-    "content": "b074b5e3"
-  },
-  "/docs/tutorials/amazon-personalize-batch-recommendations-lab-3a1": {
-    "component": "17896441",
-    "content": "adfb1ca9"
-  },
-  "/docs/tutorials/amazon-personalize-poc-in-a-box-05f": {
-    "component": "17896441",
-    "content": "c9d1ed4b"
-  },
-  "/docs/tutorials/amazon-personalize-workshop-e13": {
-    "component": "17896441",
-    "content": "874d69d4"
-  },
-  "/docs/tutorials/amazon-personalize-workshop-part-627": {
-    "component": "17896441",
-    "content": "05afaf0c"
-  },
-  "/docs/tutorials/amazon-women-apparel-tfidf-word-vec-e96": {
-    "component": "17896441",
-    "content": "f23b6b2a"
-  },
-  "/docs/tutorials/analytics-zoo-ncf-goodreads-777": {
-    "component": "17896441",
-    "content": "99721c2f"
-  },
-  "/docs/tutorials/analytics-zoo-ncf-movielens-c59": {
-    "component": "17896441",
-    "content": "3bd34627"
-  },
-  "/docs/tutorials/analytics-zoo-wideanddeep-movielens-38b": {
-    "component": "17896441",
-    "content": "df5e3132"
-  },
-  "/docs/tutorials/animations-with-manim-quickstart-c75": {
-    "component": "17896441",
-    "content": "30daf156"
-  },
-  "/docs/tutorials/animations-with-matplotlib-and-plotly-2d2": {
-    "component": "17896441",
-    "content": "643432a5"
-  },
-  "/docs/tutorials/anime-recommender-7fc": {
-    "component": "17896441",
-    "content": "2063fb18"
-  },
-  "/docs/tutorials/anime-recommender-graph-network-2c4": {
-    "component": "17896441",
-    "content": "08dbf607"
-  },
-  "/docs/tutorials/apache-airflow-848": {
-    "component": "17896441",
-    "content": "ced1bb16"
-  },
-  "/docs/tutorials/apple-podcast-recommender-82a": {
-    "component": "17896441",
-    "content": "ff0e7fdc"
-  },
-  "/docs/tutorials/applying-gradient-descent-on-a-simple-function-from-scratch-1cb": {
-    "component": "17896441",
-    "content": "53496385"
-  },
-  "/docs/tutorials/apprentice-mountaincar-670": {
-    "component": "17896441",
-    "content": "2e332d1f"
-  },
-  "/docs/tutorials/archived-deep-reinforcement-learning-based-group-recommender-system-54a": {
-    "component": "17896441",
-    "content": "b9d7ee83"
-  },
-  "/docs/tutorials/artist-free-song-recommender-d45": {
-    "component": "17896441",
-    "content": "8a70b59c"
-  },
-  "/docs/tutorials/asmg-retraining-model-on-sobazaar-dataset-e02": {
-    "component": "17896441",
-    "content": "d9bd634a"
-  },
-  "/docs/tutorials/asr-3aa": {
-    "component": "17896441",
-    "content": "786b65a4"
-  },
-  "/docs/tutorials/assessing-online-ad-clicks-for-significance-387": {
-    "component": "17896441",
-    "content": "0a340b88"
-  },
-  "/docs/tutorials/attention-gnn-fea": {
-    "component": "17896441",
-    "content": "a3a4cc20"
-  },
-  "/docs/tutorials/attention-mechanisms-56a": {
-    "component": "17896441",
-    "content": "ce9b58c4"
-  },
-  "/docs/tutorials/attrec-on-ml-m-in-tf-x-997": {
-    "component": "17896441",
-    "content": "396c9264"
-  },
-  "/docs/tutorials/attribute-to-feature-mappings-for-cold-start-recommendations-b19": {
-    "component": "17896441",
-    "content": "6a19b40d"
-  },
-  "/docs/tutorials/audible-audiobook-recommender-4fa": {
-    "component": "17896441",
-    "content": "1cab4ea5"
-  },
-  "/docs/tutorials/augmented-shilling-attack-aush-45d": {
-    "component": "17896441",
-    "content": "9a269014"
-  },
-  "/docs/tutorials/automatically-adding-products-to-a-user-s-shopping-cart-87b": {
-    "component": "17896441",
-    "content": "be3940b7"
-  },
-  "/docs/tutorials/autorec-movielens-a37": {
-    "component": "17896441",
-    "content": "416f7f16"
-  },
-  "/docs/tutorials/autorec-on-ml-m-889": {
-    "component": "17896441",
-    "content": "90bf3d0b"
-  },
-  "/docs/tutorials/autosurprise-e7c": {
-    "component": "17896441",
-    "content": "7217acba"
-  },
-  "/docs/tutorials/avalanche-visual-incremental-learning-f33": {
-    "component": "17896441",
-    "content": "97ddf117"
-  },
-  "/docs/tutorials/ayuhealth-food-recommender-cb0": {
-    "component": "17896441",
-    "content": "7f8ac13a"
-  },
-  "/docs/tutorials/bandit-based-online-learning-thompson-sampling-0f2": {
-    "component": "17896441",
-    "content": "78d40959"
-  },
-  "/docs/tutorials/bandit-based-recommender-using-thompson-sampling-fb3": {
-    "component": "17896441",
-    "content": "b8cc6b48"
-  },
-  "/docs/tutorials/bandit-based-recommender-using-thompson-sampling-app-f10": {
-    "component": "17896441",
-    "content": "5b2ce5d2"
-  },
-  "/docs/tutorials/baseliness-yoochoose-3f4": {
-    "component": "17896441",
-    "content": "ca64e75c"
-  },
-  "/docs/tutorials/batch-constrained-deep-q-learning-e01": {
-    "component": "17896441",
-    "content": "ea661fd3"
-  },
-  "/docs/tutorials/batch-learning-from-bandit-feedback-blbf-06f": {
-    "component": "17896441",
-    "content": "19f79df8"
-  },
-  "/docs/tutorials/benchmark-456": {
-    "component": "17896441",
-    "content": "65434df5"
-  },
-  "/docs/tutorials/bert-bert-seq-attack-b54": {
-    "component": "17896441",
-    "content": "3a277fe2"
-  },
-  "/docs/tutorials/bert-rec-movie-726": {
-    "component": "17896441",
-    "content": "fa643c16"
-  },
-  "/docs/tutorials/bert-rec-on-ml-m-in-pytorch-lightning-b47": {
-    "component": "17896441",
-    "content": "f7879bfd"
-  },
-  "/docs/tutorials/biasedcoin-e07": {
-    "component": "17896441",
-    "content": "19dfeb65"
-  },
-  "/docs/tutorials/bitcoin-rl-agent-346": {
-    "component": "17896441",
-    "content": "ba61e3ac"
-  },
-  "/docs/tutorials/black-box-attack-api-66a": {
-    "component": "17896441",
-    "content": "70d1e57e"
-  },
-  "/docs/tutorials/black-box-attack-model-dvc-data-loader-pipeline-on-ml-m-6f9": {
-    "component": "17896441",
-    "content": "ce53167a"
-  },
-  "/docs/tutorials/black-box-attack-model-dvc-negative-sampling-pipeline-on-ml-m-a6e": {
-    "component": "17896441",
-    "content": "52fd440f"
-  },
-  "/docs/tutorials/black-box-attack-model-dvc-preprocessing-pipeline-on-ml-m-002": {
-    "component": "17896441",
-    "content": "d594d54a"
-  },
-  "/docs/tutorials/black-box-attack-model-dvc-training-pipeline-bd2": {
-    "component": "17896441",
-    "content": "bd2624ae"
-  },
-  "/docs/tutorials/bollywood-movie-recommender-be7": {
-    "component": "17896441",
-    "content": "5a3a7de4"
-  },
-  "/docs/tutorials/book-crossing-surprise-svd-nmf-135": {
-    "component": "17896441",
-    "content": "bccb5da4"
-  },
-  "/docs/tutorials/book-recommender-api-997": {
-    "component": "17896441",
-    "content": "6328b29e"
-  },
-  "/docs/tutorials/book-recommender-diversity-aware-c30": {
-    "component": "17896441",
-    "content": "7e475362"
-  },
-  "/docs/tutorials/book-recommender-kubeflow-380": {
-    "component": "17896441",
-    "content": "a5e0dc07"
-  },
-  "/docs/tutorials/bookcrossing-2a4": {
-    "component": "17896441",
-    "content": "6f48fd1b"
-  },
-  "/docs/tutorials/booking-dot-com-trip-recommendations-baseline-17c": {
-    "component": "17896441",
-    "content": "8cec22d8"
-  },
-  "/docs/tutorials/booking-dot-com-trip-recommendations-eda-0c4": {
-    "component": "17896441",
-    "content": "cba5cc2f"
-  },
-  "/docs/tutorials/booking-dot-com-trip-recommendations-sequential-model-b71": {
-    "component": "17896441",
-    "content": "8dcf4bbe"
-  },
-  "/docs/tutorials/booking-itempop-7a2": {
-    "component": "17896441",
-    "content": "ddd90152"
-  },
-  "/docs/tutorials/bookingnet-dcb": {
-    "component": "17896441",
-    "content": "372b7e72"
-  },
-  "/docs/tutorials/bpr-from-scratch-in-pytorch-f03": {
-    "component": "17896441",
-    "content": "65bde11a"
-  },
-  "/docs/tutorials/bpr-knn-on-ml-m-a1d": {
-    "component": "17896441",
-    "content": "f84350be"
-  },
-  "/docs/tutorials/bpr-mf-on-ml-m-9b2": {
-    "component": "17896441",
-    "content": "0f7fc16f"
-  },
-  "/docs/tutorials/bpr-movie-91e": {
-    "component": "17896441",
-    "content": "00868781"
-  },
-  "/docs/tutorials/bpr-on-movielens-k-9ee": {
-    "component": "17896441",
-    "content": "818fb380"
-  },
-  "/docs/tutorials/bpr-recbole-294": {
-    "component": "17896441",
-    "content": "74d6f95f"
-  },
-  "/docs/tutorials/bpr-triplet-on-ml-m-in-tensorflow-330": {
-    "component": "17896441",
-    "content": "8838f004"
-  },
-  "/docs/tutorials/bst-cdc": {
-    "component": "17896441",
-    "content": "8d32cbad"
-  },
-  "/docs/tutorials/bst-deetctr-0cd": {
-    "component": "17896441",
-    "content": "c2b01acf"
-  },
-  "/docs/tutorials/bst-in-pytorch-dcf": {
-    "component": "17896441",
-    "content": "47dc88be"
-  },
-  "/docs/tutorials/bst-mxnet-e19": {
-    "component": "17896441",
-    "content": "b968de46"
-  },
-  "/docs/tutorials/bst-on-ml-m-in-pytorch-aae": {
-    "component": "17896441",
-    "content": "88fffd43"
-  },
-  "/docs/tutorials/build-a-kubeflow-pipeline-087": {
-    "component": "17896441",
-    "content": "4193264a"
-  },
-  "/docs/tutorials/build-a-simple-movie-recommender-with-tensorflow-525": {
-    "component": "17896441",
-    "content": "9a6e5326"
-  },
-  "/docs/tutorials/building-a-simple-gridworld-environment-200": {
-    "component": "17896441",
-    "content": "154364ff"
-  },
-  "/docs/tutorials/building-a-stochastic-maze-gridworld-environment-82d": {
-    "component": "17896441",
-    "content": "2ad93d36"
-  },
-  "/docs/tutorials/building-an-rl-agent-to-auto-login-on-the-web-f19": {
-    "component": "17896441",
-    "content": "c1c59207"
-  },
-  "/docs/tutorials/building-an-rl-agent-to-book-flights-on-the-web-e4f": {
-    "component": "17896441",
-    "content": "e316c18e"
-  },
-  "/docs/tutorials/building-an-rl-agent-to-complete-tasks-on-the-web-call-to-action-0ee": {
-    "component": "17896441",
-    "content": "c52ec0b7"
-  },
-  "/docs/tutorials/building-an-rl-agent-to-manage-emails-on-the-web-5c8": {
-    "component": "17896441",
-    "content": "306cae07"
-  },
-  "/docs/tutorials/building-deploying-asos-fashion-recommender-tensorflow-c01": {
-    "component": "17896441",
-    "content": "03f15293"
-  },
-  "/docs/tutorials/building-logger-along-with-unit-testing-and-scripting-0ba": {
-    "component": "17896441",
-    "content": "b02e54af"
-  },
-  "/docs/tutorials/building-models-from-scratch-e5c": {
-    "component": "17896441",
-    "content": "dfae1b2e"
-  },
-  "/docs/tutorials/cab-mind-a90": {
-    "component": "17896441",
-    "content": "bb6bef37"
-  },
-  "/docs/tutorials/cancer-cv-4b1": {
-    "component": "17896441",
-    "content": "d8fd5d9d"
-  },
-  "/docs/tutorials/candidate-selection-item-matching-models-in-tensorflow-on-ml-m-a90": {
-    "component": "17896441",
-    "content": "77b87b61"
-  },
-  "/docs/tutorials/capture-realtime-kafka-mongodb-5cb": {
-    "component": "17896441",
-    "content": "d7e68e38"
-  },
-  "/docs/tutorials/car-damage-cv-836": {
-    "component": "17896441",
-    "content": "325caded"
-  },
-  "/docs/tutorials/career-village-392": {
-    "component": "17896441",
-    "content": "a34250bd"
-  },
-  "/docs/tutorials/cartpole-drqn-6fd": {
-    "component": "17896441",
-    "content": "24bed066"
-  },
-  "/docs/tutorials/cartpole-torch-be2": {
-    "component": "17896441",
-    "content": "c1b8ac8b"
-  },
-  "/docs/tutorials/cartpole-using-cross-entropy-4c2": {
-    "component": "17896441",
-    "content": "b0e0056a"
-  },
-  "/docs/tutorials/cartpole-using-reinforce-in-pytorch-107": {
-    "component": "17896441",
-    "content": "ff60f5b7"
-  },
-  "/docs/tutorials/caser-on-ml-m-in-tf-x-c6a": {
-    "component": "17896441",
-    "content": "64841a76"
-  },
-  "/docs/tutorials/causal-inference-ace": {
-    "component": "17896441",
-    "content": "387d87db"
-  },
-  "/docs/tutorials/cdl-a8b": {
-    "component": "17896441",
-    "content": "b02d33ec"
-  },
-  "/docs/tutorials/cicd-docker-eks-1de": {
-    "component": "17896441",
-    "content": "0e17a235"
-  },
-  "/docs/tutorials/cloth-parsing-7b6": {
-    "component": "17896441",
-    "content": "2fa277d9"
-  },
-  "/docs/tutorials/clustering-data-into-groups-using-k-means-and-dbscan-cad": {
-    "component": "17896441",
-    "content": "a7712405"
-  },
-  "/docs/tutorials/cmf-59c": {
-    "component": "17896441",
-    "content": "0e9b4fa2"
-  },
-  "/docs/tutorials/cml-on-ml-m-e07": {
-    "component": "17896441",
-    "content": "8a1117e4"
-  },
-  "/docs/tutorials/code-driven-introduction-to-reinforcement-learning-566": {
-    "component": "17896441",
-    "content": "ede01f50"
-  },
-  "/docs/tutorials/collaborative-filtering-movielens-latest-small-dbb": {
-    "component": "17896441",
-    "content": "eaf8e107"
-  },
-  "/docs/tutorials/comparing-simple-exploration-techniques-greedy-annealing-and-ucb-955": {
-    "component": "17896441",
-    "content": "11b44fab"
-  },
-  "/docs/tutorials/concept-drift-concept-1f8": {
-    "component": "17896441",
-    "content": "d9824f6a"
-  },
-  "/docs/tutorials/concept-embedding-gensim-fasttext-554": {
-    "component": "17896441",
-    "content": "4343c82d"
-  },
-  "/docs/tutorials/concept-embedding-nlp-954": {
-    "component": "17896441",
-    "content": "fa3197a5"
-  },
-  "/docs/tutorials/concept-neural-net-7e0": {
-    "component": "17896441",
-    "content": "02b9582f"
-  },
-  "/docs/tutorials/concept-nlp-basics-b8e": {
-    "component": "17896441",
-    "content": "1a88be9c"
-  },
-  "/docs/tutorials/concept-normalization-577": {
-    "component": "17896441",
-    "content": "ed8024b7"
-  },
-  "/docs/tutorials/concept-self-attention-78e": {
-    "component": "17896441",
-    "content": "2fcc3b49"
-  },
-  "/docs/tutorials/concept-transformer-lm-024": {
-    "component": "17896441",
-    "content": "b6058784"
-  },
-  "/docs/tutorials/conet-model-bcd": {
-    "component": "17896441",
-    "content": "c637b12e"
-  },
-  "/docs/tutorials/content-based-and-collaborative-movielens-13e": {
-    "component": "17896441",
-    "content": "aef651d5"
-  },
-  "/docs/tutorials/content-based-music-recommender-lyricsfreak-6c7": {
-    "component": "17896441",
-    "content": "481615c9"
-  },
-  "/docs/tutorials/contextual-bandit-dash-app-e1f": {
-    "component": "17896441",
-    "content": "f689a212"
-  },
-  "/docs/tutorials/contextual-mab-54b": {
-    "component": "17896441",
-    "content": "597019a6"
-  },
-  "/docs/tutorials/contextual-online-advertising-with-synthetic-user-data-4ec": {
-    "component": "17896441",
-    "content": "7e7813e7"
-  },
-  "/docs/tutorials/contextualized-knowledge-graph-embedding-adb": {
-    "component": "17896441",
-    "content": "c6c33111"
-  },
-  "/docs/tutorials/cornac-examples-a85": {
-    "component": "17896441",
-    "content": "bb25d4c1"
-  },
-  "/docs/tutorials/cornac-item-popularity-c18": {
-    "component": "17896441",
-    "content": "ae71aca0"
-  },
-  "/docs/tutorials/cotrec-sess-retailrocket-6bd": {
-    "component": "17896441",
-    "content": "f85d73e2"
-  },
-  "/docs/tutorials/course-recommender-svd-flask-7f7": {
-    "component": "17896441",
-    "content": "1f5f7822"
-  },
-  "/docs/tutorials/coveo-baseline-model-ef4": {
-    "component": "17896441",
-    "content": "48187729"
-  },
-  "/docs/tutorials/coveo-dataset-loading-and-eda-135": {
-    "component": "17896441",
-    "content": "edf33919"
-  },
-  "/docs/tutorials/creating-running-and-sharing-docker-container-image-in-kubernetes-221": {
-    "component": "17896441",
-    "content": "85875abd"
-  },
-  "/docs/tutorials/ctr-item-ranking-models-in-tensorflow-on-ml-m-4ba": {
-    "component": "17896441",
-    "content": "8b90675d"
-  },
-  "/docs/tutorials/cv-7f2": {
-    "component": "17896441",
-    "content": "963719c9"
-  },
-  "/docs/tutorials/cyber-insurance-550": {
-    "component": "17896441",
-    "content": "a93b4699"
-  },
-  "/docs/tutorials/d-optimal-online-experiment-design-for-recommender-selection-f3e": {
-    "component": "17896441",
-    "content": "35d913b4"
-  },
-  "/docs/tutorials/dare-cross-domain-recommender-on-amazon-reviews-dataset-415": {
-    "component": "17896441",
-    "content": "56e262be"
-  },
-  "/docs/tutorials/dask-incremental-wrapper-579": {
-    "component": "17896441",
-    "content": "989fb85e"
-  },
-  "/docs/tutorials/data-mining-similarity-measures-f25": {
-    "component": "17896441",
-    "content": "526c7f5e"
-  },
-  "/docs/tutorials/data-poisoning-attack-using-lfm-and-itemae-on-synthetic-dataset-2c5": {
-    "component": "17896441",
-    "content": "4463fd1e"
-  },
-  "/docs/tutorials/data-prep-e09": {
-    "component": "17896441",
-    "content": "792b5d1a"
-  },
-  "/docs/tutorials/data-science-bookcamp-f86": {
-    "component": "17896441",
-    "content": "5c8e1203"
-  },
-  "/docs/tutorials/databricks-collaborative-filtering-data-preparation-1dd": {
-    "component": "17896441",
-    "content": "2bb7f2d3"
-  },
-  "/docs/tutorials/dbt-ed9": {
-    "component": "17896441",
-    "content": "75b9ed55"
-  },
-  "/docs/tutorials/dcn-ed8": {
-    "component": "17896441",
-    "content": "222f6f43"
-  },
-  "/docs/tutorials/dcn-criteo-2a4": {
-    "component": "17896441",
-    "content": "49fdda2b"
-  },
-  "/docs/tutorials/ddpg-pendulum-02e": {
-    "component": "17896441",
-    "content": "81b45025"
-  },
-  "/docs/tutorials/deep-reinforcement-learning-in-large-discrete-action-spaces-077": {
-    "component": "17896441",
-    "content": "089e3cd7"
-  },
-  "/docs/tutorials/deep-variational-models-on-filmtrust-dataset-in-tensorflow-ebb": {
-    "component": "17896441",
-    "content": "34cd7f9a"
-  },
-  "/docs/tutorials/deep-variational-models-on-filmtrust-ml-m-and-myanimelist-dataset-in-tensorflow-038": {
-    "component": "17896441",
-    "content": "c07b9053"
-  },
-  "/docs/tutorials/deepconn-9ca": {
-    "component": "17896441",
-    "content": "66f21c13"
-  },
-  "/docs/tutorials/deepcross-f1e": {
-    "component": "17896441",
-    "content": "6fa1d39e"
-  },
-  "/docs/tutorials/deepfm-criteo-322": {
-    "component": "17896441",
-    "content": "71f1203d"
-  },
-  "/docs/tutorials/deepfm-on-criteo-ad-dataset-in-tf-x-3ae": {
-    "component": "17896441",
-    "content": "b630b2eb"
-  },
-  "/docs/tutorials/deeplab-49f": {
-    "component": "17896441",
-    "content": "a4ca926c"
-  },
-  "/docs/tutorials/deeptext-764": {
-    "component": "17896441",
-    "content": "5db23aa2"
-  },
-  "/docs/tutorials/deepwalk-c93": {
-    "component": "17896441",
-    "content": "3e80590d"
-  },
-  "/docs/tutorials/deepwalk-line-and-metapath-on-citeseer-in-pytorch-c21": {
-    "component": "17896441",
-    "content": "707278fe"
-  },
-  "/docs/tutorials/deepwalk-on-ml-k-b7e": {
-    "component": "17896441",
-    "content": "060e10ba"
-  },
-  "/docs/tutorials/defect-detection-f93": {
-    "component": "17896441",
-    "content": "015c65ef"
-  },
-  "/docs/tutorials/dgtn-on-sample-data-in-pytorch-e43": {
-    "component": "17896441",
-    "content": "219e118b"
-  },
-  "/docs/tutorials/dgtn-yoochoose-918": {
-    "component": "17896441",
-    "content": "0333a0bc"
-  },
-  "/docs/tutorials/diabetes-72d": {
-    "component": "17896441",
-    "content": "9075a323"
-  },
-  "/docs/tutorials/diginetica-baseline-c36": {
-    "component": "17896441",
-    "content": "c52a069e"
-  },
-  "/docs/tutorials/din-on-amazon-electronics-dataset-in-tf-x-88f": {
-    "component": "17896441",
-    "content": "c7956bd6"
-  },
-  "/docs/tutorials/discrete-bcq-model-on-ieee-recsys-dataset-aee": {
-    "component": "17896441",
-    "content": "f4119400"
-  },
-  "/docs/tutorials/distributed-training-42d": {
-    "component": "17896441",
-    "content": "8c125f73"
-  },
-  "/docs/tutorials/dl-retrieval-127": {
-    "component": "17896441",
-    "content": "f054d3ca"
-  },
-  "/docs/tutorials/double-domain-recommendations-on-ml-m-4f9": {
-    "component": "17896441",
-    "content": "d3c62f0d"
-  },
-  "/docs/tutorials/dqn-ieee-de2": {
-    "component": "17896441",
-    "content": "592b5521"
-  },
-  "/docs/tutorials/dqn-on-the-cartpole-and-atari-using-coach-d53": {
-    "component": "17896441",
-    "content": "6df75aaf"
-  },
-  "/docs/tutorials/dqn-playing-pong-1e8": {
-    "component": "17896441",
-    "content": "0b4c9049"
-  },
-  "/docs/tutorials/drift-detection-using-river-library-d82": {
-    "component": "17896441",
-    "content": "2f84c455"
-  },
-  "/docs/tutorials/drl-for-movie-recommendation-embeddings-a53": {
-    "component": "17896441",
-    "content": "7a25db0f"
-  },
-  "/docs/tutorials/drl-for-movie-recommendation-model-a97": {
-    "component": "17896441",
-    "content": "4b5e1c2b"
-  },
-  "/docs/tutorials/drl-for-restaurant-recommendation-902": {
-    "component": "17896441",
-    "content": "2fd2fd48"
-  },
-  "/docs/tutorials/dropoutnet-cold-start-recommendation-on-citeulike-dataset-6ec": {
-    "component": "17896441",
-    "content": "a36b820a"
-  },
-  "/docs/tutorials/drug-recommender-de1": {
-    "component": "17896441",
-    "content": "bdfd17e9"
-  },
-  "/docs/tutorials/dynamicrec-session-next-item-prediction-290": {
-    "component": "17896441",
-    "content": "dd1d002f"
-  },
-  "/docs/tutorials/easyocr-92a": {
-    "component": "17896441",
-    "content": "bbee71a5"
-  },
-  "/docs/tutorials/eda-aws-athena-aeb": {
-    "component": "17896441",
-    "content": "1736c1c7"
-  },
-  "/docs/tutorials/eda-ml-latest-fb2": {
-    "component": "17896441",
-    "content": "12a437d8"
-  },
-  "/docs/tutorials/efficient-frontier-e1d": {
-    "component": "17896441",
-    "content": "99de6f12"
-  },
-  "/docs/tutorials/electronics-product-recommender-5cf": {
-    "component": "17896441",
-    "content": "b801c9c6"
-  },
-  "/docs/tutorials/email-classification-9da": {
-    "component": "17896441",
-    "content": "ac3bfc94"
-  },
-  "/docs/tutorials/embedding-pytorch-geometric-dfd": {
-    "component": "17896441",
-    "content": "de6815b8"
-  },
-  "/docs/tutorials/emcdr-on-movielens-netflix-dataset-0f0": {
-    "component": "17896441",
-    "content": "8a9dc918"
-  },
-  "/docs/tutorials/emde-df7": {
-    "component": "17896441",
-    "content": "88e490ae"
-  },
-  "/docs/tutorials/epinions-f32": {
-    "component": "17896441",
-    "content": "ef3e2e7f"
-  },
-  "/docs/tutorials/equal-experience-ff0": {
-    "component": "17896441",
-    "content": "f9c2e558"
-  },
-  "/docs/tutorials/eval-replay-023": {
-    "component": "17896441",
-    "content": "62d3d6a4"
-  },
-  "/docs/tutorials/evaluating-a-new-fraud-policy-with-dm-ipw-and-dr-methods-f09": {
-    "component": "17896441",
-    "content": "c76f494a"
-  },
-  "/docs/tutorials/evaluating-standard-off-policy-estimators-with-small-sample-open-bandit-dataset-c64": {
-    "component": "17896441",
-    "content": "160be35b"
-  },
-  "/docs/tutorials/evaluating-the-robustness-of-off-policy-evaluation-d51": {
-    "component": "17896441",
-    "content": "666b1224"
-  },
-  "/docs/tutorials/evaluation-metrics-basics-b90": {
-    "component": "17896441",
-    "content": "be0474f4"
-  },
-  "/docs/tutorials/evaluation-of-multiple-off-policy-estimators-on-synthetic-dataset-18d": {
-    "component": "17896441",
-    "content": "4c35e42e"
-  },
-  "/docs/tutorials/evaluation-recometrics-lightfm-13e": {
-    "component": "17896441",
-    "content": "c3af07ce"
-  },
-  "/docs/tutorials/explainable-bpr-lastfm-c4a": {
-    "component": "17896441",
-    "content": "ea3f533c"
-  },
-  "/docs/tutorials/exploring-multi-objective-hyperparameter-optimization-0a8": {
-    "component": "17896441",
-    "content": "698b1d7d"
-  },
-  "/docs/tutorials/face-analytics-4d5": {
-    "component": "17896441",
-    "content": "aee0a06b"
-  },
-  "/docs/tutorials/face-detection-dlib-mtcnn-570": {
-    "component": "17896441",
-    "content": "9616a0f4"
-  },
-  "/docs/tutorials/face-landmarks-7be": {
-    "component": "17896441",
-    "content": "3f1f1ec6"
-  },
-  "/docs/tutorials/face-recognition-7ea": {
-    "component": "17896441",
-    "content": "7d22f39c"
-  },
-  "/docs/tutorials/fairness-4e1": {
-    "component": "17896441",
-    "content": "6550c99d"
-  },
-  "/docs/tutorials/fairness-obp-b07": {
-    "component": "17896441",
-    "content": "06ea6409"
-  },
-  "/docs/tutorials/fake-voice-detection-a83": {
-    "component": "17896441",
-    "content": "90969b91"
-  },
-  "/docs/tutorials/fastai-collab-filtering-cf2": {
-    "component": "17896441",
-    "content": "8b842d89"
-  },
-  "/docs/tutorials/fastai-vision-fastbook-75c": {
-    "component": "17896441",
-    "content": "265f6bcd"
-  },
-  "/docs/tutorials/fbfriend-recs-0da": {
-    "component": "17896441",
-    "content": "1dba9bee"
-  },
-  "/docs/tutorials/feast-8aa": {
-    "component": "17896441",
-    "content": "17e7e38a"
-  },
-  "/docs/tutorials/feature-selection-on-quantum-computer-f35": {
-    "component": "17896441",
-    "content": "221d9d68"
-  },
-  "/docs/tutorials/febr-framework-4c9": {
-    "component": "17896441",
-    "content": "c2bdef61"
-  },
-  "/docs/tutorials/ffm-on-criteo-ad-dataset-in-tf-x-423": {
-    "component": "17896441",
-    "content": "39815a6a"
-  },
-  "/docs/tutorials/fgnn-c27": {
-    "component": "17896441",
-    "content": "1226cb72"
-  },
-  "/docs/tutorials/finance-a4d": {
-    "component": "17896441",
-    "content": "caed3eee"
-  },
-  "/docs/tutorials/finbert-ed5": {
-    "component": "17896441",
-    "content": "84398451"
-  },
-  "/docs/tutorials/finding-the-winning-strategy-in-a-red-color-win-card-game-dc1": {
-    "component": "17896441",
-    "content": "843b51b7"
-  },
-  "/docs/tutorials/finding-the-winning-strategy-in-a-sum-card-game-6de": {
-    "component": "17896441",
-    "content": "1dde3e17"
-  },
-  "/docs/tutorials/fitsuit-cv-570": {
-    "component": "17896441",
-    "content": "661e7a28"
-  },
-  "/docs/tutorials/flower-classification-a71": {
-    "component": "17896441",
-    "content": "22dbdbfd"
-  },
-  "/docs/tutorials/flowrec-7ac": {
-    "component": "17896441",
-    "content": "4cca9278"
-  },
-  "/docs/tutorials/fm-criteo-0e0": {
-    "component": "17896441",
-    "content": "d152ca78"
-  },
-  "/docs/tutorials/fm-ml-2f3": {
-    "component": "17896441",
-    "content": "e30b1775"
-  },
-  "/docs/tutorials/fm-on-dota-in-pytorch-ced": {
-    "component": "17896441",
-    "content": "c4d87e93"
-  },
-  "/docs/tutorials/fm-torch-01d": {
-    "component": "17896441",
-    "content": "e2e35d17"
-  },
-  "/docs/tutorials/food-preference-recommender-on-wweia-dataset-ea1": {
-    "component": "17896441",
-    "content": "7e7733ee"
-  },
-  "/docs/tutorials/frozenlake-crossentropy-dfb": {
-    "component": "17896441",
-    "content": "a76a42b9"
-  },
-  "/docs/tutorials/frozenlake-using-q-learning-a1a": {
-    "component": "17896441",
-    "content": "b9c4e275"
-  },
-  "/docs/tutorials/frozenlake-using-value-iteration-695": {
-    "component": "17896441",
-    "content": "9fa9eb6a"
-  },
-  "/docs/tutorials/gan-user-model-for-rl-based-recommendation-system-6f6": {
-    "component": "17896441",
-    "content": "61c41b10"
-  },
-  "/docs/tutorials/gat-cora-ef8": {
-    "component": "17896441",
-    "content": "cc0c8a80"
-  },
-  "/docs/tutorials/gat-in-tensorflow-x-26e": {
-    "component": "17896441",
-    "content": "0cb8b856"
-  },
-  "/docs/tutorials/gat-on-cora-in-pytorch-787": {
-    "component": "17896441",
-    "content": "d03e4b67"
-  },
-  "/docs/tutorials/gc-san-in-pytorch-272": {
-    "component": "17896441",
-    "content": "86b5fba1"
-  },
-  "/docs/tutorials/gce-gnn-b13": {
-    "component": "17896441",
-    "content": "b59d2d40"
-  },
-  "/docs/tutorials/gce-gnn-session-recommender-on-diginetica-in-pytorch-df6": {
-    "component": "17896441",
-    "content": "75d4b780"
-  },
-  "/docs/tutorials/gcegnn-tmall-779": {
-    "component": "17896441",
-    "content": "1f202d63"
-  },
-  "/docs/tutorials/gcn-message-passing-2df": {
-    "component": "17896441",
-    "content": "8547773c"
-  },
-  "/docs/tutorials/gcn-on-cora-in-pytorch-95d": {
-    "component": "17896441",
-    "content": "f903c736"
-  },
-  "/docs/tutorials/gd-228": {
-    "component": "17896441",
-    "content": "6a60b126"
-  },
-  "/docs/tutorials/ge-7cd": {
-    "component": "17896441",
-    "content": "494b8248"
-  },
-  "/docs/tutorials/ge-airflow-f75": {
-    "component": "17896441",
-    "content": "3712ac43"
-  },
-  "/docs/tutorials/gem-on-karateclub-4be": {
-    "component": "17896441",
-    "content": "86f8283c"
-  },
-  "/docs/tutorials/geographic-location-visualization-and-analysis-24b": {
-    "component": "17896441",
-    "content": "48a1a0cb"
-  },
-  "/docs/tutorials/glt-community-8f1": {
-    "component": "17896441",
-    "content": "dc6ced19"
-  },
-  "/docs/tutorials/glt-missing-link-d60": {
-    "component": "17896441",
-    "content": "20282460"
-  },
-  "/docs/tutorials/gmf-5f0": {
-    "component": "17896441",
-    "content": "50cc3b96"
-  },
-  "/docs/tutorials/gmf-yelp-c0a": {
-    "component": "17896441",
-    "content": "b6e16592"
-  },
-  "/docs/tutorials/graph-ae-cd5": {
-    "component": "17896441",
-    "content": "77485089"
-  },
-  "/docs/tutorials/graph-benchmarks-2c4": {
-    "component": "17896441",
-    "content": "e3f6bcb7"
-  },
-  "/docs/tutorials/graph-convolutional-networks-using-only-numpy-7bb": {
-    "component": "17896441",
-    "content": "0296fae7"
-  },
-  "/docs/tutorials/graph-embedding-a6a": {
-    "component": "17896441",
-    "content": "f7463765"
-  },
-  "/docs/tutorials/graph-embeddings-64b": {
-    "component": "17896441",
-    "content": "b352b281"
-  },
-  "/docs/tutorials/graph-embeddings-using-convnet-stellargraph-e5f": {
-    "component": "17896441",
-    "content": "2367fdfc"
-  },
-  "/docs/tutorials/graph-encoder-201": {
-    "component": "17896441",
-    "content": "d91635f6"
-  },
-  "/docs/tutorials/graph-network-learn-embeddings-0fb": {
-    "component": "17896441",
-    "content": "9b83e091"
-  },
-  "/docs/tutorials/graph-properties-4b1": {
-    "component": "17896441",
-    "content": "7ca5437e"
-  },
-  "/docs/tutorials/graph-sdne-41d": {
-    "component": "17896441",
-    "content": "b09e13b3"
-  },
-  "/docs/tutorials/gridworld-mc-157": {
-    "component": "17896441",
-    "content": "4db4a146"
-  },
-  "/docs/tutorials/gridworld-td-e9f": {
-    "component": "17896441",
-    "content": "67c73fb4"
-  },
-  "/docs/tutorials/gridworld-v-b4a": {
-    "component": "17896441",
-    "content": "16f83bfe"
-  },
-  "/docs/tutorials/grocery-recommendation-using-graph-network-93e": {
-    "component": "17896441",
-    "content": "673fc1f5"
-  },
-  "/docs/tutorials/grokking-maze-a61": {
-    "component": "17896441",
-    "content": "52fda3a2"
-  },
-  "/docs/tutorials/group-data-302": {
-    "component": "17896441",
-    "content": "902ce273"
-  },
-  "/docs/tutorials/group-recommendations-with-actor-critic-rl-agent-in-mdp-environment-on-ml-m-dataset-9e2": {
-    "component": "17896441",
-    "content": "779c4998"
-  },
-  "/docs/tutorials/groupby-ecommerce-implicit-recommender-c54": {
-    "component": "17896441",
-    "content": "7eb37e61"
-  },
-  "/docs/tutorials/groupim-weeplaces-5bc": {
-    "component": "17896441",
-    "content": "baba4eeb"
-  },
-  "/docs/tutorials/grouprec-ff3": {
-    "component": "17896441",
-    "content": "838eafa1"
-  },
-  "/docs/tutorials/heater-cac": {
-    "component": "17896441",
-    "content": "c9a53e7d"
-  },
-  "/docs/tutorials/hers-c56": {
-    "component": "17896441",
-    "content": "70283dfa"
-  },
-  "/docs/tutorials/hierarchical-rl-on-ml-k-213": {
-    "component": "17896441",
-    "content": "202e1a38"
-  },
-  "/docs/tutorials/how-to-install-dask-in-colab-d7f": {
-    "component": "17896441",
-    "content": "3485bf5e"
-  },
-  "/docs/tutorials/how-to-setup-and-run-jenkins-aa7": {
-    "component": "17896441",
-    "content": "adbc8911"
-  },
-  "/docs/tutorials/huggingface-0da": {
-    "component": "17896441",
-    "content": "1d86f878"
-  },
-  "/docs/tutorials/hydra-317": {
-    "component": "17896441",
-    "content": "57ad94f4"
-  },
-  "/docs/tutorials/ieee-6fe": {
-    "component": "17896441",
-    "content": "9fddbd1a"
-  },
-  "/docs/tutorials/ieee-bigdata-recsys-comfor-rl-model-805": {
-    "component": "17896441",
-    "content": "a668e363"
-  },
-  "/docs/tutorials/ieee-bigdata-recsys-dataset-wrangling-and-eda-af7": {
-    "component": "17896441",
-    "content": "8c031f23"
-  },
-  "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-backbone-and-two-headed-buy-and-group-prediction-e20": {
-    "component": "17896441",
-    "content": "76323568"
-  },
-  "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-transformer-mlp-basic-model-9b2": {
-    "component": "17896441",
-    "content": "143f1672"
-  },
-  "/docs/tutorials/ieee-challenge-track-session-aware-recommendation-with-two-headed-transformer-and-loss-reweighting-dc3": {
-    "component": "17896441",
-    "content": "2f87fe0e"
-  },
-  "/docs/tutorials/ieee-transformer-b13": {
-    "component": "17896441",
-    "content": "6b0921dc"
-  },
-  "/docs/tutorials/image-analytics-tensorflow-f3a": {
-    "component": "17896441",
-    "content": "bbb72bcf"
-  },
-  "/docs/tutorials/image-captioning-tf-8d2": {
-    "component": "17896441",
-    "content": "749b1c75"
-  },
-  "/docs/tutorials/image-classification-scikit-1ae": {
-    "component": "17896441",
-    "content": "2a3f6cdf"
-  },
-  "/docs/tutorials/image-colorization-0d8": {
-    "component": "17896441",
-    "content": "ce2ae337"
-  },
-  "/docs/tutorials/image-seg-9ec": {
-    "component": "17896441",
-    "content": "04b2fe21"
-  },
-  "/docs/tutorials/image-seg-playground-b19": {
-    "component": "17896441",
-    "content": "90f2c326"
-  },
-  "/docs/tutorials/image-similarity-recommendations-4ce": {
-    "component": "17896441",
-    "content": "cc074223"
-  },
-  "/docs/tutorials/image-similarity-system-ae8": {
-    "component": "17896441",
-    "content": "cfe40db2"
-  },
-  "/docs/tutorials/img-seg-312": {
-    "component": "17896441",
-    "content": "db73b4db"
-  },
-  "/docs/tutorials/imgsim-bandit-0ef": {
-    "component": "17896441",
-    "content": "0ba9963a"
-  },
-  "/docs/tutorials/implicit-hybrid-movie-recommender-801": {
-    "component": "17896441",
-    "content": "055e585a"
-  },
-  "/docs/tutorials/implicit-hybrid-movie-recommender-using-collie-library-88a": {
-    "component": "17896441",
-    "content": "faef0bfb"
-  },
-  "/docs/tutorials/implicit-lastfm-39f": {
-    "component": "17896441",
-    "content": "d67ce2d0"
-  },
-  "/docs/tutorials/implicit-pairwise-losses-b5e": {
-    "component": "17896441",
-    "content": "a31a1ee7"
-  },
-  "/docs/tutorials/implicit-recommendation-ac0": {
-    "component": "17896441",
-    "content": "84fc372c"
-  },
-  "/docs/tutorials/implicit-synthetic-49d": {
-    "component": "17896441",
-    "content": "ce697d77"
-  },
-  "/docs/tutorials/importance-sampling-e65": {
-    "component": "17896441",
-    "content": "3967c371"
-  },
-  "/docs/tutorials/improved-cold-start-recommendation-via-two-level-bandit-algorithms-02a": {
-    "component": "17896441",
-    "content": "bac76879"
-  },
-  "/docs/tutorials/incremental-collaborative-filtering-e00": {
-    "component": "17896441",
-    "content": "ccb6a6ff"
-  },
-  "/docs/tutorials/incremental-mf-river-40c": {
-    "component": "17896441",
-    "content": "0fbfb205"
-  },
-  "/docs/tutorials/incremental-stochastic-gradient-descent-c49": {
-    "component": "17896441",
-    "content": "538c041b"
-  },
-  "/docs/tutorials/incremental-update-retraining-on-sobazaar-dataset-42f": {
-    "component": "17896441",
-    "content": "f5b60fa4"
-  },
-  "/docs/tutorials/infersent-a73": {
-    "component": "17896441",
-    "content": "82efe637"
-  },
-  "/docs/tutorials/information-aggregation-be3": {
-    "component": "17896441",
-    "content": "dcbfb322"
-  },
-  "/docs/tutorials/integrated-svd-on-ml-m-f17": {
-    "component": "17896441",
-    "content": "6926675d"
-  },
-  "/docs/tutorials/introduction-to-gym-toolkit-4ba": {
-    "component": "17896441",
-    "content": "5cdf7667"
-  },
-  "/docs/tutorials/ipl-player-recommendation-knn-8f6": {
-    "component": "17896441",
-    "content": "12082e67"
-  },
-  "/docs/tutorials/itemcf-movie-cf3": {
-    "component": "17896441",
-    "content": "e1d6e09c"
-  },
-  "/docs/tutorials/job-scraping-233": {
-    "component": "17896441",
-    "content": "54b08d9a"
-  },
-  "/docs/tutorials/jobs-resume-d52": {
-    "component": "17896441",
-    "content": "97da16f8"
-  },
-  "/docs/tutorials/kafka-colab-240": {
-    "component": "17896441",
-    "content": "97da8d2d"
-  },
-  "/docs/tutorials/kafka-spark-streaming-colab-d1a": {
-    "component": "17896441",
-    "content": "df20af1f"
-  },
-  "/docs/tutorials/karateclub-deepwalk-c8b": {
-    "component": "17896441",
-    "content": "068c3553"
-  },
-  "/docs/tutorials/keras-ocr-5f9": {
-    "component": "17896441",
-    "content": "a367997f"
-  },
-  "/docs/tutorials/kernelized-matrix-factorization-on-ml-m-1ab": {
-    "component": "17896441",
-    "content": "ba4f3516"
-  },
-  "/docs/tutorials/keypoint-rcnn-torchvision-55c": {
-    "component": "17896441",
-    "content": "dbd0d829"
-  },
-  "/docs/tutorials/keyword-extraction-be4": {
-    "component": "17896441",
-    "content": "b835cb40"
-  },
-  "/docs/tutorials/khgt-knowledge-graph-embeddings-667": {
-    "component": "17896441",
-    "content": "655a4301"
-  },
-  "/docs/tutorials/kullback-leibler-divergence-077": {
-    "component": "17896441",
-    "content": "416c9936"
-  },
-  "/docs/tutorials/lambda-learner-aef": {
-    "component": "17896441",
-    "content": "1fc63c35"
-  },
-  "/docs/tutorials/language-modeling-with-nn-transformer-and-torchtext-a05": {
-    "component": "17896441",
-    "content": "d170f880"
-  },
-  "/docs/tutorials/lastfm-session-2e8": {
-    "component": "17896441",
-    "content": "0efb2ed8"
-  },
-  "/docs/tutorials/lda-topic-content-recommender-c09": {
-    "component": "17896441",
-    "content": "c436f9f5"
-  },
-  "/docs/tutorials/learn-embeddings-using-graph-networks-3bb": {
-    "component": "17896441",
-    "content": "8cb0f187"
-  },
-  "/docs/tutorials/learning-graph-embeddings-of-gowalla-dataset-using-hmlet-model-ea0": {
-    "component": "17896441",
-    "content": "dfbffdca"
-  },
-  "/docs/tutorials/learning-node-representations-from-multiple-social-contexts-826": {
-    "component": "17896441",
-    "content": "80709468"
-  },
-  "/docs/tutorials/lenet-mnist-cv-5ee": {
-    "component": "17896441",
-    "content": "c2f817d5"
-  },
-  "/docs/tutorials/lessr-b7e": {
-    "component": "17896441",
-    "content": "49f4cabd"
-  },
-  "/docs/tutorials/license-plate-detection-224": {
-    "component": "17896441",
-    "content": "7f794c25"
-  },
-  "/docs/tutorials/lightfm-216": {
-    "component": "17896441",
-    "content": "dca95927"
-  },
-  "/docs/tutorials/lightfm-cold-start-on-ml-m-fc9": {
-    "component": "17896441",
-    "content": "abcef53a"
-  },
-  "/docs/tutorials/lightfm-hybrid-model-on-ml-m-using-replay-library-00c": {
-    "component": "17896441",
-    "content": "4d60c1e0"
-  },
-  "/docs/tutorials/lightfm-hybrid-recommender-on-retail-product-data-8a1": {
-    "component": "17896441",
-    "content": "4414e3bb"
-  },
-  "/docs/tutorials/lightgcn-with-mscl-contrastive-loss-on-yelp-dataset-f64": {
-    "component": "17896441",
-    "content": "9a56f154"
-  },
-  "/docs/tutorials/line-on-wiki-network-647": {
-    "component": "17896441",
-    "content": "9ea0e6a7"
-  },
-  "/docs/tutorials/linear-optimization-with-or-tools-028": {
-    "component": "17896441",
-    "content": "e38ad897"
-  },
-  "/docs/tutorials/listnet-ltr-e3c": {
-    "component": "17896441",
-    "content": "bbea8c5a"
-  },
-  "/docs/tutorials/listwise-ml-c6b": {
-    "component": "17896441",
-    "content": "6e04f086"
-  },
-  "/docs/tutorials/listwise-movie-recommendations-using-rl-methods-a59": {
-    "component": "17896441",
-    "content": "ef3b7145"
-  },
-  "/docs/tutorials/listwise-retail-6b1": {
-    "component": "17896441",
-    "content": "dc0ac83a"
-  },
-  "/docs/tutorials/live-streamer-recommender-997": {
-    "component": "17896441",
-    "content": "38140e1e"
-  },
-  "/docs/tutorials/lrgccf-gowalla-614": {
-    "component": "17896441",
-    "content": "951ad7f1"
-  },
-  "/docs/tutorials/mab-92a": {
-    "component": "17896441",
-    "content": "0df821e8"
-  },
-  "/docs/tutorials/mab-product-13f": {
-    "component": "17896441",
-    "content": "ccc8eca2"
-  },
-  "/docs/tutorials/mamo-framework-b65": {
-    "component": "17896441",
-    "content": "e62141b8"
-  },
-  "/docs/tutorials/mars-gym-62b": {
-    "component": "17896441",
-    "content": "dfc119b2"
-  },
-  "/docs/tutorials/maskrcnn-gradio-app-391": {
-    "component": "17896441",
-    "content": "a2e8fc21"
-  },
-  "/docs/tutorials/matching-and-ranking-models-in-tensorflow-918": {
-    "component": "17896441",
-    "content": "d4a0b196"
-  },
-  "/docs/tutorials/matn-yelp-2a7": {
-    "component": "17896441",
-    "content": "bae2d7f2"
-  },
-  "/docs/tutorials/matplotlib-0ed": {
-    "component": "17896441",
-    "content": "6c4a2558"
-  },
-  "/docs/tutorials/matrix-factorization-model-with-loss-functions-on-epinions-42c": {
-    "component": "17896441",
-    "content": "46fd65dd"
-  },
-  "/docs/tutorials/matrix-factorization-with-sgd-and-als-on-ml-m-41e": {
-    "component": "17896441",
-    "content": "8d962ed9"
-  },
-  "/docs/tutorials/maxent-f9c": {
-    "component": "17896441",
-    "content": "e473430e"
-  },
-  "/docs/tutorials/maxent-gridworld-bfc": {
-    "component": "17896441",
-    "content": "8774c99d"
-  },
-  "/docs/tutorials/maxent-in-mountaincar-environment-fb0": {
-    "component": "17896441",
-    "content": "7422c81b"
-  },
-  "/docs/tutorials/maxent-pendulum-422": {
-    "component": "17896441",
-    "content": "6662e2f0"
-  },
-  "/docs/tutorials/mbgmn-beibei-65d": {
-    "component": "17896441",
-    "content": "8d52fc36"
-  },
-  "/docs/tutorials/mc-1fe": {
-    "component": "17896441",
-    "content": "af766c0d"
-  },
-  "/docs/tutorials/mdp-dynamic-7bb": {
-    "component": "17896441",
-    "content": "6c11798e"
-  },
-  "/docs/tutorials/mdp-inventory-41a": {
-    "component": "17896441",
-    "content": "41f06d8d"
-  },
-  "/docs/tutorials/melu-on-ml-m-ad1": {
-    "component": "17896441",
-    "content": "77f880ee"
-  },
-  "/docs/tutorials/metahin-05c": {
-    "component": "17896441",
-    "content": "24514630"
-  },
-  "/docs/tutorials/metatl-for-cold-start-users-on-amazon-electronics-dataset-f9d": {
-    "component": "17896441",
-    "content": "fe3a4016"
-  },
-  "/docs/tutorials/methods-for-effective-online-testing-3c3": {
-    "component": "17896441",
-    "content": "198b972e"
-  },
-  "/docs/tutorials/mf-ml-d45": {
-    "component": "17896441",
-    "content": "591603ca"
-  },
-  "/docs/tutorials/mf-mlp-movielens-in-pytorch-5bd": {
-    "component": "17896441",
-    "content": "cb26aba2"
-  },
-  "/docs/tutorials/mf-movielens-pytorch-9d6": {
-    "component": "17896441",
-    "content": "e168a1a8"
-  },
-  "/docs/tutorials/mkr-ecb": {
-    "component": "17896441",
-    "content": "a7556385"
-  },
-  "/docs/tutorials/ml-m-322": {
-    "component": "17896441",
-    "content": "33b6cac2"
-  },
-  "/docs/tutorials/ml-pytorch-aws-a2c": {
-    "component": "17896441",
-    "content": "0f93d574"
-  },
-  "/docs/tutorials/mlflow-part-abb": {
-    "component": "17896441",
-    "content": "38fe86a6"
-  },
-  "/docs/tutorials/mlops-545": {
-    "component": "17896441",
-    "content": "ea3f9bbb"
-  },
-  "/docs/tutorials/mlops-optimus-984": {
-    "component": "17896441",
-    "content": "f079f59a"
-  },
-  "/docs/tutorials/mlops-tfx-c64": {
-    "component": "17896441",
-    "content": "d42778e7"
-  },
-  "/docs/tutorials/mlp-on-ml-m-ae2": {
-    "component": "17896441",
-    "content": "cfd69602"
-  },
-  "/docs/tutorials/mmoe-on-census-income-data-in-tensorflow-73d": {
-    "component": "17896441",
-    "content": "1f9e2787"
-  },
-  "/docs/tutorials/moe-tf-6d0": {
-    "component": "17896441",
-    "content": "2119f5d4"
-  },
-  "/docs/tutorials/mongodb-to-csv-conversion-d79": {
-    "component": "17896441",
-    "content": "499a121f"
-  },
-  "/docs/tutorials/mooccube-course-recommender-343": {
-    "component": "17896441",
-    "content": "275f882d"
-  },
-  "/docs/tutorials/mot-60a": {
-    "component": "17896441",
-    "content": "da058583"
-  },
-  "/docs/tutorials/mountaincar-a-c-727": {
-    "component": "17896441",
-    "content": "138bf638"
-  },
-  "/docs/tutorials/movie-eda-20c": {
-    "component": "17896441",
-    "content": "818f6ee2"
-  },
-  "/docs/tutorials/movie-mf-torch-1db": {
-    "component": "17896441",
-    "content": "b317302a"
-  },
-  "/docs/tutorials/movie-recommender-keras-2f0": {
-    "component": "17896441",
-    "content": "6be768b0"
-  },
-  "/docs/tutorials/movie-recommender-pytorch-embedding-06b": {
-    "component": "17896441",
-    "content": "18fa3438"
-  },
-  "/docs/tutorials/movie-recommender-retrieval-pytorch-lightning-73b": {
-    "component": "17896441",
-    "content": "8c1fe35d"
-  },
-  "/docs/tutorials/movie-recommender-system-6e8": {
-    "component": "17896441",
-    "content": "4661cb3d"
-  },
-  "/docs/tutorials/movie-recommender-tensorflow-ce3": {
-    "component": "17896441",
-    "content": "2223632c"
-  },
-  "/docs/tutorials/movie-recommender-tensorflow-sagemaker-b59": {
-    "component": "17896441",
-    "content": "49e87d68"
-  },
-  "/docs/tutorials/movie-recsys-5a7": {
-    "component": "17896441",
-    "content": "6cc664f1"
-  },
-  "/docs/tutorials/movie-sagemaker-d9f": {
-    "component": "17896441",
-    "content": "ef5d64d2"
-  },
-  "/docs/tutorials/movie-tf-80b": {
-    "component": "17896441",
-    "content": "dbe735f2"
-  },
-  "/docs/tutorials/movie-transformer-7c8": {
-    "component": "17896441",
-    "content": "473bfced"
-  },
-  "/docs/tutorials/movielens-data-split-65f": {
-    "component": "17896441",
-    "content": "44222789"
-  },
-  "/docs/tutorials/movielens-eda-modeling-ed6": {
-    "component": "17896441",
-    "content": "dfc9069b"
-  },
-  "/docs/tutorials/movielens-milvus-redis-17c": {
-    "component": "17896441",
-    "content": "0fcfad5e"
-  },
-  "/docs/tutorials/movielens-milvus-redis-efficient-retrieval-5f8": {
-    "component": "17896441",
-    "content": "907bd307"
-  },
-  "/docs/tutorials/movierec-9df": {
-    "component": "17896441",
-    "content": "b589981d"
-  },
-  "/docs/tutorials/mpm-c4f": {
-    "component": "17896441",
-    "content": "54db28f0"
-  },
-  "/docs/tutorials/mta-a5f": {
-    "component": "17896441",
-    "content": "930fd8b9"
-  },
-  "/docs/tutorials/mts-36a": {
-    "component": "17896441",
-    "content": "77ceeb9d"
-  },
-  "/docs/tutorials/multi-objective-ranking-using-constrained-optimization-in-gbts-441": {
-    "component": "17896441",
-    "content": "30ba7b0f"
-  },
-  "/docs/tutorials/multi-task-learning-726": {
-    "component": "17896441",
-    "content": "7df2d2b3"
-  },
-  "/docs/tutorials/multi-task-learning-income-census-data-2da": {
-    "component": "17896441",
-    "content": "e088a339"
-  },
-  "/docs/tutorials/multi-task-learning-on-ml-k-in-tfrs-8b1": {
-    "component": "17896441",
-    "content": "b539ca9d"
-  },
-  "/docs/tutorials/multiple-retraining-models-on-sobazaar-dataset-f62": {
-    "component": "17896441",
-    "content": "779e12f2"
-  },
-  "/docs/tutorials/multiprocessing-918": {
-    "component": "17896441",
-    "content": "33f313ec"
-  },
-  "/docs/tutorials/music-eda-cb-recommender-a4c": {
-    "component": "17896441",
-    "content": "3ed766b6"
-  },
-  "/docs/tutorials/music-seq-data-8d5": {
-    "component": "17896441",
-    "content": "dd6e7425"
-  },
-  "/docs/tutorials/music-session-preprocess-f82": {
-    "component": "17896441",
-    "content": "a1ce9205"
-  },
-  "/docs/tutorials/music-spark-de0": {
-    "component": "17896441",
-    "content": "0996d822"
-  },
-  "/docs/tutorials/name-address-parsing-fa3": {
-    "component": "17896441",
-    "content": "6bc0b2a3"
-  },
-  "/docs/tutorials/ncf-efb": {
-    "component": "17896441",
-    "content": "acff8dec"
-  },
-  "/docs/tutorials/ncf-from-scratch-pytorch-09e": {
-    "component": "17896441",
-    "content": "f355c7b6"
-  },
-  "/docs/tutorials/ncf-movielens-tensorflow-0fa": {
-    "component": "17896441",
-    "content": "3a351cab"
-  },
-  "/docs/tutorials/ncf-mxnet-fe7": {
-    "component": "17896441",
-    "content": "a4ceb64b"
-  },
-  "/docs/tutorials/ncf-on-ml-m-in-tf-x-a7b": {
-    "component": "17896441",
-    "content": "06736956"
-  },
-  "/docs/tutorials/ncf-tf-c0a": {
-    "component": "17896441",
-    "content": "159e8cdc"
-  },
-  "/docs/tutorials/ncf-torch-a68": {
-    "component": "17896441",
-    "content": "cab8f01e"
-  },
-  "/docs/tutorials/negative-sampling-626": {
-    "component": "17896441",
-    "content": "6e37f732"
-  },
-  "/docs/tutorials/ner-316": {
-    "component": "17896441",
-    "content": "19e67781"
-  },
-  "/docs/tutorials/netflix-3cc": {
-    "component": "17896441",
-    "content": "29c57a72"
-  },
-  "/docs/tutorials/networkx-f5d": {
-    "component": "17896441",
-    "content": "069e26e8"
-  },
-  "/docs/tutorials/neumf-on-ml-m-76a": {
-    "component": "17896441",
-    "content": "fda28d36"
-  },
-  "/docs/tutorials/neural-network-from-scratch-bfd": {
-    "component": "17896441",
-    "content": "43dbbbfa"
-  },
-  "/docs/tutorials/news-recommender-mind-pytorch-lightning-417": {
-    "component": "17896441",
-    "content": "c0f1281b"
-  },
-  "/docs/tutorials/nfm-c25": {
-    "component": "17896441",
-    "content": "e7cb8edb"
-  },
-  "/docs/tutorials/nfm-criteo-6da": {
-    "component": "17896441",
-    "content": "bed85166"
-  },
-  "/docs/tutorials/ngcf-d56": {
-    "component": "17896441",
-    "content": "ef9c1444"
-  },
-  "/docs/tutorials/ngcf-movielens-313": {
-    "component": "17896441",
-    "content": "5b157f67"
-  },
-  "/docs/tutorials/nicf-4c4": {
-    "component": "17896441",
-    "content": "62c16679"
-  },
-  "/docs/tutorials/nlp-c5d": {
-    "component": "17896441",
-    "content": "9152f961"
-  },
-  "/docs/tutorials/nms-926": {
-    "component": "17896441",
-    "content": "93b0edf9"
-  },
-  "/docs/tutorials/node-vec-651": {
-    "component": "17896441",
-    "content": "cfc935a7"
-  },
-  "/docs/tutorials/node-vec-edge-vec-and-graph-vec-f64": {
-    "component": "17896441",
-    "content": "cef17f74"
-  },
-  "/docs/tutorials/node-vec-in-pytorch-geometric-on-cora-dataset-0e4": {
-    "component": "17896441",
-    "content": "2e549579"
-  },
-  "/docs/tutorials/node-vec-on-karateclub-f42": {
-    "component": "17896441",
-    "content": "1e6b047a"
-  },
-  "/docs/tutorials/node-vec-on-ml-latest-in-keras-5f7": {
-    "component": "17896441",
-    "content": "6ad795e3"
-  },
-  "/docs/tutorials/node-vec-tf-075": {
-    "component": "17896441",
-    "content": "c240f16f"
-  },
-  "/docs/tutorials/nstep-f3e": {
-    "component": "17896441",
-    "content": "12fca68e"
-  },
-  "/docs/tutorials/obj-det-5de": {
-    "component": "17896441",
-    "content": "568f4101"
-  },
-  "/docs/tutorials/object-detection-b3b": {
-    "component": "17896441",
-    "content": "513bcff5"
-  },
-  "/docs/tutorials/objectworld-de1": {
-    "component": "17896441",
-    "content": "df12f33c"
-  },
-  "/docs/tutorials/obp-library-workshop-tutorials-329": {
-    "component": "17896441",
-    "content": "8605c73a"
-  },
-  "/docs/tutorials/ocr-python-a27": {
-    "component": "17896441",
-    "content": "5ee391c3"
-  },
-  "/docs/tutorials/offline-rl-replay-d32": {
-    "component": "17896441",
-    "content": "dc5c9ef0"
-  },
-  "/docs/tutorials/olx-baselines-13a": {
-    "component": "17896441",
-    "content": "0e4c52aa"
-  },
-  "/docs/tutorials/online-learning-concept-beb": {
-    "component": "17896441",
-    "content": "58bc0da2"
-  },
-  "/docs/tutorials/ope-slate-3e3": {
-    "component": "17896441",
-    "content": "08e5fb00"
-  },
-  "/docs/tutorials/ope-vw-dfd": {
-    "component": "17896441",
-    "content": "c4224af7"
-  },
-  "/docs/tutorials/opencv-video-140": {
-    "component": "17896441",
-    "content": "b1f4a83d"
-  },
-  "/docs/tutorials/opl-5de": {
-    "component": "17896441",
-    "content": "adf4edd8"
-  },
-  "/docs/tutorials/optimal-off-policy-evaluation-from-multiple-logging-policies-2b2": {
-    "component": "17896441",
-    "content": "0e4b0955"
-  },
-  "/docs/tutorials/pareto-census-709": {
-    "component": "17896441",
-    "content": "b779f8cc"
-  },
-  "/docs/tutorials/pareto-moo-688": {
-    "component": "17896441",
-    "content": "06f29f8b"
-  },
-  "/docs/tutorials/pde-d3b": {
-    "component": "17896441",
-    "content": "7d23153e"
-  },
-  "/docs/tutorials/pdf-to-wordcloud-mail-3dd": {
-    "component": "17896441",
-    "content": "9b5afb68"
-  },
-  "/docs/tutorials/pedidos-0f6": {
-    "component": "17896441",
-    "content": "777b4509"
-  },
-  "/docs/tutorials/perform-feature-engineering-recsys-f27": {
-    "component": "17896441",
-    "content": "60d81f25"
-  },
-  "/docs/tutorials/personalize-cleanup-27b": {
-    "component": "17896441",
-    "content": "2e0eca8b"
-  },
-  "/docs/tutorials/personalize-datalayer-9c7": {
-    "component": "17896441",
-    "content": "5b03a739"
-  },
-  "/docs/tutorials/personalize-deployment-1d0": {
-    "component": "17896441",
-    "content": "e678f4b5"
-  },
-  "/docs/tutorials/personalize-inference-13a": {
-    "component": "17896441",
-    "content": "18b2f576"
-  },
-  "/docs/tutorials/personalize-model-1ad": {
-    "component": "17896441",
-    "content": "4a85efc5"
-  },
-  "/docs/tutorials/personalized-transfer-of-user-preferences-for-cross-domain-recommendation-d60": {
-    "component": "17896441",
-    "content": "1707f80a"
-  },
-  "/docs/tutorials/pifpaf-pose-estimation-4c8": {
-    "component": "17896441",
-    "content": "5e92fcad"
-  },
-  "/docs/tutorials/pinsage-graph-movielens-m-749": {
-    "component": "17896441",
-    "content": "039d85a3"
-  },
-  "/docs/tutorials/pixellink-9c4": {
-    "component": "17896441",
-    "content": "62f949cd"
-  },
-  "/docs/tutorials/pnn-criteo-adc": {
-    "component": "17896441",
-    "content": "e6d6ed91"
-  },
-  "/docs/tutorials/poison-attack-8dc": {
-    "component": "17896441",
-    "content": "28461e1b"
-  },
-  "/docs/tutorials/post-estimation-3a3": {
-    "component": "17896441",
-    "content": "7ca6cb8d"
-  },
-  "/docs/tutorials/predicting-rewards-with-the-state-value-and-action-value-function-78b": {
-    "component": "17896441",
-    "content": "48b8aa3d"
-  },
-  "/docs/tutorials/preprocessing-of-diginetica-session-dataset-b51": {
-    "component": "17896441",
-    "content": "697b1748"
-  },
-  "/docs/tutorials/preprocessing-of-retailrocket-dataset-4b0": {
-    "component": "17896441",
-    "content": "81a1c6af"
-  },
-  "/docs/tutorials/probability-7cf": {
-    "component": "17896441",
-    "content": "e5a07dc6"
-  },
-  "/docs/tutorials/prod-vec-beh-656": {
-    "component": "17896441",
-    "content": "741a2e38"
-  },
-  "/docs/tutorials/product-recommendation-context-rl-f7d": {
-    "component": "17896441",
-    "content": "b4b3738e"
-  },
-  "/docs/tutorials/product-recommender-49f": {
-    "component": "17896441",
-    "content": "2c3c7e9e"
-  },
-  "/docs/tutorials/profiling-95b": {
-    "component": "17896441",
-    "content": "c4fcd8a8"
-  },
-  "/docs/tutorials/pyanime-b09": {
-    "component": "17896441",
-    "content": "26c2e302"
-  },
-  "/docs/tutorials/pydeep-recsys-fdb": {
-    "component": "17896441",
-    "content": "e02fe5d8"
-  },
-  "/docs/tutorials/pyg-gnn-b0a": {
-    "component": "17896441",
-    "content": "09c0fe47"
-  },
-  "/docs/tutorials/pymoo-e6e": {
-    "component": "17896441",
-    "content": "101d81be"
-  },
-  "/docs/tutorials/python-diagrams-2ad": {
-    "component": "17896441",
-    "content": "55dc94b4"
-  },
-  "/docs/tutorials/pytorch-ce9": {
-    "component": "17896441",
-    "content": "c3e19d59"
-  },
-  "/docs/tutorials/pytorch-automl-with-autopytorch-0e4": {
-    "component": "17896441",
-    "content": "c1d26127"
-  },
-  "/docs/tutorials/pytorch-fundamentals-part-04f": {
-    "component": "17896441",
-    "content": "14f43c02"
-  },
-  "/docs/tutorials/pytorch-production-12a": {
-    "component": "17896441",
-    "content": "a9b17139"
-  },
-  "/docs/tutorials/pytorch-profiler-bde": {
-    "component": "17896441",
-    "content": "f13d42c1"
-  },
-  "/docs/tutorials/q-learning-on-lunar-lander-and-frozen-lake-201": {
-    "component": "17896441",
-    "content": "6f5d2b58"
-  },
-  "/docs/tutorials/q-learning-vs-sarsa-and-q-learning-extensions-17c": {
-    "component": "17896441",
-    "content": "69718754"
-  },
-  "/docs/tutorials/random-forest-classifier-model-e93": {
-    "component": "17896441",
-    "content": "9309c06f"
-  },
-  "/docs/tutorials/rasa-colab-8f5": {
-    "component": "17896441",
-    "content": "1dd3e5e7"
-  },
-  "/docs/tutorials/rating-predictions-tfrs-8e3": {
-    "component": "17896441",
-    "content": "0242c671"
-  },
-  "/docs/tutorials/ravelry-pattern-recommender-d29": {
-    "component": "17896441",
-    "content": "5097c22c"
-  },
-  "/docs/tutorials/read-data-from-cassandra-into-pandas-237": {
-    "component": "17896441",
-    "content": "1d9f7a88"
-  },
-  "/docs/tutorials/real-time-event-capturing-with-kafka-and-mongodb-852": {
-    "component": "17896441",
-    "content": "64496b1b"
-  },
-  "/docs/tutorials/real-time-in-session-personalization-b97": {
-    "component": "17896441",
-    "content": "7b25fd45"
-  },
-  "/docs/tutorials/rec-algo-ncf-pytorch-pyy-44b": {
-    "component": "17896441",
-    "content": "6b1315e7"
-  },
-  "/docs/tutorials/rec-medium-word-vec-73e": {
-    "component": "17896441",
-    "content": "c0c5d48b"
-  },
-  "/docs/tutorials/rec-ml-m-2fc": {
-    "component": "17896441",
-    "content": "5bd7189c"
-  },
-  "/docs/tutorials/reco-chef-music-data-layer-pipeline-90b": {
-    "component": "17896441",
-    "content": "ff1f4d87"
-  },
-  "/docs/tutorials/reco-chef-music-data-layer-scripting-523": {
-    "component": "17896441",
-    "content": "60a6be93"
-  },
-  "/docs/tutorials/reco-chef-music-train-eval-pipeline-itempop-4c8": {
-    "component": "17896441",
-    "content": "accaa579"
-  },
-  "/docs/tutorials/reco-chef-music-training-evaluation-scripting-itempop-model-8cd": {
-    "component": "17896441",
-    "content": "f9a644a7"
-  },
-  "/docs/tutorials/reco-chef-music-training-evaluation-scripting-knn-bd2": {
-    "component": "17896441",
-    "content": "5cccd501"
-  },
-  "/docs/tutorials/reco-dvbpr-not-working-801": {
-    "component": "17896441",
-    "content": "9f72d678"
-  },
-  "/docs/tutorials/reco-frontend-dash-144": {
-    "component": "17896441",
-    "content": "994fb208"
-  },
-  "/docs/tutorials/reco-inprogress-elective-course-recommender-7eb": {
-    "component": "17896441",
-    "content": "20c50de2"
-  },
-  "/docs/tutorials/reco-megafon-data-ingestion-32c": {
-    "component": "17896441",
-    "content": "669a2dec"
-  },
-  "/docs/tutorials/reco-session-booking-d97": {
-    "component": "17896441",
-    "content": "4fdb5cb5"
-  },
-  "/docs/tutorials/reco-session-diginetica-7b4": {
-    "component": "17896441",
-    "content": "2367cab0"
-  },
-  "/docs/tutorials/reco-session-yoochoose-a1e": {
-    "component": "17896441",
-    "content": "03f0b30a"
-  },
-  "/docs/tutorials/reco-tut-aml-tpt-ml-m-quickstart-615": {
-    "component": "17896441",
-    "content": "e1813849"
-  },
-  "/docs/tutorials/reco-tut-arr-data-ingestion-8c9": {
-    "component": "17896441",
-    "content": "63b20dcf"
-  },
-  "/docs/tutorials/reco-tut-arr-eda-067": {
-    "component": "17896441",
-    "content": "5676b84f"
-  },
-  "/docs/tutorials/reco-tut-arr-eda-part-6d6": {
-    "component": "17896441",
-    "content": "518b2432"
-  },
-  "/docs/tutorials/reco-tut-arr-modeling-baseline-f8a": {
-    "component": "17896441",
-    "content": "ca7d69aa"
-  },
-  "/docs/tutorials/reco-tut-arr-preprocessing-for-baseline-654": {
-    "component": "17896441",
-    "content": "19af261b"
-  },
-  "/docs/tutorials/reco-tut-arr-preprocessing-variant-ii-ec9": {
-    "component": "17896441",
-    "content": "501e0525"
-  },
-  "/docs/tutorials/reco-tut-arr-t-eda-and-data-cleaning-8cb": {
-    "component": "17896441",
-    "content": "033189eb"
-  },
-  "/docs/tutorials/reco-tut-asr-content-based-recommendations-818": {
-    "component": "17896441",
-    "content": "21329c5e"
-  },
-  "/docs/tutorials/reco-tut-asr-evaluation-version-6aa": {
-    "component": "17896441",
-    "content": "e8916a31"
-  },
-  "/docs/tutorials/reco-tut-asr-hybrid-recommendations-1cd": {
-    "component": "17896441",
-    "content": "0bf23033"
-  },
-  "/docs/tutorials/reco-tut-asr-item-item-cf-d71": {
-    "component": "17896441",
-    "content": "0f95f23b"
-  },
-  "/docs/tutorials/reco-tut-asr-launchpad-e24": {
-    "component": "17896441",
-    "content": "92590e30"
-  },
-  "/docs/tutorials/reco-tut-asr-matrix-factorization-75d": {
-    "component": "17896441",
-    "content": "9f0087bd"
-  },
-  "/docs/tutorials/reco-tut-asr-metrics-calculation-bbd": {
-    "component": "17896441",
-    "content": "46937ee8"
-  },
-  "/docs/tutorials/reco-tut-asr-non-personalised-and-stereotyped-recommendation-3c6": {
-    "component": "17896441",
-    "content": "ce285511"
-  },
-  "/docs/tutorials/reco-tut-asr-offline-evaluation-403": {
-    "component": "17896441",
-    "content": "3145f897"
-  },
-  "/docs/tutorials/reco-tut-asr-recommendation-metrics-rating-evaluation-778": {
-    "component": "17896441",
-    "content": "501ac7af"
-  },
-  "/docs/tutorials/reco-tut-asr-similarity-metrics-for-cf-160": {
-    "component": "17896441",
-    "content": "fceebdaa"
-  },
-  "/docs/tutorials/reco-tut-asr-user-user-cf-15c": {
-    "component": "17896441",
-    "content": "4aeebbfe"
-  },
-  "/docs/tutorials/reco-tut-bfr-launchpad-79d": {
-    "component": "17896441",
-    "content": "834a86dd"
-  },
-  "/docs/tutorials/reco-tut-bok-launchpad-79a": {
-    "component": "17896441",
-    "content": "66d84e12"
-  },
-  "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ann-828": {
-    "component": "17896441",
-    "content": "653c5c1b"
-  },
-  "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-ml-fd8": {
-    "component": "17896441",
-    "content": "b0657928"
-  },
-  "/docs/tutorials/reco-tut-bok-us-grokking-ai-algorithms-rl-4d6": {
-    "component": "17896441",
-    "content": "28fe26ea"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-data-ingestion-372": {
-    "component": "17896441",
-    "content": "42c783e5"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-data-preprocessing-3db": {
-    "component": "17896441",
-    "content": "987047cc"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-data-wrangling-c93": {
-    "component": "17896441",
-    "content": "84330a6b"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-dataloaders-84d": {
-    "component": "17896441",
-    "content": "41de0270"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-eda-5cc": {
-    "component": "17896441",
-    "content": "ef821003"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-launchpad-54a": {
-    "component": "17896441",
-    "content": "2bca1863"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-model-interest-predictor-a7e": {
-    "component": "17896441",
-    "content": "9cfb3e2a"
-  },
-  "/docs/tutorials/reco-tut-cris-amzntools-model-recommender-d0c": {
-    "component": "17896441",
-    "content": "beb70557"
-  },
-  "/docs/tutorials/reco-tut-csr-htr-lastfm-963": {
-    "component": "17896441",
-    "content": "f776eb62"
-  },
-  "/docs/tutorials/reco-tut-csr-htr-lastfm-data-preprocessing-40f": {
-    "component": "17896441",
-    "content": "8cf032cf"
-  },
-  "/docs/tutorials/reco-tut-ehr-eda-and-data-cleaning-d5b": {
-    "component": "17896441",
-    "content": "cd31218b"
-  },
-  "/docs/tutorials/reco-tut-elf-launchpad-4bf": {
-    "component": "17896441",
-    "content": "a8eb09a2"
-  },
-  "/docs/tutorials/reco-tut-elf-ml-k-data-preparation-5d5": {
-    "component": "17896441",
-    "content": "a9e498dd"
-  },
-  "/docs/tutorials/reco-tut-elf-notebook-8f0": {
-    "component": "17896441",
-    "content": "d8b4f853"
-  },
-  "/docs/tutorials/reco-tut-ffr-etl-814": {
-    "component": "17896441",
-    "content": "3761012e"
-  },
-  "/docs/tutorials/reco-tut-ffr-feature-engineering-7e8": {
-    "component": "17896441",
-    "content": "ad0c4c1a"
-  },
-  "/docs/tutorials/reco-tut-ffr-ingestion-615": {
-    "component": "17896441",
-    "content": "f2c1f8db"
-  },
-  "/docs/tutorials/reco-tut-ffr-launchpad-e5e": {
-    "component": "17896441",
-    "content": "39917bf0"
-  },
-  "/docs/tutorials/reco-tut-ffr-modeling-e4a": {
-    "component": "17896441",
-    "content": "b5758471"
-  },
-  "/docs/tutorials/reco-tut-ffr-preprocessing-c5a": {
-    "component": "17896441",
-    "content": "d29efd14"
-  },
-  "/docs/tutorials/reco-tut-fp-data-model-3f7": {
-    "component": "17896441",
-    "content": "1b3409af"
-  },
-  "/docs/tutorials/reco-tut-gml-wiki-link-recommender-gcn-pytorch-geometric-0c7": {
-    "component": "17896441",
-    "content": "b013a4ae"
-  },
-  "/docs/tutorials/reco-tut-itr-data-ingestion-8b8": {
-    "component": "17896441",
-    "content": "af12cb65"
-  },
-  "/docs/tutorials/reco-tut-itr-eda-67a": {
-    "component": "17896441",
-    "content": "21ff9f4f"
-  },
-  "/docs/tutorials/reco-tut-itr-launchpad-825": {
-    "component": "17896441",
-    "content": "3f5c0251"
-  },
-  "/docs/tutorials/reco-tut-itr-modeling-collaborative-knn-34a": {
-    "component": "17896441",
-    "content": "f0e4f318"
-  },
-  "/docs/tutorials/reco-tut-mal-launchpad-fb8": {
-    "component": "17896441",
-    "content": "5f8a31fe"
-  },
-  "/docs/tutorials/reco-tut-mal-t-data-extraction-951": {
-    "component": "17896441",
-    "content": "bbfc94dd"
-  },
-  "/docs/tutorials/reco-tut-mal-t-recommendation-058": {
-    "component": "17896441",
-    "content": "74a03367"
-  },
-  "/docs/tutorials/reco-tut-mba-grocery-apriori-simple-cfd": {
-    "component": "17896441",
-    "content": "b3b968e0"
-  },
-  "/docs/tutorials/reco-tut-mba-grocery-launchpad-5e6": {
-    "component": "17896441",
-    "content": "b485148a"
-  },
-  "/docs/tutorials/reco-tut-mcp-contextual-simulation-user-small-255": {
-    "component": "17896441",
-    "content": "3bb47c09"
-  },
-  "/docs/tutorials/reco-tut-mcp-data-ingestion-1d9": {
-    "component": "17896441",
-    "content": "3f2c9dfc"
-  },
-  "/docs/tutorials/reco-tut-mcp-eda-c16": {
-    "component": "17896441",
-    "content": "9fc51d09"
-  },
-  "/docs/tutorials/reco-tut-mcp-launchpad-ea3": {
-    "component": "17896441",
-    "content": "112055ae"
-  },
-  "/docs/tutorials/reco-tut-ml-from-scratch-deep-learning-9c2": {
-    "component": "17896441",
-    "content": "6f188056"
-  },
-  "/docs/tutorials/reco-tut-ml-pytest-da1": {
-    "component": "17896441",
-    "content": "a3fce50b"
-  },
-  "/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent-c7b": {
-    "component": "17896441",
-    "content": "b285e8da"
-  },
-  "/docs/tutorials/reco-tut-ml-python-from-scratch-gradient-descent-student-admissions-056": {
-    "component": "17896441",
-    "content": "edc1c9c2"
-  },
-  "/docs/tutorials/reco-tut-ml-python-lists-dicts-97f": {
-    "component": "17896441",
-    "content": "a33dc984"
-  },
-  "/docs/tutorials/reco-tut-ml-python-pakaging-f21": {
-    "component": "17896441",
-    "content": "2c4ba751"
-  },
-  "/docs/tutorials/reco-tut-ml-python-robust-python-data-classes-322": {
-    "component": "17896441",
-    "content": "01f709f0"
-  },
-  "/docs/tutorials/reco-tut-ml-python-robust-python-testing-ec6": {
-    "component": "17896441",
-    "content": "73bb0e52"
-  },
-  "/docs/tutorials/reco-tut-ml-pytorch-deep-learning-basics-264": {
-    "component": "17896441",
-    "content": "7eca8575"
-  },
-  "/docs/tutorials/reco-tut-ml-pytorch-fundamentals-tensors-37e": {
-    "component": "17896441",
-    "content": "ba772da8"
-  },
-  "/docs/tutorials/reco-tut-mlh-eda-c7b": {
-    "component": "17896441",
-    "content": "781e07f7"
-  },
-  "/docs/tutorials/reco-tut-mlh-lightgcn-222": {
-    "component": "17896441",
-    "content": "d0d0895d"
-  },
-  "/docs/tutorials/reco-tut-mlh-model-comparison-d43": {
-    "component": "17896441",
-    "content": "6a2f124b"
-  },
-  "/docs/tutorials/reco-tut-mlh-ngcf-f7d": {
-    "component": "17896441",
-    "content": "516e2b3f"
-  },
-  "/docs/tutorials/reco-tut-mlh-svae-60b": {
-    "component": "17896441",
-    "content": "dcb5e592"
-  },
-  "/docs/tutorials/reco-tut-mlh-svd-41f": {
-    "component": "17896441",
-    "content": "5d548537"
-  },
-  "/docs/tutorials/reco-tut-mlh-t-als-fa7": {
-    "component": "17896441",
-    "content": "450759e0"
-  },
-  "/docs/tutorials/reco-tut-mlh-t-implicit-als-bpr-dac": {
-    "component": "17896441",
-    "content": "b87e7c78"
-  },
-  "/docs/tutorials/reco-tut-mlh-t-pyreclab-library-dc3": {
-    "component": "17896441",
-    "content": "d3435f54"
-  },
-  "/docs/tutorials/reco-tut-mlh-t-rbm-23a": {
-    "component": "17896441",
-    "content": "3aa662dc"
-  },
-  "/docs/tutorials/reco-tut-mlh-t-sae-193": {
-    "component": "17896441",
-    "content": "2aa8a563"
-  },
-  "/docs/tutorials/reco-tut-mll-data-ingestion-262": {
-    "component": "17896441",
-    "content": "a0bea9dd"
-  },
-  "/docs/tutorials/reco-tut-mll-data-wrangling-07d": {
-    "component": "17896441",
-    "content": "bf60e9ea"
-  },
-  "/docs/tutorials/reco-tut-mll-eda-5be": {
-    "component": "17896441",
-    "content": "bc814cc9"
-  },
-  "/docs/tutorials/reco-tut-mll-knn-with-bins-decay-6a7": {
-    "component": "17896441",
-    "content": "f709c3c3"
-  },
-  "/docs/tutorials/reco-tut-mll-launchpad-cef": {
-    "component": "17896441",
-    "content": "6d03ffb2"
-  },
-  "/docs/tutorials/reco-tut-mll-naive-movie-similarity-23c": {
-    "component": "17896441",
-    "content": "3a95a6c4"
-  },
-  "/docs/tutorials/reco-tut-mve-77b": {
-    "component": "17896441",
-    "content": "eca02e53"
-  },
-  "/docs/tutorials/reco-tut-nlpt-t-text-classification-28a": {
-    "component": "17896441",
-    "content": "80b15eab"
-  },
-  "/docs/tutorials/reco-tut-poc-t-dvc-ffb": {
-    "component": "17896441",
-    "content": "34e81e7e"
-  },
-  "/docs/tutorials/reco-tut-poc-t-streamlit-ebs-ff7": {
-    "component": "17896441",
-    "content": "ca4f66bd"
-  },
-  "/docs/tutorials/reco-tut-rec-olx-data-analysis-978": {
-    "component": "17896441",
-    "content": "13cf120f"
-  },
-  "/docs/tutorials/reco-tut-rrt-data-ingestion-yelp-c9e": {
-    "component": "17896441",
-    "content": "c642a2b6"
-  },
-  "/docs/tutorials/reco-tut-rrt-river-concept-drift-detection-a7d": {
-    "component": "17896441",
-    "content": "2fcc6b18"
-  },
-  "/docs/tutorials/reco-tut-rrt-river-matrix-factorization-movielens-k-388": {
-    "component": "17896441",
-    "content": "6b5d4676"
-  },
-  "/docs/tutorials/reco-tut-sjr-data-ingestion-359": {
-    "component": "17896441",
-    "content": "7a72f01d"
-  },
-  "/docs/tutorials/reco-tut-sjr-eda-and-preprocessing-9a2": {
-    "component": "17896441",
-    "content": "77aef1f0"
-  },
-  "/docs/tutorials/reco-tut-sjr-modeling-218": {
-    "component": "17896441",
-    "content": "1c990588"
-  },
-  "/docs/tutorials/reco-tut-sor-recommender-model-798": {
-    "component": "17896441",
-    "content": "b4fba2a3"
-  },
-  "/docs/tutorials/reco-tut-sor-t-baseline-4d9": {
-    "component": "17896441",
-    "content": "3f1eb960"
-  },
-  "/docs/tutorials/reco-tut-sor-t-eda-f7d": {
-    "component": "17896441",
-    "content": "99169387"
-  },
-  "/docs/tutorials/reco-tut-sor-xgboost-038": {
-    "component": "17896441",
-    "content": "e20aca11"
-  },
-  "/docs/tutorials/reco-tut-spr-eda-e76": {
-    "component": "17896441",
-    "content": "3563e0f7"
-  },
-  "/docs/tutorials/reco-tut-spr-etl-04a": {
-    "component": "17896441",
-    "content": "a4725303"
-  },
-  "/docs/tutorials/reco-tut-srr-basics-34f": {
-    "component": "17896441",
-    "content": "ddebbcb9"
-  },
-  "/docs/tutorials/reco-tut-tf-us-tf-datasets-8e7": {
-    "component": "17896441",
-    "content": "1ecd9232"
-  },
-  "/docs/tutorials/reco-tut-ttr-t-preprocessing-ea3": {
-    "component": "17896441",
-    "content": "298a5376"
-  },
-  "/docs/tutorials/reco-tut-vrr-data-ingestion-509": {
-    "component": "17896441",
-    "content": "6815686d"
-  },
-  "/docs/tutorials/reco-tut-vrr-predictions-818": {
-    "component": "17896441",
-    "content": "28fc25ca"
-  },
-  "/docs/tutorials/reco-tut-vrr-recommendations-f7f": {
-    "component": "17896441",
-    "content": "8a2e7222"
-  },
-  "/docs/tutorials/reco-tut-vrs-visrec-wikimedia-similar-image-recommender-06f": {
-    "component": "17896441",
-    "content": "17a9d8cd"
-  },
-  "/docs/tutorials/reco-tut-ypr-606": {
-    "component": "17896441",
-    "content": "b3a67c59"
-  },
-  "/docs/tutorials/reco-tut-ysr-data-ingestion-829": {
-    "component": "17896441",
-    "content": "7863603e"
-  },
-  "/docs/tutorials/reco-tut-ysr-modeling-154": {
-    "component": "17896441",
-    "content": "c0c92b88"
-  },
-  "/docs/tutorials/reco-tut-ysr-preprocessing-8b7": {
-    "component": "17896441",
-    "content": "10d43dc7"
-  },
-  "/docs/tutorials/reco-tut-ysr-recommendations-abb": {
-    "component": "17896441",
-    "content": "74bd1f6b"
-  },
-  "/docs/tutorials/reco-tut-yvr-collaborative-automl-turicreate-e85": {
-    "component": "17896441",
-    "content": "d6fb848d"
-  },
-  "/docs/tutorials/reco-tutorial-external-bookcrossing-753": {
-    "component": "17896441",
-    "content": "954c4995"
-  },
-  "/docs/tutorials/reco-tutorials-dev-amazon-music-50c": {
-    "component": "17896441",
-    "content": "42f2e6d6"
-  },
-  "/docs/tutorials/reco-tutorials-dev-deskdrop-cf8": {
-    "component": "17896441",
-    "content": "93420688"
-  },
-  "/docs/tutorials/reco-tutorials-dev-how-to-create-large-scale-retrieval-system-using-elasticsearch-8a4": {
-    "component": "17896441",
-    "content": "6bb424b5"
-  },
-  "/docs/tutorials/reco-tutorials-dev-template-6d7": {
-    "component": "17896441",
-    "content": "0d7df63d"
-  },
-  "/docs/tutorials/reco-tutorials-dev-template-old-eae": {
-    "component": "17896441",
-    "content": "115afe7e"
-  },
-  "/docs/tutorials/reco-tutorials-prod-neural-matrix-factorization-from-scratch-in-pytorch-bd3": {
-    "component": "17896441",
-    "content": "6320b46a"
-  },
-  "/docs/tutorials/recobase-d1c": {
-    "component": "17896441",
-    "content": "337ad4d0"
-  },
-  "/docs/tutorials/recobase-us-neural-graph-matching-8cc": {
-    "component": "17896441",
-    "content": "fba8ec3f"
-  },
-  "/docs/tutorials/recobase-us-runner-b28": {
-    "component": "17896441",
-    "content": "3cc024ec"
-  },
-  "/docs/tutorials/recobase-us-trivago-prototype-b26": {
-    "component": "17896441",
-    "content": "3f3c234c"
-  },
-  "/docs/tutorials/recobook-dive-aware-book-recommender-36f": {
-    "component": "17896441",
-    "content": "224403fa"
-  },
-  "/docs/tutorials/recobook-goodreads-book-recommender-b80": {
-    "component": "17896441",
-    "content": "b880cb16"
-  },
-  "/docs/tutorials/recobook-us-v-d26": {
-    "component": "17896441",
-    "content": "3fd5a98f"
-  },
-  "/docs/tutorials/recograph-decathlon-embedding-8b3": {
-    "component": "17896441",
-    "content": "2848d13b"
-  },
-  "/docs/tutorials/recograph-movielens-network-visualization-612": {
-    "component": "17896441",
-    "content": "6d9c4628"
-  },
-  "/docs/tutorials/recograph-ngcf-gowalla-54e": {
-    "component": "17896441",
-    "content": "6bfe2ef1"
-  },
-  "/docs/tutorials/recograph-node-vec-movielens-k-61f": {
-    "component": "17896441",
-    "content": "10f072f4"
-  },
-  "/docs/tutorials/recograph-pinsage-graph-movielens-m-870": {
-    "component": "17896441",
-    "content": "82eb1d9c"
-  },
-  "/docs/tutorials/recograph-pinsage-nowplaying-rs-fa5": {
-    "component": "17896441",
-    "content": "f8eab69f"
-  },
-  "/docs/tutorials/recograph-word-vec-amazon-electronics-937": {
-    "component": "17896441",
-    "content": "bba57eb6"
-  },
-  "/docs/tutorials/recohut-tutorial-implicit-library-exploration-50d": {
-    "component": "17896441",
-    "content": "f9346e7f"
-  },
-  "/docs/tutorials/recohut-tutorial-stage-movielens-deep-learning-recommender-keras-208": {
-    "component": "17896441",
-    "content": "5658873c"
-  },
-  "/docs/tutorials/recommend-vendors-to-local-agencies-ipynb-4b3": {
-    "component": "17896441",
-    "content": "5c1a7893"
-  },
-  "/docs/tutorials/recommendation-node-vec-353": {
-    "component": "17896441",
-    "content": "bca28c5c"
-  },
-  "/docs/tutorials/recommender-implicit-negative-feedback-74a": {
-    "component": "17896441",
-    "content": "5d12a81a"
-  },
-  "/docs/tutorials/recommender-playground-packt-702": {
-    "component": "17896441",
-    "content": "a3681185"
-  },
-  "/docs/tutorials/recommender-sagemaker-820": {
-    "component": "17896441",
-    "content": "08c0f9bd"
-  },
-  "/docs/tutorials/recostep-ecommerce-recommender-olist-db7": {
-    "component": "17896441",
-    "content": "e9f73a9b"
-  },
-  "/docs/tutorials/recostep-kafka-consumer-mongodb-03b": {
-    "component": "17896441",
-    "content": "8b2275a1"
-  },
-  "/docs/tutorials/recostep-kafka-producer-d93": {
-    "component": "17896441",
-    "content": "2eeffa71"
-  },
-  "/docs/tutorials/recostep-mongodb-listener-e2a": {
-    "component": "17896441",
-    "content": "30b87034"
-  },
-  "/docs/tutorials/recostep-movielens-neural-mf-b50": {
-    "component": "17896441",
-    "content": "cf7333ab"
-  },
-  "/docs/tutorials/recostep-session-based-recommender-using-word-vec-3f9": {
-    "component": "17896441",
-    "content": "66f6f7ca"
-  },
-  "/docs/tutorials/recostep-tutorial-multi-armed-bandit-product-recommender-261": {
-    "component": "17896441",
-    "content": "d17ec51d"
-  },
-  "/docs/tutorials/recostep-tutorial-notebook-movielens-exploration-a5b": {
-    "component": "17896441",
-    "content": "ab5cd459"
-  },
-  "/docs/tutorials/recostep-tutorial-offline-replayer-eval-amazon-electronics-71a": {
-    "component": "17896441",
-    "content": "ceecf665"
-  },
-  "/docs/tutorials/recostep-tutorial-offline-replayer-eval-movielens-c35": {
-    "component": "17896441",
-    "content": "b2b1f543"
-  },
-  "/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym-4ac": {
-    "component": "17896441",
-    "content": "97429f82"
-  },
-  "/docs/tutorials/recostep-tutorial-offline-replayer-eval-recogym-small-208": {
-    "component": "17896441",
-    "content": "d9ca0a2f"
-  },
-  "/docs/tutorials/recostep-tutorial-paddlerec-576": {
-    "component": "17896441",
-    "content": "e93a1cbf"
-  },
-  "/docs/tutorials/recsim-886": {
-    "component": "17896441",
-    "content": "9eb3596b"
-  },
-  "/docs/tutorials/recsys-evaluation-metrics-303": {
-    "component": "17896441",
-    "content": "b96b275c"
-  },
-  "/docs/tutorials/recsys-evaluation-metrics-part-f61": {
-    "component": "17896441",
-    "content": "9a43aa3d"
-  },
-  "/docs/tutorials/recsys-gym-simulation-f30": {
-    "component": "17896441",
-    "content": "02e81472"
-  },
-  "/docs/tutorials/recsys-retail-3f9": {
-    "component": "17896441",
-    "content": "ba8efedf"
-  },
-  "/docs/tutorials/recsys-tutorial-feature-engineering-part-c38": {
-    "component": "17896441",
-    "content": "055ff36d"
-  },
-  "/docs/tutorials/reinforce-bf3": {
-    "component": "17896441",
-    "content": "2e778d0e"
-  },
-  "/docs/tutorials/replay-library-experiments-on-ml-m-part-9e3": {
-    "component": "17896441",
-    "content": "9aec96e9"
-  },
-  "/docs/tutorials/resale-prediction-499": {
-    "component": "17896441",
-    "content": "2a9c07e1"
-  },
-  "/docs/tutorials/resistant-gene-recommender-b11": {
-    "component": "17896441",
-    "content": "d3ca8897"
-  },
-  "/docs/tutorials/resnet-153": {
-    "component": "17896441",
-    "content": "9eab92ea"
-  },
-  "/docs/tutorials/retail-093": {
-    "component": "17896441",
-    "content": "8266bb64"
-  },
-  "/docs/tutorials/retail-products-knn-47b": {
-    "component": "17896441",
-    "content": "4596112c"
-  },
-  "/docs/tutorials/retailrocket-1e1": {
-    "component": "17896441",
-    "content": "b69f8537"
-  },
-  "/docs/tutorials/retrieval-preferredai-e8d": {
-    "component": "17896441",
-    "content": "f3849d8c"
-  },
-  "/docs/tutorials/revisiting-the-performance-of-ials-on-item-recommendation-benchmarks-7a8": {
-    "component": "17896441",
-    "content": "47d5a2bd"
-  },
-  "/docs/tutorials/rl-basics-952": {
-    "component": "17896441",
-    "content": "d09c7091"
-  },
-  "/docs/tutorials/rl-in-action-d7c": {
-    "component": "17896441",
-    "content": "57352e56"
-  },
-  "/docs/tutorials/rl-sac-9fc": {
-    "component": "17896441",
-    "content": "6fe162cb"
-  },
-  "/docs/tutorials/rl-social-121": {
-    "component": "17896441",
-    "content": "6ab8b50b"
-  },
-  "/docs/tutorials/rl-tictactoe-6b7": {
-    "component": "17896441",
-    "content": "09ce351d"
-  },
-  "/docs/tutorials/rnn-cnn-basics-b81": {
-    "component": "17896441",
-    "content": "32af082d"
-  },
-  "/docs/tutorials/sageconv-15b": {
-    "component": "17896441",
-    "content": "9edad411"
-  },
-  "/docs/tutorials/sarcasm-tf-896": {
-    "component": "17896441",
-    "content": "5b6b2aa3"
-  },
-  "/docs/tutorials/sasrec-in-pytorch-d45": {
-    "component": "17896441",
-    "content": "0158c0be"
-  },
-  "/docs/tutorials/sasrec-on-ml-m-in-tf-x-3df": {
-    "component": "17896441",
-    "content": "2150355e"
-  },
-  "/docs/tutorials/sasrec-paddlepaddle-738": {
-    "component": "17896441",
-    "content": "8f18aa80"
-  },
-  "/docs/tutorials/scene-text-recognition-49b": {
-    "component": "17896441",
-    "content": "7a20144c"
-  },
-  "/docs/tutorials/scikit-multiflow-374": {
-    "component": "17896441",
-    "content": "5e1f4c27"
-  },
-  "/docs/tutorials/sdlib-7f3": {
-    "component": "17896441",
-    "content": "503016a0"
-  },
-  "/docs/tutorials/sentence-classification-d96": {
-    "component": "17896441",
-    "content": "68a9cfb2"
-  },
-  "/docs/tutorials/sentiment-lstm-391": {
-    "component": "17896441",
-    "content": "e2260d55"
-  },
-  "/docs/tutorials/seq-mab-mushroom-004": {
-    "component": "17896441",
-    "content": "651101ad"
-  },
-  "/docs/tutorials/seq-seq-mapping-290": {
-    "component": "17896441",
-    "content": "2a6a53a2"
-  },
-  "/docs/tutorials/sequence-aware-recommenders-music-b3b": {
-    "component": "17896441",
-    "content": "7f0da082"
-  },
-  "/docs/tutorials/sequential-recommendation-using-ptgcn-fc3": {
-    "component": "17896441",
-    "content": "54f4d168"
-  },
-  "/docs/tutorials/serverless-ml-7b0": {
-    "component": "17896441",
-    "content": "55a1d401"
-  },
-  "/docs/tutorials/serving-cusine-recommender-at-edge-onnx-5dd": {
-    "component": "17896441",
-    "content": "70238503"
-  },
-  "/docs/tutorials/sess-retailrocket-27a": {
-    "component": "17896441",
-    "content": "ede711eb"
-  },
-  "/docs/tutorials/sess-sample-52d": {
-    "component": "17896441",
-    "content": "868a5ff8"
-  },
-  "/docs/tutorials/sess-word-vec-408": {
-    "component": "17896441",
-    "content": "68451a0a"
-  },
-  "/docs/tutorials/session-based-prod-vec-coveo-64d": {
-    "component": "17896441",
-    "content": "2efff995"
-  },
-  "/docs/tutorials/session-based-recommendation-with-graph-neural-net-685": {
-    "component": "17896441",
-    "content": "92f27ecc"
-  },
-  "/docs/tutorials/session-based-recommender-travel-a56": {
-    "component": "17896441",
-    "content": "e5340f7a"
-  },
-  "/docs/tutorials/session-based-word-vec-a56": {
-    "component": "17896441",
-    "content": "001fa038"
-  },
-  "/docs/tutorials/session-retail-trendyol-9f8": {
-    "component": "17896441",
-    "content": "0e422bec"
-  },
-  "/docs/tutorials/sgl-c69": {
-    "component": "17896441",
-    "content": "296f8656"
-  },
-  "/docs/tutorials/sgl-reg-c50": {
-    "component": "17896441",
-    "content": "6ab52604"
-  },
-  "/docs/tutorials/sgl-shallow-embedding-558": {
-    "component": "17896441",
-    "content": "85b1d2e7"
-  },
-  "/docs/tutorials/shallow-embedding-methods-407": {
-    "component": "17896441",
-    "content": "b33a6979"
-  },
-  "/docs/tutorials/shared-bottom-in-tensorflow-a45": {
-    "component": "17896441",
-    "content": "c707c795"
-  },
-  "/docs/tutorials/sign-aware-recommendation-using-graph-neural-networks-on-amazon-books-dataset-in-pytorch-38a": {
-    "component": "17896441",
-    "content": "976f99d0"
-  },
-  "/docs/tutorials/similar-product-recommender-63e": {
-    "component": "17896441",
-    "content": "7eaf8c5c"
-  },
-  "/docs/tutorials/simple-analysis-e5e": {
-    "component": "17896441",
-    "content": "65a815b2"
-  },
-  "/docs/tutorials/simple-docker-flask-app-eba": {
-    "component": "17896441",
-    "content": "77cd9d9d"
-  },
-  "/docs/tutorials/simple-models-a6a": {
-    "component": "17896441",
-    "content": "19be3bc4"
-  },
-  "/docs/tutorials/simple-movie-recommender-fda": {
-    "component": "17896441",
-    "content": "aa2d1a83"
-  },
-  "/docs/tutorials/simple-movie-recommender-app-streamlit-1a0": {
-    "component": "17896441",
-    "content": "bc949873"
-  },
-  "/docs/tutorials/simple-recsys-b4d": {
-    "component": "17896441",
-    "content": "ed32609a"
-  },
-  "/docs/tutorials/simple-scraping-nlp-bs-distilbert-0f2": {
-    "component": "17896441",
-    "content": "602a1333"
-  },
-  "/docs/tutorials/simple-similarity-based-recommenders-0e9": {
-    "component": "17896441",
-    "content": "1d32cd13"
-  },
-  "/docs/tutorials/simplex-amazon-f79": {
-    "component": "17896441",
-    "content": "7b2844be"
-  },
-  "/docs/tutorials/simplex-mf-c0a": {
-    "component": "17896441",
-    "content": "2b21fd6d"
-  },
-  "/docs/tutorials/simulating-data-poisoning-attacks-against-twitter-recommender-4ce": {
-    "component": "17896441",
-    "content": "74dbfd45"
-  },
-  "/docs/tutorials/siren-494": {
-    "component": "17896441",
-    "content": "d5970d2d"
-  },
-  "/docs/tutorials/siren-on-ml-m-in-pytorch-84f": {
-    "component": "17896441",
-    "content": "525fa229"
-  },
-  "/docs/tutorials/siren-yelp-85a": {
-    "component": "17896441",
-    "content": "c694d656"
-  },
-  "/docs/tutorials/site-rank-ea8": {
-    "component": "17896441",
-    "content": "3b22aa78"
-  },
-  "/docs/tutorials/slist-yoochoose-327": {
-    "component": "17896441",
-    "content": "aeba99c7"
-  },
-  "/docs/tutorials/sms-spam-detection-using-fm-model-865": {
-    "component": "17896441",
-    "content": "230c396d"
-  },
-  "/docs/tutorials/sng-egonet-eda-b7d": {
-    "component": "17896441",
-    "content": "96dda0ff"
-  },
-  "/docs/tutorials/sng-egonet-link-952": {
-    "component": "17896441",
-    "content": "4c47f261"
-  },
-  "/docs/tutorials/snp-b45": {
-    "component": "17896441",
-    "content": "6d8c62fa"
-  },
-  "/docs/tutorials/social-91b": {
-    "component": "17896441",
-    "content": "ff102b6f"
-  },
-  "/docs/tutorials/solving-moo-with-smt-toolkit-970": {
-    "component": "17896441",
-    "content": "bd9e8748"
-  },
-  "/docs/tutorials/sonar-ba7": {
-    "component": "17896441",
-    "content": "d933af61"
-  },
-  "/docs/tutorials/song-recommender-knn-svd-millionsongs-7b3": {
-    "component": "17896441",
-    "content": "e37a50a3"
-  },
-  "/docs/tutorials/song-recommender-skipgram-word-vec-abb": {
-    "component": "17896441",
-    "content": "8a69afc1"
-  },
-  "/docs/tutorials/songrec-b1d": {
-    "component": "17896441",
-    "content": "ebf50bda"
-  },
-  "/docs/tutorials/songs-embedding-skipgram-recommender-8cc": {
-    "component": "17896441",
-    "content": "5a8ceaa5"
-  },
-  "/docs/tutorials/sorec-on-sample-data-in-pytorch-2fc": {
-    "component": "17896441",
-    "content": "9960c674"
-  },
-  "/docs/tutorials/spark-de-d20": {
-    "component": "17896441",
-    "content": "742ec8dc"
-  },
-  "/docs/tutorials/spark-ml-basics-b74": {
-    "component": "17896441",
-    "content": "1f37beee"
-  },
-  "/docs/tutorials/spark-movie-recommender-32e": {
-    "component": "17896441",
-    "content": "82843d3c"
-  },
-  "/docs/tutorials/spark-on-colab-834": {
-    "component": "17896441",
-    "content": "9db5d692"
-  },
-  "/docs/tutorials/sparsely-gated-mixture-of-experts-bef": {
-    "component": "17896441",
-    "content": "1548488a"
-  },
-  "/docs/tutorials/sphinx-8ee": {
-    "component": "17896441",
-    "content": "68cc692a"
-  },
-  "/docs/tutorials/spotify-knn-f0a": {
-    "component": "17896441",
-    "content": "095fb75f"
-  },
-  "/docs/tutorials/spotify-music-recommender-7b4": {
-    "component": "17896441",
-    "content": "9bbf36fa"
-  },
-  "/docs/tutorials/sr-gnn-session-based-recommendation-on-sample-dataset-8d7": {
-    "component": "17896441",
-    "content": "4cc63a03"
-  },
-  "/docs/tutorials/sr-san-on-yoochoose-and-diginetica-in-pytorch-26a": {
-    "component": "17896441",
-    "content": "b948091f"
-  },
-  "/docs/tutorials/sse-pt-on-ml-m-in-tensorflow-x-bb1": {
-    "component": "17896441",
-    "content": "421dffeb"
-  },
-  "/docs/tutorials/stamp-diginetica-d2a": {
-    "component": "17896441",
-    "content": "b29eac39"
-  },
-  "/docs/tutorials/stat-visuals-1a9": {
-    "component": "17896441",
-    "content": "f5e78a88"
-  },
-  "/docs/tutorials/statistical-analysis-847": {
-    "component": "17896441",
-    "content": "ab84e025"
-  },
-  "/docs/tutorials/statistics-ffc": {
-    "component": "17896441",
-    "content": "aff05858"
-  },
-  "/docs/tutorials/statistics-fundamentals-348": {
-    "component": "17896441",
-    "content": "819cd4ea"
-  },
-  "/docs/tutorials/steam-game-recommender-lightfm-warp-c24": {
-    "component": "17896441",
-    "content": "7b545607"
-  },
-  "/docs/tutorials/stein-c0b": {
-    "component": "17896441",
-    "content": "3b474217"
-  },
-  "/docs/tutorials/step-by-step-ab-testing-guide-475": {
-    "component": "17896441",
-    "content": "318eb6fc"
-  },
-  "/docs/tutorials/stock-agent-677": {
-    "component": "17896441",
-    "content": "48a61ee6"
-  },
-  "/docs/tutorials/storing-ml-features-using-feast-7ef": {
-    "component": "17896441",
-    "content": "955dd359"
-  },
-  "/docs/tutorials/stosa-2ea": {
-    "component": "17896441",
-    "content": "e1015dc4"
-  },
-  "/docs/tutorials/struc-vec-on-airports-graph-aef": {
-    "component": "17896441",
-    "content": "312feefc"
-  },
-  "/docs/tutorials/svdpp-movie-495": {
-    "component": "17896441",
-    "content": "3f1eb31c"
-  },
-  "/docs/tutorials/t-0d1": {
-    "component": "17896441",
-    "content": "f2169c6a"
-  },
-  "/docs/tutorials/tag-reuters-297": {
-    "component": "17896441",
-    "content": "c0f245d8"
-  },
-  "/docs/tutorials/tagnn-2fa": {
-    "component": "17896441",
-    "content": "33b4bced"
-  },
-  "/docs/tutorials/tagnn-session-based-recommendations-on-yoochoose-dataset-1ce": {
-    "component": "17896441",
-    "content": "776abba0"
-  },
-  "/docs/tutorials/tagnnpp-56f": {
-    "component": "17896441",
-    "content": "04da54db"
-  },
-  "/docs/tutorials/tanp-cold-start-recommender-on-lastfm-dataset-ba9": {
-    "component": "17896441",
-    "content": "653534f7"
-  },
-  "/docs/tutorials/taxi-qlearning-fc4": {
-    "component": "17896441",
-    "content": "bc83eaf8"
-  },
-  "/docs/tutorials/tdd-40f": {
-    "component": "17896441",
-    "content": "6143d3c1"
-  },
-  "/docs/tutorials/teacher-recommender-c1e": {
-    "component": "17896441",
-    "content": "2de65644"
-  },
-  "/docs/tutorials/tensorflow-2-reinforcement-learning-cookbook-9cc": {
-    "component": "17896441",
-    "content": "209fb5d8"
-  },
-  "/docs/tutorials/tensorflow-speaker-verification-b0f": {
-    "component": "17896441",
-    "content": "ba1f0c6f"
-  },
-  "/docs/tutorials/tesseract-ca7": {
-    "component": "17896441",
-    "content": "d1b0c102"
-  },
-  "/docs/tutorials/test-ea0": {
-    "component": "17896441",
-    "content": "84713b44"
-  },
-  "/docs/tutorials/text-summarisation-95b": {
-    "component": "17896441",
-    "content": "fe2c46fd"
-  },
-  "/docs/tutorials/text-summarization-bart-dashplotly-1f6": {
-    "component": "17896441",
-    "content": "e7a38a22"
-  },
-  "/docs/tutorials/textsum-playground-enronemail-714": {
-    "component": "17896441",
-    "content": "f76145e3"
-  },
-  "/docs/tutorials/tf-serving-in-action-64a": {
-    "component": "17896441",
-    "content": "63a8489b"
-  },
-  "/docs/tutorials/tfjs-e83": {
-    "component": "17896441",
-    "content": "f89a5624"
-  },
-  "/docs/tutorials/tflite-fca": {
-    "component": "17896441",
-    "content": "cf9c13ca"
-  },
-  "/docs/tutorials/tflite-exercise-e28": {
-    "component": "17896441",
-    "content": "d5cae6d8"
-  },
-  "/docs/tutorials/tflite-solution-3c1": {
-    "component": "17896441",
-    "content": "95775da7"
-  },
-  "/docs/tutorials/tfrs-electronics-e1a": {
-    "component": "17896441",
-    "content": "286908a1"
-  },
-  "/docs/tutorials/tfrs-fi-deepcross-99b": {
-    "component": "17896441",
-    "content": "6b716451"
-  },
-  "/docs/tutorials/tfrs-ml-m-7b2": {
-    "component": "17896441",
-    "content": "5cde05c5"
-  },
-  "/docs/tutorials/tfrs-olist-32f": {
-    "component": "17896441",
-    "content": "0a0f98fa"
-  },
-  "/docs/tutorials/tfrs-recommenders-olist-b4c": {
-    "component": "17896441",
-    "content": "486acf2c"
-  },
-  "/docs/tutorials/the-incredible-pytorch-64a": {
-    "component": "17896441",
-    "content": "8e52c103"
-  },
-  "/docs/tutorials/therapist-recommender-cancelled-c2c": {
-    "component": "17896441",
-    "content": "7349e7a0"
-  },
-  "/docs/tutorials/thompson-sampling-simulation-769": {
-    "component": "17896441",
-    "content": "57455dcc"
-  },
-  "/docs/tutorials/timeseries-playground-gluon-b29": {
-    "component": "17896441",
-    "content": "520f6f89"
-  },
-  "/docs/tutorials/timeseries-playground-weather-wip-706": {
-    "component": "17896441",
-    "content": "2f93ee60"
-  },
-  "/docs/tutorials/toolkit-tensorflow-recommenders-600": {
-    "component": "17896441",
-    "content": "14e4eb96"
-  },
-  "/docs/tutorials/topicmodel-8f3": {
-    "component": "17896441",
-    "content": "26cffb79"
-  },
-  "/docs/tutorials/topk-reinforce-4a5": {
-    "component": "17896441",
-    "content": "b29c231e"
-  },
-  "/docs/tutorials/torch-8bb": {
-    "component": "17896441",
-    "content": "dc67c31d"
-  },
-  "/docs/tutorials/torchvisiondeeplabv-80d": {
-    "component": "17896441",
-    "content": "3eda5fb7"
-  },
-  "/docs/tutorials/toy-example-car-recommender-knn-cc2": {
-    "component": "17896441",
-    "content": "0cd8958b"
-  },
-  "/docs/tutorials/trading-a68": {
-    "component": "17896441",
-    "content": "195ee2a6"
-  },
-  "/docs/tutorials/traffic-cv-b98": {
-    "component": "17896441",
-    "content": "512bc3eb"
-  },
-  "/docs/tutorials/training-an-rl-agent-for-trading-cryptocurrencies-using-sac-method-f77": {
-    "component": "17896441",
-    "content": "3c2d10f0"
-  },
-  "/docs/tutorials/training-an-rl-agent-for-trading-stocks-using-sac-method-21d": {
-    "component": "17896441",
-    "content": "0712676b"
-  },
-  "/docs/tutorials/training-dcn-model-on-taobao-ctr-dataset-861": {
-    "component": "17896441",
-    "content": "60270d9d"
-  },
-  "/docs/tutorials/training-indexing-movie-recommender-170": {
-    "component": "17896441",
-    "content": "bb11ae5d"
-  },
-  "/docs/tutorials/training-prod-vec-model-on-coveo-dataset-in-keras-5b3": {
-    "component": "17896441",
-    "content": "990e5680"
-  },
-  "/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dqn-method-882": {
-    "component": "17896441",
-    "content": "8f5ba428"
-  },
-  "/docs/tutorials/training-rl-agent-in-cartpole-environment-with-dueling-dqn-method-bc2": {
-    "component": "17896441",
-    "content": "c6be6f59"
-  },
-  "/docs/tutorials/training-rl-agent-in-gridworld-environment-with-mlp-model-in-tensorflow-187": {
-    "component": "17896441",
-    "content": "b6b85752"
-  },
-  "/docs/tutorials/training-rl-agent-in-gridworld-with-q-learning-method-5c8": {
-    "component": "17896441",
-    "content": "5b0b4c27"
-  },
-  "/docs/tutorials/training-rl-agent-in-gridworld-with-sarsa-method-a1b": {
-    "component": "17896441",
-    "content": "57502cbf"
-  },
-  "/docs/tutorials/training-rl-agent-in-maze-gridworld-with-value-iteration-method-f75": {
-    "component": "17896441",
-    "content": "58a6dfa7"
-  },
-  "/docs/tutorials/training-rl-agent-in-mountain-car-environment-with-policy-gradient-method-401": {
-    "component": "17896441",
-    "content": "4658456e"
-  },
-  "/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ddpg-method-dcc": {
-    "component": "17896441",
-    "content": "14c77afb"
-  },
-  "/docs/tutorials/training-rl-agent-in-pendulum-environment-with-ppo-continuous-method-8ba": {
-    "component": "17896441",
-    "content": "da8d390e"
-  },
-  "/docs/tutorials/training-tokenizers-250": {
-    "component": "17896441",
-    "content": "8227b01d"
-  },
-  "/docs/tutorials/training-various-matrix-factorization-models-on-ml-k-in-pytorch-lightning-framework-def": {
-    "component": "17896441",
-    "content": "45932d7b"
-  },
-  "/docs/tutorials/transformer-from-scratch-in-pytorch-1b9": {
-    "component": "17896441",
-    "content": "6b18ef1c"
-  },
-  "/docs/tutorials/transformer-rec-xlnet-931": {
-    "component": "17896441",
-    "content": "97512786"
-  },
-  "/docs/tutorials/transformers-fae": {
-    "component": "17896441",
-    "content": "48458380"
-  },
-  "/docs/tutorials/transformers-rec-session-based-recommender-on-rees-590": {
-    "component": "17896441",
-    "content": "6e7ccab9"
-  },
-  "/docs/tutorials/transformers-rec-session-based-recommender-on-yoochoose-0ff": {
-    "component": "17896441",
-    "content": "b9c0f192"
-  },
-  "/docs/tutorials/transforming-interactions-to-sequences-706": {
-    "component": "17896441",
-    "content": "57fda0f5"
-  },
-  "/docs/tutorials/travel-optim-1f8": {
-    "component": "17896441",
-    "content": "3bfa17c2"
-  },
-  "/docs/tutorials/trend-news-294": {
-    "component": "17896441",
-    "content": "0dc1c016"
-  },
-  "/docs/tutorials/trivago-popular-destination-recommender-665": {
-    "component": "17896441",
-    "content": "375346ab"
-  },
-  "/docs/tutorials/tts-cc5": {
-    "component": "17896441",
-    "content": "466e708c"
-  },
-  "/docs/tutorials/tutorial-on-behavioral-evaluation-of-recommender-systems-13e": {
-    "component": "17896441",
-    "content": "191759b2"
-  },
-  "/docs/tutorials/tv-recommender-sweettv-93d": {
-    "component": "17896441",
-    "content": "a7370b34"
-  },
-  "/docs/tutorials/twitter-pulse-checker-e1d": {
-    "component": "17896441",
-    "content": "f61943e0"
-  },
-  "/docs/tutorials/twitter-sentiment-analysis-with-bert-bbe": {
-    "component": "17896441",
-    "content": "bd043e2f"
-  },
-  "/docs/tutorials/two-stage-3c4": {
-    "component": "17896441",
-    "content": "57b33e4d"
-  },
-  "/docs/tutorials/twostage-retail-081": {
-    "component": "17896441",
-    "content": "669e26e4"
-  },
-  "/docs/tutorials/txtsum-play-amazon-play-386": {
-    "component": "17896441",
-    "content": "611c3731"
-  },
-  "/docs/tutorials/udacity-abtest-abb": {
-    "component": "17896441",
-    "content": "67b4e19f"
-  },
-  "/docs/tutorials/udacity-abtest-python-785": {
-    "component": "17896441",
-    "content": "ae15ac6b"
-  },
-  "/docs/tutorials/udemy-course-recommender-6cf": {
-    "component": "17896441",
-    "content": "36e9230a"
-  },
-  "/docs/tutorials/uge-neural-b03": {
-    "component": "17896441",
-    "content": "06d02b2c"
-  },
-  "/docs/tutorials/uge-shallow-ae6": {
-    "component": "17896441",
-    "content": "90a29a2e"
-  },
-  "/docs/tutorials/ultragcn-on-ml-k-8ef": {
-    "component": "17896441",
-    "content": "a547920b"
-  },
-  "/docs/tutorials/under-sampling-8a7": {
-    "component": "17896441",
-    "content": "0ac4836b"
-  },
-  "/docs/tutorials/unit-test-jaccard-recommender-08f": {
-    "component": "17896441",
-    "content": "8cb5921e"
-  },
-  "/docs/tutorials/value-aware-recommendation-based-on-reinforcement-profit-maximization-4ee": {
-    "component": "17896441",
-    "content": "8acbc093"
-  },
-  "/docs/tutorials/various-models-on-ml-m-in-tensorflow-075": {
-    "component": "17896441",
-    "content": "866038d2"
-  },
-  "/docs/tutorials/vector-search-772": {
-    "component": "17896441",
-    "content": "2041340f"
-  },
-  "/docs/tutorials/vehicle-detection-ce5": {
-    "component": "17896441",
-    "content": "5cc1132b"
-  },
-  "/docs/tutorials/video-action-169": {
-    "component": "17896441",
-    "content": "9ba3ccca"
-  },
-  "/docs/tutorials/visualizing-embeddings-tsne-ddf": {
-    "component": "17896441",
-    "content": "dc4bf132"
-  },
-  "/docs/tutorials/visualizing-the-non-linearity-of-neural-networks-using-tensorflow-37b": {
-    "component": "17896441",
-    "content": "f2d200cc"
-  },
-  "/docs/tutorials/vowpal-wabbit-contextual-recommender-315": {
-    "component": "17896441",
-    "content": "f701f6d0"
-  },
-  "/docs/tutorials/vowpalwabbit-changing-context-c21": {
-    "component": "17896441",
-    "content": "5629dd9e"
-  },
-  "/docs/tutorials/vowpalwabbit-changing-context-part-ea2": {
-    "component": "17896441",
-    "content": "ed44b45e"
-  },
-  "/docs/tutorials/vw-f7a": {
-    "component": "17896441",
-    "content": "0c5f2c5a"
-  },
-  "/docs/tutorials/vw-contextual-default-9bc": {
-    "component": "17896441",
-    "content": "76cc8b25"
-  },
-  "/docs/tutorials/vw-contextual-mod-f0f": {
-    "component": "17896441",
-    "content": "bfe2a9c5"
-  },
-  "/docs/tutorials/warm-start-model-retraining-750": {
-    "component": "17896441",
-    "content": "8938edda"
-  },
-  "/docs/tutorials/web-scraping-tutorial-f8c": {
-    "component": "17896441",
-    "content": "7520033d"
-  },
-  "/docs/tutorials/wellness-tracker-bot-b0b": {
-    "component": "17896441",
-    "content": "b14273e5"
-  },
-  "/docs/tutorials/wide-and-deep-criteo-851": {
-    "component": "17896441",
-    "content": "b03f803e"
-  },
-  "/docs/tutorials/wide-deep-on-criteo-ad-dataset-in-tf-x-068": {
-    "component": "17896441",
-    "content": "7da583af"
-  },
-  "/docs/tutorials/wikidatarecs-7a9": {
-    "component": "17896441",
-    "content": "99c4ac9a"
-  },
-  "/docs/tutorials/wikipedia-recsys-c1f": {
-    "component": "17896441",
-    "content": "b0c69263"
-  },
-  "/docs/tutorials/wikirecs-data-ingestion-23a": {
-    "component": "17896441",
-    "content": "cc2b224e"
-  },
-  "/docs/tutorials/wikirecs-data-storage-393": {
-    "component": "17896441",
-    "content": "e235e62b"
-  },
-  "/docs/tutorials/wikirecs-data-transformation-272": {
-    "component": "17896441",
-    "content": "0c7eaf3b"
-  },
-  "/docs/tutorials/wikirecs-model-training-evaluation-bc1": {
-    "component": "17896441",
-    "content": "31587385"
-  },
-  "/docs/tutorials/wikirecs-modeling-9ba": {
-    "component": "17896441",
-    "content": "d4d95205"
-  },
-  "/docs/tutorials/wikirecs-modeling-original-3b6": {
-    "component": "17896441",
-    "content": "830bc06f"
-  },
-  "/docs/tutorials/wikirecs-worker-193": {
-    "component": "17896441",
-    "content": "acb468d6"
-  },
-  "/docs/tutorials/wip-v-data-ss-bd6": {
-    "component": "17896441",
-    "content": "e46ee5e3"
-  },
-  "/docs/tutorials/word-vec-8f4": {
-    "component": "17896441",
-    "content": "6cf6d7b9"
-  },
-  "/docs/tutorials/word-vec-recsys-on-ml-m-d6c": {
-    "component": "17896441",
-    "content": "48d83bb4"
-  },
-  "/docs/tutorials/xdeepfm-on-criteo-ad-dataset-in-tf-x-9d2": {
-    "component": "17896441",
-    "content": "895f49f8"
-  },
-  "/docs/tutorials/yahoo-finance-scraping-43a": {
-    "component": "17896441",
-    "content": "b58454fc"
-  },
-  "/docs/tutorials/yet-another-movie-recommender-pytorch-700": {
-    "component": "17896441",
-    "content": "6629e63d"
-  },
-  "/docs/tutorials/yolo-846": {
-    "component": "17896441",
-    "content": "ccaf4464"
-  },
-  "/docs/tutorials/yolo-pretrained-947": {
-    "component": "17896441",
-    "content": "09506da0"
-  },
-  "/docs/tutorials/yolov-pytorch-608": {
-    "component": "17896441",
-    "content": "7f4a619c"
-  },
-  "/docs/tutorials/yoochoose-session-graph-4ca": {
-    "component": "17896441",
-    "content": "9bcaa929"
-  },
-  "/docs/tutorials/youtube-personalized-recommender-api-7b2": {
-    "component": "17896441",
-    "content": "217961a9"
-  },
-  "/docs/tutorials/youtube-video-speech-recognition-with-deepspeech-9ec": {
-    "component": "17896441",
-    "content": "3b8a7ebf"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tools-river-6-a-6-473"
+  },
+  "/docs/tutorials/mongodb-csv-conversion-93c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-mongodb-csv-conversioncf-3-558"
   },
   "/-deb": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
   }
 }

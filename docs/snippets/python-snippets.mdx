@@ -1,0 +1,47 @@
+# Python code
+
+## Clean filenames in a folder
+
+```python
+import re
+import os
+import pathlib
+import glob
+
+nbs = glob.glob('/content/docs/docs/tutorials/*.md')
+
+def process(path):
+    x = str(pathlib.Path(path).stem)
+    x = x.lower()
+    x = re.sub(r'[^a-z]','-',x)
+    x = re.sub(r'-+','-',x)
+    x = x.strip('-')
+    x = os.path.join(str(pathlib.Path(path).parent), x+'.mdx')
+    x = re.sub('/[a-z]\-','/',x)
+    os.rename(path, x)
+
+_ = [process(x) for x in nbs]
+```
+
+## Converting Jupyter notebooks into markdown
+
+```python
+!cd /content && git clone https://github.com/recohut/nbs.git
+!pip install -q jupytext
+!cd /content/nbs && jupytext *.ipynb --to markdown
+```
+
+```python
+import glob
+import os
+
+nbs = glob.glob('/content/nbs/*.ipynb')
+
+for x in nbs:
+    mds = x[:-6]+'.md'
+    if not os.path.exists(mds):
+        try:
+          !jupyter nbconvert --to markdown "{x}"
+        except:
+            print('error in {}'.format(x))
+```

@@ -28,11 +28,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "reco-tut-rrt-river-matrix-factorization-movielens-k",
-    "permalink": "/docs/tutorials/reco-tut-rrt-river-matrix-factorization-movielens-k"
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
   },
   "next": {
-    "title": "reco-tut-sjr-eda-and-preprocessing",
-    "permalink": "/docs/tutorials/reco-tut-sjr-eda-and-preprocessing"
+    "title": "word-vec",
+    "permalink": "/docs/tutorials/word-vec"
   }
 }

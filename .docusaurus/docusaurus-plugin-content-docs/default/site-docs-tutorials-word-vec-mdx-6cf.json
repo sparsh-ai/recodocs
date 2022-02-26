@@ -28,11 +28,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "word-vec-recsys-on-ml-m",
-    "permalink": "/docs/tutorials/word-vec-recsys-on-ml-m"
+    "title": "reco-tut-sjr-data-ingestion",
+    "permalink": "/docs/tutorials/reco-tut-sjr-data-ingestion"
   },
   "next": {
-    "title": "xdeepfm-on-criteo-ad-dataset-in-tf-x",
-    "permalink": "/docs/tutorials/xdeepfm-on-criteo-ad-dataset-in-tf-x"
+    "title": "Tools",
+    "permalink": "/docs/tools/"
   }
 }
