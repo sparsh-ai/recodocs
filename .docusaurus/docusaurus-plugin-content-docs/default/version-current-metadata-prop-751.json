@@ -28,6 +28,12 @@
           },
           {
             "type": "link",
+            "label": "Collaborative Filtering",
+            "href": "/docs/concept-basics/collaborative-filtering",
+            "docId": "concept-basics/collaborative-filtering"
+          },
+          {
+            "type": "link",
             "label": "Evaluation",
             "href": "/docs/concept-basics/evaluation",
             "docId": "concept-basics/evaluation"
@@ -1045,9 +1051,9 @@
           },
           {
             "type": "link",
-            "label": "MongoDB to CSV conversion",
-            "href": "/docs/tutorials/mongodb-csv-conversion",
-            "docId": "tutorials/mongodb-csv-conversion"
+            "label": "Database Connections",
+            "href": "/docs/tutorials/database-conn",
+            "docId": "tutorials/database-conn"
           },
           {
             "type": "link",
@@ -1141,6 +1147,12 @@
       "id": "concept-basics/challenges",
       "title": "Challenges",
       "description": "The construction of effective Recommender Systems (RS) is a complex process, mainly due to the nature of RSs which involves large scale software-systems and human interactions. Iterative development processes require deep understanding of a current baseline as well as the ability to estimate the impact of changes in multiple variables of interest. Simulations are well suited to address both challenges and potentially leading to a high velocity construction process, a fundamental requirement in commercial contexts. Recently, there has been significant interest in RS Simulation Platforms, which allow RS developers to easily craft simulated environments where their systems can be analyzed.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concept-basics/collaborative-filtering": {
+      "id": "concept-basics/collaborative-filtering",
+      "title": "Collaborative Filtering",
+      "description": "Similarity methods",
       "sidebar": "tutorialSidebar"
     },
     "concept-basics/concept-basics": {
@@ -2181,10 +2193,10 @@
       "description": "| Description | Notebook |",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/mongodb-csv-conversion": {
-      "id": "tutorials/mongodb-csv-conversion",
-      "title": "MongoDB to CSV conversion",
-      "description": "Pull a noSQL data from MongoDB and convert into Pandas dataframe",
+    "tutorials/database-conn": {
+      "id": "tutorials/database-conn",
+      "title": "Database Connections",
+      "description": "Mongodb",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/negative-implicit-feedback-rec": {

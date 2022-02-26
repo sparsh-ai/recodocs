@@ -17,7 +17,7 @@
     "permalink": "/docs/models/xdeepfm"
   },
   "next": {
-    "title": "MongoDB to CSV conversion",
-    "permalink": "/docs/tutorials/mongodb-csv-conversion"
+    "title": "Database Connections",
+    "permalink": "/docs/tutorials/database-conn"
   }
 }

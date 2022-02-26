@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Amazon Personalize",
-    "permalink": "/docs/tutorials/amazon-personalize"
+    "title": "Database Connections",
+    "permalink": "/docs/tutorials/database-conn"
   },
   "next": {
     "title": "Negative Implicit Feedback in Recommendations",

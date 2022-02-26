@@ -24,6 +24,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept-basics/collaborative-filtering",
+              "path": "/docs/concept-basics/collaborative-filtering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept-basics/concept-basics",
               "path": "/docs/concept-basics/",
               "sidebar": "tutorialSidebar"
@@ -889,8 +894,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/mongodb-csv-conversion",
-              "path": "/docs/tutorials/mongodb-csv-conversion",
+              "id": "tutorials/database-conn",
+              "path": "/docs/tutorials/database-conn",
               "sidebar": "tutorialSidebar"
             },
             {

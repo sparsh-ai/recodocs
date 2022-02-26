@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','a90'),
+    component: ComponentCreator('/docs','11d'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -356,6 +356,12 @@ export default [
       {
         path: '/docs/concept-basics/challenges',
         component: ComponentCreator('/docs/concept-basics/challenges','3e1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/concept-basics/collaborative-filtering',
+        component: ComponentCreator('/docs/concept-basics/collaborative-filtering','53f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -1392,8 +1398,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/mongodb-csv-conversion',
-        component: ComponentCreator('/docs/tutorials/mongodb-csv-conversion','93c'),
+        path: '/docs/tutorials/database-conn',
+        component: ComponentCreator('/docs/tutorials/database-conn','07b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

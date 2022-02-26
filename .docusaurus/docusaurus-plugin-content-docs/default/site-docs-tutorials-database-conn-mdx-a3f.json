@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/database-conn",
+  "id": "tutorials/database-conn",
+  "title": "Database Connections",
+  "description": "Mongodb",
+  "source": "@site/docs/tutorials/database-conn.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/database-conn",
+  "permalink": "/docs/tutorials/database-conn",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/database-conn.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amazon Personalize",
+    "permalink": "/docs/tutorials/amazon-personalize"
+  },
+  "next": {
+    "title": "Negative Implicit Feedback in Recommendations",
+    "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
+  }
+}

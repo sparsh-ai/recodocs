@@ -128,3 +128,79 @@ for i in range(topK):
   plt.axis('off')
 plt.tight_layout()
 ```
+
+## Milvus Redis
+
+<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2021-06-23-movielens-milvus-redis-efficient-retrieval.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+
+
+```python
+!git clone -b 1.1 https://github.com/milvus-io/milvus.git
+% cd /content/milvus/core
+! ./ubuntu_build_deps.sh
+!./build.sh -t Release
+# !./build.sh -t Release -g
+
+% cd /content/milvus/core/milvus
+! echo $LD_LIBRARY_PATH
+import os
+os.environ['LD_LIBRARY_PATH'] +=":/content/milvus/core/milvus/lib"
+! echo $LD_LIBRARY_PATH
+% cd scripts
+! nohup ./start_server.sh &
+! cat nohup.out
+
+from milvus import Milvus, IndexType, MetricType, Status
+import redis
+
+milv = Milvus(host = '127.0.0.1', port = 19530)
+r = redis.StrictRedis(host="127.0.0.1", port=6379)
+
+COLLECTION_NAME = 'demo_films'
+PARTITION_NAME = 'Movie'
+
+#Dropping collection for clean slate run
+milv.drop_collection(COLLECTION_NAME)
+
+param = {'collection_name':COLLECTION_NAME, 
+         'dimension':32, 
+         'index_file_size':2048, 
+         'metric_type':MetricType.L2
+        }
+
+milv.create_collection(param)
+
+status = milv.insert(collection_name=COLLECTION_NAME, records=embeddings, ids=ids)
+
+import numpy as np
+from paddle_serving_app.local_predict import LocalPredictor
+
+class RecallServerServicer(object):
+    def __init__(self):
+        self.uv_client = LocalPredictor()
+        self.uv_client.load_model_config("movie_recommender/user_vector_model/serving_server_dir") 
+        
+    def hash2(self, a):
+        return hash(a) % 1000000
+
+    def get_user_vector(self):
+        dic = {"userid": [], "gender": [], "age": [], "occupation": []}
+        lod = [0]
+        dic["userid"].append(self.hash2('0'))
+        dic["gender"].append(self.hash2('M'))
+        dic["age"].append(self.hash2('23'))
+        dic["occupation"].append(self.hash2('6'))
+        lod.append(1)
+
+        dic["userid.lod"] = lod
+        dic["gender.lod"] = lod
+        dic["age.lod"] = lod
+        dic["occupation.lod"] = lod
+        for key in dic:
+            dic[key] = np.array(dic[key]).astype(np.int64).reshape(len(dic[key]),1)
+        fetch_map = self.uv_client.predict(feed=dic, fetch=["save_infer_model/scale_0.tmp_1"], batch=True)
+        return fetch_map["save_infer_model/scale_0.tmp_1"].tolist()[0]
+
+recall = RecallServerServicer()
+user_vector = recall.get_user_vector()
+```

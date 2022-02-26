@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "MongoDB to CSV conversion",
-    "permalink": "/docs/tutorials/mongodb-csv-conversion"
+    "title": "Database Connections",
+    "permalink": "/docs/tutorials/database-conn"
   },
   "next": {
     "title": "Neural Matrix Factorization",

@@ -68,27 +68,3 @@ article = '. '.join([wp.text for wp in sub_web_page.find_all({"h2","p"})])
 df.loc[i,'text'] = article
         
 ```
-
-## Database connections
-
-### Mongodb
-
-<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2021-06-11-recostep-mongodb-listener.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
-
-
-```python
-!pip uninstall pymongo
-!pip install pymongo[srv]
-
-import os
-import pymongo
-from bson.json_util import dumps
-
-MONGODB_USER = 'kafka-demo'
-MONGODB_PASSWORD = '<your-pass>'
-MONGODB_CLUSTER = 'cluster0.ca4wh.mongodb.net'
-MONGODB_DATABASE = 'movielens'
-
-mongo_uri = f"mongodb+srv://{MONGODB_USER}:{MONGODB_PASSWORD}@{MONGODB_CLUSTER}/{MONGODB_DATABASE}?retryWrites=true&w=majority"
-client = pymongo.MongoClient(mongo_uri)
-```
