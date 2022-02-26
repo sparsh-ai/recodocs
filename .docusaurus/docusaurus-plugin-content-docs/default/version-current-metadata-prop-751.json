@@ -1099,6 +1099,12 @@
           },
           {
             "type": "link",
+            "label": "Resale Price Prediction",
+            "href": "/docs/tutorials/resale-price-prediction",
+            "docId": "tutorials/resale-price-prediction"
+          },
+          {
+            "type": "link",
             "label": "Vector Search",
             "href": "/docs/tutorials/vector-search",
             "docId": "tutorials/vector-search"
@@ -2232,7 +2238,7 @@
     "tutorials/eval": {
       "id": "tutorials/eval",
       "title": "eval",
-      "description": "",
+      "description": "|   | BRAND            | PARTNO | QUANTITY | UNITRESALE | UNITCOST | 0 | 1 | 2 | 3 | 4 |",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/graph": {
@@ -2263,6 +2269,12 @@
       "id": "tutorials/pdf-to-wordcloud-mail",
       "title": "PDF to WordCloud via Email",
       "description": "Receive a pdf via outlook mail and send back the wordcloud of that pdf in the reply",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/resale-price-prediction": {
+      "id": "tutorials/resale-price-prediction",
+      "title": "Resale Price Prediction",
+      "description": "|   | BRAND | PARTNO           | QUANTITY | UNITRESALE | UNITCOST |",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/vector-search": {

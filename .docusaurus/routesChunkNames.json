@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-4-c-6-c89"
   },
-  "/docs-c58": {
+  "/docs-c42": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -1384,6 +1384,10 @@
   "/docs/tutorials/pdf-to-wordcloud-mail-6a5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-pdf-to-wordcloud-mail-81-b-d14"
+  },
+  "/docs/tutorials/resale-price-prediction-b73": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-resale-price-prediction-853-629"
   },
   "/docs/tutorials/vector-search-1ab": {
     "component": "component---theme-doc-item-178-a40",

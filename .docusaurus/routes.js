@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','c58'),
+    component: ComponentCreator('/docs','c42'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -1442,6 +1442,12 @@ export default [
       {
         path: '/docs/tutorials/pdf-to-wordcloud-mail',
         component: ComponentCreator('/docs/tutorials/pdf-to-wordcloud-mail','6a5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/resale-price-prediction',
+        component: ComponentCreator('/docs/tutorials/resale-price-prediction','b73'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/resale-price-prediction",
+  "id": "tutorials/resale-price-prediction",
+  "title": "Resale Price Prediction",
+  "description": "|   | BRAND | PARTNO           | QUANTITY | UNITRESALE | UNITCOST |",
+  "source": "@site/docs/tutorials/resale-price-prediction.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/resale-price-prediction",
+  "permalink": "/docs/tutorials/resale-price-prediction",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/resale-price-prediction.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PDF to WordCloud via Email",
+    "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
+  },
+  "next": {
+    "title": "Vector Search",
+    "permalink": "/docs/tutorials/vector-search"
+  }
+}

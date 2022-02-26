@@ -2,7 +2,7 @@
   "unversionedId": "tutorials/eval",
   "id": "tutorials/eval",
   "title": "eval",
-  "description": "",
+  "description": "|   | BRAND            | PARTNO | QUANTITY | UNITRESALE | UNITCOST | 0 | 1 | 2 | 3 | 4 |",
   "source": "@site/docs/tutorials/eval.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/eval",

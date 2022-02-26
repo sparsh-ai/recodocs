@@ -4088,7 +4088,7 @@
               "unversionedId": "tutorials/eval",
               "id": "tutorials/eval",
               "title": "eval",
-              "description": "",
+              "description": "|   | BRAND            | PARTNO | QUANTITY | UNITRESALE | UNITCOST | 0 | 1 | 2 | 3 | 4 |",
               "source": "@site/docs/tutorials/eval.mdx",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/eval",
@@ -4218,6 +4218,29 @@
                 "permalink": "/docs/tutorials/neural-matrix-factorization"
               },
               "next": {
+                "title": "Resale Price Prediction",
+                "permalink": "/docs/tutorials/resale-price-prediction"
+              }
+            },
+            {
+              "unversionedId": "tutorials/resale-price-prediction",
+              "id": "tutorials/resale-price-prediction",
+              "title": "Resale Price Prediction",
+              "description": "|   | BRAND | PARTNO           | QUANTITY | UNITRESALE | UNITCOST |",
+              "source": "@site/docs/tutorials/resale-price-prediction.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/resale-price-prediction",
+              "permalink": "/docs/tutorials/resale-price-prediction",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/resale-price-prediction.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PDF to WordCloud via Email",
+                "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
+              },
+              "next": {
                 "title": "Vector Search",
                 "permalink": "/docs/tutorials/vector-search"
               }
@@ -4237,8 +4260,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "PDF to WordCloud via Email",
-                "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
+                "title": "Resale Price Prediction",
+                "permalink": "/docs/tutorials/resale-price-prediction"
               },
               "next": {
                 "title": "Python code",
@@ -5001,6 +5024,10 @@
                   {
                     "type": "doc",
                     "id": "tutorials/pdf-to-wordcloud-mail"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/resale-price-prediction"
                   },
                   {
                     "type": "doc",

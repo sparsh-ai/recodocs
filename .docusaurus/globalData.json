@@ -934,6 +934,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/resale-price-prediction",
+              "path": "/docs/tutorials/resale-price-prediction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/vector-search",
               "path": "/docs/tutorials/vector-search",
               "sidebar": "tutorialSidebar"
