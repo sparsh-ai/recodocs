@@ -1,7 +1,7 @@
 {
   "unversionedId": "tutorials/email-classification",
   "id": "tutorials/email-classification",
-  "title": "email-classification",
+  "title": "Email Classification",
   "description": "Fetching data from MS-Sql",
   "source": "@site/docs/tutorials/email-classification.mdx",
   "sourceDirName": "tutorials",
@@ -10,29 +10,14 @@
   "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/email-classification.mdx",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "jupyter": {
-      "jupytext": {
-        "text_representation": {
-          "extension": ".md",
-          "format_name": "markdown",
-          "format_version": "1.3",
-          "jupytext_version": "1.13.7"
-        }
-      },
-      "kernelspec": {
-        "display_name": "Python 3",
-        "name": "python3"
-      }
-    }
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "electronics-product-recommender",
-    "permalink": "/docs/tutorials/electronics-product-recommender"
+    "title": "Database Connections",
+    "permalink": "/docs/tutorials/database-conn"
   },
   "next": {
-    "title": "embedding-pytorch-geometric",
-    "permalink": "/docs/tutorials/embedding-pytorch-geometric"
+    "title": "eval",
+    "permalink": "/docs/tutorials/eval"
   }
 }

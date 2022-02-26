@@ -1,8 +1,8 @@
 {
   "unversionedId": "tutorials/neural-matrix-factorization",
   "id": "tutorials/neural-matrix-factorization",
-  "title": "Neural Matrix Factorization",
-  "description": "| Description | Notebook |",
+  "title": "Matrix Factorizations",
+  "description": "Neural Matrix Factorization (NMF)",
   "source": "@site/docs/tutorials/neural-matrix-factorization.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/neural-matrix-factorization",

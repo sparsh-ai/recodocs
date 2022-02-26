@@ -17,7 +17,7 @@
     "permalink": "/docs/tutorials/amazon-personalize"
   },
   "next": {
-    "title": "Negative Implicit Feedback in Recommendations",
-    "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
+    "title": "Email Classification",
+    "permalink": "/docs/tutorials/email-classification"
   }
 }

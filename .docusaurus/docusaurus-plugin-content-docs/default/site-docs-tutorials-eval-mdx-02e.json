@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/eval",
+  "id": "tutorials/eval",
+  "title": "eval",
+  "description": "",
+  "source": "@site/docs/tutorials/eval.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/eval",
+  "permalink": "/docs/tutorials/eval",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/eval.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Email Classification",
+    "permalink": "/docs/tutorials/email-classification"
+  },
+  "next": {
+    "title": "graph",
+    "permalink": "/docs/tutorials/graph"
+  }
+}

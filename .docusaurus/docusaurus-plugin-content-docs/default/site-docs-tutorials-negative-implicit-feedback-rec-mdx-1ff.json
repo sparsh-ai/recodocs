@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Database Connections",
-    "permalink": "/docs/tutorials/database-conn"
+    "title": "Name and Address Parsing",
+    "permalink": "/docs/tutorials/name-address-parsing"
   },
   "next": {
-    "title": "Neural Matrix Factorization",
+    "title": "Matrix Factorizations",
     "permalink": "/docs/tutorials/neural-matrix-factorization"
   }
 }

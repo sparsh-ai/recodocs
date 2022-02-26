@@ -899,6 +899,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/email-classification",
+              "path": "/docs/tutorials/email-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/eval",
+              "path": "/docs/tutorials/eval",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph",
+              "path": "/docs/tutorials/graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/name-address-parsing",
+              "path": "/docs/tutorials/name-address-parsing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/negative-implicit-feedback-rec",
               "path": "/docs/tutorials/negative-implicit-feedback-rec",
               "sidebar": "tutorialSidebar"

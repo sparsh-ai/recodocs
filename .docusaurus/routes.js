@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','11d'),
+    component: ComponentCreator('/docs','c58'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -1400,6 +1400,30 @@ export default [
       {
         path: '/docs/tutorials/database-conn',
         component: ComponentCreator('/docs/tutorials/database-conn','07b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/email-classification',
+        component: ComponentCreator('/docs/tutorials/email-classification','683'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/eval',
+        component: ComponentCreator('/docs/tutorials/eval','d16'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/graph',
+        component: ComponentCreator('/docs/tutorials/graph','4c1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/name-address-parsing',
+        component: ComponentCreator('/docs/tutorials/name-address-parsing','0e2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/graph",
+  "id": "tutorials/graph",
+  "title": "graph",
+  "description": "",
+  "source": "@site/docs/tutorials/graph.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/graph",
+  "permalink": "/docs/tutorials/graph",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eval",
+    "permalink": "/docs/tutorials/eval"
+  },
+  "next": {
+    "title": "Name and Address Parsing",
+    "permalink": "/docs/tutorials/name-address-parsing"
+  }
+}

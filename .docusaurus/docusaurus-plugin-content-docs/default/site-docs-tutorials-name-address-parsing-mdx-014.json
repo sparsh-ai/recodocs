@@ -1,7 +1,7 @@
 {
   "unversionedId": "tutorials/name-address-parsing",
   "id": "tutorials/name-address-parsing",
-  "title": "name-address-parsing",
+  "title": "Name and Address Parsing",
   "description": "Recognising Person names and Addresses in a text using NER and NLP modeling techniques",
   "source": "@site/docs/tutorials/name-address-parsing.mdx",
   "sourceDirName": "tutorials",
@@ -10,29 +10,14 @@
   "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/name-address-parsing.mdx",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "jupyter": {
-      "jupytext": {
-        "text_representation": {
-          "extension": ".md",
-          "format_name": "markdown",
-          "format_version": "1.3",
-          "jupytext_version": "1.13.7"
-        }
-      },
-      "kernelspec": {
-        "display_name": "Python 3",
-        "name": "python3"
-      }
-    }
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "music-spark",
-    "permalink": "/docs/tutorials/music-spark"
+    "title": "graph",
+    "permalink": "/docs/tutorials/graph"
   },
   "next": {
-    "title": "ncf-from-scratch-pytorch",
-    "permalink": "/docs/tutorials/ncf-from-scratch-pytorch"
+    "title": "Negative Implicit Feedback in Recommendations",
+    "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
   }
 }

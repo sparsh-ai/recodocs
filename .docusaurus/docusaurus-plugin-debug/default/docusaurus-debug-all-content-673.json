@@ -4057,6 +4057,98 @@
                 "permalink": "/docs/tutorials/amazon-personalize"
               },
               "next": {
+                "title": "Email Classification",
+                "permalink": "/docs/tutorials/email-classification"
+              }
+            },
+            {
+              "unversionedId": "tutorials/email-classification",
+              "id": "tutorials/email-classification",
+              "title": "Email Classification",
+              "description": "Fetching data from MS-Sql",
+              "source": "@site/docs/tutorials/email-classification.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/email-classification",
+              "permalink": "/docs/tutorials/email-classification",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/email-classification.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Database Connections",
+                "permalink": "/docs/tutorials/database-conn"
+              },
+              "next": {
+                "title": "eval",
+                "permalink": "/docs/tutorials/eval"
+              }
+            },
+            {
+              "unversionedId": "tutorials/eval",
+              "id": "tutorials/eval",
+              "title": "eval",
+              "description": "",
+              "source": "@site/docs/tutorials/eval.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/eval",
+              "permalink": "/docs/tutorials/eval",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/eval.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Email Classification",
+                "permalink": "/docs/tutorials/email-classification"
+              },
+              "next": {
+                "title": "graph",
+                "permalink": "/docs/tutorials/graph"
+              }
+            },
+            {
+              "unversionedId": "tutorials/graph",
+              "id": "tutorials/graph",
+              "title": "graph",
+              "description": "",
+              "source": "@site/docs/tutorials/graph.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/graph",
+              "permalink": "/docs/tutorials/graph",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/graph.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "eval",
+                "permalink": "/docs/tutorials/eval"
+              },
+              "next": {
+                "title": "Name and Address Parsing",
+                "permalink": "/docs/tutorials/name-address-parsing"
+              }
+            },
+            {
+              "unversionedId": "tutorials/name-address-parsing",
+              "id": "tutorials/name-address-parsing",
+              "title": "Name and Address Parsing",
+              "description": "Recognising Person names and Addresses in a text using NER and NLP modeling techniques",
+              "source": "@site/docs/tutorials/name-address-parsing.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/name-address-parsing",
+              "permalink": "/docs/tutorials/name-address-parsing",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/name-address-parsing.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "graph",
+                "permalink": "/docs/tutorials/graph"
+              },
+              "next": {
                 "title": "Negative Implicit Feedback in Recommendations",
                 "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
               }
@@ -4076,19 +4168,19 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Database Connections",
-                "permalink": "/docs/tutorials/database-conn"
+                "title": "Name and Address Parsing",
+                "permalink": "/docs/tutorials/name-address-parsing"
               },
               "next": {
-                "title": "Neural Matrix Factorization",
+                "title": "Matrix Factorizations",
                 "permalink": "/docs/tutorials/neural-matrix-factorization"
               }
             },
             {
               "unversionedId": "tutorials/neural-matrix-factorization",
               "id": "tutorials/neural-matrix-factorization",
-              "title": "Neural Matrix Factorization",
-              "description": "| Description | Notebook |",
+              "title": "Matrix Factorizations",
+              "description": "Neural Matrix Factorization (NMF)",
               "source": "@site/docs/tutorials/neural-matrix-factorization.mdx",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/neural-matrix-factorization",
@@ -4122,7 +4214,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Neural Matrix Factorization",
+                "title": "Matrix Factorizations",
                 "permalink": "/docs/tutorials/neural-matrix-factorization"
               },
               "next": {
@@ -4881,6 +4973,22 @@
                   {
                     "type": "doc",
                     "id": "tutorials/database-conn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/email-classification"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/eval"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/graph"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/name-address-parsing"
                   },
                   {
                     "type": "doc",

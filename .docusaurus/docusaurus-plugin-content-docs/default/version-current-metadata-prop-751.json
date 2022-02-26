@@ -1057,13 +1057,37 @@
           },
           {
             "type": "link",
+            "label": "Email Classification",
+            "href": "/docs/tutorials/email-classification",
+            "docId": "tutorials/email-classification"
+          },
+          {
+            "type": "link",
+            "label": "eval",
+            "href": "/docs/tutorials/eval",
+            "docId": "tutorials/eval"
+          },
+          {
+            "type": "link",
+            "label": "graph",
+            "href": "/docs/tutorials/graph",
+            "docId": "tutorials/graph"
+          },
+          {
+            "type": "link",
+            "label": "Name and Address Parsing",
+            "href": "/docs/tutorials/name-address-parsing",
+            "docId": "tutorials/name-address-parsing"
+          },
+          {
+            "type": "link",
             "label": "Negative Implicit Feedback in Recommendations",
             "href": "/docs/tutorials/negative-implicit-feedback-rec",
             "docId": "tutorials/negative-implicit-feedback-rec"
           },
           {
             "type": "link",
-            "label": "Neural Matrix Factorization",
+            "label": "Matrix Factorizations",
             "href": "/docs/tutorials/neural-matrix-factorization",
             "docId": "tutorials/neural-matrix-factorization"
           },
@@ -2199,6 +2223,30 @@
       "description": "Mongodb",
       "sidebar": "tutorialSidebar"
     },
+    "tutorials/email-classification": {
+      "id": "tutorials/email-classification",
+      "title": "Email Classification",
+      "description": "Fetching data from MS-Sql",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/eval": {
+      "id": "tutorials/eval",
+      "title": "eval",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/graph": {
+      "id": "tutorials/graph",
+      "title": "graph",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/name-address-parsing": {
+      "id": "tutorials/name-address-parsing",
+      "title": "Name and Address Parsing",
+      "description": "Recognising Person names and Addresses in a text using NER and NLP modeling techniques",
+      "sidebar": "tutorialSidebar"
+    },
     "tutorials/negative-implicit-feedback-rec": {
       "id": "tutorials/negative-implicit-feedback-rec",
       "title": "Negative Implicit Feedback in Recommendations",
@@ -2207,8 +2255,8 @@
     },
     "tutorials/neural-matrix-factorization": {
       "id": "tutorials/neural-matrix-factorization",
-      "title": "Neural Matrix Factorization",
-      "description": "| Description | Notebook |",
+      "title": "Matrix Factorizations",
+      "description": "Neural Matrix Factorization (NMF)",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/pdf-to-wordcloud-mail": {

@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-4-c-6-c89"
   },
-  "/docs-11d": {
+  "/docs-c58": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -1356,6 +1356,22 @@
   "/docs/tutorials/database-conn-07b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-database-conna-3-f-3f0"
+  },
+  "/docs/tutorials/email-classification-683": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-email-classification-1-a-9-b61"
+  },
+  "/docs/tutorials/eval-d16": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-eval-02-e-381"
+  },
+  "/docs/tutorials/graph-4c1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-graphc-0-e-6b2"
+  },
+  "/docs/tutorials/name-address-parsing-0e2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-name-address-parsing-014-06c"
   },
   "/docs/tutorials/negative-implicit-feedback-rec-b34": {
     "component": "component---theme-doc-item-178-a40",
