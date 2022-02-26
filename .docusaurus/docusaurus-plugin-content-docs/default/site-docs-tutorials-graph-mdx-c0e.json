@@ -1,8 +1,8 @@
 {
   "unversionedId": "tutorials/graph",
   "id": "tutorials/graph",
-  "title": "graph",
-  "description": "",
+  "title": "Graph-based Modeling",
+  "description": "General",
   "source": "@site/docs/tutorials/graph.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/graph",
@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "eval",
-    "permalink": "/docs/tutorials/eval"
+    "title": "Email Classification",
+    "permalink": "/docs/tutorials/email-classification"
   },
   "next": {
     "title": "Mathematics",

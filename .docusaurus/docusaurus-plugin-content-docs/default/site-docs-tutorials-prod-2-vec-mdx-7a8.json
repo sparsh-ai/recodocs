@@ -1,8 +1,8 @@
 {
   "unversionedId": "tutorials/prod2vec",
   "id": "tutorials/prod2vec",
-  "title": "prod2vec",
-  "description": "",
+  "title": "Word2vec",
+  "description": "| Description | Notebook |",
   "source": "@site/docs/tutorials/prod2vec.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/prod2vec",
@@ -17,7 +17,7 @@
     "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
   },
   "next": {
-    "title": "Resale Price Prediction",
-    "permalink": "/docs/tutorials/resale-price-prediction"
+    "title": "Recommender System Evaluation",
+    "permalink": "/docs/tutorials/recsys-evaluation"
   }
 }

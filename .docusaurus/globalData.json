@@ -904,11 +904,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/eval",
-              "path": "/docs/tutorials/eval",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorials/graph",
               "path": "/docs/tutorials/graph",
               "sidebar": "tutorialSidebar"
@@ -944,18 +939,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/node2vec",
-              "path": "/docs/tutorials/node2vec",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorials/pdf-to-wordcloud-mail",
               "path": "/docs/tutorials/pdf-to-wordcloud-mail",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/prod2vec",
-              "path": "/docs/tutorials/prod2vec",
+              "id": "tutorials/recsys-evaluation",
+              "path": "/docs/tutorials/recsys-evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -966,6 +956,11 @@
             {
               "id": "tutorials/vector-search",
               "path": "/docs/tutorials/vector-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/word2vec",
+              "path": "/docs/tutorials/word2vec",
               "sidebar": "tutorialSidebar"
             }
           ]

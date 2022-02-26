@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-4-c-6-c89"
   },
-  "/docs-478": {
+  "/docs-4f6": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -1361,10 +1361,6 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-email-classification-1-a-9-b61"
   },
-  "/docs/tutorials/eval-d16": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-eval-02-e-381"
-  },
   "/docs/tutorials/graph-4c1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-graphc-0-e-6b2"
@@ -1393,17 +1389,13 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-negative-implicit-feedback-rec-1-ff-548"
   },
-  "/docs/tutorials/node2vec-390": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-node-2-vec-28-f-c08"
-  },
   "/docs/tutorials/pdf-to-wordcloud-mail-6a5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-pdf-to-wordcloud-mail-81-b-d14"
   },
-  "/docs/tutorials/prod2vec-6fa": {
+  "/docs/tutorials/recsys-evaluation-f42": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-prod-2-vec-7-a-8-f7d"
+    "content": "content---docs-tutorials-recsys-evaluationd-79-b5f"
   },
   "/docs/tutorials/resale-price-prediction-b73": {
     "component": "component---theme-doc-item-178-a40",
@@ -1412,6 +1404,10 @@
   "/docs/tutorials/vector-search-1ab": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-vector-searchb-3-e-bf5"
+  },
+  "/docs/tutorials/word2vec-df3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-word-2-vec-965-408"
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",

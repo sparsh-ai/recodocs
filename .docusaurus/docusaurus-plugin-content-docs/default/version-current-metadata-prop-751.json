@@ -1063,13 +1063,7 @@
           },
           {
             "type": "link",
-            "label": "eval",
-            "href": "/docs/tutorials/eval",
-            "docId": "tutorials/eval"
-          },
-          {
-            "type": "link",
-            "label": "graph",
+            "label": "Graph-based Modeling",
             "href": "/docs/tutorials/graph",
             "docId": "tutorials/graph"
           },
@@ -1087,7 +1081,7 @@
           },
           {
             "type": "link",
-            "label": "mlops",
+            "label": "MLOps",
             "href": "/docs/tutorials/mlops",
             "docId": "tutorials/mlops"
           },
@@ -1111,21 +1105,15 @@
           },
           {
             "type": "link",
-            "label": "node2vec",
-            "href": "/docs/tutorials/node2vec",
-            "docId": "tutorials/node2vec"
-          },
-          {
-            "type": "link",
             "label": "PDF to WordCloud via Email",
             "href": "/docs/tutorials/pdf-to-wordcloud-mail",
             "docId": "tutorials/pdf-to-wordcloud-mail"
           },
           {
             "type": "link",
-            "label": "prod2vec",
-            "href": "/docs/tutorials/prod2vec",
-            "docId": "tutorials/prod2vec"
+            "label": "Recommender System Evaluation",
+            "href": "/docs/tutorials/recsys-evaluation",
+            "docId": "tutorials/recsys-evaluation"
           },
           {
             "type": "link",
@@ -1138,6 +1126,12 @@
             "label": "Vector Search",
             "href": "/docs/tutorials/vector-search",
             "docId": "tutorials/vector-search"
+          },
+          {
+            "type": "link",
+            "label": "Word2vec",
+            "href": "/docs/tutorials/word2vec",
+            "docId": "tutorials/word2vec"
           }
         ]
       },
@@ -2265,16 +2259,10 @@
       "description": "Fetching data from MS-Sql",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/eval": {
-      "id": "tutorials/eval",
-      "title": "eval",
-      "description": "|   | BRAND            | PARTNO | QUANTITY | UNITRESALE | UNITCOST | 0 | 1 | 2 | 3 | 4 |",
-      "sidebar": "tutorialSidebar"
-    },
     "tutorials/graph": {
       "id": "tutorials/graph",
-      "title": "graph",
-      "description": "",
+      "title": "Graph-based Modeling",
+      "description": "General",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/mathematics": {
@@ -2291,8 +2279,8 @@
     },
     "tutorials/mlops": {
       "id": "tutorials/mlops",
-      "title": "mlops",
-      "description": "",
+      "title": "MLOps",
+      "description": "| Description | Notebook |",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/multi-touch-attribution": {
@@ -2313,22 +2301,16 @@
       "description": "A tutorial to demonstrate the process of training and evaluating various recommender models on a online retail store data. Along with the positive feedbacks like view, add-to-cart, we also have a negative event 'remove-from-cart'.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/node2vec": {
-      "id": "tutorials/node2vec",
-      "title": "node2vec",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "tutorials/pdf-to-wordcloud-mail": {
       "id": "tutorials/pdf-to-wordcloud-mail",
       "title": "PDF to WordCloud via Email",
       "description": "Receive a pdf via outlook mail and send back the wordcloud of that pdf in the reply",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/prod2vec": {
-      "id": "tutorials/prod2vec",
-      "title": "prod2vec",
-      "description": "",
+    "tutorials/recsys-evaluation": {
+      "id": "tutorials/recsys-evaluation",
+      "title": "Recommender System Evaluation",
+      "description": "| Description | Notebook |",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/resale-price-prediction": {
@@ -2341,6 +2323,12 @@
       "id": "tutorials/vector-search",
       "title": "Vector Search",
       "description": "Faiss",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/word2vec": {
+      "id": "tutorials/word2vec",
+      "title": "Word2vec",
+      "description": "| Description | Notebook |",
       "sidebar": "tutorialSidebar"
     }
   }

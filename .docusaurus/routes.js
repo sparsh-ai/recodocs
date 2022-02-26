@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','478'),
+    component: ComponentCreator('/docs','4f6'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -1410,12 +1410,6 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/eval',
-        component: ComponentCreator('/docs/tutorials/eval','d16'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/docs/tutorials/graph',
         component: ComponentCreator('/docs/tutorials/graph','4c1'),
         exact: true,
@@ -1458,20 +1452,14 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/node2vec',
-        component: ComponentCreator('/docs/tutorials/node2vec','390'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/docs/tutorials/pdf-to-wordcloud-mail',
         component: ComponentCreator('/docs/tutorials/pdf-to-wordcloud-mail','6a5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/prod2vec',
-        component: ComponentCreator('/docs/tutorials/prod2vec','6fa'),
+        path: '/docs/tutorials/recsys-evaluation',
+        component: ComponentCreator('/docs/tutorials/recsys-evaluation','f42'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -1484,6 +1472,12 @@ export default [
       {
         path: '/docs/tutorials/vector-search',
         component: ComponentCreator('/docs/tutorials/vector-search','1ab'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/word2vec',
+        component: ComponentCreator('/docs/tutorials/word2vec','df3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

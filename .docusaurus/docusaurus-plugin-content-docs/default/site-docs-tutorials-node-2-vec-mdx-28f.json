@@ -1,8 +1,8 @@
 {
   "unversionedId": "tutorials/node2vec",
   "id": "tutorials/node2vec",
-  "title": "node2vec",
-  "description": "",
+  "title": "Amazon Personalize",
+  "description": "| Description | Notebook |",
   "source": "@site/docs/tutorials/node2vec.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/node2vec",

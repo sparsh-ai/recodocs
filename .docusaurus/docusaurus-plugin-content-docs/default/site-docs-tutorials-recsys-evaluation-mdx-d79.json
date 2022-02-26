@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/recsys-evaluation",
+  "id": "tutorials/recsys-evaluation",
+  "title": "Recommender System Evaluation",
+  "description": "| Description | Notebook |",
+  "source": "@site/docs/tutorials/recsys-evaluation.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/recsys-evaluation",
+  "permalink": "/docs/tutorials/recsys-evaluation",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/recsys-evaluation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PDF to WordCloud via Email",
+    "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
+  },
+  "next": {
+    "title": "Resale Price Prediction",
+    "permalink": "/docs/tutorials/resale-price-prediction"
+  }
+}

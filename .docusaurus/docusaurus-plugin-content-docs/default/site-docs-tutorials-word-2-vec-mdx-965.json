@@ -1,8 +1,8 @@
 {
   "unversionedId": "tutorials/word2vec",
   "id": "tutorials/word2vec",
-  "title": "word2vec",
-  "description": "",
+  "title": "Word2vec",
+  "description": "| Description | Notebook |",
   "source": "@site/docs/tutorials/word2vec.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/word2vec",

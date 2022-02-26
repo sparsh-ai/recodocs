@@ -1,8 +1,8 @@
 {
   "unversionedId": "tutorials/mlops",
   "id": "tutorials/mlops",
-  "title": "mlops",
-  "description": "",
+  "title": "MLOps",
+  "description": "| Description | Notebook |",
   "source": "@site/docs/tutorials/mlops.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/mlops",

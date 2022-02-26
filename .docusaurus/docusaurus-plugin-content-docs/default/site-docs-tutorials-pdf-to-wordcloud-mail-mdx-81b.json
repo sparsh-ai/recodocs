@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "node2vec",
-    "permalink": "/docs/tutorials/node2vec"
+    "title": "Negative Implicit Feedback in Recommendations",
+    "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
   },
   "next": {
-    "title": "prod2vec",
-    "permalink": "/docs/tutorials/prod2vec"
+    "title": "Recommender System Evaluation",
+    "permalink": "/docs/tutorials/recsys-evaluation"
   }
 }

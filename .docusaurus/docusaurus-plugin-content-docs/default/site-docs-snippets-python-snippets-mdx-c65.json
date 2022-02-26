@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Vector Search",
-    "permalink": "/docs/tutorials/vector-search"
+    "title": "Word2vec",
+    "permalink": "/docs/tutorials/word2vec"
   },
   "next": {
     "title": "Unix shell",

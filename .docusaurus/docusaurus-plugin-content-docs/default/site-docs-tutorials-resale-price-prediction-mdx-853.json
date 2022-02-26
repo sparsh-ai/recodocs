@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "prod2vec",
-    "permalink": "/docs/tutorials/prod2vec"
+    "title": "Recommender System Evaluation",
+    "permalink": "/docs/tutorials/recsys-evaluation"
   },
   "next": {
     "title": "Vector Search",
