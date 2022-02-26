@@ -884,6 +884,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/amazon-personalize",
+              "path": "/docs/tutorials/amazon-personalize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/mongodb-csv-conversion",
               "path": "/docs/tutorials/mongodb-csv-conversion",
               "sidebar": "tutorialSidebar"
@@ -891,6 +896,11 @@
             {
               "id": "tutorials/negative-implicit-feedback-rec",
               "path": "/docs/tutorials/negative-implicit-feedback-rec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/neural-matrix-factorization",
+              "path": "/docs/tutorials/neural-matrix-factorization",
               "sidebar": "tutorialSidebar"
             },
             {

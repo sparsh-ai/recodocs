@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Negative Implicit Feedback in Recommendations",
-    "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
+    "title": "Neural Matrix Factorization",
+    "permalink": "/docs/tutorials/neural-matrix-factorization"
   },
   "next": {
     "title": "Vector Search",

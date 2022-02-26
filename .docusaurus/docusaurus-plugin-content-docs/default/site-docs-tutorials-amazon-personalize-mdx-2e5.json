@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/amazon-personalize",
+  "id": "tutorials/amazon-personalize",
+  "title": "Amazon Personalize",
+  "description": "| Description | Notebook |",
+  "source": "@site/docs/tutorials/amazon-personalize.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/amazon-personalize",
+  "permalink": "/docs/tutorials/amazon-personalize",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xDeepFM",
+    "permalink": "/docs/models/xdeepfm"
+  },
+  "next": {
+    "title": "MongoDB to CSV conversion",
+    "permalink": "/docs/tutorials/mongodb-csv-conversion"
+  }
+}

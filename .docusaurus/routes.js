@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','d10'),
+    component: ComponentCreator('/docs','a90'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -1386,6 +1386,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/tutorials/amazon-personalize',
+        component: ComponentCreator('/docs/tutorials/amazon-personalize','693'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/tutorials/mongodb-csv-conversion',
         component: ComponentCreator('/docs/tutorials/mongodb-csv-conversion','93c'),
         exact: true,
@@ -1394,6 +1400,12 @@ export default [
       {
         path: '/docs/tutorials/negative-implicit-feedback-rec',
         component: ComponentCreator('/docs/tutorials/negative-implicit-feedback-rec','b34'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/neural-matrix-factorization',
+        component: ComponentCreator('/docs/tutorials/neural-matrix-factorization','c77'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

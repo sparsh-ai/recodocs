@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "xDeepFM",
-    "permalink": "/docs/models/xdeepfm"
+    "title": "Amazon Personalize",
+    "permalink": "/docs/tutorials/amazon-personalize"
   },
   "next": {
     "title": "Negative Implicit Feedback in Recommendations",

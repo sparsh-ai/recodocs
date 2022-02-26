@@ -649,7 +649,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-4-c-6-c89"
   },
-  "/docs-d10": {
+  "/docs-a90": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -1345,6 +1345,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tools-river-6-a-6-473"
   },
+  "/docs/tutorials/amazon-personalize-693": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-amazon-personalize-2-e-5-bc6"
+  },
   "/docs/tutorials/mongodb-csv-conversion-93c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-mongodb-csv-conversioncf-3-558"
@@ -1352,6 +1356,10 @@
   "/docs/tutorials/negative-implicit-feedback-rec-b34": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-negative-implicit-feedback-rec-1-ff-548"
+  },
+  "/docs/tutorials/neural-matrix-factorization-c77": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-neural-matrix-factorizationc-02-d60"
   },
   "/docs/tutorials/pdf-to-wordcloud-mail-6a5": {
     "component": "component---theme-doc-item-178-a40",

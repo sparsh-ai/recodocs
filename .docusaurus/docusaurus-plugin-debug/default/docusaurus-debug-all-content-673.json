@@ -3831,8 +3831,8 @@
                 "permalink": "/docs/models/word2vec"
               },
               "next": {
-                "title": "MongoDB to CSV conversion",
-                "permalink": "/docs/tutorials/mongodb-csv-conversion"
+                "title": "Amazon Personalize",
+                "permalink": "/docs/tutorials/amazon-personalize"
               }
             },
             {
@@ -3993,6 +3993,29 @@
               }
             },
             {
+              "unversionedId": "tutorials/amazon-personalize",
+              "id": "tutorials/amazon-personalize",
+              "title": "Amazon Personalize",
+              "description": "| Description | Notebook |",
+              "source": "@site/docs/tutorials/amazon-personalize.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/amazon-personalize",
+              "permalink": "/docs/tutorials/amazon-personalize",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/amazon-personalize.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "xDeepFM",
+                "permalink": "/docs/models/xdeepfm"
+              },
+              "next": {
+                "title": "MongoDB to CSV conversion",
+                "permalink": "/docs/tutorials/mongodb-csv-conversion"
+              }
+            },
+            {
               "unversionedId": "tutorials/mongodb-csv-conversion",
               "id": "tutorials/mongodb-csv-conversion",
               "title": "MongoDB to CSV conversion",
@@ -4007,8 +4030,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "xDeepFM",
-                "permalink": "/docs/models/xdeepfm"
+                "title": "Amazon Personalize",
+                "permalink": "/docs/tutorials/amazon-personalize"
               },
               "next": {
                 "title": "Negative Implicit Feedback in Recommendations",
@@ -4034,6 +4057,29 @@
                 "permalink": "/docs/tutorials/mongodb-csv-conversion"
               },
               "next": {
+                "title": "Neural Matrix Factorization",
+                "permalink": "/docs/tutorials/neural-matrix-factorization"
+              }
+            },
+            {
+              "unversionedId": "tutorials/neural-matrix-factorization",
+              "id": "tutorials/neural-matrix-factorization",
+              "title": "Neural Matrix Factorization",
+              "description": "| Description | Notebook |",
+              "source": "@site/docs/tutorials/neural-matrix-factorization.mdx",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/neural-matrix-factorization",
+              "permalink": "/docs/tutorials/neural-matrix-factorization",
+              "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/neural-matrix-factorization.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Negative Implicit Feedback in Recommendations",
+                "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
+              },
+              "next": {
                 "title": "PDF to WordCloud via Email",
                 "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
               }
@@ -4053,8 +4099,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Negative Implicit Feedback in Recommendations",
-                "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
+                "title": "Neural Matrix Factorization",
+                "permalink": "/docs/tutorials/neural-matrix-factorization"
               },
               "next": {
                 "title": "Vector Search",
@@ -4803,11 +4849,19 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "tutorials/amazon-personalize"
+                  },
+                  {
+                    "type": "doc",
                     "id": "tutorials/mongodb-csv-conversion"
                   },
                   {
                     "type": "doc",
                     "id": "tutorials/negative-implicit-feedback-rec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/neural-matrix-factorization"
                   },
                   {
                     "type": "doc",

@@ -1039,6 +1039,12 @@
         "items": [
           {
             "type": "link",
+            "label": "Amazon Personalize",
+            "href": "/docs/tutorials/amazon-personalize",
+            "docId": "tutorials/amazon-personalize"
+          },
+          {
+            "type": "link",
             "label": "MongoDB to CSV conversion",
             "href": "/docs/tutorials/mongodb-csv-conversion",
             "docId": "tutorials/mongodb-csv-conversion"
@@ -1048,6 +1054,12 @@
             "label": "Negative Implicit Feedback in Recommendations",
             "href": "/docs/tutorials/negative-implicit-feedback-rec",
             "docId": "tutorials/negative-implicit-feedback-rec"
+          },
+          {
+            "type": "link",
+            "label": "Neural Matrix Factorization",
+            "href": "/docs/tutorials/neural-matrix-factorization",
+            "docId": "tutorials/neural-matrix-factorization"
           },
           {
             "type": "link",
@@ -2163,6 +2175,12 @@
       "description": "In the following sections, we will more systematically introduce the following tools:",
       "sidebar": "tutorialSidebar"
     },
+    "tutorials/amazon-personalize": {
+      "id": "tutorials/amazon-personalize",
+      "title": "Amazon Personalize",
+      "description": "| Description | Notebook |",
+      "sidebar": "tutorialSidebar"
+    },
     "tutorials/mongodb-csv-conversion": {
       "id": "tutorials/mongodb-csv-conversion",
       "title": "MongoDB to CSV conversion",
@@ -2173,6 +2191,12 @@
       "id": "tutorials/negative-implicit-feedback-rec",
       "title": "Negative Implicit Feedback in Recommendations",
       "description": "A tutorial to demonstrate the process of training and evaluating various recommender models on a online retail store data. Along with the positive feedbacks like view, add-to-cart, we also have a negative event 'remove-from-cart'.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/neural-matrix-factorization": {
+      "id": "tutorials/neural-matrix-factorization",
+      "title": "Neural Matrix Factorization",
+      "description": "| Description | Notebook |",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/pdf-to-wordcloud-mail": {

@@ -17,7 +17,7 @@
     "permalink": "/docs/models/word2vec"
   },
   "next": {
-    "title": "MongoDB to CSV conversion",
-    "permalink": "/docs/tutorials/mongodb-csv-conversion"
+    "title": "Amazon Personalize",
+    "permalink": "/docs/tutorials/amazon-personalize"
   }
 }
