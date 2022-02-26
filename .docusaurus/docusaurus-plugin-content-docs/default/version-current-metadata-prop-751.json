@@ -1075,6 +1075,30 @@
           },
           {
             "type": "link",
+            "label": "Mathematics",
+            "href": "/docs/tutorials/mathematics",
+            "docId": "tutorials/mathematics"
+          },
+          {
+            "type": "link",
+            "label": "Matrix Factorizations",
+            "href": "/docs/tutorials/matrix-factorizations",
+            "docId": "tutorials/matrix-factorizations"
+          },
+          {
+            "type": "link",
+            "label": "mlops",
+            "href": "/docs/tutorials/mlops",
+            "docId": "tutorials/mlops"
+          },
+          {
+            "type": "link",
+            "label": "Multi-Touch Attribution",
+            "href": "/docs/tutorials/multi-touch-attribution",
+            "docId": "tutorials/multi-touch-attribution"
+          },
+          {
+            "type": "link",
             "label": "Name and Address Parsing",
             "href": "/docs/tutorials/name-address-parsing",
             "docId": "tutorials/name-address-parsing"
@@ -1087,15 +1111,21 @@
           },
           {
             "type": "link",
-            "label": "Matrix Factorizations",
-            "href": "/docs/tutorials/neural-matrix-factorization",
-            "docId": "tutorials/neural-matrix-factorization"
+            "label": "node2vec",
+            "href": "/docs/tutorials/node2vec",
+            "docId": "tutorials/node2vec"
           },
           {
             "type": "link",
             "label": "PDF to WordCloud via Email",
             "href": "/docs/tutorials/pdf-to-wordcloud-mail",
             "docId": "tutorials/pdf-to-wordcloud-mail"
+          },
+          {
+            "type": "link",
+            "label": "prod2vec",
+            "href": "/docs/tutorials/prod2vec",
+            "docId": "tutorials/prod2vec"
           },
           {
             "type": "link",
@@ -2247,6 +2277,30 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "tutorials/mathematics": {
+      "id": "tutorials/mathematics",
+      "title": "Mathematics",
+      "description": "Probability and Statistics",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/matrix-factorizations": {
+      "id": "tutorials/matrix-factorizations",
+      "title": "Matrix Factorizations",
+      "description": "Neural Matrix Factorization (NMF)",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/mlops": {
+      "id": "tutorials/mlops",
+      "title": "mlops",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/multi-touch-attribution": {
+      "id": "tutorials/multi-touch-attribution",
+      "title": "Multi-Touch Attribution",
+      "description": "Abstract",
+      "sidebar": "tutorialSidebar"
+    },
     "tutorials/name-address-parsing": {
       "id": "tutorials/name-address-parsing",
       "title": "Name and Address Parsing",
@@ -2259,16 +2313,22 @@
       "description": "A tutorial to demonstrate the process of training and evaluating various recommender models on a online retail store data. Along with the positive feedbacks like view, add-to-cart, we also have a negative event 'remove-from-cart'.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorials/neural-matrix-factorization": {
-      "id": "tutorials/neural-matrix-factorization",
-      "title": "Matrix Factorizations",
-      "description": "Neural Matrix Factorization (NMF)",
+    "tutorials/node2vec": {
+      "id": "tutorials/node2vec",
+      "title": "node2vec",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/pdf-to-wordcloud-mail": {
       "id": "tutorials/pdf-to-wordcloud-mail",
       "title": "PDF to WordCloud via Email",
       "description": "Receive a pdf via outlook mail and send back the wordcloud of that pdf in the reply",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/prod2vec": {
+      "id": "tutorials/prod2vec",
+      "title": "prod2vec",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/resale-price-prediction": {

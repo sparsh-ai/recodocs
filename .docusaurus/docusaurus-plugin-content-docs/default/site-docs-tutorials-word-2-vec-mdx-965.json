@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/word2vec",
+  "id": "tutorials/word2vec",
+  "title": "word2vec",
+  "description": "",
+  "source": "@site/docs/tutorials/word2vec.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/word2vec",
+  "permalink": "/docs/tutorials/word2vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/word2vec.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vector Search",
+    "permalink": "/docs/tutorials/vector-search"
+  },
+  "next": {
+    "title": "Python code",
+    "permalink": "/docs/snippets/python-snippets"
+  }
+}

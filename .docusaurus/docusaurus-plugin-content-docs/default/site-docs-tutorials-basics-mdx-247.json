@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/basics",
+  "id": "tutorials/basics",
+  "title": "basics",
+  "description": "",
+  "source": "@site/docs/tutorials/basics.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/basics",
+  "permalink": "/docs/tutorials/basics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/basics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amazon Personalize",
+    "permalink": "/docs/tutorials/amazon-personalize"
+  },
+  "next": {
+    "title": "Database Connections",
+    "permalink": "/docs/tutorials/database-conn"
+  }
+}

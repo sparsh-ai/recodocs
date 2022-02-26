@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Matrix Factorizations",
-    "permalink": "/docs/tutorials/neural-matrix-factorization"
+    "title": "node2vec",
+    "permalink": "/docs/tutorials/node2vec"
   },
   "next": {
-    "title": "Resale Price Prediction",
-    "permalink": "/docs/tutorials/resale-price-prediction"
+    "title": "prod2vec",
+    "permalink": "/docs/tutorials/prod2vec"
   }
 }

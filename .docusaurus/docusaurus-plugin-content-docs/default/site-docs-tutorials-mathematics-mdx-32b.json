@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/mathematics",
+  "id": "tutorials/mathematics",
+  "title": "Mathematics",
+  "description": "Probability and Statistics",
+  "source": "@site/docs/tutorials/mathematics.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/mathematics",
+  "permalink": "/docs/tutorials/mathematics",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mathematics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "graph",
+    "permalink": "/docs/tutorials/graph"
+  },
+  "next": {
+    "title": "Matrix Factorizations",
+    "permalink": "/docs/tutorials/matrix-factorizations"
+  }
+}

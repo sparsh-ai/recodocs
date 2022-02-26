@@ -914,6 +914,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/mathematics",
+              "path": "/docs/tutorials/mathematics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matrix-factorizations",
+              "path": "/docs/tutorials/matrix-factorizations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mlops",
+              "path": "/docs/tutorials/mlops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multi-touch-attribution",
+              "path": "/docs/tutorials/multi-touch-attribution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/name-address-parsing",
               "path": "/docs/tutorials/name-address-parsing",
               "sidebar": "tutorialSidebar"
@@ -924,13 +944,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/neural-matrix-factorization",
-              "path": "/docs/tutorials/neural-matrix-factorization",
+              "id": "tutorials/node2vec",
+              "path": "/docs/tutorials/node2vec",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorials/pdf-to-wordcloud-mail",
               "path": "/docs/tutorials/pdf-to-wordcloud-mail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/prod2vec",
+              "path": "/docs/tutorials/prod2vec",
               "sidebar": "tutorialSidebar"
             },
             {

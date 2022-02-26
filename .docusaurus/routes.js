@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','c42'),
+    component: ComponentCreator('/docs','478'),
     routes: [
       {
         path: '/docs/concept-basics/',
@@ -1422,6 +1422,30 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/tutorials/mathematics',
+        component: ComponentCreator('/docs/tutorials/mathematics','af7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/matrix-factorizations',
+        component: ComponentCreator('/docs/tutorials/matrix-factorizations','ea1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/mlops',
+        component: ComponentCreator('/docs/tutorials/mlops','b74'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/multi-touch-attribution',
+        component: ComponentCreator('/docs/tutorials/multi-touch-attribution','1d1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/tutorials/name-address-parsing',
         component: ComponentCreator('/docs/tutorials/name-address-parsing','0e2'),
         exact: true,
@@ -1434,14 +1458,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorials/neural-matrix-factorization',
-        component: ComponentCreator('/docs/tutorials/neural-matrix-factorization','c77'),
+        path: '/docs/tutorials/node2vec',
+        component: ComponentCreator('/docs/tutorials/node2vec','390'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
         path: '/docs/tutorials/pdf-to-wordcloud-mail',
         component: ComponentCreator('/docs/tutorials/pdf-to-wordcloud-mail','6a5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorials/prod2vec',
+        component: ComponentCreator('/docs/tutorials/prod2vec','6fa'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

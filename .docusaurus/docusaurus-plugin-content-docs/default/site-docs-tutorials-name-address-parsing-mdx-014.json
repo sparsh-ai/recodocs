@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "graph",
-    "permalink": "/docs/tutorials/graph"
+    "title": "Multi-Touch Attribution",
+    "permalink": "/docs/tutorials/multi-touch-attribution"
   },
   "next": {
     "title": "Negative Implicit Feedback in Recommendations",

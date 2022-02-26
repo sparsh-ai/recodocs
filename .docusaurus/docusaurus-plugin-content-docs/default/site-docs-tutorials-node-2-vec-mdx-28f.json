@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/node2vec",
+  "id": "tutorials/node2vec",
+  "title": "node2vec",
+  "description": "",
+  "source": "@site/docs/tutorials/node2vec.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/node2vec",
+  "permalink": "/docs/tutorials/node2vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/node2vec.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Negative Implicit Feedback in Recommendations",
+    "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
+  },
+  "next": {
+    "title": "PDF to WordCloud via Email",
+    "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
+  }
+}

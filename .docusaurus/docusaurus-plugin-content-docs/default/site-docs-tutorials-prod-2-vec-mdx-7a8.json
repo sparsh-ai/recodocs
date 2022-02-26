@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/prod2vec",
+  "id": "tutorials/prod2vec",
+  "title": "prod2vec",
+  "description": "",
+  "source": "@site/docs/tutorials/prod2vec.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/prod2vec",
+  "permalink": "/docs/tutorials/prod2vec",
+  "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/prod2vec.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PDF to WordCloud via Email",
+    "permalink": "/docs/tutorials/pdf-to-wordcloud-mail"
+  },
+  "next": {
+    "title": "Resale Price Prediction",
+    "permalink": "/docs/tutorials/resale-price-prediction"
+  }
+}

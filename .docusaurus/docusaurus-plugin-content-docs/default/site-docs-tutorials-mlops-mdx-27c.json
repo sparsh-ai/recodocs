@@ -2,7 +2,7 @@
   "unversionedId": "tutorials/mlops",
   "id": "tutorials/mlops",
   "title": "mlops",
-  "description": "Getting your models into production is the fundamental challenge of machine learning. MLOps offers a set of proven principles aimed at solving this problem in a reliable and automated way. The faster you deliver a machine learning system that works, the faster you can focus on the business problems you're trying to crack. The following diagram is a realistic picture of an ML model life cycle inside an average organization today, which involves many different people with completely different skill sets and who are often using entirely different tools.",
+  "description": "",
   "source": "@site/docs/tutorials/mlops.mdx",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/mlops",
@@ -10,29 +10,14 @@
   "editUrl": "https://github.com/recohut/docs/docs/docs/tutorials/mlops.mdx",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "jupyter": {
-      "jupytext": {
-        "text_representation": {
-          "extension": ".md",
-          "format_name": "markdown",
-          "format_version": "1.3",
-          "jupytext_version": "1.13.7"
-        }
-      },
-      "kernelspec": {
-        "display_name": "Python 3",
-        "name": "python3"
-      }
-    }
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mlops-tfx",
-    "permalink": "/docs/tutorials/mlops-tfx"
+    "title": "Matrix Factorizations",
+    "permalink": "/docs/tutorials/matrix-factorizations"
   },
   "next": {
-    "title": "mlp-on-ml-m",
-    "permalink": "/docs/tutorials/mlp-on-ml-m"
+    "title": "Multi-Touch Attribution",
+    "permalink": "/docs/tutorials/multi-touch-attribution"
   }
 }

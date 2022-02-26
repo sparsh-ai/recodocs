@@ -17,7 +17,7 @@
     "permalink": "/docs/tutorials/name-address-parsing"
   },
   "next": {
-    "title": "Matrix Factorizations",
-    "permalink": "/docs/tutorials/neural-matrix-factorization"
+    "title": "node2vec",
+    "permalink": "/docs/tutorials/node2vec"
   }
 }
