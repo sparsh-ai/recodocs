@@ -1042,6 +1042,12 @@
             "label": "MongoDB to CSV conversion",
             "href": "/docs/tutorials/mongodb-csv-conversion",
             "docId": "tutorials/mongodb-csv-conversion"
+          },
+          {
+            "type": "link",
+            "label": "PDF to WordCloud via Email",
+            "href": "/docs/tutorials/pdf-to-wordcloud-mail",
+            "docId": "tutorials/pdf-to-wordcloud-mail"
           }
         ]
       },
@@ -2149,6 +2155,12 @@
       "id": "tutorials/mongodb-csv-conversion",
       "title": "MongoDB to CSV conversion",
       "description": "Pull a noSQL data from MongoDB and convert into Pandas dataframe",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/pdf-to-wordcloud-mail": {
+      "id": "tutorials/pdf-to-wordcloud-mail",
+      "title": "PDF to WordCloud via Email",
+      "description": "Receive a pdf via outlook mail and send back the wordcloud of that pdf in the reply",
       "sidebar": "tutorialSidebar"
     }
   }

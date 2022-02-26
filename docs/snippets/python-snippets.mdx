@@ -45,3 +45,66 @@ for x in nbs:
         except:
             print('error in {}'.format(x))
 ```
+
+## Scraping
+
+### BS4
+
+<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2020-06-20-simple-scraping-nlp-bs4-distilbert.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+
+```python
+import bs4
+import requests
+import lxml.etree as xml
+
+URLs = ["https://www.flexjobs.com/blog/post/job-search-strategies-for-success-v2/",
+        "https://www.monster.com/career-advice/article/five-ps-of-job-search-progress"]
+
+i = 0
+web_page = bs4.BeautifulSoup(requests.get(URLs[i], {}).text, "lxml")
+df.loc[i,'title'] = web_page.head.title.text
+sub_web_page = web_page.find_all(name="article", attrs={"class": "single-post-page"})[0]
+article = '. '.join([wp.text for wp in sub_web_page.find_all({"h2","p"})])
+df.loc[i,'text'] = article
+        
+```
+
+## Vector Search
+
+### Faiss
+
+<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2021-01-23-vector-search.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+
+
+```python
+import faiss
+from vector_engine.utils import vector_search, id2details
+
+# Step 1: Change data type
+embeddings = np.array([embedding for embedding in embeddings]).astype("float32")
+
+# Step 2: Instantiate the index
+index = faiss.IndexFlatL2(embeddings.shape[1])
+
+# Step 3: Pass the index to IndexIDMap
+index = faiss.IndexIDMap(index)
+
+# Step 4: Add vectors and their IDs
+index.add_with_ids(embeddings, df.id.values)
+
+print(f"Number of vectors in the Faiss index: {index.ntotal}")
+
+# Retrieve the 10 nearest neighbours
+D, I = index.search(np.array([embeddings[5415]]), k=10)
+print(f'L2 distance: {D.flatten().tolist()}\n\nMAG paper IDs: {I.flatten().tolist()}')
+
+# Wrap all steps in the vector_search function.
+# It takes four arguments: 
+# A query, the sentence-level transformer, the Faiss index and the number of requested results
+D, I = vector_search([user_query], model, index, num_results=10)
+print(f'L2 distance: {D.flatten().tolist()}\n\nMAG paper IDs: {I.flatten().tolist()}')
+
+# Serialise index and store it as a pickle
+with open(f"{project_dir}/models/faiss_index.pickle", "wb") as h:
+    pickle.dump(faiss.serialize_index(index), h)
+```

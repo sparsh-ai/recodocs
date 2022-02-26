@@ -3,7 +3,7 @@ export default {
   "tagline": "Documentation for Recommendation",
   "url": "https://docs.recohut.com",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logo.svg",
   "organizationName": "recohut",
