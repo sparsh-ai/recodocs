@@ -889,8 +889,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/negative-implicit-feedback-rec",
+              "path": "/docs/tutorials/negative-implicit-feedback-rec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/pdf-to-wordcloud-mail",
               "path": "/docs/tutorials/pdf-to-wordcloud-mail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vector-search",
+              "path": "/docs/tutorials/vector-search",
               "sidebar": "tutorialSidebar"
             }
           ]

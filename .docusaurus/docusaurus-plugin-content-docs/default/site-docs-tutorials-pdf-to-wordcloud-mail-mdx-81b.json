@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "MongoDB to CSV conversion",
-    "permalink": "/docs/tutorials/mongodb-csv-conversion"
+    "title": "Negative Implicit Feedback in Recommendations",
+    "permalink": "/docs/tutorials/negative-implicit-feedback-rec"
   },
   "next": {
-    "title": "Python code",
-    "permalink": "/docs/snippets/python-snippets"
+    "title": "Vector Search",
+    "permalink": "/docs/tutorials/vector-search"
   }
 }
